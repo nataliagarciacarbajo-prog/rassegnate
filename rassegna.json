@@ -1,68 +1,93 @@
 {
-  "data": "2026-10-20",
-  "data_estesa": "Martedì 20 ottobre 2026",
-  "aggiornato_il": "2026-10-20T12:38:00+02:00",
+  "data": "2026-10-21",
+  "data_estesa": "Mercoledì 21 ottobre 2026",
+  "aggiornato_il": "2026-10-21T06:52:02+02:00",
   "titolo": "Rassegna Big Tech & Finanza",
   "notizie": [
     {
       "posizione": 1,
-      "titolo": "La settimana della verità per i conti delle big tech",
-      "riassunto": "Dopo la peggiore settimana del Nasdaq da giugno, arrivano le trimestrali: Netflix stasera, Tesla e Meta mercoledì. Per Netflix si attende la crescita più lenta in tre anni. Da inizio anno Apple guadagna circa il 26%, Tesla perde il 21%.",
-      "il_senso": "Sapremo se i miliardi spesi nell'intelligenza artificiale cominciano a ripagare. Se la risposta delude, a scendere sono anche i fondi pensione e i risparmi di milioni di persone.",
+      "titolo": "Meta e Tesla, stasera l'esame sui miliardi spesi nell'intelligenza artificiale",
+      "riassunto": "Meta e Tesla pubblicano oggi i conti del terzo trimestre, dopo la chiusura di Wall Street (in Italia sarà notte). Meta prevede di spendere quest'anno tra 130 e 145 miliardi di dollari in infrastrutture per l'AI, e nel trimestre precedente i costi sono cresciuti quasi il doppio dei ricavi. Tesla ha consegnato circa 487.000 auto, il 2% in meno di un anno fa, e punta su robotaxi e robot umanoidi.",
+      "il_senso": "È il momento in cui i mercati chiedono il conto: se le promesse dell'AI non si traducono in profitti, la fiducia che regge le Borse di mezzo mondo può incrinarsi.",
       "fonti": [
-        { "nome": "StockTitan", "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-october-19-2026" },
-        { "nome": "Money Morning", "url": "https://moneymorning.com/2026/10/19/monday-market-pulse-october-19-2026" },
-        { "nome": "Opening Bell Daily", "url": "https://www.openingbelldailynews.com/p/magnificent-7-stocks-returns-oct-18-2026" }
+        {
+          "nome": "Saxo",
+          "url": "https://www.home.saxo/en-hk/content/articles/equities/meta-tesla-preview-20102026"
+        }
       ]
     },
     {
       "posizione": 2,
-      "titolo": "Gli Stati Uniti bandiscono l'AI cinese DeepSeek dagli uffici federali",
-      "riassunto": "Il Dipartimento per la Sicurezza Interna ha ordinato a tutte le agenzie civili federali di rimuovere i prodotti DeepSeek e di non acquistarne più.",
-      "il_senso": "La tecnologia è ormai una questione di sicurezza nazionale. Il mondo si sta dividendo in due blocchi digitali, americano e cinese, e l'Europa dovrà scegliere da che parte stare.",
+      "titolo": "Netflix cresce ma delude: meno pubblicità del previsto e mille licenziamenti",
+      "riassunto": "Netflix ha chiuso il trimestre con ricavi in crescita del 12%, a 12,87 miliardi di dollari, e utili in aumento del 44%. Ma ha abbassato le previsioni sulla pubblicità per il 2026, da circa 3 a 2,7 miliardi, perché alcuni prodotti pubblicitari arrivano in ritardo. La settimana scorsa aveva annunciato circa mille licenziamenti, il taglio più grande dal 2022. Il titolo è sceso di oltre il 5%.",
+      "il_senso": "Anche il re dello streaming fatica a trovare nuova crescita: la pubblicità è la sua scommessa per il futuro, e per ora va più lenta del previsto.",
       "fonti": [
-        { "nome": "Tech Startups", "url": "https://techstartups.com/2026/10/19/top-tech-news-today-october-19-2026-anthropic-deepseek-idealab-meta-microsoft-more" }
+        {
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/news/NFLX/netflix-q3-2026-earnings-revenue-12-billion-35pct-margin.html"
+        },
+        {
+          "nome": "Entrepreneur",
+          "url": "https://www.entrepreneur.com/business-news/netflix-is-cutting-1000-jobs-in-its-biggest-layoffs-since-2022"
+        }
       ]
     },
     {
       "posizione": 3,
-      "titolo": "ASML: ordini fino al 2030, ma in Europa zero vendite",
-      "riassunto": "L'olandese ASML, unica al mondo a costruire le macchine per i chip più avanzati, ha incassato 11,7 miliardi di euro nel trimestre e ha clienti che prenotano già per il 2029-2030. Ma nel 2026 non ha venduto \"assolutamente nulla\" in Europa.",
-      "il_senso": "L'Europa possiede un gioiello strategico ma non ha fabbriche che lo usino. Nella corsa ai chip per l'AI resta spettatrice.",
+      "titolo": "La Cina risponde agli USA: stretta sull'export di AI, chip e solare",
+      "riassunto": "Pechino ha proposto restrizioni o divieti all'esportazione di 40 tecnologie: 23 legate all'intelligenza artificiale (dai grandi modelli agli agenti AI), tecnologie di progettazione dei chip, 12 per il fotovoltaico e 5 biomediche. Potrebbero essere limitati i modelli più potenti, oltre i 2.000 miliardi di parametri. Il governo cita la sicurezza nazionale. Per ora è una bozza.",
+      "il_senso": "La guerra tecnologica non è più a senso unico: anche la Cina usa le sue tecnologie come arma, e il mondo rischia di dividersi in due ecosistemi digitali separati.",
       "fonti": [
-        { "nome": "Benzinga", "url": "https://www.benzinga.com/trading-ideas/long-ideas/26/10/62361863/asml-high-na-euv-timeline" },
-        { "nome": "Tom's Hardware", "url": "https://www.tomshardware.com/tech-industry/semiconductors/asml-says-its-sells-absolutely-nothing-in-europe-calls-on-eu-to-help-create-demand" }
+        {
+          "nome": "PBS NewsHour (AP)",
+          "url": "https://www.pbs.org/newshour/world/china-says-it-will-curb-tech-exports-including-ai-citing-national-security-risks"
+        },
+        {
+          "nome": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-16/china-proposes-export-controls-on-ai-models-chips-and-agents"
+        }
       ]
     },
     {
       "posizione": 4,
-      "titolo": "Apple e Meta, il disgelo passa dall'AI",
-      "riassunto": "Meta ha rilasciato il modello aperto Muse Spark Open, ottimizzato per i nuovi Mac Studio. Zuckerberg ha ringraziato pubblicamente il CEO di Apple John Ternus. È la prima collaborazione pubblica dal 2017 circa, senza accordi economici dichiarati.",
-      "il_senso": "Due rivali storici si avvicinano per non lasciare il campo a Google e OpenAI. L'AI sta ridisegnando le alleanze tra i giganti.",
+      "titolo": "Wall Street divisa: il Dow vola, la tecnologia si ferma",
+      "riassunto": "Martedì il Dow Jones è salito di oltre 500 punti, mentre il Nasdaq ha chiuso in leggero calo e i titoli dei chip hanno perso terreno. Il petrolio è sceso del 2,5%, a circa 101 dollari, sulle notizie di una possibile mediazione tra Stati Uniti e Iran. I rendimenti dei titoli di Stato USA a 10 anni restano sopra il 5,1%.",
+      "il_senso": "Petrolio caro e tassi alti pesano soprattutto sulle aziende tech, che vivono di aspettative future: la geopolitica del Medio Oriente arriva fino ai listini della Silicon Valley.",
       "fonti": [
-        { "nome": "24/7 Wall St.", "url": "https://247wallst.com/investing/2026/10/16/apple-and-meta-just-teamed-up-on-ai-and-zuckerberg-thanked-apples-ceo-by-name/" }
+        {
+          "nome": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-oct-20-2026-103252254.html"
+        }
       ]
     },
     {
       "posizione": 5,
-      "titolo": "I chip trascinano il rimbalzo di Wall Street",
-      "riassunto": "Lunedì il Nasdaq ha recuperato oltre l'1% grazie ai semiconduttori. Amazon +5% circa, Tesla +4%, Meta e Apple in lieve calo.",
-      "il_senso": "I mercati restano appesi all'AI: basta un segnale positivo sui chip per far ripartire tutta la Borsa, e uno negativo per affossarla.",
+      "titolo": "Nvidia non vende più solo chip: lancia i suoi modelli di AI aperti",
+      "riassunto": "Nvidia ha presentato nuovi modelli di intelligenza artificiale liberamente scaricabili, pensati per gli agenti AI nelle aziende e per funzionare direttamente sui PC. Il modello principale, Nemotron 3.5 Super VL, promette prestazioni simili a quelle di modelli molto più grandi.",
+      "il_senso": "Il primo fornitore mondiale di chip per l'AI entra anche nel software, e sfida su un nuovo terreno i suoi stessi clienti, come OpenAI e Google.",
       "fonti": [
-        { "nome": "BigGo Finance", "url": "https://finance.biggo.com/news/b7f57404-c240-4a20-8847-a5ee9ce46e60" },
-        { "nome": "TradingView/Barchart", "url": "https://www.tradingview.com/news/barchart:59e3c465e094b:0-strength-in-chipmakers-and-ai-infrastructure-stocks-lead-the-broader-market-higher/" }
-      ]
-    },
-    {
-      "posizione": 6,
-      "titolo": "Anthropic verso una possibile quotazione in Borsa",
-      "riassunto": "La società di Claude ha promesso il 5% del capitale a un nuovo fondo di pubblica utilità, in vista di una possibile IPO.",
-      "il_senso": "Le aziende dell'AI cercano di dimostrare che possono crescere senza perdere di vista l'interesse pubblico, mentre gli investitori si preparano a una delle quotazioni più attese.",
-      "fonti": [
-        { "nome": "Tech Startups", "url": "https://techstartups.com/2026/10/19/top-tech-news-today-october-19-2026-anthropic-deepseek-idealab-meta-microsoft-more" }
+        {
+          "nome": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs"
+        }
       ]
     }
   ],
-  "approfondimenti": [],
-  "da_tenere_d_occhio": "Stasera i conti di Netflix, mercoledì Tesla e Meta. Musk ha annunciato un'azione SpaceX in regalo a ogni bambino americano (oltre 10,5 miliardi di dollari) e Tesla ha presentato la nuova Roadster, alimentando le voci di fusione con SpaceX."
+  "approfondimenti": [
+    {
+      "titolo": "Canaries in the Coal Mine? (aggiornamento di agosto 2026)",
+      "testata": "Stanford Digital Economy Lab",
+      "url": "https://digitaleconomy.stanford.edu/news/canariesaug26/",
+      "perche_e_importante": "Erik Brynjolfsson e colleghi analizzano i dati sulle buste paga di milioni di lavoratori americani. Non trovano una distruzione di posti di lavoro su larga scala. Però i giovani tra 22 e 25 anni nei mestieri più esposti all'AI lavorano il 19% in meno del previsto, e il divario cresce. Il motivo principale è che le aziende assumono meno junior.",
+      "la_mia_lettura": "Secondo me il rischio dell'AI non è il licenziamento di massa, ma la scomparsa del primo gradino della carriera. Se nessuno assume i giovani per imparare, tra dieci anni mancheranno i professionisti esperti. È un tema sociale prima ancora che economico."
+    },
+    {
+      "titolo": "We did the math on AI's energy footprint. Here's the story you haven't heard.",
+      "testata": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/",
+      "perche_e_importante": "È l'inchiesta più completa su quanta energia consuma davvero l'intelligenza artificiale. Una singola domanda a un chatbot consuma poco, ma un video generato dall'AI richiede centinaia di volte di più. Nel complesso i data center stanno già cambiando le reti elettriche americane, e le aziende tengono nascosti i dati chiave.",
+      "la_mia_lettura": "Credo che l'energia sia il vero limite fisico della corsa all'AI. Spiega perché le big tech comprano centrali e firmano accordi con il nucleare, e perché prima o poi parte del costo potrebbe finire nelle bollette di tutti."
+    }
+  ],
+  "da_tenere_d_occhio": "Stasera, dopo la chiusura di Wall Street, i conti di Meta e Tesla: in Italia arriveranno nella notte. Da seguire anche gli sviluppi della bozza cinese sull'export tecnologico e la possibile mediazione USA-Iran, che muove il prezzo del petrolio."
 }

@@ -1,0 +1,93 @@
+{
+  "data": "2026-10-21",
+  "data_estesa": "Mercoledì 21 ottobre 2026",
+  "aggiornato_il": "2026-10-21T06:52:02+02:00",
+  "titolo": "Rassegna Big Tech & Finanza",
+  "notizie": [
+    {
+      "posizione": 1,
+      "titolo": "Meta e Tesla, stasera l'esame sui miliardi spesi nell'intelligenza artificiale",
+      "riassunto": "Meta e Tesla pubblicano oggi i conti del terzo trimestre, dopo la chiusura di Wall Street (in Italia sarà notte). Meta prevede di spendere quest'anno tra 130 e 145 miliardi di dollari in infrastrutture per l'AI, e nel trimestre precedente i costi sono cresciuti quasi il doppio dei ricavi. Tesla ha consegnato circa 487.000 auto, il 2% in meno di un anno fa, e punta su robotaxi e robot umanoidi.",
+      "il_senso": "È il momento in cui i mercati chiedono il conto: se le promesse dell'AI non si traducono in profitti, la fiducia che regge le Borse di mezzo mondo può incrinarsi.",
+      "fonti": [
+        {
+          "nome": "Saxo",
+          "url": "https://www.home.saxo/en-hk/content/articles/equities/meta-tesla-preview-20102026"
+        }
+      ]
+    },
+    {
+      "posizione": 2,
+      "titolo": "Netflix cresce ma delude: meno pubblicità del previsto e mille licenziamenti",
+      "riassunto": "Netflix ha chiuso il trimestre con ricavi in crescita del 12%, a 12,87 miliardi di dollari, e utili in aumento del 44%. Ma ha abbassato le previsioni sulla pubblicità per il 2026, da circa 3 a 2,7 miliardi, perché alcuni prodotti pubblicitari arrivano in ritardo. La settimana scorsa aveva annunciato circa mille licenziamenti, il taglio più grande dal 2022. Il titolo è sceso di oltre il 5%.",
+      "il_senso": "Anche il re dello streaming fatica a trovare nuova crescita: la pubblicità è la sua scommessa per il futuro, e per ora va più lenta del previsto.",
+      "fonti": [
+        {
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/news/NFLX/netflix-q3-2026-earnings-revenue-12-billion-35pct-margin.html"
+        },
+        {
+          "nome": "Entrepreneur",
+          "url": "https://www.entrepreneur.com/business-news/netflix-is-cutting-1000-jobs-in-its-biggest-layoffs-since-2022"
+        }
+      ]
+    },
+    {
+      "posizione": 3,
+      "titolo": "La Cina risponde agli USA: stretta sull'export di AI, chip e solare",
+      "riassunto": "Pechino ha proposto restrizioni o divieti all'esportazione di 40 tecnologie: 23 legate all'intelligenza artificiale (dai grandi modelli agli agenti AI), tecnologie di progettazione dei chip, 12 per il fotovoltaico e 5 biomediche. Potrebbero essere limitati i modelli più potenti, oltre i 2.000 miliardi di parametri. Il governo cita la sicurezza nazionale. Per ora è una bozza.",
+      "il_senso": "La guerra tecnologica non è più a senso unico: anche la Cina usa le sue tecnologie come arma, e il mondo rischia di dividersi in due ecosistemi digitali separati.",
+      "fonti": [
+        {
+          "nome": "PBS NewsHour (AP)",
+          "url": "https://www.pbs.org/newshour/world/china-says-it-will-curb-tech-exports-including-ai-citing-national-security-risks"
+        },
+        {
+          "nome": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-16/china-proposes-export-controls-on-ai-models-chips-and-agents"
+        }
+      ]
+    },
+    {
+      "posizione": 4,
+      "titolo": "Wall Street divisa: il Dow vola, la tecnologia si ferma",
+      "riassunto": "Martedì il Dow Jones è salito di oltre 500 punti, mentre il Nasdaq ha chiuso in leggero calo e i titoli dei chip hanno perso terreno. Il petrolio è sceso del 2,5%, a circa 101 dollari, sulle notizie di una possibile mediazione tra Stati Uniti e Iran. I rendimenti dei titoli di Stato USA a 10 anni restano sopra il 5,1%.",
+      "il_senso": "Petrolio caro e tassi alti pesano soprattutto sulle aziende tech, che vivono di aspettative future: la geopolitica del Medio Oriente arriva fino ai listini della Silicon Valley.",
+      "fonti": [
+        {
+          "nome": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/markets-news-oct-20-2026-103252254.html"
+        }
+      ]
+    },
+    {
+      "posizione": 5,
+      "titolo": "Nvidia non vende più solo chip: lancia i suoi modelli di AI aperti",
+      "riassunto": "Nvidia ha presentato nuovi modelli di intelligenza artificiale liberamente scaricabili, pensati per gli agenti AI nelle aziende e per funzionare direttamente sui PC. Il modello principale, Nemotron 3.5 Super VL, promette prestazioni simili a quelle di modelli molto più grandi.",
+      "il_senso": "Il primo fornitore mondiale di chip per l'AI entra anche nel software, e sfida su un nuovo terreno i suoi stessi clienti, come OpenAI e Google.",
+      "fonti": [
+        {
+          "nome": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs"
+        }
+      ]
+    }
+  ],
+  "approfondimenti": [
+    {
+      "titolo": "Canaries in the Coal Mine? (aggiornamento di agosto 2026)",
+      "testata": "Stanford Digital Economy Lab",
+      "url": "https://digitaleconomy.stanford.edu/news/canariesaug26/",
+      "perche_e_importante": "Erik Brynjolfsson e colleghi analizzano i dati sulle buste paga di milioni di lavoratori americani. Non trovano una distruzione di posti di lavoro su larga scala. Però i giovani tra 22 e 25 anni nei mestieri più esposti all'AI lavorano il 19% in meno del previsto, e il divario cresce. Il motivo principale è che le aziende assumono meno junior.",
+      "la_mia_lettura": "Secondo me il rischio dell'AI non è il licenziamento di massa, ma la scomparsa del primo gradino della carriera. Se nessuno assume i giovani per imparare, tra dieci anni mancheranno i professionisti esperti. È un tema sociale prima ancora che economico."
+    },
+    {
+      "titolo": "We did the math on AI's energy footprint. Here's the story you haven't heard.",
+      "testata": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2025/05/20/1116327/ai-energy-usage-climate-footprint-big-tech/",
+      "perche_e_importante": "È l'inchiesta più completa su quanta energia consuma davvero l'intelligenza artificiale. Una singola domanda a un chatbot consuma poco, ma un video generato dall'AI richiede centinaia di volte di più. Nel complesso i data center stanno già cambiando le reti elettriche americane, e le aziende tengono nascosti i dati chiave.",
+      "la_mia_lettura": "Credo che l'energia sia il vero limite fisico della corsa all'AI. Spiega perché le big tech comprano centrali e firmano accordi con il nucleare, e perché prima o poi parte del costo potrebbe finire nelle bollette di tutti."
+    }
+  ],
+  "da_tenere_d_occhio": "Stasera, dopo la chiusura di Wall Street, i conti di Meta e Tesla: in Italia arriveranno nella notte. Da seguire anche gli sviluppi della bozza cinese sull'export tecnologico e la possibile mediazione USA-Iran, che muove il prezzo del petrolio."
+}
