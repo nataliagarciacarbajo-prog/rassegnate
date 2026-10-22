@@ -1,0 +1,93 @@
+{
+  "data": "2026-10-22",
+  "data_estesa": "Giovedì 22 ottobre 2026",
+  "aggiornato_il": "2026-10-22T06:52:02+02:00",
+  "titolo": "Rassegna Big Tech & Finanza",
+  "notizie": [
+    {
+      "posizione": 1,
+      "titolo": "Meta convince Wall Street, ma paga cara la causa sui minori",
+      "riassunto": "Meta ha chiuso il trimestre con ricavi in crescita del 26%, a 64,6 miliardi di dollari, sopra le attese, grazie alla pubblicità potenziata dall'AI. Nei conti pesa un costo di 9,9 miliardi legato all'accordo con 52 procuratori generali americani sulla salute mentale dei giovani, che in totale può arrivare a 18,6 miliardi. Gli investimenti in AI nel 2026 saliranno fino a 145 miliardi. Meta crea anche nuove azioni senza diritto di voto. Il titolo è salito fino al 4% dopo la chiusura.",
+      "il_senso": "La macchina pubblicitaria di Meta regge e finanzia la corsa all'AI. Ma il conto per i danni ai ragazzi è uno dei più alti mai pagati da un'azienda tech, e le nuove azioni senza voto blindano il controllo di Zuckerberg.",
+      "fonti": [
+        {
+          "nome": "StockTitan (comunicato Meta)",
+          "url": "https://www.stocktitan.net/news/META/meta-reports-third-quarter-2026-13ysmyjaxliq.html"
+        },
+        {
+          "nome": "TradingKey",
+          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262230293-meta-platforms-earnings-report-q3-2026-advertising-muse-wonder-capex-tradingkey"
+        }
+      ]
+    },
+    {
+      "posizione": 2,
+      "titolo": "Tesla vende come un anno fa, ma guadagna molto meno: tutto su robot e robotaxi",
+      "riassunto": "Ricavi fermi a 28 miliardi di dollari e utile netto in calo del 43%. La spesa in ricerca è salita del 69% e gli investimenti sono più che raddoppiati, per l'AI, il robot Optimus e il Cybercab. Musk dice che la flotta di robotaxi ad Austin è cresciuta di dieci volte in un mese e che è iniziata la produzione di Optimus. Non ha voluto parlare della possibile fusione con SpaceX. Il titolo è sceso del 2% dopo i conti.",
+      "il_senso": "Tesla sta smettendo di essere solo una casa automobilistica: gli investitori pagano una scommessa su robot e guida autonoma, non sulle auto che vende oggi.",
+      "fonti": [
+        {
+          "nome": "Electrek",
+          "url": "https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/"
+        },
+        {
+          "nome": "Investing.com",
+          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-tesla-beats-q3-2026-estimates-as-stock-slips-after-hours-93CH-4964365"
+        }
+      ]
+    },
+    {
+      "posizione": 3,
+      "titolo": "Citi: le big tech spenderanno in AI più di quanto vale Apple",
+      "riassunto": "Secondo la banca Citi, Amazon, Microsoft, Alphabet e Meta spenderanno insieme 5.350 miliardi di dollari in infrastrutture tra il 2027 e il 2030. È più dell'intero valore di Borsa di Apple, circa 4.950 miliardi. Le loro divisioni cloud crescono dal 37% all'82% l'anno, e la domanda supera ancora l'offerta.",
+      "il_senso": "È il più grande investimento privato della storia moderna: se l'AI mantiene le promesse cambierà l'economia, se delude il conto ricadrà sui mercati e sui risparmi di tutti.",
+      "fonti": [
+        {
+          "nome": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/2026/10/21/citi-sees-amazon-microsoft-google-and-meta-spending-more-than-apple-is-worth-on-ai-by-2030"
+        }
+      ]
+    },
+    {
+      "posizione": 4,
+      "titolo": "Samsung e SK Hynix potenziano le fabbriche di chip in Cina",
+      "riassunto": "Secondo Reuters, i due colossi sudcoreani stanno aggiornando i loro stabilimenti cinesi per produrre memorie più avanzate per i data center dell'AI. Vogliono difendersi dai concorrenti cinesi CXMT e YMTC, che crescono in fretta. Per installare macchinari americani servono licenze di Washington, che finora hanno rallentato i lavori.",
+      "il_senso": "Anche gli alleati degli Stati Uniti non vogliono rinunciare alla Cina: la guerra dei chip non è fatta solo di divieti, ma di compromessi tra sicurezza e affari.",
+      "fonti": [
+        {
+          "nome": "Tom's Hardware (Reuters)",
+          "url": "https://tomshardware.com/pc-components/dram/samsung-and-sk-hynix-are-upgrading-chinese-factories-to-produce-advanced-ram-chips-as-ai-data-center-competition-ramps-up-big-players-move-to-fight-off-the-threat-from-cxmt-and-co"
+        }
+      ]
+    },
+    {
+      "posizione": 5,
+      "titolo": "L'AI scova falle critiche nel software di mezzo web: OpenAI guida la risposta",
+      "riassunto": "OpenAI ha coordinato con Cloudflare e altri partner la correzione di gravi vulnerabilità in PHP, il linguaggio su cui gira una grande parte dei siti internet. Una delle falle è stata trovata con un modello di AI. OpenAI mette a disposizione 1 miliardo di dollari in accessi agevolati ai suoi strumenti per chi difende sistemi con poche risorse, e prevede che scoperte simili aumenteranno molto.",
+      "il_senso": "L'AI diventa un'arma a doppio taglio per la sicurezza: trova i buchi più in fretta degli umani, e chi la usa per primo, se difende o attacca, fa la differenza.",
+      "fonti": [
+        {
+          "nome": "OpenAI",
+          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/"
+        }
+      ]
+    }
+  ],
+  "approfondimenti": [
+    {
+      "titolo": "The 26 Most Important Ideas For 2026",
+      "testata": "Derek Thompson (ex The Atlantic)",
+      "url": "https://www.derekthompson.org/p/the-26-most-important-ideas-for-2026",
+      "perche_e_importante": "Uno dei giornalisti economici più letti d'America mette in fila le tendenze che definiscono quest'anno. Tra queste: l'economia americana come una gigantesca scommessa sull'AI, la nascita di un populismo anti-AI per le bollette elettriche più care, YouTube che diventa la nuova televisione, i giovani sempre più staccati dal mondo del lavoro. È una mappa utile per collegare la tecnologia alla società.",
+      "la_mia_lettura": "Il pregio del pezzo è mostrare che la tecnologia non è più un settore ma il contesto di tutto: politica, consumi, lavoro. Credo che il populismo anti-AI sia la tendenza da seguire di più nei prossimi mesi, perché trasforma un tema tecnico in una questione elettorale."
+    },
+    {
+      "titolo": "The continued state of global AI diffusion in 2026",
+      "testata": "Microsoft On the Issues",
+      "url": "https://blogs.microsoft.com/on-the-issues/2026/09/21/the-continued-state-of-global-ai-diffusion-in-2026/",
+      "perche_e_importante": "Il rapporto misura quante persone usano davvero l'AI nel mondo: il 18,8% della popolazione in età da lavoro. Il divario è netto: 28,8% nei paesi ricchi contro 16,2% nel Sud globale, e la distanza cresce. Emirati Arabi e Singapore sono in testa. I modelli aperti, spesso cinesi, potrebbero aiutare i paesi più poveri a recuperare.",
+      "la_mia_lettura": "Va letto sapendo che lo firma Microsoft, parte in causa. Ma i numeri dicono una cosa chiara: l'AI rischia di allargare le disuguaglianze tra paesi, come fece internet all'inizio. E dove gli americani non arrivano, arrivano i modelli gratuiti cinesi, con un peso geopolitico enorme."
+    }
+  ],
+  "da_tenere_d_occhio": "Nei prossimi giorni e settimane arrivano i conti delle altre big tech, a partire da Microsoft, Alphabet, Amazon e Apple: il tema resta lo stesso, cioè se gli enormi investimenti in AI cominciano a rendere. Da seguire anche la reazione dei mercati asiatici alla bozza cinese sui controlli all'export tecnologico."
+}
