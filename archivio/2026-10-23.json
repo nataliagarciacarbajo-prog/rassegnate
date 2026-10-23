@@ -1,0 +1,93 @@
+{
+  "data": "2026-10-23",
+  "data_estesa": "Venerdì 23 ottobre 2026",
+  "aggiornato_il": "2026-10-23T06:51:52+02:00",
+  "titolo": "Rassegna Big Tech & Finanza",
+  "notizie": [
+    {
+      "posizione": 1,
+      "titolo": "Tornano i dubbi sull'AI: il Nasdaq ha la sua giornata peggiore da giugno",
+      "riassunto": "Giovedì il Nasdaq ha perso il 2,6% e l'indice dei semiconduttori il 6,7%. Meta è crollata del 7% nonostante conti sopra le attese: per la prima volta in oltre dieci anni ha bruciato più cassa di quanta ne abbia generata, a causa degli investimenti in AI, e vuole emettere nuove azioni senza voto per finanziarli. Intel, AMD e Marvell hanno perso più dell'8%, Tesla il 3%.",
+      "il_senso": "Il mercato comincia a chiedersi se la corsa all'AI stia costando troppo. Come ha detto un analista, gli investitori vedono \"qualche buco nella storia dell'AI\": quando la fiducia vacilla, a pagare sono i risparmi investiti in Borsa.",
+      "fonti": [
+        {
+          "nome": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html"
+        }
+      ]
+    },
+    {
+      "posizione": 2,
+      "titolo": "Meta condannata a pagare 25 miliardi al New Mexico per la privacy",
+      "riassunto": "Un giudice del New Mexico ha ordinato a Meta di pagare 25 miliardi di dollari per aver ingannato gli utenti su privacy, uso dei dati e moderazione dei contenuti. Una giuria aveva contato 43 milioni di violazioni della legge statale. Lo Stato chiedeva fino a 40 miliardi, Meta proponeva al massimo 3,45. L'azienda farà ricorso e parla di \"una tassa sulla libertà di parola\".",
+      "il_senso": "Dopo anni di multe considerate \"spiccioli\" per le big tech, arrivano cifre che pesano davvero: i tribunali statali americani diventano il nuovo fronte della regolazione dei social.",
+      "fonti": [
+        {
+          "nome": "Engadget",
+          "url": "https://www.engadget.com/2293597/new-mexico-court-order-meta-pay-25-billion-privacy-case/"
+        },
+        {
+          "nome": "ABC News",
+          "url": "https://abcnews.com/Business/meta-ordered-pay-new-mexico-25-billion-violating/story?id=137454455"
+        }
+      ]
+    },
+    {
+      "posizione": 3,
+      "titolo": "Micron, primo sciopero nella storia dei chip a Taiwan: in gioco i profitti dell'AI",
+      "riassunto": "Il sindacato dello stabilimento Micron di Taoyuan ha avviato giovedì uno sciopero di 24 ore, il primo nel settore dei semiconduttori a Taiwan. I lavoratori chiedono una divisione più equa dei profitti record generati dalle memorie per l'AI. La fabbrica produce memorie HBM, componenti chiave dei server per l'intelligenza artificiale.",
+      "il_senso": "Il boom dell'AI crea enormi profitti, e ora chi costruisce fisicamente i chip ne reclama una parte. È un segnale che la ricchezza dell'AI può diventare anche una questione sociale e sindacale.",
+      "fonti": [
+        {
+          "nome": "The Star (Reuters)",
+          "url": "https://www.thestar.com.my/tech/tech-news/2026/10/20/micron-union-in-taiwan-to-launch-strike-as-bonus-dispute-escalates"
+        },
+        {
+          "nome": "AI Weekly (Nikkei Asia)",
+          "url": "https://aiweekly.co/alerts/micron-taoyuan-union-begins-taiwans-first-semiconductor-strike"
+        }
+      ]
+    },
+    {
+      "posizione": 4,
+      "titolo": "Nvidia blinda la sua filiera con anticipi miliardari ai fornitori",
+      "riassunto": "Nvidia ha stretto accordi con sei fornitori asiatici, tra cui Ibiden, Samsung Electro-Mechanics, Unimicron e Amkor, pagando in anticipo per riservarsi capacità produttiva. L'obiettivo è moltiplicare per 2,5 in tre anni la capacità di alcuni componenti essenziali dei suoi chip. Al solo KYEC avrebbe anticipato 1,1 miliardi per un impianto di test negli Stati Uniti.",
+      "il_senso": "Nella corsa all'AI conta chi si assicura per primo le fabbriche: Nvidia usa la sua enorme liquidità per lasciare indietro i rivali, anche quando i mercati dubitano.",
+      "fonti": [
+        {
+          "nome": "AI Weekly",
+          "url": "https://aiweekly.co/alerts/nvidia-lines-up-six-partners-for-25x-substrate-15x-optics-build"
+        }
+      ]
+    },
+    {
+      "posizione": 5,
+      "titolo": "Microsoft: hacker legati alla Cina usano l'AI per attacchi lampo",
+      "riassunto": "Microsoft attribuisce al gruppo Storm-0940, vicino alla Cina, un attacco alla filiera del software ConnectWise. Gli aggressori avrebbero usato uno strumento di AI per automatizzare la ricognizione e ottenere accessi privilegiati al cloud in meno di tre ore, colpendo centinaia di bersagli da settembre.",
+      "il_senso": "L'AI accelera anche i criminali informatici: ciò che prima richiedeva settimane ora richiede ore, e aziende e governi devono difendersi alla stessa velocità.",
+      "fonti": [
+        {
+          "nome": "AI Weekly",
+          "url": "https://aiweekly.co/alerts/microsoft-ties-storm-0940-to-artex-driven-connectwise-hack"
+        }
+      ]
+    }
+  ],
+  "approfondimenti": [
+    {
+      "titolo": "AI Capex Boom Now Exceeds All Prior Non-War Booms",
+      "testata": "Paul Kedrosky",
+      "url": "https://paulkedrosky.com/ai-capex-boom-now-exceeds-all-prior-non-war-booms/",
+      "perche_e_importante": "L'investitore e analista Paul Kedrosky, partendo da uno studio della Banca dei Regolamenti Internazionali, mostra che la spesa per l'AI ha già superato tutte le grandi ondate di investimento della storia in tempo di pace: canali, ferrovie, anni Venti, bolla delle dot-com. E ci è arrivata in metà del tempo. Il modello suggerisce che si stia investendo da 1,5 a 3 volte più del necessario.",
+      "la_mia_lettura": "Credo che sia la lettura giusta per capire il crollo di ieri a Wall Street. Le ferrovie dell'Ottocento cambiarono il mondo ma rovinarono molti investitori: l'AI potrebbe seguire lo stesso schema, utile per la società e dolorosa per chi ha comprato al prezzo sbagliato."
+    },
+    {
+      "titolo": "Why the AI shopping agent wars will heat up in 2026",
+      "testata": "Modern Retail",
+      "url": "https://www.modernretail.co/technology/why-the-ai-shopping-agent-wars-will-heat-up-in-2026/",
+      "perche_e_importante": "L'articolo spiega la nuova battaglia tra big tech, grandi catene e startup per controllare gli \"agenti\" di AI che fanno acquisti al posto nostro. Chi controlla l'agente decide quali prodotti vediamo e compriamo. Molto dipenderà da quanto i consumatori si fideranno e da quanto i negozi sapranno rendere leggibili i loro cataloghi alle macchine.",
+      "la_mia_lettura": "Secondo me è uno dei cambiamenti più sottovalutati: dopo la ricerca su Google e i social, il prossimo \"guardiano\" tra noi e il mercato potrebbe essere un'AI. Questo sposta il potere sulla pubblicità, sui prezzi e sulla concorrenza, e Walmart e Amazon stanno già prendendo strade opposte."
+    }
+  ],
+  "da_tenere_d_occhio": "Nelle prossime settimane arrivano i conti di Microsoft, Alphabet, Amazon e Apple: dopo il crollo di giovedì, saranno decisivi per capire se la fiducia nell'AI tiene. Da seguire anche il ricorso di Meta sulla condanna in New Mexico e gli sviluppi dello sciopero Micron a Taiwan."
+}

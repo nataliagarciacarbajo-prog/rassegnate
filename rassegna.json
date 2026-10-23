@@ -1,93 +1,93 @@
 {
-  "data": "2026-10-22",
-  "data_estesa": "Giovedì 22 ottobre 2026",
-  "aggiornato_il": "2026-10-22T06:52:02+02:00",
+  "data": "2026-10-23",
+  "data_estesa": "Venerdì 23 ottobre 2026",
+  "aggiornato_il": "2026-10-23T06:51:52+02:00",
   "titolo": "Rassegna Big Tech & Finanza",
   "notizie": [
     {
       "posizione": 1,
-      "titolo": "Meta convince Wall Street, ma paga cara la causa sui minori",
-      "riassunto": "Meta ha chiuso il trimestre con ricavi in crescita del 26%, a 64,6 miliardi di dollari, sopra le attese, grazie alla pubblicità potenziata dall'AI. Nei conti pesa un costo di 9,9 miliardi legato all'accordo con 52 procuratori generali americani sulla salute mentale dei giovani, che in totale può arrivare a 18,6 miliardi. Gli investimenti in AI nel 2026 saliranno fino a 145 miliardi. Meta crea anche nuove azioni senza diritto di voto. Il titolo è salito fino al 4% dopo la chiusura.",
-      "il_senso": "La macchina pubblicitaria di Meta regge e finanzia la corsa all'AI. Ma il conto per i danni ai ragazzi è uno dei più alti mai pagati da un'azienda tech, e le nuove azioni senza voto blindano il controllo di Zuckerberg.",
+      "titolo": "Tornano i dubbi sull'AI: il Nasdaq ha la sua giornata peggiore da giugno",
+      "riassunto": "Giovedì il Nasdaq ha perso il 2,6% e l'indice dei semiconduttori il 6,7%. Meta è crollata del 7% nonostante conti sopra le attese: per la prima volta in oltre dieci anni ha bruciato più cassa di quanta ne abbia generata, a causa degli investimenti in AI, e vuole emettere nuove azioni senza voto per finanziarli. Intel, AMD e Marvell hanno perso più dell'8%, Tesla il 3%.",
+      "il_senso": "Il mercato comincia a chiedersi se la corsa all'AI stia costando troppo. Come ha detto un analista, gli investitori vedono \"qualche buco nella storia dell'AI\": quando la fiducia vacilla, a pagare sono i risparmi investiti in Borsa.",
       "fonti": [
         {
-          "nome": "StockTitan (comunicato Meta)",
-          "url": "https://www.stocktitan.net/news/META/meta-reports-third-quarter-2026-13ysmyjaxliq.html"
-        },
-        {
-          "nome": "TradingKey",
-          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262230293-meta-platforms-earnings-report-q3-2026-advertising-muse-wonder-capex-tradingkey"
+          "nome": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html"
         }
       ]
     },
     {
       "posizione": 2,
-      "titolo": "Tesla vende come un anno fa, ma guadagna molto meno: tutto su robot e robotaxi",
-      "riassunto": "Ricavi fermi a 28 miliardi di dollari e utile netto in calo del 43%. La spesa in ricerca è salita del 69% e gli investimenti sono più che raddoppiati, per l'AI, il robot Optimus e il Cybercab. Musk dice che la flotta di robotaxi ad Austin è cresciuta di dieci volte in un mese e che è iniziata la produzione di Optimus. Non ha voluto parlare della possibile fusione con SpaceX. Il titolo è sceso del 2% dopo i conti.",
-      "il_senso": "Tesla sta smettendo di essere solo una casa automobilistica: gli investitori pagano una scommessa su robot e guida autonoma, non sulle auto che vende oggi.",
+      "titolo": "Meta condannata a pagare 25 miliardi al New Mexico per la privacy",
+      "riassunto": "Un giudice del New Mexico ha ordinato a Meta di pagare 25 miliardi di dollari per aver ingannato gli utenti su privacy, uso dei dati e moderazione dei contenuti. Una giuria aveva contato 43 milioni di violazioni della legge statale. Lo Stato chiedeva fino a 40 miliardi, Meta proponeva al massimo 3,45. L'azienda farà ricorso e parla di \"una tassa sulla libertà di parola\".",
+      "il_senso": "Dopo anni di multe considerate \"spiccioli\" per le big tech, arrivano cifre che pesano davvero: i tribunali statali americani diventano il nuovo fronte della regolazione dei social.",
       "fonti": [
         {
-          "nome": "Electrek",
-          "url": "https://electrek.co/2026/10/21/tesla-tsla-q3-2026-financial-results/"
+          "nome": "Engadget",
+          "url": "https://www.engadget.com/2293597/new-mexico-court-order-meta-pay-25-billion-privacy-case/"
         },
         {
-          "nome": "Investing.com",
-          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-tesla-beats-q3-2026-estimates-as-stock-slips-after-hours-93CH-4964365"
+          "nome": "ABC News",
+          "url": "https://abcnews.com/Business/meta-ordered-pay-new-mexico-25-billion-violating/story?id=137454455"
         }
       ]
     },
     {
       "posizione": 3,
-      "titolo": "Citi: le big tech spenderanno in AI più di quanto vale Apple",
-      "riassunto": "Secondo la banca Citi, Amazon, Microsoft, Alphabet e Meta spenderanno insieme 5.350 miliardi di dollari in infrastrutture tra il 2027 e il 2030. È più dell'intero valore di Borsa di Apple, circa 4.950 miliardi. Le loro divisioni cloud crescono dal 37% all'82% l'anno, e la domanda supera ancora l'offerta.",
-      "il_senso": "È il più grande investimento privato della storia moderna: se l'AI mantiene le promesse cambierà l'economia, se delude il conto ricadrà sui mercati e sui risparmi di tutti.",
+      "titolo": "Micron, primo sciopero nella storia dei chip a Taiwan: in gioco i profitti dell'AI",
+      "riassunto": "Il sindacato dello stabilimento Micron di Taoyuan ha avviato giovedì uno sciopero di 24 ore, il primo nel settore dei semiconduttori a Taiwan. I lavoratori chiedono una divisione più equa dei profitti record generati dalle memorie per l'AI. La fabbrica produce memorie HBM, componenti chiave dei server per l'intelligenza artificiale.",
+      "il_senso": "Il boom dell'AI crea enormi profitti, e ora chi costruisce fisicamente i chip ne reclama una parte. È un segnale che la ricchezza dell'AI può diventare anche una questione sociale e sindacale.",
       "fonti": [
         {
-          "nome": "24/7 Wall St.",
-          "url": "https://247wallst.com/investing/2026/10/21/citi-sees-amazon-microsoft-google-and-meta-spending-more-than-apple-is-worth-on-ai-by-2030"
+          "nome": "The Star (Reuters)",
+          "url": "https://www.thestar.com.my/tech/tech-news/2026/10/20/micron-union-in-taiwan-to-launch-strike-as-bonus-dispute-escalates"
+        },
+        {
+          "nome": "AI Weekly (Nikkei Asia)",
+          "url": "https://aiweekly.co/alerts/micron-taoyuan-union-begins-taiwans-first-semiconductor-strike"
         }
       ]
     },
     {
       "posizione": 4,
-      "titolo": "Samsung e SK Hynix potenziano le fabbriche di chip in Cina",
-      "riassunto": "Secondo Reuters, i due colossi sudcoreani stanno aggiornando i loro stabilimenti cinesi per produrre memorie più avanzate per i data center dell'AI. Vogliono difendersi dai concorrenti cinesi CXMT e YMTC, che crescono in fretta. Per installare macchinari americani servono licenze di Washington, che finora hanno rallentato i lavori.",
-      "il_senso": "Anche gli alleati degli Stati Uniti non vogliono rinunciare alla Cina: la guerra dei chip non è fatta solo di divieti, ma di compromessi tra sicurezza e affari.",
+      "titolo": "Nvidia blinda la sua filiera con anticipi miliardari ai fornitori",
+      "riassunto": "Nvidia ha stretto accordi con sei fornitori asiatici, tra cui Ibiden, Samsung Electro-Mechanics, Unimicron e Amkor, pagando in anticipo per riservarsi capacità produttiva. L'obiettivo è moltiplicare per 2,5 in tre anni la capacità di alcuni componenti essenziali dei suoi chip. Al solo KYEC avrebbe anticipato 1,1 miliardi per un impianto di test negli Stati Uniti.",
+      "il_senso": "Nella corsa all'AI conta chi si assicura per primo le fabbriche: Nvidia usa la sua enorme liquidità per lasciare indietro i rivali, anche quando i mercati dubitano.",
       "fonti": [
         {
-          "nome": "Tom's Hardware (Reuters)",
-          "url": "https://tomshardware.com/pc-components/dram/samsung-and-sk-hynix-are-upgrading-chinese-factories-to-produce-advanced-ram-chips-as-ai-data-center-competition-ramps-up-big-players-move-to-fight-off-the-threat-from-cxmt-and-co"
+          "nome": "AI Weekly",
+          "url": "https://aiweekly.co/alerts/nvidia-lines-up-six-partners-for-25x-substrate-15x-optics-build"
         }
       ]
     },
     {
       "posizione": 5,
-      "titolo": "L'AI scova falle critiche nel software di mezzo web: OpenAI guida la risposta",
-      "riassunto": "OpenAI ha coordinato con Cloudflare e altri partner la correzione di gravi vulnerabilità in PHP, il linguaggio su cui gira una grande parte dei siti internet. Una delle falle è stata trovata con un modello di AI. OpenAI mette a disposizione 1 miliardo di dollari in accessi agevolati ai suoi strumenti per chi difende sistemi con poche risorse, e prevede che scoperte simili aumenteranno molto.",
-      "il_senso": "L'AI diventa un'arma a doppio taglio per la sicurezza: trova i buchi più in fretta degli umani, e chi la usa per primo, se difende o attacca, fa la differenza.",
+      "titolo": "Microsoft: hacker legati alla Cina usano l'AI per attacchi lampo",
+      "riassunto": "Microsoft attribuisce al gruppo Storm-0940, vicino alla Cina, un attacco alla filiera del software ConnectWise. Gli aggressori avrebbero usato uno strumento di AI per automatizzare la ricognizione e ottenere accessi privilegiati al cloud in meno di tre ore, colpendo centinaia di bersagli da settembre.",
+      "il_senso": "L'AI accelera anche i criminali informatici: ciò che prima richiedeva settimane ora richiede ore, e aziende e governi devono difendersi alla stessa velocità.",
       "fonti": [
         {
-          "nome": "OpenAI",
-          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/"
+          "nome": "AI Weekly",
+          "url": "https://aiweekly.co/alerts/microsoft-ties-storm-0940-to-artex-driven-connectwise-hack"
         }
       ]
     }
   ],
   "approfondimenti": [
     {
-      "titolo": "The 26 Most Important Ideas For 2026",
-      "testata": "Derek Thompson (ex The Atlantic)",
-      "url": "https://www.derekthompson.org/p/the-26-most-important-ideas-for-2026",
-      "perche_e_importante": "Uno dei giornalisti economici più letti d'America mette in fila le tendenze che definiscono quest'anno. Tra queste: l'economia americana come una gigantesca scommessa sull'AI, la nascita di un populismo anti-AI per le bollette elettriche più care, YouTube che diventa la nuova televisione, i giovani sempre più staccati dal mondo del lavoro. È una mappa utile per collegare la tecnologia alla società.",
-      "la_mia_lettura": "Il pregio del pezzo è mostrare che la tecnologia non è più un settore ma il contesto di tutto: politica, consumi, lavoro. Credo che il populismo anti-AI sia la tendenza da seguire di più nei prossimi mesi, perché trasforma un tema tecnico in una questione elettorale."
+      "titolo": "AI Capex Boom Now Exceeds All Prior Non-War Booms",
+      "testata": "Paul Kedrosky",
+      "url": "https://paulkedrosky.com/ai-capex-boom-now-exceeds-all-prior-non-war-booms/",
+      "perche_e_importante": "L'investitore e analista Paul Kedrosky, partendo da uno studio della Banca dei Regolamenti Internazionali, mostra che la spesa per l'AI ha già superato tutte le grandi ondate di investimento della storia in tempo di pace: canali, ferrovie, anni Venti, bolla delle dot-com. E ci è arrivata in metà del tempo. Il modello suggerisce che si stia investendo da 1,5 a 3 volte più del necessario.",
+      "la_mia_lettura": "Credo che sia la lettura giusta per capire il crollo di ieri a Wall Street. Le ferrovie dell'Ottocento cambiarono il mondo ma rovinarono molti investitori: l'AI potrebbe seguire lo stesso schema, utile per la società e dolorosa per chi ha comprato al prezzo sbagliato."
     },
     {
-      "titolo": "The continued state of global AI diffusion in 2026",
-      "testata": "Microsoft On the Issues",
-      "url": "https://blogs.microsoft.com/on-the-issues/2026/09/21/the-continued-state-of-global-ai-diffusion-in-2026/",
-      "perche_e_importante": "Il rapporto misura quante persone usano davvero l'AI nel mondo: il 18,8% della popolazione in età da lavoro. Il divario è netto: 28,8% nei paesi ricchi contro 16,2% nel Sud globale, e la distanza cresce. Emirati Arabi e Singapore sono in testa. I modelli aperti, spesso cinesi, potrebbero aiutare i paesi più poveri a recuperare.",
-      "la_mia_lettura": "Va letto sapendo che lo firma Microsoft, parte in causa. Ma i numeri dicono una cosa chiara: l'AI rischia di allargare le disuguaglianze tra paesi, come fece internet all'inizio. E dove gli americani non arrivano, arrivano i modelli gratuiti cinesi, con un peso geopolitico enorme."
+      "titolo": "Why the AI shopping agent wars will heat up in 2026",
+      "testata": "Modern Retail",
+      "url": "https://www.modernretail.co/technology/why-the-ai-shopping-agent-wars-will-heat-up-in-2026/",
+      "perche_e_importante": "L'articolo spiega la nuova battaglia tra big tech, grandi catene e startup per controllare gli \"agenti\" di AI che fanno acquisti al posto nostro. Chi controlla l'agente decide quali prodotti vediamo e compriamo. Molto dipenderà da quanto i consumatori si fideranno e da quanto i negozi sapranno rendere leggibili i loro cataloghi alle macchine.",
+      "la_mia_lettura": "Secondo me è uno dei cambiamenti più sottovalutati: dopo la ricerca su Google e i social, il prossimo \"guardiano\" tra noi e il mercato potrebbe essere un'AI. Questo sposta il potere sulla pubblicità, sui prezzi e sulla concorrenza, e Walmart e Amazon stanno già prendendo strade opposte."
     }
   ],
-  "da_tenere_d_occhio": "Nei prossimi giorni e settimane arrivano i conti delle altre big tech, a partire da Microsoft, Alphabet, Amazon e Apple: il tema resta lo stesso, cioè se gli enormi investimenti in AI cominciano a rendere. Da seguire anche la reazione dei mercati asiatici alla bozza cinese sui controlli all'export tecnologico."
+  "da_tenere_d_occhio": "Nelle prossime settimane arrivano i conti di Microsoft, Alphabet, Amazon e Apple: dopo il crollo di giovedì, saranno decisivi per capire se la fiducia nell'AI tiene. Da seguire anche il ricorso di Meta sulla condanna in New Mexico e gli sviluppi dello sciopero Micron a Taiwan."
 }
