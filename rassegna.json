@@ -1,93 +1,93 @@
 {
-  "data": "2026-10-23",
-  "data_estesa": "Venerdì 23 ottobre 2026",
-  "aggiornato_il": "2026-10-23T06:51:52+02:00",
+  "data": "2026-10-24",
+  "data_estesa": "Sabato 24 ottobre 2026",
+  "aggiornato_il": "2026-10-24T06:51:12+02:00",
   "titolo": "Rassegna Big Tech & Finanza",
   "notizie": [
     {
       "posizione": 1,
-      "titolo": "Tornano i dubbi sull'AI: il Nasdaq ha la sua giornata peggiore da giugno",
-      "riassunto": "Giovedì il Nasdaq ha perso il 2,6% e l'indice dei semiconduttori il 6,7%. Meta è crollata del 7% nonostante conti sopra le attese: per la prima volta in oltre dieci anni ha bruciato più cassa di quanta ne abbia generata, a causa degli investimenti in AI, e vuole emettere nuove azioni senza voto per finanziarli. Intel, AMD e Marvell hanno perso più dell'8%, Tesla il 3%.",
-      "il_senso": "Il mercato comincia a chiedersi se la corsa all'AI stia costando troppo. Come ha detto un analista, gli investitori vedono \"qualche buco nella storia dell'AI\": quando la fiducia vacilla, a pagare sono i risparmi investiti in Borsa.",
+      "titolo": "Falle in PHP, governi spengono i siti: banche, treni e fisco offline da Tokyo a Helsinki",
+      "riassunto": "Le due gravissime vulnerabilità nel linguaggio PHP, scoperte con l'aiuto dell'AI, sono già sfruttate in massa: Cloudflare segnala che i tentativi di attacco sono passati da migliaia a milioni. Diversi governi hanno spento per precauzione siti di banche, compagnie aeree, ferrovie, fisco e servizi pubblici. Amazon Web Services dice che gli attacchi erano iniziati prima ancora dell'annuncio.",
+      "il_senso": "È la prima grande crisi informatica dell'era dell'AI: le macchine trovano i difetti più in fretta di quanto gli umani riescano a ripararli, e a farne le spese sono servizi che usiamo tutti i giorni.",
       "fonti": [
         {
-          "nome": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-drop-over-1-093849296.html"
+          "nome": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2026-10-23/php-vulnerabilities-ai-hacks-surge/107299204"
+        },
+        {
+          "nome": "The Register",
+          "url": "https://www.theregister.com/cyber-crime/2026/10/22/hackers-pile-on-php2shell-as-aws-reveals-attacks-began-before-disclosure/5304749"
         }
       ]
     },
     {
       "posizione": 2,
-      "titolo": "Meta condannata a pagare 25 miliardi al New Mexico per la privacy",
-      "riassunto": "Un giudice del New Mexico ha ordinato a Meta di pagare 25 miliardi di dollari per aver ingannato gli utenti su privacy, uso dei dati e moderazione dei contenuti. Una giuria aveva contato 43 milioni di violazioni della legge statale. Lo Stato chiedeva fino a 40 miliardi, Meta proponeva al massimo 3,45. L'azienda farà ricorso e parla di \"una tassa sulla libertà di parola\".",
-      "il_senso": "Dopo anni di multe considerate \"spiccioli\" per le big tech, arrivano cifre che pesano davvero: i tribunali statali americani diventano il nuovo fronte della regolazione dei social.",
+      "titolo": "OpenAI cerca altri 30 miliardi: varrebbe 1.250 miliardi prima della Borsa",
+      "riassunto": "Secondo TechCrunch, OpenAI tratta un nuovo aumento di capitale fino a 30 miliardi di dollari, guidato da Coatue e da investitori degli Emirati, con una valutazione di 1.250 miliardi. Diventerebbe l'azienda privata più preziosa di sempre, in vista della quotazione per cui ha già depositato i documenti. Anche Anthropic punta a una IPO con una valutazione tra 1.500 e 2.000 miliardi.",
+      "il_senso": "Nonostante i dubbi di Wall Street sull'AI, i capitali continuano ad affluire: le due quotazioni potrebbero essere le più grandi della storia e mettere l'AI nei portafogli di milioni di risparmiatori.",
       "fonti": [
         {
-          "nome": "Engadget",
-          "url": "https://www.engadget.com/2293597/new-mexico-court-order-meta-pay-25-billion-privacy-case/"
-        },
-        {
-          "nome": "ABC News",
-          "url": "https://abcnews.com/Business/meta-ordered-pay-new-mexico-25-billion-violating/story?id=137454455"
+          "nome": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
         }
       ]
     },
     {
       "posizione": 3,
-      "titolo": "Micron, primo sciopero nella storia dei chip a Taiwan: in gioco i profitti dell'AI",
-      "riassunto": "Il sindacato dello stabilimento Micron di Taoyuan ha avviato giovedì uno sciopero di 24 ore, il primo nel settore dei semiconduttori a Taiwan. I lavoratori chiedono una divisione più equa dei profitti record generati dalle memorie per l'AI. La fabbrica produce memorie HBM, componenti chiave dei server per l'intelligenza artificiale.",
-      "il_senso": "Il boom dell'AI crea enormi profitti, e ora chi costruisce fisicamente i chip ne reclama una parte. È un segnale che la ricchezza dell'AI può diventare anche una questione sociale e sindacale.",
+      "titolo": "SpaceX e Tesla verso la fusione? Musk spinge, gli analisti si dividono",
+      "riassunto": "Musk ha detto che unire SpaceX e Tesla sarebbe \"una buona idea\". Entrambe le aziende hanno creato comitati di amministratori indipendenti per valutare l'operazione, da cui lui è escluso per conflitto di interessi. Barclays ipotizza un annuncio già a dicembre. Fortune avverte che l'affare favorirebbe gli azionisti Tesla a spese di quelli SpaceX, perché gli utili di Tesla calano mentre quelli di SpaceX crescono.",
+      "il_senso": "Nascerebbe un colosso da oltre 3.000 miliardi controllato da un solo uomo, con razzi, satelliti, auto, robot e AI sotto lo stesso tetto: una concentrazione di potere economico senza precedenti.",
       "fonti": [
         {
-          "nome": "The Star (Reuters)",
-          "url": "https://www.thestar.com.my/tech/tech-news/2026/10/20/micron-union-in-taiwan-to-launch-strike-as-bonus-dispute-escalates"
+          "nome": "Fox Business",
+          "url": "https://www.foxbusiness.com/technology/elon-musk-says-tesla-spacex-merger-would-a-good-idea-companies-form-special-committees"
         },
         {
-          "nome": "AI Weekly (Nikkei Asia)",
-          "url": "https://aiweekly.co/alerts/micron-taoyuan-union-begins-taiwans-first-semiconductor-strike"
+          "nome": "Fortune",
+          "url": "https://fortune.com/2026/10/22/is-elon-musk-tesla-spacex-merger-a-good-idea-shareholders/"
         }
       ]
     },
     {
       "posizione": 4,
-      "titolo": "Nvidia blinda la sua filiera con anticipi miliardari ai fornitori",
-      "riassunto": "Nvidia ha stretto accordi con sei fornitori asiatici, tra cui Ibiden, Samsung Electro-Mechanics, Unimicron e Amkor, pagando in anticipo per riservarsi capacità produttiva. L'obiettivo è moltiplicare per 2,5 in tre anni la capacità di alcuni componenti essenziali dei suoi chip. Al solo KYEC avrebbe anticipato 1,1 miliardi per un impianto di test negli Stati Uniti.",
-      "il_senso": "Nella corsa all'AI conta chi si assicura per primo le fabbriche: Nvidia usa la sua enorme liquidità per lasciare indietro i rivali, anche quando i mercati dubitano.",
+      "titolo": "Seconda settimana in rosso per il Nasdaq, il petrolio vola ai massimi da sei mesi",
+      "riassunto": "Venerdì il Dow ha perso oltre 650 punti e il Nasdaq ha chiuso la seconda settimana consecutiva in calo. Il Brent è salito a 116,7 dollari, massimo da sei mesi, per i timori di un'escalation in Medio Oriente e le tensioni nello Stretto di Hormuz. Per un momento Apple ha superato Nvidia come azienda più preziosa al mondo, entrambe intorno ai 5.100 miliardi.",
+      "il_senso": "Petrolio caro e dubbi sull'AI sono una combinazione pericolosa: la prima pesa sull'inflazione e sulle tasche di tutti, la seconda sulle aziende che hanno trainato le Borse negli ultimi anni.",
       "fonti": [
         {
-          "nome": "AI Weekly",
-          "url": "https://aiweekly.co/alerts/nvidia-lines-up-six-partners-for-25x-substrate-15x-optics-build"
+          "nome": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
         }
       ]
     },
     {
       "posizione": 5,
-      "titolo": "Microsoft: hacker legati alla Cina usano l'AI per attacchi lampo",
-      "riassunto": "Microsoft attribuisce al gruppo Storm-0940, vicino alla Cina, un attacco alla filiera del software ConnectWise. Gli aggressori avrebbero usato uno strumento di AI per automatizzare la ricognizione e ottenere accessi privilegiati al cloud in meno di tre ore, colpendo centinaia di bersagli da settembre.",
-      "il_senso": "L'AI accelera anche i criminali informatici: ciò che prima richiedeva settimane ora richiede ore, e aziende e governi devono difendersi alla stessa velocità.",
+      "titolo": "Manca l'elettricità: Microsoft abbandona il più grande data center AI britannico",
+      "riassunto": "Microsoft ha cancellato il contratto per il data center di Nscale a Loughton, in Inghilterra, che doveva ospitare oltre 23.000 chip Nvidia. Il gestore della rete ha fatto sapere che non potrà fornire abbastanza energia prima dei primi anni del 2030. Microsoft assicura di rispettare comunque i suoi impegni nel Regno Unito.",
+      "il_senso": "La corsa all'AI si scontra con un limite molto concreto: le reti elettriche. I paesi che non riescono a fornire energia rischiano di restare fuori dalla nuova economia digitale, e l'Europa è tra i più esposti.",
       "fonti": [
         {
-          "nome": "AI Weekly",
-          "url": "https://aiweekly.co/alerts/microsoft-ties-storm-0940-to-artex-driven-connectwise-hack"
+          "nome": "Data Center Knowledge",
+          "url": "https://datacenterknowledge.com/build-design/microsoft-exits-nscale-data-center-deal-over-uk-power-delays"
         }
       ]
     }
   ],
   "approfondimenti": [
     {
-      "titolo": "AI Capex Boom Now Exceeds All Prior Non-War Booms",
-      "testata": "Paul Kedrosky",
-      "url": "https://paulkedrosky.com/ai-capex-boom-now-exceeds-all-prior-non-war-booms/",
-      "perche_e_importante": "L'investitore e analista Paul Kedrosky, partendo da uno studio della Banca dei Regolamenti Internazionali, mostra che la spesa per l'AI ha già superato tutte le grandi ondate di investimento della storia in tempo di pace: canali, ferrovie, anni Venti, bolla delle dot-com. E ci è arrivata in metà del tempo. Il modello suggerisce che si stia investendo da 1,5 a 3 volte più del necessario.",
-      "la_mia_lettura": "Credo che sia la lettura giusta per capire il crollo di ieri a Wall Street. Le ferrovie dell'Ottocento cambiarono il mondo ma rovinarono molti investitori: l'AI potrebbe seguire lo stesso schema, utile per la società e dolorosa per chi ha comprato al prezzo sbagliato."
+      "titolo": "Elon Musk, the world's first trillionaire, and his empire of ashes",
+      "testata": "The Daily Star (Bangladesh)",
+      "url": "https://online91.thedailystar.net/news/tech-startup/news/elon-musk-the-worlds-first-trillionaire-and-his-empire-ashes-4199356",
+      "perche_e_importante": "Scritto quando SpaceX è sbarcata in Borsa e Musk è diventato il primo uomo con oltre mille miliardi di patrimonio, il pezzo guarda dietro la cifra. Racconta la fuga dei cofondatori di xAI, le cause degli azionisti Tesla, le scadenze mancate sulla guida autonoma e i danni d'immagine della politica. È utile per leggere con occhio critico la possibile fusione SpaceX-Tesla.",
+      "la_mia_lettura": "Credo che il punto chiave sia che la ricchezza di Musk è soprattutto fiducia nel futuro, non profitti di oggi. Una fusione può rafforzare questa fiducia o renderla più fragile, perché lega tutti i destini a una sola persona."
     },
     {
-      "titolo": "Why the AI shopping agent wars will heat up in 2026",
-      "testata": "Modern Retail",
-      "url": "https://www.modernretail.co/technology/why-the-ai-shopping-agent-wars-will-heat-up-in-2026/",
-      "perche_e_importante": "L'articolo spiega la nuova battaglia tra big tech, grandi catene e startup per controllare gli \"agenti\" di AI che fanno acquisti al posto nostro. Chi controlla l'agente decide quali prodotti vediamo e compriamo. Molto dipenderà da quanto i consumatori si fideranno e da quanto i negozi sapranno rendere leggibili i loro cataloghi alle macchine.",
-      "la_mia_lettura": "Secondo me è uno dei cambiamenti più sottovalutati: dopo la ricerca su Google e i social, il prossimo \"guardiano\" tra noi e il mercato potrebbe essere un'AI. Questo sposta il potere sulla pubblicità, sui prezzi e sulla concorrenza, e Walmart e Amazon stanno già prendendo strade opposte."
+      "titolo": "When Machines Find What Humans Missed for Decades",
+      "testata": "Radware",
+      "url": "https://www.radware.com/blog/machines-find-what-humans-missed/",
+      "perche_e_importante": "Pascal Geenens, responsabile dell'intelligence sulle minacce di Radware, spiega perché gli agenti di AI stanno scoprendo falle nascoste da decenni nel software. Racconta come questo cambi il mercato degli attacchi informatici, abbassando la soglia d'ingresso per i criminali. Conclude che le difese dovranno lavorare alla velocità delle macchine. Scritto a giugno, anticipa quasi alla lettera la crisi PHP di questi giorni.",
+      "la_mia_lettura": "Va letto sapendo che l'autore lavora per un'azienda che vende sicurezza. Ma secondo me la tesi è solida: il software su cui gira il mondo è pieno di vecchi difetti, e l'AI li sta portando tutti in superficie insieme. Per qualche anno vivremo in una fase di grande instabilità digitale."
     }
   ],
-  "da_tenere_d_occhio": "Nelle prossime settimane arrivano i conti di Microsoft, Alphabet, Amazon e Apple: dopo il crollo di giovedì, saranno decisivi per capire se la fiducia nell'AI tiene. Da seguire anche il ricorso di Meta sulla condanna in New Mexico e gli sviluppi dello sciopero Micron a Taiwan."
+  "da_tenere_d_occhio": "Mercoledì 28 ottobre la Federal Reserve decide sui tassi: i mercati si aspettano che li lasci invariati. Nelle prossime settimane arrivano i conti di Microsoft, Alphabet, Amazon e Apple. Da seguire anche gli aggiornamenti sulla crisi PHP e sul prezzo del petrolio."
 }

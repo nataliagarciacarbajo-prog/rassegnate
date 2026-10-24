@@ -1,0 +1,93 @@
+{
+  "data": "2026-10-24",
+  "data_estesa": "Sabato 24 ottobre 2026",
+  "aggiornato_il": "2026-10-24T06:51:12+02:00",
+  "titolo": "Rassegna Big Tech & Finanza",
+  "notizie": [
+    {
+      "posizione": 1,
+      "titolo": "Falle in PHP, governi spengono i siti: banche, treni e fisco offline da Tokyo a Helsinki",
+      "riassunto": "Le due gravissime vulnerabilità nel linguaggio PHP, scoperte con l'aiuto dell'AI, sono già sfruttate in massa: Cloudflare segnala che i tentativi di attacco sono passati da migliaia a milioni. Diversi governi hanno spento per precauzione siti di banche, compagnie aeree, ferrovie, fisco e servizi pubblici. Amazon Web Services dice che gli attacchi erano iniziati prima ancora dell'annuncio.",
+      "il_senso": "È la prima grande crisi informatica dell'era dell'AI: le macchine trovano i difetti più in fretta di quanto gli umani riescano a ripararli, e a farne le spese sono servizi che usiamo tutti i giorni.",
+      "fonti": [
+        {
+          "nome": "ABC News Australia",
+          "url": "https://www.abc.net.au/news/2026-10-23/php-vulnerabilities-ai-hacks-surge/107299204"
+        },
+        {
+          "nome": "The Register",
+          "url": "https://www.theregister.com/cyber-crime/2026/10/22/hackers-pile-on-php2shell-as-aws-reveals-attacks-began-before-disclosure/5304749"
+        }
+      ]
+    },
+    {
+      "posizione": 2,
+      "titolo": "OpenAI cerca altri 30 miliardi: varrebbe 1.250 miliardi prima della Borsa",
+      "riassunto": "Secondo TechCrunch, OpenAI tratta un nuovo aumento di capitale fino a 30 miliardi di dollari, guidato da Coatue e da investitori degli Emirati, con una valutazione di 1.250 miliardi. Diventerebbe l'azienda privata più preziosa di sempre, in vista della quotazione per cui ha già depositato i documenti. Anche Anthropic punta a una IPO con una valutazione tra 1.500 e 2.000 miliardi.",
+      "il_senso": "Nonostante i dubbi di Wall Street sull'AI, i capitali continuano ad affluire: le due quotazioni potrebbero essere le più grandi della storia e mettere l'AI nei portafogli di milioni di risparmiatori.",
+      "fonti": [
+        {
+          "nome": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+        }
+      ]
+    },
+    {
+      "posizione": 3,
+      "titolo": "SpaceX e Tesla verso la fusione? Musk spinge, gli analisti si dividono",
+      "riassunto": "Musk ha detto che unire SpaceX e Tesla sarebbe \"una buona idea\". Entrambe le aziende hanno creato comitati di amministratori indipendenti per valutare l'operazione, da cui lui è escluso per conflitto di interessi. Barclays ipotizza un annuncio già a dicembre. Fortune avverte che l'affare favorirebbe gli azionisti Tesla a spese di quelli SpaceX, perché gli utili di Tesla calano mentre quelli di SpaceX crescono.",
+      "il_senso": "Nascerebbe un colosso da oltre 3.000 miliardi controllato da un solo uomo, con razzi, satelliti, auto, robot e AI sotto lo stesso tetto: una concentrazione di potere economico senza precedenti.",
+      "fonti": [
+        {
+          "nome": "Fox Business",
+          "url": "https://www.foxbusiness.com/technology/elon-musk-says-tesla-spacex-merger-would-a-good-idea-companies-form-special-committees"
+        },
+        {
+          "nome": "Fortune",
+          "url": "https://fortune.com/2026/10/22/is-elon-musk-tesla-spacex-merger-a-good-idea-shareholders/"
+        }
+      ]
+    },
+    {
+      "posizione": 4,
+      "titolo": "Seconda settimana in rosso per il Nasdaq, il petrolio vola ai massimi da sei mesi",
+      "riassunto": "Venerdì il Dow ha perso oltre 650 punti e il Nasdaq ha chiuso la seconda settimana consecutiva in calo. Il Brent è salito a 116,7 dollari, massimo da sei mesi, per i timori di un'escalation in Medio Oriente e le tensioni nello Stretto di Hormuz. Per un momento Apple ha superato Nvidia come azienda più preziosa al mondo, entrambe intorno ai 5.100 miliardi.",
+      "il_senso": "Petrolio caro e dubbi sull'AI sono una combinazione pericolosa: la prima pesa sull'inflazione e sulle tasche di tutti, la seconda sulle aziende che hanno trainato le Borse negli ultimi anni.",
+      "fonti": [
+        {
+          "nome": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
+        }
+      ]
+    },
+    {
+      "posizione": 5,
+      "titolo": "Manca l'elettricità: Microsoft abbandona il più grande data center AI britannico",
+      "riassunto": "Microsoft ha cancellato il contratto per il data center di Nscale a Loughton, in Inghilterra, che doveva ospitare oltre 23.000 chip Nvidia. Il gestore della rete ha fatto sapere che non potrà fornire abbastanza energia prima dei primi anni del 2030. Microsoft assicura di rispettare comunque i suoi impegni nel Regno Unito.",
+      "il_senso": "La corsa all'AI si scontra con un limite molto concreto: le reti elettriche. I paesi che non riescono a fornire energia rischiano di restare fuori dalla nuova economia digitale, e l'Europa è tra i più esposti.",
+      "fonti": [
+        {
+          "nome": "Data Center Knowledge",
+          "url": "https://datacenterknowledge.com/build-design/microsoft-exits-nscale-data-center-deal-over-uk-power-delays"
+        }
+      ]
+    }
+  ],
+  "approfondimenti": [
+    {
+      "titolo": "Elon Musk, the world's first trillionaire, and his empire of ashes",
+      "testata": "The Daily Star (Bangladesh)",
+      "url": "https://online91.thedailystar.net/news/tech-startup/news/elon-musk-the-worlds-first-trillionaire-and-his-empire-ashes-4199356",
+      "perche_e_importante": "Scritto quando SpaceX è sbarcata in Borsa e Musk è diventato il primo uomo con oltre mille miliardi di patrimonio, il pezzo guarda dietro la cifra. Racconta la fuga dei cofondatori di xAI, le cause degli azionisti Tesla, le scadenze mancate sulla guida autonoma e i danni d'immagine della politica. È utile per leggere con occhio critico la possibile fusione SpaceX-Tesla.",
+      "la_mia_lettura": "Credo che il punto chiave sia che la ricchezza di Musk è soprattutto fiducia nel futuro, non profitti di oggi. Una fusione può rafforzare questa fiducia o renderla più fragile, perché lega tutti i destini a una sola persona."
+    },
+    {
+      "titolo": "When Machines Find What Humans Missed for Decades",
+      "testata": "Radware",
+      "url": "https://www.radware.com/blog/machines-find-what-humans-missed/",
+      "perche_e_importante": "Pascal Geenens, responsabile dell'intelligence sulle minacce di Radware, spiega perché gli agenti di AI stanno scoprendo falle nascoste da decenni nel software. Racconta come questo cambi il mercato degli attacchi informatici, abbassando la soglia d'ingresso per i criminali. Conclude che le difese dovranno lavorare alla velocità delle macchine. Scritto a giugno, anticipa quasi alla lettera la crisi PHP di questi giorni.",
+      "la_mia_lettura": "Va letto sapendo che l'autore lavora per un'azienda che vende sicurezza. Ma secondo me la tesi è solida: il software su cui gira il mondo è pieno di vecchi difetti, e l'AI li sta portando tutti in superficie insieme. Per qualche anno vivremo in una fase di grande instabilità digitale."
+    }
+  ],
+  "da_tenere_d_occhio": "Mercoledì 28 ottobre la Federal Reserve decide sui tassi: i mercati si aspettano che li lasci invariati. Nelle prossime settimane arrivano i conti di Microsoft, Alphabet, Amazon e Apple. Da seguire anche gli aggiornamenti sulla crisi PHP e sul prezzo del petrolio."
+}
