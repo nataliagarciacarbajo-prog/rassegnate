@@ -1,0 +1,85 @@
+{
+  "data": "2026-10-25",
+  "data_estesa": "Domenica 25 ottobre 2026",
+  "aggiornato_il": "2026-10-25T06:51:37+01:00",
+  "titolo": "Rassegna Big Tech & Finanza",
+  "notizie": [
+    {
+      "posizione": 1,
+      "titolo": "Dopo la crisi PHP, gli esperti avvertono: \"Ogni settimana sembrerà che crolli il cielo\"",
+      "riassunto": "Sette esperti di sicurezza informatica sentiti da Reuters prevedono che le falle scoperte dall'AI causeranno altri blackout come quelli che questa settimana hanno spento siti governativi in mezzo mondo. Secondo uno studio di VulnCheck, l'AI ha contribuito a raddoppiare in un anno il numero di vulnerabilità scoperte. Il CEO di Cloudflare, Matthew Prince, dice di conoscere altre falle gravi e prevede anni di allarmi continui.",
+      "il_senso": "Non è stato un incidente isolato ma l'inizio di una fase nuova: per un po' internet sarà più fragile, e servizi pubblici, banche e aziende dovranno abituarsi a riparare a ritmo continuo.",
+      "fonti": [
+        {
+          "nome": "Honolulu Star-Advertiser (Reuters)",
+          "url": "https://www.staradvertiser.com/2026/10/24/breaking-news/ai-discovered-bugs-may-soon-trigger-fresh-disruptions-experts-say/"
+        }
+      ]
+    },
+    {
+      "posizione": 2,
+      "titolo": "Settimana decisiva: Fed, Microsoft, Alphabet e Amazon nello stesso giro di 48 ore",
+      "riassunto": "Mercoledì 28 ottobre la Federal Reserve annuncia la decisione sui tassi e, poche ore dopo, Microsoft e Alphabet pubblicano i conti. Giovedì 29 tocca ad Amazon, mentre Apple presenterà i risultati lunedì 2 novembre. Gli occhi sono puntati sulla crescita del cloud: nell'ultimo trimestre Google Cloud era cresciuto dell'82% e Azure di Microsoft punta a un +45%.",
+      "il_senso": "Dopo due settimane di vendite sui titoli tech, questi conti diranno se la fiducia nell'AI regge. È il passaggio che può orientare le Borse fino a fine anno.",
+      "fonti": [
+        {
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-october-26-2026"
+        }
+      ]
+    },
+    {
+      "posizione": 3,
+      "titolo": "Apollo: fuori dalla tecnologia, l'AI non ha ancora reso nulla",
+      "riassunto": "Torsten Slok, capo economista del fondo Apollo, mostra che ricavi per dipendente e margini crescono solo per le sette grandi aziende tech. Per le altre 493 società dell'indice S&P 500 sono fermi. Secondo Slok, finora l'AI ha prodotto \"zero ritorni finanziari\" per il resto dell'economia americana, e molte aziende la vivono più come un costo che come un investimento.",
+      "il_senso": "Se l'AI arricchisce solo chi la vende e non chi la usa, il boom poggia su basi fragili. È la domanda che i mercati si fanno da giorni.",
+      "fonti": [
+        {
+          "nome": "Apollo",
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"
+        }
+      ]
+    },
+    {
+      "posizione": 4,
+      "titolo": "Gli americani non vogliono data center vicino a casa: contrari in 6 su 10",
+      "riassunto": "Secondo un sondaggio CNBC, il 63% degli elettori americani si oppone alla costruzione di un data center per l'AI entro 15 chilometri da casa, e solo il 13% è favorevole. L'opposizione è trasversale: contrari l'80% dei democratici, ma anche più sostenitori MAGA contrari che favorevoli. Il tema entra nella campagna per le elezioni di metà mandato del 3 novembre.",
+      "il_senso": "L'AI ha bisogno di enormi impianti che consumano energia e acqua, e i cittadini cominciano a dire di no. Il consenso sociale diventa un limite concreto alla crescita delle big tech.",
+      "fonti": [
+        {
+          "nome": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html"
+        }
+      ]
+    },
+    {
+      "posizione": 5,
+      "titolo": "Costretti a scegliere, Grok vota repubblicano e ChatGPT democratico",
+      "riassunto": "Uno studio guidato da un professore della Cornell ha chiesto a due modelli di AI di indicare un candidato in quasi 500 sfide delle elezioni di metà mandato. Grok di xAI ha scelto il repubblicano nel 92% dei casi, il modello di OpenAI il democratico nel 97%. Le app per il pubblico si rifiutano di scegliere, e OpenAI sottolinea che il test forzava una risposta. Musk ha donato oltre 445 milioni di dollari a candidati repubblicani.",
+      "il_senso": "Le AI non sono neutrali: riflettono valori e scelte di chi le costruisce. Con milioni di persone che le usano per informarsi, il loro orientamento può pesare sulla democrazia.",
+      "fonti": [
+        {
+          "nome": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
+        }
+      ]
+    }
+  ],
+  "approfondimenti": [
+    {
+      "titolo": "The era of AI persuasion in elections is about to begin",
+      "testata": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2025/12/05/1128837/the-era-of-ai-persuasion-in-elections-is-about-to-begin/",
+      "perche_e_importante": "Tal Feldman e Aneesh Pappu raccontano due studi scientifici secondo cui brevi conversazioni con un chatbot spostano le opinioni degli elettori fino a 10 punti, e fino a 25 se il modello è ottimizzato per persuadere. L'effetto è circa quattro volte quello degli spot elettorali tradizionali. Mandare messaggi personalizzati a tutti i 174 milioni di elettori americani costerebbe meno di un milione di dollari.",
+      "la_mia_lettura": "Letto accanto allo studio su Grok e ChatGPT, fa capire la posta in gioco: non serve che un'AI menta, basta che abbia una leggera inclinazione e parli con milioni di persone. Credo che la trasparenza su come vengono addestrati questi modelli diventerà presto un tema politico centrale, anche in Europa."
+    },
+    {
+      "titolo": "Every child will get AI. Not every child will get a teacher",
+      "testata": "Fortune",
+      "url": "https://fortune.com/2026/10/24/every-child-will-get-ai-not-every-child-will-get-a-teacher",
+      "perche_e_importante": "L'educatore ucraino Dmytro Korchevskyi ribalta il timore comune: il rischio non è che l'AI resti un privilegio dei ricchi, ma che diventi il sostituto economico dei professori per i poveri. Tra i ragazzi delle famiglie a basso reddito, uno su cinque fa quasi tutti i compiti con un chatbot, contro il 7% dei più benestanti. E l'UNESCO stima che entro il 2030 mancheranno 44 milioni di insegnanti.",
+      "la_mia_lettura": "Secondo me è uno dei temi sociali più importanti dell'AI, e se ne parla poco. Se le scuole useranno l'AI per risparmiare sugli insegnanti invece che per aiutarli, rischiamo una nuova disuguaglianza: chi può permetterselo avrà persone, gli altri avranno macchine."
+    }
+  ],
+  "da_tenere_d_occhio": "Mercoledì 28 ottobre: decisione della Fed sui tassi e conti di Microsoft e Alphabet. Giovedì 29: Amazon. Lunedì 2 novembre: Apple. Martedì 3 novembre: elezioni di metà mandato negli Stati Uniti, con l'AI e i data center tra i temi della campagna."
+}

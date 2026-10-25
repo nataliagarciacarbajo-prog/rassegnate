@@ -1,93 +1,85 @@
 {
-  "data": "2026-10-24",
-  "data_estesa": "Sabato 24 ottobre 2026",
-  "aggiornato_il": "2026-10-24T06:51:12+02:00",
+  "data": "2026-10-25",
+  "data_estesa": "Domenica 25 ottobre 2026",
+  "aggiornato_il": "2026-10-25T06:51:37+01:00",
   "titolo": "Rassegna Big Tech & Finanza",
   "notizie": [
     {
       "posizione": 1,
-      "titolo": "Falle in PHP, governi spengono i siti: banche, treni e fisco offline da Tokyo a Helsinki",
-      "riassunto": "Le due gravissime vulnerabilità nel linguaggio PHP, scoperte con l'aiuto dell'AI, sono già sfruttate in massa: Cloudflare segnala che i tentativi di attacco sono passati da migliaia a milioni. Diversi governi hanno spento per precauzione siti di banche, compagnie aeree, ferrovie, fisco e servizi pubblici. Amazon Web Services dice che gli attacchi erano iniziati prima ancora dell'annuncio.",
-      "il_senso": "È la prima grande crisi informatica dell'era dell'AI: le macchine trovano i difetti più in fretta di quanto gli umani riescano a ripararli, e a farne le spese sono servizi che usiamo tutti i giorni.",
+      "titolo": "Dopo la crisi PHP, gli esperti avvertono: \"Ogni settimana sembrerà che crolli il cielo\"",
+      "riassunto": "Sette esperti di sicurezza informatica sentiti da Reuters prevedono che le falle scoperte dall'AI causeranno altri blackout come quelli che questa settimana hanno spento siti governativi in mezzo mondo. Secondo uno studio di VulnCheck, l'AI ha contribuito a raddoppiare in un anno il numero di vulnerabilità scoperte. Il CEO di Cloudflare, Matthew Prince, dice di conoscere altre falle gravi e prevede anni di allarmi continui.",
+      "il_senso": "Non è stato un incidente isolato ma l'inizio di una fase nuova: per un po' internet sarà più fragile, e servizi pubblici, banche e aziende dovranno abituarsi a riparare a ritmo continuo.",
       "fonti": [
         {
-          "nome": "ABC News Australia",
-          "url": "https://www.abc.net.au/news/2026-10-23/php-vulnerabilities-ai-hacks-surge/107299204"
-        },
-        {
-          "nome": "The Register",
-          "url": "https://www.theregister.com/cyber-crime/2026/10/22/hackers-pile-on-php2shell-as-aws-reveals-attacks-began-before-disclosure/5304749"
+          "nome": "Honolulu Star-Advertiser (Reuters)",
+          "url": "https://www.staradvertiser.com/2026/10/24/breaking-news/ai-discovered-bugs-may-soon-trigger-fresh-disruptions-experts-say/"
         }
       ]
     },
     {
       "posizione": 2,
-      "titolo": "OpenAI cerca altri 30 miliardi: varrebbe 1.250 miliardi prima della Borsa",
-      "riassunto": "Secondo TechCrunch, OpenAI tratta un nuovo aumento di capitale fino a 30 miliardi di dollari, guidato da Coatue e da investitori degli Emirati, con una valutazione di 1.250 miliardi. Diventerebbe l'azienda privata più preziosa di sempre, in vista della quotazione per cui ha già depositato i documenti. Anche Anthropic punta a una IPO con una valutazione tra 1.500 e 2.000 miliardi.",
-      "il_senso": "Nonostante i dubbi di Wall Street sull'AI, i capitali continuano ad affluire: le due quotazioni potrebbero essere le più grandi della storia e mettere l'AI nei portafogli di milioni di risparmiatori.",
+      "titolo": "Settimana decisiva: Fed, Microsoft, Alphabet e Amazon nello stesso giro di 48 ore",
+      "riassunto": "Mercoledì 28 ottobre la Federal Reserve annuncia la decisione sui tassi e, poche ore dopo, Microsoft e Alphabet pubblicano i conti. Giovedì 29 tocca ad Amazon, mentre Apple presenterà i risultati lunedì 2 novembre. Gli occhi sono puntati sulla crescita del cloud: nell'ultimo trimestre Google Cloud era cresciuto dell'82% e Azure di Microsoft punta a un +45%.",
+      "il_senso": "Dopo due settimane di vendite sui titoli tech, questi conti diranno se la fiducia nell'AI regge. È il passaggio che può orientare le Borse fino a fine anno.",
       "fonti": [
         {
-          "nome": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/"
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-october-26-2026"
         }
       ]
     },
     {
       "posizione": 3,
-      "titolo": "SpaceX e Tesla verso la fusione? Musk spinge, gli analisti si dividono",
-      "riassunto": "Musk ha detto che unire SpaceX e Tesla sarebbe \"una buona idea\". Entrambe le aziende hanno creato comitati di amministratori indipendenti per valutare l'operazione, da cui lui è escluso per conflitto di interessi. Barclays ipotizza un annuncio già a dicembre. Fortune avverte che l'affare favorirebbe gli azionisti Tesla a spese di quelli SpaceX, perché gli utili di Tesla calano mentre quelli di SpaceX crescono.",
-      "il_senso": "Nascerebbe un colosso da oltre 3.000 miliardi controllato da un solo uomo, con razzi, satelliti, auto, robot e AI sotto lo stesso tetto: una concentrazione di potere economico senza precedenti.",
+      "titolo": "Apollo: fuori dalla tecnologia, l'AI non ha ancora reso nulla",
+      "riassunto": "Torsten Slok, capo economista del fondo Apollo, mostra che ricavi per dipendente e margini crescono solo per le sette grandi aziende tech. Per le altre 493 società dell'indice S&P 500 sono fermi. Secondo Slok, finora l'AI ha prodotto \"zero ritorni finanziari\" per il resto dell'economia americana, e molte aziende la vivono più come un costo che come un investimento.",
+      "il_senso": "Se l'AI arricchisce solo chi la vende e non chi la usa, il boom poggia su basi fragili. È la domanda che i mercati si fanno da giorni.",
       "fonti": [
         {
-          "nome": "Fox Business",
-          "url": "https://www.foxbusiness.com/technology/elon-musk-says-tesla-spacex-merger-would-a-good-idea-companies-form-special-committees"
-        },
-        {
-          "nome": "Fortune",
-          "url": "https://fortune.com/2026/10/22/is-elon-musk-tesla-spacex-merger-a-good-idea-shareholders/"
+          "nome": "Apollo",
+          "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector"
         }
       ]
     },
     {
       "posizione": 4,
-      "titolo": "Seconda settimana in rosso per il Nasdaq, il petrolio vola ai massimi da sei mesi",
-      "riassunto": "Venerdì il Dow ha perso oltre 650 punti e il Nasdaq ha chiuso la seconda settimana consecutiva in calo. Il Brent è salito a 116,7 dollari, massimo da sei mesi, per i timori di un'escalation in Medio Oriente e le tensioni nello Stretto di Hormuz. Per un momento Apple ha superato Nvidia come azienda più preziosa al mondo, entrambe intorno ai 5.100 miliardi.",
-      "il_senso": "Petrolio caro e dubbi sull'AI sono una combinazione pericolosa: la prima pesa sull'inflazione e sulle tasche di tutti, la seconda sulle aziende che hanno trainato le Borse negli ultimi anni.",
+      "titolo": "Gli americani non vogliono data center vicino a casa: contrari in 6 su 10",
+      "riassunto": "Secondo un sondaggio CNBC, il 63% degli elettori americani si oppone alla costruzione di un data center per l'AI entro 15 chilometri da casa, e solo il 13% è favorevole. L'opposizione è trasversale: contrari l'80% dei democratici, ma anche più sostenitori MAGA contrari che favorevoli. Il tema entra nella campagna per le elezioni di metà mandato del 3 novembre.",
+      "il_senso": "L'AI ha bisogno di enormi impianti che consumano energia e acqua, e i cittadini cominciano a dire di no. Il consenso sociale diventa un limite concreto alla crescita delle big tech.",
       "fonti": [
         {
-          "nome": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-october-23-dow-sp-500-nasdaq-tesla-meta-093000521.html"
+          "nome": "CNBC",
+          "url": "https://www.cnbc.com/2026/10/24/trump-ai-data-centers-voter-backlash-midterms.html"
         }
       ]
     },
     {
       "posizione": 5,
-      "titolo": "Manca l'elettricità: Microsoft abbandona il più grande data center AI britannico",
-      "riassunto": "Microsoft ha cancellato il contratto per il data center di Nscale a Loughton, in Inghilterra, che doveva ospitare oltre 23.000 chip Nvidia. Il gestore della rete ha fatto sapere che non potrà fornire abbastanza energia prima dei primi anni del 2030. Microsoft assicura di rispettare comunque i suoi impegni nel Regno Unito.",
-      "il_senso": "La corsa all'AI si scontra con un limite molto concreto: le reti elettriche. I paesi che non riescono a fornire energia rischiano di restare fuori dalla nuova economia digitale, e l'Europa è tra i più esposti.",
+      "titolo": "Costretti a scegliere, Grok vota repubblicano e ChatGPT democratico",
+      "riassunto": "Uno studio guidato da un professore della Cornell ha chiesto a due modelli di AI di indicare un candidato in quasi 500 sfide delle elezioni di metà mandato. Grok di xAI ha scelto il repubblicano nel 92% dei casi, il modello di OpenAI il democratico nel 97%. Le app per il pubblico si rifiutano di scegliere, e OpenAI sottolinea che il test forzava una risposta. Musk ha donato oltre 445 milioni di dollari a candidati repubblicani.",
+      "il_senso": "Le AI non sono neutrali: riflettono valori e scelte di chi le costruisce. Con milioni di persone che le usano per informarsi, il loro orientamento può pesare sulla democrazia.",
       "fonti": [
         {
-          "nome": "Data Center Knowledge",
-          "url": "https://datacenterknowledge.com/build-design/microsoft-exits-nscale-data-center-deal-over-uk-power-delays"
+          "nome": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/"
         }
       ]
     }
   ],
   "approfondimenti": [
     {
-      "titolo": "Elon Musk, the world's first trillionaire, and his empire of ashes",
-      "testata": "The Daily Star (Bangladesh)",
-      "url": "https://online91.thedailystar.net/news/tech-startup/news/elon-musk-the-worlds-first-trillionaire-and-his-empire-ashes-4199356",
-      "perche_e_importante": "Scritto quando SpaceX è sbarcata in Borsa e Musk è diventato il primo uomo con oltre mille miliardi di patrimonio, il pezzo guarda dietro la cifra. Racconta la fuga dei cofondatori di xAI, le cause degli azionisti Tesla, le scadenze mancate sulla guida autonoma e i danni d'immagine della politica. È utile per leggere con occhio critico la possibile fusione SpaceX-Tesla.",
-      "la_mia_lettura": "Credo che il punto chiave sia che la ricchezza di Musk è soprattutto fiducia nel futuro, non profitti di oggi. Una fusione può rafforzare questa fiducia o renderla più fragile, perché lega tutti i destini a una sola persona."
+      "titolo": "The era of AI persuasion in elections is about to begin",
+      "testata": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2025/12/05/1128837/the-era-of-ai-persuasion-in-elections-is-about-to-begin/",
+      "perche_e_importante": "Tal Feldman e Aneesh Pappu raccontano due studi scientifici secondo cui brevi conversazioni con un chatbot spostano le opinioni degli elettori fino a 10 punti, e fino a 25 se il modello è ottimizzato per persuadere. L'effetto è circa quattro volte quello degli spot elettorali tradizionali. Mandare messaggi personalizzati a tutti i 174 milioni di elettori americani costerebbe meno di un milione di dollari.",
+      "la_mia_lettura": "Letto accanto allo studio su Grok e ChatGPT, fa capire la posta in gioco: non serve che un'AI menta, basta che abbia una leggera inclinazione e parli con milioni di persone. Credo che la trasparenza su come vengono addestrati questi modelli diventerà presto un tema politico centrale, anche in Europa."
     },
     {
-      "titolo": "When Machines Find What Humans Missed for Decades",
-      "testata": "Radware",
-      "url": "https://www.radware.com/blog/machines-find-what-humans-missed/",
-      "perche_e_importante": "Pascal Geenens, responsabile dell'intelligence sulle minacce di Radware, spiega perché gli agenti di AI stanno scoprendo falle nascoste da decenni nel software. Racconta come questo cambi il mercato degli attacchi informatici, abbassando la soglia d'ingresso per i criminali. Conclude che le difese dovranno lavorare alla velocità delle macchine. Scritto a giugno, anticipa quasi alla lettera la crisi PHP di questi giorni.",
-      "la_mia_lettura": "Va letto sapendo che l'autore lavora per un'azienda che vende sicurezza. Ma secondo me la tesi è solida: il software su cui gira il mondo è pieno di vecchi difetti, e l'AI li sta portando tutti in superficie insieme. Per qualche anno vivremo in una fase di grande instabilità digitale."
+      "titolo": "Every child will get AI. Not every child will get a teacher",
+      "testata": "Fortune",
+      "url": "https://fortune.com/2026/10/24/every-child-will-get-ai-not-every-child-will-get-a-teacher",
+      "perche_e_importante": "L'educatore ucraino Dmytro Korchevskyi ribalta il timore comune: il rischio non è che l'AI resti un privilegio dei ricchi, ma che diventi il sostituto economico dei professori per i poveri. Tra i ragazzi delle famiglie a basso reddito, uno su cinque fa quasi tutti i compiti con un chatbot, contro il 7% dei più benestanti. E l'UNESCO stima che entro il 2030 mancheranno 44 milioni di insegnanti.",
+      "la_mia_lettura": "Secondo me è uno dei temi sociali più importanti dell'AI, e se ne parla poco. Se le scuole useranno l'AI per risparmiare sugli insegnanti invece che per aiutarli, rischiamo una nuova disuguaglianza: chi può permetterselo avrà persone, gli altri avranno macchine."
     }
   ],
-  "da_tenere_d_occhio": "Mercoledì 28 ottobre la Federal Reserve decide sui tassi: i mercati si aspettano che li lasci invariati. Nelle prossime settimane arrivano i conti di Microsoft, Alphabet, Amazon e Apple. Da seguire anche gli aggiornamenti sulla crisi PHP e sul prezzo del petrolio."
+  "da_tenere_d_occhio": "Mercoledì 28 ottobre: decisione della Fed sui tassi e conti di Microsoft e Alphabet. Giovedì 29: Amazon. Lunedì 2 novembre: Apple. Martedì 3 novembre: elezioni di metà mandato negli Stati Uniti, con l'AI e i data center tra i temi della campagna."
 }
