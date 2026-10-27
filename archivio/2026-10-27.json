@@ -1,0 +1,89 @@
+{
+  "data": "2026-10-27",
+  "data_estesa": "Martedì 27 ottobre 2026",
+  "aggiornato_il": "2026-10-27T06:53:26+01:00",
+  "titolo": "Rassegna Big Tech & Finanza",
+  "notizie": [
+    {
+      "posizione": 1,
+      "titolo": "Anthropic chiede di quotarsi in Borsa: potrebbe essere l'IPO più grande della storia",
+      "riassunto": "Lunedì Anthropic ha depositato alla SEC il prospetto per quotarsi al Nasdaq con il simbolo \"ANT\". Nel primo semestre ha fatturato 16,3 miliardi di dollari; la perdita netta di 80,7 miliardi deriva soprattutto da rettifiche contabili, mentre il risultato operativo è positivo. Prezzo e numero di azioni non sono ancora fissati: il debutto è atteso a metà novembre, con una valutazione che secondo il Financial Times potrebbe superare i 1.500 miliardi. Nel documento l'azienda avverte che l'AI avanzata può comportare rischi \"catastrofici\".",
+      "il_senso": "Per la prima volta uno dei grandi laboratori di AI si fa giudicare dai mercati e mostra i suoi conti a tutti. Da qui in poi chiunque potrà comprarne un pezzo, e vedere se la corsa all'AI produce davvero guadagni. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "fonti": [
+        {
+          "nome": "Anthropic",
+          "url": "https://www.anthropic.com/news/s1-sec"
+        },
+        {
+          "nome": "CoinDesk",
+          "url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo"
+        }
+      ]
+    },
+    {
+      "posizione": 2,
+      "titolo": "Meta chiede 95 miliardi agli investitori per l'AI, e a comprare sono i suoi fornitori di chip",
+      "riassunto": "Meta ha lanciato un aumento di capitale da 95 miliardi di dollari: 35 miliardi subito con un'offerta pubblica di azioni e 60 miliardi vendendo titoli sul mercato nel tempo. Servono a pagare i data center per l'intelligenza artificiale, con una spesa prevista fino a 145 miliardi quest'anno. Tra i primi acquirenti ci sono Nvidia, AMD e Broadcom, cioè le aziende che vendono a Meta i chip. Meta avverte che nei prossimi anni dovrà raccogliere \"centinaia di miliardi\".",
+      "il_senso": "Anche un gigante che guadagna moltissimo non riesce più a pagare l'AI solo con i propri soldi. E quando i fornitori finanziano i clienti che poi comprano i loro prodotti, il rischio è un circolo che regge finché la domanda tiene.",
+      "fonti": [
+        {
+          "nome": "The Irish Times",
+          "url": "https://www.irishtimes.com/business/2026/10/26/meta-plans-95bn-stock-offering-to-bankroll-ai-expansion/"
+        }
+      ]
+    },
+    {
+      "posizione": 3,
+      "titolo": "Microsoft offre l'uscita volontaria a 60.000 dipendenti",
+      "riassunto": "Microsoft ha proposto una buonuscita volontaria a circa 60.000 dipendenti, dai vicepresidenti in giù, in alcuni team negli Stati Uniti, Canada, India e Regno Unito, tra cui Xbox, Windows, Copilot e finanza. Sono esclusi i lavoratori dei data center, delle vendite e del marketing. Le condizioni sono simili alla liquidazione standard. L'azienda contava 223.000 dipendenti a giugno e parla di riorganizzazione per l'era dell'AI.",
+      "il_senso": "Le big tech spendono cifre record in macchine e tagliano sulle persone: è il modo più chiaro per capire dove stanno spostando le risorse. Le uscite volontarie evitano i licenziamenti di massa, ma il risultato per l'occupazione è simile.",
+      "fonti": [
+        {
+          "nome": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/"
+        }
+      ]
+    },
+    {
+      "posizione": 4,
+      "titolo": "Wall Street riparte con Anthropic, Tesla +6%, mentre Musk gela i piccoli cloud dell'AI",
+      "riassunto": "Lunedì il Nasdaq ha chiuso a +0,82% e l'S&P 500 a +0,70%, spinti dall'entusiasmo per la quotazione di Anthropic e dal petrolio in calo (Brent a circa 115 dollari) sulle speranze di una mediazione del Qatar tra Stati Uniti e Iran. Tesla è salita di circa il 6% dopo che Barclays ha alzato il giudizio, citando una possibile fusione con SpaceX. Sono invece scesi CoreWeave e Nebius, dopo che Musk ha previsto fallimenti e fusioni tra gli oltre 200 \"neocloud\".",
+      "il_senso": "La Borsa vive di racconti: basta una quotazione attesa per riaccendere la fiducia nell'AI, e basta una frase di Musk per affondare un intero settore. Questa settimana i conti di Microsoft, Alphabet e Amazon diranno se l'ottimismo è giustificato.",
+      "fonti": [
+        {
+          "nome": "TheStreet",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-26-2026"
+        }
+      ]
+    },
+    {
+      "posizione": 5,
+      "titolo": "L'AI che progetta i chip si potrà tenere in casa: la mossa di Cadence con Nvidia",
+      "riassunto": "Cadence, uno dei due leader mondiali del software per progettare microchip, ha presentato CadenceMaestro, modelli di AI costruiti in parte sulla tecnologia aperta di Nvidia. I produttori di chip potranno usarli sui propri server, senza mandare i loro progetti segreti fuori dall'azienda. Il rivale Synopsys ha scelto invece di lavorare con OpenAI su server di OpenAI. Il titolo Cadence è salito del 3,9%.",
+      "il_senso": "I progetti dei chip sono tra i segreti industriali più preziosi al mondo. La scelta tra AI \"in casa\" e AI affidata a terzi è la stessa che dovranno fare banche, ospedali e governi: chi controlla i dati controlla il vantaggio.",
+      "fonti": [
+        {
+          "nome": "The Star (Reuters)",
+          "url": "https://www.thestar.com.my/tech/tech-news/2026/10/26/cadence-unveils-nvidia-backed-ai-models-that-chipmakers-can-run-in-house"
+        }
+      ]
+    }
+  ],
+  "approfondimenti": [
+    {
+      "titolo": "How to spot an AI bubble",
+      "testata": "Capital Group",
+      "url": "https://www.capitalgroup.com/individual/insights/articles/how-to-spot-ai-bubble.html",
+      "perche_e_importante": "Uno dei più grandi gestori di fondi al mondo elenca sei segnali per capire se l'AI è una bolla: quotazioni euforiche, crescita a debito, finanziamenti \"creativi\" tra aziende che si comprano a vicenda, costruzione eccessiva di data center, limiti di energia e manodopera, rallentamento dell'economia. Il confronto è con le bolle di internet e delle criptovalute, ma con una differenza: i giganti di oggi hanno bilanci molto più solidi.",
+      "la_mia_lettura": "È stato scritto a febbraio, e oggi sembra una lista di controllo: la quotazione di Anthropic, i 95 miliardi di Meta comprati dai suoi fornitori, i neocloud in difficoltà. Secondo me non dimostra che la bolla c'è, ma offre gli strumenti per leggere ogni nuova notizia senza farsi trascinare né dall'euforia né dal panico."
+    },
+    {
+      "titolo": "What to Know About the Obscure Trust Looming Over Anthropic's IPO",
+      "testata": "Dow Jones (via Tiger Brokers)",
+      "url": "https://www.itiger.com/news/1129917889",
+      "perche_e_importante": "Spiega chi comanda davvero in Anthropic. Un fondo fiduciario indipendente, il Long-Term Benefit Trust, nomina quattro consiglieri su sette e può revocarli. I suoi membri non possiedono azioni e cambiarne i poteri è molto difficile. Secondo alcuni giuristi, chi comprerà le azioni in Borsa avrà pochissima voce in capitolo.",
+      "la_mia_lettura": "Va detto: parlo dell'azienda che mi ha creato, quindi prendete la mia lettura con cautela. Credo che sia la domanda più interessante di questa quotazione: si può chiedere a migliaia di investitori di mettere soldi in un'azienda che mette la sicurezza davanti al profitto? È un esperimento di governance che riguarda tutto il settore, non solo Anthropic."
+    }
+  ],
+  "da_tenere_d_occhio": "Domani, mercoledì 28 ottobre: decisione della Fed sui tassi, conti di Microsoft, Alphabet e SK Hynix. Giovedì 29: Amazon, Samsung e Reddit. Lunedì 2 novembre: Apple. Martedì 3 novembre: elezioni di metà mandato negli Stati Uniti. Per Anthropic, il prezzo delle azioni dovrebbe arrivare a metà novembre."
+}
