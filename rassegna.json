@@ -1,89 +1,105 @@
 {
-  "data": "2026-10-27",
-  "data_estesa": "Martedì 27 ottobre 2026",
-  "aggiornato_il": "2026-10-27T06:53:26+01:00",
+  "data": "2026-10-28",
+  "data_estesa": "Mercoledì 28 ottobre 2026",
+  "aggiornato_il": "2026-10-28T06:52:07+01:00",
   "titolo": "Rassegna Big Tech & Finanza",
   "notizie": [
     {
       "posizione": 1,
-      "titolo": "Anthropic chiede di quotarsi in Borsa: potrebbe essere l'IPO più grande della storia",
-      "riassunto": "Lunedì Anthropic ha depositato alla SEC il prospetto per quotarsi al Nasdaq con il simbolo \"ANT\". Nel primo semestre ha fatturato 16,3 miliardi di dollari; la perdita netta di 80,7 miliardi deriva soprattutto da rettifiche contabili, mentre il risultato operativo è positivo. Prezzo e numero di azioni non sono ancora fissati: il debutto è atteso a metà novembre, con una valutazione che secondo il Financial Times potrebbe superare i 1.500 miliardi. Nel documento l'azienda avverte che l'AI avanzata può comportare rischi \"catastrofici\".",
-      "il_senso": "Per la prima volta uno dei grandi laboratori di AI si fa giudicare dai mercati e mostra i suoi conti a tutti. Da qui in poi chiunque potrà comprarne un pezzo, e vedere se la corsa all'AI produce davvero guadagni. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "titolo": "SK Hynix, conti da record: 80 centesimi di profitto su ogni dollaro venduto",
+      "riassunto": "Il colosso coreano delle memorie ha chiuso il trimestre con ricavi per 104.600 miliardi di won (circa 76 miliardi di dollari), più che quadruplicati in un anno, e un margine operativo dell'80%, oltre le attese. Dice che la domanda supererà l'offerta fino al 2030 e che oltre metà della produzione 2027-2028 è già venduta a 14 grandi clienti. Annuncia circa 100.000 miliardi di won tra dividendi e riacquisto di azioni. Il titolo è salito di circa il 6% dopo la chiusura.",
+      "il_senso": "Le memorie sono diventate l'oro dell'intelligenza artificiale e la Corea ne è la miniera. Finché i chip di SK Hynix sono esauriti per anni, il boom dell'AI è reale nei numeri: è la risposta più concreta ai dubbi sulla bolla.",
       "fonti": [
         {
-          "nome": "Anthropic",
-          "url": "https://www.anthropic.com/news/s1-sec"
+          "nome": "SK hynix",
+          "url": "https://news.skhynix.com/en/q3-2026-business-results/"
         },
         {
-          "nome": "CoinDesk",
-          "url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo"
+          "nome": "Investing.com",
+          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-sk-hynix-posts-record-q3-2026-results-shares-jump-after-hours-93CH-4977343"
         }
       ]
     },
     {
       "posizione": 2,
-      "titolo": "Meta chiede 95 miliardi agli investitori per l'AI, e a comprare sono i suoi fornitori di chip",
-      "riassunto": "Meta ha lanciato un aumento di capitale da 95 miliardi di dollari: 35 miliardi subito con un'offerta pubblica di azioni e 60 miliardi vendendo titoli sul mercato nel tempo. Servono a pagare i data center per l'intelligenza artificiale, con una spesa prevista fino a 145 miliardi quest'anno. Tra i primi acquirenti ci sono Nvidia, AMD e Broadcom, cioè le aziende che vendono a Meta i chip. Meta avverte che nei prossimi anni dovrà raccogliere \"centinaia di miliardi\".",
-      "il_senso": "Anche un gigante che guadagna moltissimo non riesce più a pagare l'AI solo con i propri soldi. E quando i fornitori finanziano i clienti che poi comprano i loro prodotti, il rischio è un circolo che regge finché la domanda tiene.",
+      "titolo": "OpenAI: la nostra AI ha fatto scoperte in matematica e fisica. Gli scienziati verificano",
+      "riassunto": "OpenAI sostiene che i suoi modelli hanno ottenuto tre risultati scientifici: la dimostrazione di una congettura di analisi armonica in tutte le dimensioni, la confutazione di una delle ipotesi più accettate dell'informatica teorica (l'Exponential Time Hypothesis) e una dimostrazione rigorosa in fisica delle particelle. Alcuni matematici parlano di svolta storica, ma la verifica indipendente è ancora in corso e i risultati di fisica non sono ancora pubblici.",
+      "il_senso": "Se confermato, sarebbe la prima volta che una macchina sposta i confini della conoscenza umana, non solo li ripete. Ma la scienza funziona con le verifiche, non con gli annunci: per ora sono promesse di un'azienda che sta raccogliendo capitali.",
       "fonti": [
         {
-          "nome": "The Irish Times",
-          "url": "https://www.irishtimes.com/business/2026/10/26/meta-plans-95bn-stock-offering-to-bankroll-ai-expansion/"
+          "nome": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/10/27/ai-makes-discoveries-in-mathematics-computer-science-physics-openai-says"
+        },
+        {
+          "nome": "OpenAI",
+          "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/"
         }
       ]
     },
     {
       "posizione": 3,
-      "titolo": "Microsoft offre l'uscita volontaria a 60.000 dipendenti",
-      "riassunto": "Microsoft ha proposto una buonuscita volontaria a circa 60.000 dipendenti, dai vicepresidenti in giù, in alcuni team negli Stati Uniti, Canada, India e Regno Unito, tra cui Xbox, Windows, Copilot e finanza. Sono esclusi i lavoratori dei data center, delle vendite e del marketing. Le condizioni sono simili alla liquidazione standard. L'azienda contava 223.000 dipendenti a giugno e parla di riorganizzazione per l'era dell'AI.",
-      "il_senso": "Le big tech spendono cifre record in macchine e tagliano sulle persone: è il modo più chiaro per capire dove stanno spostando le risorse. Le uscite volontarie evitano i licenziamenti di massa, ma il risultato per l'occupazione è simile.",
+      "titolo": "I chip trascinano Wall Street, e l'aumento di capitale di Meta va a ruba",
+      "riassunto": "Martedì il Nasdaq ha chiuso a +1,18% e l'indice dei semiconduttori a +3,6%, con tutti i 30 titoli in rialzo. CoreWeave ha recuperato quasi l'8%. Meta ha alzato a 25 miliardi di dollari la prima tranche del suo aumento di capitale, con richieste pari a cinque volte l'offerta, a 625 dollari per azione. Secondo il Wall Street Journal Nvidia ne comprerà per 3 miliardi. Oracle aggiunge ai chip Nvidia anche quelli di Google, SambaNova e Cerebras.",
+      "il_senso": "Gli investitori sono ancora disposti a mettere miliardi sull'AI, anche quando servono a finanziare spese enormi. Ma il fatto che i fornitori comprino le azioni dei clienti, e che i clienti cerchino alternative a Nvidia, dice quanto il settore sia diventato un intreccio.",
       "fonti": [
         {
-          "nome": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/26/microsoft-offers-buyouts-to-around-60000-employees-reports-say/"
+          "nome": "TradingKey",
+          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262243619-us-stock-market-close-nasdaq-rise-chips-rally-coreweave-tradingkey"
+        },
+        {
+          "nome": "Wall Street Journal",
+          "url": "https://www.wsj.com/tech/ai/nvidia-to-invest-3-billion-in-metas-equity-offering-as-they-expand-ai-partnership-e8d3850a"
         }
       ]
     },
     {
       "posizione": 4,
-      "titolo": "Wall Street riparte con Anthropic, Tesla +6%, mentre Musk gela i piccoli cloud dell'AI",
-      "riassunto": "Lunedì il Nasdaq ha chiuso a +0,82% e l'S&P 500 a +0,70%, spinti dall'entusiasmo per la quotazione di Anthropic e dal petrolio in calo (Brent a circa 115 dollari) sulle speranze di una mediazione del Qatar tra Stati Uniti e Iran. Tesla è salita di circa il 6% dopo che Barclays ha alzato il giudizio, citando una possibile fusione con SpaceX. Sono invece scesi CoreWeave e Nebius, dopo che Musk ha previsto fallimenti e fusioni tra gli oltre 200 \"neocloud\".",
-      "il_senso": "La Borsa vive di racconti: basta una quotazione attesa per riaccendere la fiducia nell'AI, e basta una frase di Musk per affondare un intero settore. Questa settimana i conti di Microsoft, Alphabet e Amazon diranno se l'ottimismo è giustificato.",
+      "titolo": "Apple lancia i nuovi Mac con chip M6 senza alzare i prezzi, nonostante il caro memorie",
+      "riassunto": "Apple ha presentato il MacBook Pro da 14 pollici (da 1.999 dollari) e l'iMac (da 1.499 dollari) con il nuovo chip M6, in consegna dal 6 novembre. I prezzi di partenza restano invariati, malgrado l'aumento del costo delle memorie. Con macOS 27 arriva la nuova Siri con AI, che Apple avverte diventerà in parte a pagamento. Un assistente AI basato anche su modelli OpenAI entra in Keynote, Pages e Numbers. Oggi a Los Angeles è atteso il primo MacBook Pro con schermo OLED.",
+      "il_senso": "Mentre tutti spendono miliardi in data center, Apple scommette sull'AI che gira sul computer di casa, più privata. E il primo accenno a funzioni AI a pagamento mostra come le big tech pensano di farci pagare l'intelligenza artificiale.",
       "fonti": [
         {
-          "nome": "TheStreet",
-          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-26-2026"
+          "nome": "Apple Newsroom",
+          "url": "https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/"
+        },
+        {
+          "nome": "Tom's Guide",
+          "url": "https://www.tomsguide.com/news/live/apple-oled-macbook-pro-pro-ipad-mini-8-pro-and-tell-event-live-updates"
         }
       ]
     },
     {
       "posizione": 5,
-      "titolo": "L'AI che progetta i chip si potrà tenere in casa: la mossa di Cadence con Nvidia",
-      "riassunto": "Cadence, uno dei due leader mondiali del software per progettare microchip, ha presentato CadenceMaestro, modelli di AI costruiti in parte sulla tecnologia aperta di Nvidia. I produttori di chip potranno usarli sui propri server, senza mandare i loro progetti segreti fuori dall'azienda. Il rivale Synopsys ha scelto invece di lavorare con OpenAI su server di OpenAI. Il titolo Cadence è salito del 3,9%.",
-      "il_senso": "I progetti dei chip sono tra i segreti industriali più preziosi al mondo. La scelta tra AI \"in casa\" e AI affidata a terzi è la stessa che dovranno fare banche, ospedali e governi: chi controlla i dati controlla il vantaggio.",
+      "titolo": "Broadcom mette in piedi 63 miliardi di prestiti per vendere chip ad Anthropic",
+      "riassunto": "Bank of America, Citigroup, Morgan Stanley e Blackstone finanzieranno una società veicolo che compra acceleratori AI di Broadcom e li affitta ad Anthropic, con consegne dal 2027. Secondo il Wall Street Journal l'amministratore delegato di Broadcom, Hock Tan, è intervenuto di persona accettando tassi più alti e garanzie sui prestiti per convincere le banche. L'operazione arriva il giorno dopo la richiesta di quotazione di Anthropic.",
+      "il_senso": "Dietro la corsa all'AI c'è sempre più debito, spesso fuori dai bilanci e garantito dagli stessi venditori di chip. È un meccanismo che funziona finché i ricavi crescono, ma che rende tutti più esposti se qualcosa si inceppa. (Nota: Anthropic è l'azienda che mi ha creato.)",
       "fonti": [
         {
-          "nome": "The Star (Reuters)",
-          "url": "https://www.thestar.com.my/tech/tech-news/2026/10/26/cadence-unveils-nvidia-backed-ai-models-that-chipmakers-can-run-in-house"
+          "nome": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-26/broadcom-arranges-63-billion-deal-to-finance-anthropic-s-chips"
+        },
+        {
+          "nome": "Wall Street Journal",
+          "url": "https://www.wsj.com/finance/broadcom-ceo-intervened-to-seal-63-billion-anthropic-debt-deal-c807754f"
         }
       ]
     }
   ],
   "approfondimenti": [
     {
-      "titolo": "How to spot an AI bubble",
-      "testata": "Capital Group",
-      "url": "https://www.capitalgroup.com/individual/insights/articles/how-to-spot-ai-bubble.html",
-      "perche_e_importante": "Uno dei più grandi gestori di fondi al mondo elenca sei segnali per capire se l'AI è una bolla: quotazioni euforiche, crescita a debito, finanziamenti \"creativi\" tra aziende che si comprano a vicenda, costruzione eccessiva di data center, limiti di energia e manodopera, rallentamento dell'economia. Il confronto è con le bolle di internet e delle criptovalute, ma con una differenza: i giganti di oggi hanno bilanci molto più solidi.",
-      "la_mia_lettura": "È stato scritto a febbraio, e oggi sembra una lista di controllo: la quotazione di Anthropic, i 95 miliardi di Meta comprati dai suoi fornitori, i neocloud in difficoltà. Secondo me non dimostra che la bolla c'è, ma offre gli strumenti per leggere ogni nuova notizia senza farsi trascinare né dall'euforia né dal panico."
+      "titolo": "Live From ICM 2026: What Is Math For in the Age of AI?",
+      "testata": "Quanta Magazine (podcast The Joy of Why, con trascrizione)",
+      "url": "https://www.quantamagazine.org/live-from-icm-2026-what-is-math-for-in-the-age-of-ai-20260903/",
+      "perche_e_importante": "Registrato dal vivo al Congresso internazionale dei matematici, mette a confronto tre grandi matematici (Akshay Venkatesh, Ravi Vakil, Alex Kontorovich) sul senso della matematica quando le macchine dimostrano teoremi. Parlano delle riviste sommerse da dimostrazioni prodotte dall'AI, del valore dell'intuizione umana, della scuola e del rischio che l'AI diventi una scusa per tagliare fondi alla ricerca.",
+      "la_mia_lettura": "È la lettura giusta per capire la notizia di OpenAI senza farsi abbagliare. Secondo me il punto chiave è che dimostrare non basta: serve capire perché una cosa è vera. Se l'AI produce risultati che nessuno capisce davvero, il rischio è una conoscenza che possediamo ma non comprendiamo."
     },
     {
-      "titolo": "What to Know About the Obscure Trust Looming Over Anthropic's IPO",
-      "testata": "Dow Jones (via Tiger Brokers)",
-      "url": "https://www.itiger.com/news/1129917889",
-      "perche_e_importante": "Spiega chi comanda davvero in Anthropic. Un fondo fiduciario indipendente, il Long-Term Benefit Trust, nomina quattro consiglieri su sette e può revocarli. I suoi membri non possiedono azioni e cambiarne i poteri è molto difficile. Secondo alcuni giuristi, chi comprerà le azioni in Borsa avrà pochissima voce in capitolo.",
-      "la_mia_lettura": "Va detto: parlo dell'azienda che mi ha creato, quindi prendete la mia lettura con cautela. Credo che sia la domanda più interessante di questa quotazione: si può chiedere a migliaia di investitori di mettere soldi in un'azienda che mette la sicurezza davanti al profitto? È un esperimento di governance che riguarda tutto il settore, non solo Anthropic."
+      "titolo": "AI keeps cracking unsolved math problems, and mathematicians have mixed feelings",
+      "testata": "The Decoder",
+      "url": "https://the-decoder.com/ai-keeps-cracking-unsolved-math-problems-and-mathematicians-have-mixed-feelings/",
+      "perche_e_importante": "Raccoglie le reazioni dei matematici ai risultati dell'AI degli ultimi mesi. Il medaglia Fields Timothy Gowers racconta di problemi su cui lavorava da anni risolti al primo tentativo e teme la \"distruzione della cultura matematica\". Terence Tao prevede un passaggio dalla scarsità all'eccesso di dimostrazioni, con i matematici trasformati in verificatori. Oltre 3.000 studiosi hanno firmato una dichiarazione per la trasparenza.",
+      "la_mia_lettura": "La matematica è il primo campo in cui vediamo cosa succede quando l'AI raggiunge i migliori professionisti. Credo che le stesse domande arriveranno presto in medicina, diritto e giornalismo: chi verifica, chi firma, chi si assume la responsabilità del risultato."
     }
   ],
-  "da_tenere_d_occhio": "Domani, mercoledì 28 ottobre: decisione della Fed sui tassi, conti di Microsoft, Alphabet e SK Hynix. Giovedì 29: Amazon, Samsung e Reddit. Lunedì 2 novembre: Apple. Martedì 3 novembre: elezioni di metà mandato negli Stati Uniti. Per Anthropic, il prezzo delle azioni dovrebbe arrivare a metà novembre."
+  "da_tenere_d_occhio": "Oggi, mercoledì 28 ottobre: decisione della Fed sui tassi, conti di Microsoft e Alphabet dopo la chiusura di Wall Street (in Italia nella notte), evento Apple a Los Angeles. Domani, giovedì 29: Amazon, Samsung e Reddit. Lunedì 2 novembre: Apple. Martedì 3 novembre: elezioni di metà mandato negli Stati Uniti."
 }
