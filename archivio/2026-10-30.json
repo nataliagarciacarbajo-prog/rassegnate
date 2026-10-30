@@ -1,0 +1,101 @@
+{
+  "data": "2026-10-30",
+  "data_estesa": "Venerdì 30 ottobre 2026",
+  "aggiornato_il": "2026-10-30T06:52:09+01:00",
+  "titolo": "Rassegna Big Tech & Finanza",
+  "notizie": [
+    {
+      "posizione": 1,
+      "titolo": "Alphabet crolla del 12,6%: il giorno peggiore della sua storia in Borsa",
+      "riassunto": "Giovedì le azioni di Alphabet hanno perso il 12,64%, bruciando circa 500 miliardi di dollari di valore. Gli investitori hanno punito utili sotto le attese, la cassa in rosso di 9,1 miliardi per le spese in AI e soprattutto il rallentamento della ricerca: i ricavi di Search sono cresciuti del 12%, contro il 19% di inizio anno. Google risponde portando la pubblicità nelle risposte AI in molti altri Paesi. Il Nasdaq ha chiuso a -1,4%.",
+      "il_senso": "È il primo grande segnale che l'AI può danneggiare anche chi la costruisce: le risposte dei chatbot rendono meno degli annunci classici. Se si indebolisce la macchina pubblicitaria di Google, cambia l'economia di tutto internet, informazione compresa.",
+      "fonti": [
+        {
+          "nome": "Stock Titan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-29-2026"
+        },
+        {
+          "nome": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
+        },
+        {
+          "nome": "TheStreet",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-29-2026"
+        }
+      ]
+    },
+    {
+      "posizione": 2,
+      "titolo": "Amazon: il cloud corre come non faceva da cinque anni, ma la cassa va in rosso di 42 miliardi",
+      "riassunto": "Amazon ha fatturato 201,9 miliardi di dollari (+12%) e il suo cloud AWS è cresciuto del 39%, il ritmo più alto da quasi cinque anni; il margine operativo è il più alto di sempre. Ma negli ultimi dodici mesi ha speso 42,4 miliardi in più di quanto ha incassato, per gli investimenti in AI: quest'anno spenderà circa 220 miliardi. L'utile per azione è sotto le attese e il titolo ha perso circa il 7% dopo la chiusura.",
+      "il_senso": "Anche il gigante del commercio online brucia cassa per costruire data center. I conti di questa settimana mostrano un mercato che vuole vedere subito i ritorni dell'AI, e che non premia più la sola crescita.",
+      "fonti": [
+        {
+          "nome": "Amazon",
+          "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/"
+        },
+        {
+          "nome": "24/7 Wall St.",
+          "url": "https://247wallst.com/cards/amazon-q3-2026-earnings-amzn-01m64mgs2373wqp8ya2hpcgve3"
+        }
+      ]
+    },
+    {
+      "posizione": 3,
+      "titolo": "DoorDash compra Instacart per 17 miliardi: nasce il gigante delle consegne",
+      "riassunto": "DoorDash, leader americano delle consegne di cibo, ha annunciato l'acquisto di Instacart, leader della spesa a domicilio, per circa 17 miliardi di dollari (65 dollari per azione). Il marchio e l'app di Instacart resteranno. La chiusura è prevista tra fine 2027 e inizio 2028, e l'operazione dovrà superare l'esame dell'antitrust americano e canadese. Secondo Bloomberg l'obiettivo è sfidare Walmart e Amazon.",
+      "il_senso": "Meno concorrenza tra le piattaforme può voler dire prezzi più alti per chi ordina e paghe più basse per i rider, che oggi passano da un'app all'altra per guadagnare di più. È un test per l'antitrust nell'economia dei lavoretti.",
+      "fonti": [
+        {
+          "nome": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/"
+        },
+        {
+          "nome": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/doordash-to-buy-instacart-in-17-billion-deal"
+        }
+      ]
+    },
+    {
+      "posizione": 4,
+      "titolo": "Intel affonda del 23% dopo la chiusura: previsioni deboli per i PC",
+      "riassunto": "Intel ha previsto per il quarto trimestre ricavi tra 15 e 16 miliardi di dollari, meno dei 16,5 miliardi del trimestre appena chiuso, segnalando un rallentamento delle vendite di computer. Il titolo è crollato di circa il 23% nelle contrattazioni dopo la chiusura. Nella stessa giornata Marvell ha perso il 13% sulle voci di trattative per comprare Lumentum, non confermate.",
+      "il_senso": "Il caro memorie spinto dall'AI rende i computer più costosi, e questo probabilmente pesa sulle vendite (è una mia lettura, Intel parla di rallentamento dei PC). Mentre Samsung e SK Hynix fanno profitti record, chi vende chip per PC paga il conto dello stesso boom.",
+      "fonti": [
+        {
+          "nome": "Stock Titan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-29-2026"
+        }
+      ]
+    },
+    {
+      "posizione": 5,
+      "titolo": "Malesia, sequestrati chip AI per 12 milioni nascosti in 30 server",
+      "riassunto": "La dogana malese ha sequestrato all'aeroporto di Kuala Lumpur 30 server con chip AI avanzati, dichiarati come normali componenti elettronici, per un valore di oltre 12 milioni di dollari. Le autorità sospettano una rete di contrabbando che usa la Malesia come scalo, collegata ad almeno cinque casi per oltre 25 milioni. La destinazione finale non è stata resa nota, ma il sospetto è la Cina, dove gli Stati Uniti vietano la vendita dei chip più potenti.",
+      "il_senso": "I divieti americani sui chip creano un mercato nero globale, come per qualsiasi bene prezioso. Il Sud-est asiatico è diventato il crocevia di una guerra tecnologica combattuta anche con le dogane.",
+      "fonti": [
+        {
+          "nome": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/policy/malaysia-seizes-usd12-million-worth-of-advanced-ai-chips-hidden-inside-30-servers-customs-says-suspected-smuggling-network-used-the-country-as-a-transit-hub"
+        }
+      ]
+    }
+  ],
+  "approfondimenti": [
+    {
+      "titolo": "Analysis: AI investment boom puts Big Tech's free cash flow under pressure",
+      "testata": "Reuters (via The Star)",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/22/analysis-ai-investment-boom-puts-big-tech039s-free-cash-flow-under-pressure",
+      "perche_e_importante": "Scritta a luglio, spiega con i numeri il problema esploso questa settimana. Microsoft, Alphabet, Amazon, Meta e Oracle stanno per spendere in investimenti più di quanto generano in cassa: per ogni dollaro in più incassato tra il 2025 e il 2027 ne investiranno circa 1,57. Le stime di spesa per il 2026 sono passate da 485 a 730 miliardi in sei mesi.",
+      "la_mia_lettura": "È la chiave per leggere il crollo di Alphabet e il calo di Amazon. Secondo me il mercato non sta dicendo che l'AI non funziona, ma che le big tech stanno diventando aziende ad alta intensità di capitale, come le ferrovie o l'energia, e quindi meritano valutazioni diverse da quelle del software."
+    },
+    {
+      "titolo": "DoorDash's $17B Acquisition of Instacart Points to a World Without Employees",
+      "testata": "BIG by Matt Stoller (Lee Hepner)",
+      "url": "https://www.thebignewsletter.com/p/a-world-without-employees-why-doordash",
+      "perche_e_importante": "Dalla newsletter antitrust più influente d'America, un'analisi che guarda la fusione dal punto di vista dei lavoratori. DoorDash controlla circa due terzi delle consegne di ristoranti negli Stati Uniti, Instacart oltre metà della spesa a domicilio. L'autore spiega come le piattaforme usano algoritmi per fissare le paghe e perché l'antitrust dovrebbe occuparsi anche del lavoro, non solo dei prezzi.",
+      "la_mia_lettura": "È un punto di vista dichiaratamente critico verso le piattaforme, ma solleva una domanda che riguarda anche l'Europa: chi protegge i lavoratori quando il datore di lavoro è un algoritmo e i concorrenti si fondono? Credo che sarà uno dei grandi temi dei prossimi anni, con l'AI che porta lo stesso modello in altri mestieri."
+    }
+  ],
+  "da_tenere_d_occhio": "Oggi, venerdì 30 ottobre: reazione delle Borse ai conti di Amazon e Intel. Lunedì 2 novembre: conti di Apple. Martedì 3 novembre: elezioni di metà mandato negli Stati Uniti. Da seguire il petrolio e i tentativi di riaprire il dialogo tra Stati Uniti e Iran, e la quotazione di Anthropic attesa a metà novembre."
+}

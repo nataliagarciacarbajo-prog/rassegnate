@@ -1,101 +1,101 @@
 {
-  "data": "2026-10-29",
-  "data_estesa": "Giovedì 29 ottobre 2026",
-  "aggiornato_il": "2026-10-29T06:53:01+01:00",
+  "data": "2026-10-30",
+  "data_estesa": "Venerdì 30 ottobre 2026",
+  "aggiornato_il": "2026-10-30T06:52:09+01:00",
   "titolo": "Rassegna Big Tech & Finanza",
   "notizie": [
     {
       "posizione": 1,
-      "titolo": "Microsoft promossa, Alphabet delude: i conti dell'AI dividono i giganti",
-      "riassunto": "Microsoft ha chiuso il trimestre con ricavi per 92,3 miliardi di dollari (+19%) e per la prima volta ha detto quanto vale Azure, il suo cloud: 33,2 miliardi, +48%. Prevede di crescere ancora di più e il titolo è salito di circa il 4% dopo la chiusura. Alphabet ha incassato 127,6 miliardi e Google Cloud è più che raddoppiato, ma l'utile per azione (2,12 dollari contro i 3,01 attesi) è stato frenato da una perdita di 8,2 miliardi sulla sua quota in SpaceX, e la cassa è andata in rosso di 9 miliardi. Il titolo è sceso dopo la chiusura.",
-      "il_senso": "Il cloud per l'AI cresce a ritmi impressionanti per tutti, ma i mercati ora guardano anche a quanto costa: chi spende senza generare cassa viene punito. E la ricerca di Google, il cuore di internet, cresce più lentamente proprio a causa dell'AI.",
+      "titolo": "Alphabet crolla del 12,6%: il giorno peggiore della sua storia in Borsa",
+      "riassunto": "Giovedì le azioni di Alphabet hanno perso il 12,64%, bruciando circa 500 miliardi di dollari di valore. Gli investitori hanno punito utili sotto le attese, la cassa in rosso di 9,1 miliardi per le spese in AI e soprattutto il rallentamento della ricerca: i ricavi di Search sono cresciuti del 12%, contro il 19% di inizio anno. Google risponde portando la pubblicità nelle risposte AI in molti altri Paesi. Il Nasdaq ha chiuso a -1,4%.",
+      "il_senso": "È il primo grande segnale che l'AI può danneggiare anche chi la costruisce: le risposte dei chatbot rendono meno degli annunci classici. Se si indebolisce la macchina pubblicitaria di Google, cambia l'economia di tutto internet, informazione compresa.",
       "fonti": [
         {
-          "nome": "SiliconANGLE",
-          "url": "https://siliconangle.com/2026/10/28/microsofts-stock-rises-on-solid-earnings-and-revenue-beat-with-azure-growing-48/"
+          "nome": "Stock Titan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-29-2026"
         },
         {
-          "nome": "Constellation Research",
-          "url": "https://www.constellationr.com/insights/news/google-cloud-q3-revenue-103-alphabet-results-light"
+          "nome": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/"
         },
         {
-          "nome": "BigGo Finance",
-          "url": "https://finance.biggo.com/news/US_GOOG_2026-10-28"
+          "nome": "TheStreet",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-29-2026"
         }
       ]
     },
     {
       "posizione": 2,
-      "titolo": "Samsung supera i 100.000 miliardi di won di utile in un trimestre: prima volta al mondo",
-      "riassunto": "Samsung Electronics ha registrato un utile operativo di 107.400 miliardi di won (circa 78 miliardi di dollari), quasi nove volte quello di un anno fa, su ricavi record di 195.300 miliardi. Quasi tutto il profitto viene dai chip, in particolare dalle memorie per l'AI. L'azienda prevede che nel 2027 la domanda di memorie per l'AI supererà l'offerta ancora più di quest'anno, e che la sua fabbrica in Texas entrerà in funzione.",
-      "il_senso": "Dopo SK Hynix, anche Samsung conferma che le memorie sono il collo di bottiglia dell'AI e valgono oro. Per i consumatori significa computer e telefoni più cari; per la Corea, un'economia sempre più dipendente da un solo settore.",
+      "titolo": "Amazon: il cloud corre come non faceva da cinque anni, ma la cassa va in rosso di 42 miliardi",
+      "riassunto": "Amazon ha fatturato 201,9 miliardi di dollari (+12%) e il suo cloud AWS è cresciuto del 39%, il ritmo più alto da quasi cinque anni; il margine operativo è il più alto di sempre. Ma negli ultimi dodici mesi ha speso 42,4 miliardi in più di quanto ha incassato, per gli investimenti in AI: quest'anno spenderà circa 220 miliardi. L'utile per azione è sotto le attese e il titolo ha perso circa il 7% dopo la chiusura.",
+      "il_senso": "Anche il gigante del commercio online brucia cassa per costruire data center. I conti di questa settimana mostrano un mercato che vuole vedere subito i ritorni dell'AI, e che non premia più la sola crescita.",
       "fonti": [
         {
-          "nome": "TradingKey",
-          "url": "https://www.tradingkey.com/analysis/stocks/more/262250486-samsung-q3-operating-profit-record-ai-storage-demand-2027-tradingkey"
+          "nome": "Amazon",
+          "url": "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/"
         },
         {
-          "nome": "Samsung Newsroom",
-          "url": "https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results"
+          "nome": "24/7 Wall St.",
+          "url": "https://247wallst.com/cards/amazon-q3-2026-earnings-amzn-01m64mgs2373wqp8ya2hpcgve3"
         }
       ]
     },
     {
       "posizione": 3,
-      "titolo": "La Fed di Warsh lascia i tassi fermi, ma due membri volevano già alzarli",
-      "riassunto": "La banca centrale americana ha mantenuto i tassi tra il 3,75% e il 4%, dopo il rialzo di settembre. Due membri del comitato, Lisa Cook e Beth Hammack, hanno votato per un aumento immediato. Il presidente Kevin Warsh ha ricordato che l'inflazione è sopra l'obiettivo da quasi sei anni. Il petrolio è risalito a quasi 103 dollari per le tensioni con l'Iran e i mercati scommettono all'85% su un rialzo a dicembre.",
-      "il_senso": "Tassi alti significano mutui e prestiti più cari per tutti, e pesano soprattutto sulle aziende tech, che vivono di promesse future. La decisione arriva a sei giorni dalle elezioni di metà mandato.",
+      "titolo": "DoorDash compra Instacart per 17 miliardi: nasce il gigante delle consegne",
+      "riassunto": "DoorDash, leader americano delle consegne di cibo, ha annunciato l'acquisto di Instacart, leader della spesa a domicilio, per circa 17 miliardi di dollari (65 dollari per azione). Il marchio e l'app di Instacart resteranno. La chiusura è prevista tra fine 2027 e inizio 2028, e l'operazione dovrà superare l'esame dell'antitrust americano e canadese. Secondo Bloomberg l'obiettivo è sfidare Walmart e Amazon.",
+      "il_senso": "Meno concorrenza tra le piattaforme può voler dire prezzi più alti per chi ordina e paghe più basse per i rider, che oggi passano da un'app all'altra per guadagnare di più. È un test per l'antitrust nell'economia dei lavoretti.",
       "fonti": [
         {
-          "nome": "Fox Business",
-          "url": "https://www.foxbusiness.com/economy/federal-reserve-interest-rate-decision-october-28-2026"
+          "nome": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/"
         },
         {
-          "nome": "Admiral Markets",
-          "url": "https://admiralmarkets.com/analytics/traders-blog/warsh-press-conference-october-2026"
+          "nome": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-29/doordash-to-buy-instacart-in-17-billion-deal"
         }
       ]
     },
     {
       "posizione": 4,
-      "titolo": "I Paesi Bassi taglieranno 25.000 posti nello Stato grazie all'AI",
-      "riassunto": "Il governo olandese ha annunciato che ridurrà di circa 25.000 unità i dipendenti pubblici centrali nel corso di diversi anni, puntando su intelligenza artificiale ed efficienza. Il risparmio previsto è di circa 900 milioni di euro l'anno dal 2027, fino a 3,5 miliardi l'anno dal 2035. \"Non possiamo continuare a fare quello che abbiamo sempre fatto\", ha detto il sottosegretario Eric van den Burg.",
-      "il_senso": "Per la prima volta un governo europeo lega esplicitamente un grande taglio di posti pubblici all'AI. Se funziona, altri Paesi lo imiteranno; se i servizi peggiorano, a pagarne il prezzo saranno i cittadini.",
+      "titolo": "Intel affonda del 23% dopo la chiusura: previsioni deboli per i PC",
+      "riassunto": "Intel ha previsto per il quarto trimestre ricavi tra 15 e 16 miliardi di dollari, meno dei 16,5 miliardi del trimestre appena chiuso, segnalando un rallentamento delle vendite di computer. Il titolo è crollato di circa il 23% nelle contrattazioni dopo la chiusura. Nella stessa giornata Marvell ha perso il 13% sulle voci di trattative per comprare Lumentum, non confermate.",
+      "il_senso": "Il caro memorie spinto dall'AI rende i computer più costosi, e questo probabilmente pesa sulle vendite (è una mia lettura, Intel parla di rallentamento dei PC). Mentre Samsung e SK Hynix fanno profitti record, chi vende chip per PC paga il conto dello stesso boom.",
       "fonti": [
         {
-          "nome": "ThePrint",
-          "url": "https://theprint.in/world/dutch-govt-plans-to-cut-25000-jobs-in-ai-led-overhaul/3081944/"
+          "nome": "Stock Titan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-29-2026"
         }
       ]
     },
     {
       "posizione": 5,
-      "titolo": "Apple lancia il primo MacBook Pro con schermo touch, da 2.899 dollari",
-      "riassunto": "All'evento di Los Angeles Apple ha presentato il primo MacBook Pro con schermo OLED touch e chip M5 Pro e M5 Max: il modello da 14 pollici parte da 2.899 dollari, quello da 16 da 3.399, in consegna dal 6 novembre. È un cambio di rotta: per anni Apple aveva escluso il touch sui Mac. Il prezzo è ben più alto dei MacBook Pro presentati il giorno prima, anche per il costo dei pannelli OLED.",
-      "il_senso": "Apple rompe un suo tabù per rilanciare i computer in un mercato in cui l'attenzione è tutta sull'AI. Ma i prezzi in salita mostrano che il caro chip comincia ad arrivare nei negozi.",
+      "titolo": "Malesia, sequestrati chip AI per 12 milioni nascosti in 30 server",
+      "riassunto": "La dogana malese ha sequestrato all'aeroporto di Kuala Lumpur 30 server con chip AI avanzati, dichiarati come normali componenti elettronici, per un valore di oltre 12 milioni di dollari. Le autorità sospettano una rete di contrabbando che usa la Malesia come scalo, collegata ad almeno cinque casi per oltre 25 milioni. La destinazione finale non è stata resa nota, ma il sospetto è la Cina, dove gli Stati Uniti vietano la vendita dei chip più potenti.",
+      "il_senso": "I divieti americani sui chip creano un mercato nero globale, come per qualsiasi bene prezioso. Il Sud-est asiatico è diventato il crocevia di una guerra tecnologica combattuta anche con le dogane.",
       "fonti": [
         {
-          "nome": "Apple Newsroom",
-          "url": "https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/"
+          "nome": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/policy/malaysia-seizes-usd12-million-worth-of-advanced-ai-chips-hidden-inside-30-servers-customs-says-suspected-smuggling-network-used-the-country-as-a-transit-hub"
         }
       ]
     }
   ],
   "approfondimenti": [
     {
-      "titolo": "AI and Government Workers: Use Cases in Public Administration",
-      "testata": "Roosevelt Institute",
-      "url": "https://rooseveltinstitute.org/wp-content/uploads/2025/07/RI_AI-and-Government-Workers_Report_202507.pdf",
-      "perche_e_importante": "La ricercatrice Samantha Shorey analizza come l'AI viene usata davvero negli uffici pubblici americani: chatbot, traduzioni, riassunti, decisioni su sussidi. Scopre che spesso il lavoro non sparisce ma si sposta: i casi difficili restano agli impiegati, gli errori delle macchine vanno corretti a mano e i cittadini faticano a contestare decisioni automatiche sbagliate.",
-      "la_mia_lettura": "È la lettura perfetta accanto alla notizia olandese. Secondo me il rischio non è che l'AI non funzioni, ma che venga usata come giustificazione per tagli decisi prima di sapere se funziona. Nei servizi pubblici un errore non è un cliente perso, è una persona senza assistenza."
+      "titolo": "Analysis: AI investment boom puts Big Tech's free cash flow under pressure",
+      "testata": "Reuters (via The Star)",
+      "url": "https://www.thestar.com.my/tech/tech-news/2026/07/22/analysis-ai-investment-boom-puts-big-tech039s-free-cash-flow-under-pressure",
+      "perche_e_importante": "Scritta a luglio, spiega con i numeri il problema esploso questa settimana. Microsoft, Alphabet, Amazon, Meta e Oracle stanno per spendere in investimenti più di quanto generano in cassa: per ogni dollaro in più incassato tra il 2025 e il 2027 ne investiranno circa 1,57. Le stime di spesa per il 2026 sono passate da 485 a 730 miliardi in sei mesi.",
+      "la_mia_lettura": "È la chiave per leggere il crollo di Alphabet e il calo di Amazon. Secondo me il mercato non sta dicendo che l'AI non funziona, ma che le big tech stanno diventando aziende ad alta intensità di capitale, come le ferrovie o l'energia, e quindi meritano valutazioni diverse da quelle del software."
     },
     {
-      "titolo": "The Agentic Web and Original Sin",
-      "testata": "Stratechery (Ben Thompson)",
-      "url": "https://stratechery.com/2025/the-agentic-web-and-original-sin/",
-      "perche_e_importante": "Uno degli analisti tech più letti spiega perché la pubblicità è stata l'unico modello che ha reso internet gratuito e di massa, e perché l'AI lo mette in crisi: se a cercare e leggere sono gli assistenti AI, nessuno vede più gli annunci e i siti perdono traffico. Propone di pagare i contenuti con micropagamenti automatici in base a quanto vengono citati dalle AI.",
-      "la_mia_lettura": "I conti di Alphabet di ieri lo confermano: la ricerca rallenta anche perché le risposte AI rendono meno. Credo sia una questione che riguarda direttamente il giornalismo: chi pagherà chi produce le notizie, se le persone leggono solo il riassunto di una macchina?"
+      "titolo": "DoorDash's $17B Acquisition of Instacart Points to a World Without Employees",
+      "testata": "BIG by Matt Stoller (Lee Hepner)",
+      "url": "https://www.thebignewsletter.com/p/a-world-without-employees-why-doordash",
+      "perche_e_importante": "Dalla newsletter antitrust più influente d'America, un'analisi che guarda la fusione dal punto di vista dei lavoratori. DoorDash controlla circa due terzi delle consegne di ristoranti negli Stati Uniti, Instacart oltre metà della spesa a domicilio. L'autore spiega come le piattaforme usano algoritmi per fissare le paghe e perché l'antitrust dovrebbe occuparsi anche del lavoro, non solo dei prezzi.",
+      "la_mia_lettura": "È un punto di vista dichiaratamente critico verso le piattaforme, ma solleva una domanda che riguarda anche l'Europa: chi protegge i lavoratori quando il datore di lavoro è un algoritmo e i concorrenti si fondono? Credo che sarà uno dei grandi temi dei prossimi anni, con l'AI che porta lo stesso modello in altri mestieri."
     }
   ],
-  "da_tenere_d_occhio": "Oggi, giovedì 29 ottobre: conti di Amazon e Reddit dopo la chiusura di Wall Street (in Italia nella notte). Lunedì 2 novembre: Apple. Martedì 3 novembre: elezioni di metà mandato negli Stati Uniti. Da seguire il petrolio, risalito per le tensioni con l'Iran, e la quotazione di Anthropic attesa a metà novembre."
+  "da_tenere_d_occhio": "Oggi, venerdì 30 ottobre: reazione delle Borse ai conti di Amazon e Intel. Lunedì 2 novembre: conti di Apple. Martedì 3 novembre: elezioni di metà mandato negli Stati Uniti. Da seguire il petrolio e i tentativi di riaprire il dialogo tra Stati Uniti e Iran, e la quotazione di Anthropic attesa a metà novembre."
 }
