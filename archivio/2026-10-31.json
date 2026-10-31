@@ -1,0 +1,89 @@
+{
+  "data": "2026-10-31",
+  "data_estesa": "Sabato 31 ottobre 2026",
+  "aggiornato_il": "2026-10-31T06:51:47+01:00",
+  "titolo": "Rassegna Big Tech & Finanza",
+  "notizie": [
+    {
+      "posizione": 1,
+      "titolo": "Ottobre si chiude con un crollo: Nasdaq -2,8%, Intel -29%, il giorno peggiore dal 1974",
+      "riassunto": "Venerdì il Nasdaq ha perso il 2,84% e l'S&P 500 l'1,83%, con quasi il 70% dei titoli in calo e l'indice della paura in forte rialzo. Intel ha perso circa il 29%, il calo più grande dal 1974, per previsioni molto deboli dovute al crollo dei PC e a un incidente in una sua fabbrica in Israele. Reddit ha perso il 29%, Amazon ha deluso. Il petrolio è risalito a 117,8 dollari (Brent) dopo attacchi a petroliere nello Stretto di Hormuz.",
+      "il_senso": "In una settimana il mercato è passato dall'entusiasmo per l'AI alla paura dei suoi costi: aziende che spendono più di quanto incassano, debiti in crescita, guerre che fanno salire l'energia. Per chi ha risparmi in fondi azionari, è il segnale che la corsa dell'AI non è più a senso unico.",
+      "fonti": [
+        {
+          "nome": "TheStreet",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-30-2026"
+        },
+        {
+          "nome": "Stock Titan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-october-30-2026"
+        }
+      ]
+    },
+    {
+      "posizione": 2,
+      "titolo": "Apple torna l'azienda più ricca del mondo e supera Nvidia",
+      "riassunto": "Alla chiusura di venerdì Apple valeva 5.030 miliardi di dollari, più dei 4.930 di Nvidia, che le aveva strappato il primato. In ottobre Apple è salita del 3,5% mentre Nvidia ha perso il 10,4%. Seguono Microsoft (3.880 miliardi), Alphabet (3.440) e Amazon (2.600). Il sorpasso arriva nel mese in cui gli investitori hanno cominciato a dubitare dei ritorni della spesa in AI, da cui Apple si è tenuta in gran parte fuori.",
+      "il_senso": "Per anni Apple è stata accusata di essere in ritardo sull'AI. Ora la sua prudenza viene premiata: chi non ha speso centinaia di miliardi in data center non deve giustificarli.",
+      "fonti": [
+        {
+          "nome": "TradingKey",
+          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262262204-largest-companies-by-market-cap-october-2026-apple-nvidia-microsoft-google-tradingkey"
+        }
+      ]
+    },
+    {
+      "posizione": 3,
+      "titolo": "Binance, colpo da 6,3 miliardi: potrebbe essere il più grande furto di criptovalute di sempre",
+      "riassunto": "Binance, la più grande piattaforma di scambio di criptovalute al mondo, stima in 6,3 miliardi di dollari l'impatto di un attacco informatico: secondo le prime indagini un hacker ha usato il portatile compromesso di un ingegnere per autorizzare prelievi. Circa 3 miliardi sono stati congelati e Binance promette di rimborsare tutto. I prelievi sono sospesi per 48 ore. Il bitcoin è sceso del 3,3%, a circa 77.000 dollari.",
+      "il_senso": "Basta un computer violato per spostare miliardi: le criptovalute promettono libertà dalle banche, ma concentrano rischi enormi in poche piattaforme. E con l'AI che rende gli attacchi informatici più facili, la sicurezza diventa una questione di stabilità finanziaria.",
+      "fonti": [
+        {
+          "nome": "TheStreet",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-30-2026"
+        }
+      ]
+    },
+    {
+      "posizione": 4,
+      "titolo": "OpenAI, Google, Microsoft e Anthropic: un solo \"no\" per vietare l'uso dei siti nell'addestramento dell'AI",
+      "riassunto": "Le quattro aziende sosterranno un nuovo standard che permette ai siti web di bloccare con una sola riga l'uso dei loro contenuti per addestrare modelli di AI generativa, invece di dover bloccare uno per uno i programmi di ogni azienda. La proposta è stata presentata all'IETF, l'ente che definisce gli standard di internet. Microsoft e OpenAI la adotteranno nei prossimi mesi, Google il prossimo anno; Meta non si è impegnata. Lo standard non riguarda le risposte in tempo reale dei chatbot.",
+      "il_senso": "Per editori e giornalisti è un passo avanti: diventa più semplice dire no all'uso gratuito del proprio lavoro. Ma il blocco vale solo per l'addestramento, non per i chatbot che leggono e riassumono gli articoli al posto dei lettori. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "fonti": [
+        {
+          "nome": "SiliconANGLE",
+          "url": "https://siliconangle.com/2026/10/30/google-anthropic-and-others-to-support-new-ai-crawling-opt-out-standard/"
+        }
+      ]
+    },
+    {
+      "posizione": 5,
+      "titolo": "La francese Mistral regala il suo modello più grande, puntando sulla cybersicurezza \"sovrana\"",
+      "riassunto": "Mistral ha reso scaricabile gratuitamente Mistral Large 4, un modello da mille miliardi di parametri: aziende e governi possono installarlo sui propri server invece di affidarsi ai servizi di OpenAI o Anthropic. È pensato soprattutto per la difesa informatica, per individuare e rispondere agli attacchi. Mistral sostiene che regga il confronto con i migliori modelli aperti cinesi usando meno risorse.",
+      "il_senso": "L'Europa non ha giganti come Google, ma con Mistral prova a offrire un'AI che governi e aziende possono controllare da soli. In un mondo di attacchi informatici potenziati dall'AI, avere strumenti propri è una questione di sovranità.",
+      "fonti": [
+        {
+          "nome": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/29/mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecurity/"
+        }
+      ]
+    }
+  ],
+  "approfondimenti": [
+    {
+      "titolo": "While big tech burns cash on AI, Apple waits",
+      "testata": "Fortune (Ioannis Ioannou)",
+      "url": "https://fortune.com/2026/02/17/why-apple-isnt-spending-big-on-ai-capex-commodity-integration-strategy/",
+      "perche_e_importante": "Scritto a febbraio, sembra il commento perfetto al sorpasso di ieri. L'autore sostiene che la scarsa spesa di Apple in AI (12,7 miliardi in un anno, contro le centinaia degli altri) è una strategia: se i modelli di AI diventano merce intercambiabile, conviene comprarli dal fornitore migliore del momento e concentrarsi su prodotti, privacy e 2,4 miliardi di dispositivi.",
+      "la_mia_lettura": "Secondo me è la tesi da tenere a mente in queste settimane: nella corsa all'oro spesso guadagna di più chi vende le pale o chi aspetta. Il rischio, che l'autore ammette, è che l'AI non diventi una merce e Apple resti dipendente da Google e OpenAI."
+    },
+    {
+      "titolo": "How once-iconic Intel fell into a 20-year decline",
+      "testata": "Fortune (Geoff Colvin)",
+      "url": "https://fortune.com/2025/08/10/intel-stock-price-ceo-history-tsmc-semiconductors/",
+      "perche_e_importante": "Ricostruisce vent'anni di errori del gigante che ha inventato il microprocessore moderno: acquisizioni fallite, il treno degli smartphone perso, ritardi nella produzione che l'hanno fatta superare da TSMC e Samsung, cambi continui ai vertici. E spiega perché il suo destino riguarda la sicurezza nazionale: è l'unica azienda americana in grado di produrre chip avanzati negli Stati Uniti.",
+      "la_mia_lettura": "Il crollo di ieri è l'ultimo capitolo di questa storia. Credo che Intel sia il caso di scuola di come anche un leader assoluto possa perdere tutto mancando una svolta tecnologica. Ed è un monito per chi oggi domina con l'AI."
+    }
+  ],
+  "da_tenere_d_occhio": "Lunedì 2 novembre: conti di Apple. Martedì 3 novembre: elezioni di metà mandato negli Stati Uniti. Da seguire le tensioni nello Stretto di Hormuz e il petrolio, la riapertura dei prelievi su Binance e la quotazione di Anthropic attesa a metà novembre."
+}
