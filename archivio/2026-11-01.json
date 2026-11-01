@@ -1,0 +1,97 @@
+{
+  "data": "2026-11-01",
+  "data_estesa": "Domenica 1 novembre 2026",
+  "aggiornato_il": "2026-11-01T06:50:49+01:00",
+  "titolo": "Rassegna Big Tech & Finanza",
+  "notizie": [
+    {
+      "posizione": 1,
+      "titolo": "Apple porta l'intelligenza artificiale in Cina con Alibaba",
+      "riassunto": "Alibaba ha annunciato sabato che il suo modello Qwen alimenterà Apple Intelligence in Cina: Siri, gli strumenti di scrittura e il riconoscimento delle immagini. I test partono il 4 novembre, il lancio per gli utenti cinesi a dicembre con iOS 27.3. Alibaba promette di non usare le richieste degli utenti per addestrare i suoi modelli. Intanto il nuovo amministratore delegato di Apple, John Ternus, dice che l'azienda non vuole \"lanciare AI tanto per farlo\".",
+      "il_senso": "Per vendere in Cina, Apple deve affidare il cervello del suo iPhone a un'azienda cinese, soggetta alle regole di Pechino. È il prezzo per restare nel secondo mercato del mondo, e un segno di come l'AI si stia dividendo in due blocchi.",
+      "fonti": [
+        {
+          "nome": "CGTN",
+          "url": "https://news.cgtn.com/news/2026-10-31/Alibaba-s-Qwen-to-integrate-into-Apple-Intelligence-in-landmark-deal-1RHilSeJsbK/p.html"
+        },
+        {
+          "nome": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/"
+        }
+      ]
+    },
+    {
+      "posizione": 2,
+      "titolo": "Ottobre nero per la tecnologia: il Nasdaq 100 perde oltre 2.000 miliardi",
+      "riassunto": "Secondo Reuters, in ottobre l'indice dei cento maggiori titoli del Nasdaq ha bruciato più di 2.000 miliardi di dollari di valore, con un calo superiore al 5,8%. Il Nasdaq ha chiuso il mese quasi l'8% sotto il record del 6 ottobre. Pesano i dubbi sulla spesa in AI: Meta, Alphabet, Oracle, Amazon e Microsoft investiranno insieme circa 800 miliardi quest'anno, e i costi dei prestiti stanno salendo.",
+      "il_senso": "Un mese basta a cancellare una cifra pari all'economia di un grande Paese europeo. La Borsa chiede alle big tech di dimostrare che l'AI rende, e la pazienza degli investitori si sta esaurendo.",
+      "fonti": [
+        {
+          "nome": "Tech Insider (Reuters)",
+          "url": "https://tech-insider.org/nasdaq-100-2-trillion-october-wipeout-ai-spending-fears-2026"
+        },
+        {
+          "nome": "The Star",
+          "url": "https://thestar.com.my/tech/tech-news/2026/10/31/october-ends-with-a-thud-for-intel-reddit-ai-stalwarts"
+        }
+      ]
+    },
+    {
+      "posizione": 3,
+      "titolo": "Altman in Corea da Samsung: la caccia alle memorie per l'AI",
+      "riassunto": "Sabato il capo di OpenAI Sam Altman ha incontrato a Yongin, a sud di Seul, circa 50 dirigenti delle società del gruppo Samsung. L'incontro rafforza l'accordo con cui Samsung fornisce memorie per Stargate, il maxi progetto di data center di OpenAI, e prevede collaborazione anche su data center galleggianti in mare. Le memorie valgono circa un terzo della spesa dei data center e sono sempre più scarse e care.",
+      "il_senso": "Chi controlla le memorie controlla il ritmo dell'AI. Dopo i conti record di Samsung e SK Hynix, i giganti americani vanno di persona in Corea per assicurarsi le forniture.",
+      "fonti": [
+        {
+          "nome": "The Edge Malaysia",
+          "url": "https://theedgemalaysia.com/node/824062"
+        }
+      ]
+    },
+    {
+      "posizione": 4,
+      "titolo": "Data center, la rivolta delle comunità: via libera tra le proteste a Google, xAI resta sotto accusa",
+      "riassunto": "Il consiglio comunale di Hermantown, in Minnesota, ha approvato all'unanimità e a notte fonda un data center Google da 500 megawatt, con tre edifici ciascuno più grande di sei campi da football, dopo mesi di proteste. Google ha rinunciato a 80 milioni di sgravi fiscali, ma restano tre cause in tribunale. A Memphis un giudice ha respinto la richiesta di xAI, la società di Musk, di archiviare la causa dell'associazione per i diritti civili NAACP sull'inquinamento delle turbine del suo data center.",
+      "il_senso": "L'AI ha bisogno di edifici enormi, energia e acqua, e per costruirli servono i permessi delle comunità locali. I cittadini stanno scoprendo di avere un potere di veto, e lo usano.",
+      "fonti": [
+        {
+          "nome": "MPR News",
+          "url": "https://www.mprnews.org/story/2026/10/31/hermantown-approves-controversial-google-data-center-during-late-night-meeting"
+        },
+        {
+          "nome": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/31/judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward/"
+        }
+      ]
+    },
+    {
+      "posizione": 5,
+      "titolo": "Scuole americane, da oggi l'AI di Microsoft non potrà usare i dati degli studenti",
+      "riassunto": "Entra in vigore oggi lo standard su sicurezza e privacy dell'AI negoziato da Microsoft con i sindacati degli insegnanti AFT e UFT. Vale nei contratti con le scuole: vieta di addestrare l'AI sui dati di studenti e docenti, di tracciare gli studenti e di proporre \"compagni\" virtuali che creano attaccamento emotivo, e impone che le decisioni restino agli umani. OpenAI e Anthropic stanno discutendo regole simili.",
+      "il_senso": "In assenza di leggi, sono i contratti a fissare le regole dell'AI per i minori. È un modello interessante anche per l'Europa: i sindacati che trattano direttamente con le big tech.",
+      "fonti": [
+        {
+          "nome": "Nemko Digital",
+          "url": "https://digital.nemko.com/news/microsoft-ai-guardrails-for-schools-take-effect-november-1"
+        }
+      ]
+    }
+  ],
+  "approfondimenti": [
+    {
+      "titolo": "Apple trained its own AI model for China, and handed the brain to Alibaba",
+      "testata": "The Next Web",
+      "url": "https://thenextweb.com/news/apple-china-ai-model-alibaba-qwen",
+      "perche_e_importante": "Spiega il retroscena dell'accordo annunciato sabato: Apple ha addestrato un modello solo per la Cina, ma le funzioni chiave sono affidate ad Alibaba e la ricerca a Baidu. È arrivata in Cina quasi due anni dopo il resto del mondo, ed è la prima azienda straniera autorizzata da Pechino a offrire un proprio modello di AI. L'autrice la definisce \"una concessione travestita da strategia\".",
+      "la_mia_lettura": "Secondo me racconta bene le condizioni a cui le aziende occidentali possono operare in Cina oggi: accesso al mercato in cambio di controllo. Ed è un precedente: in futuro altri Paesi potrebbero chiedere un'AI \"locale\" alle big tech."
+    },
+    {
+      "titolo": "Why are communities pushing back against data centers?",
+      "testata": "Harvard Gazette",
+      "url": "https://news.harvard.edu/gazette/story/2026/04/why-are-communities-pushing-back-against-data-centers",
+      "perche_e_importante": "Il ricercatore Ben Green dell'Università del Michigan spiega perché le proteste contro i data center sono fondate: bollette elettriche più alte, consumo d'acqua, sgravi fiscali generosi e pochi posti di lavoro (20-50 persone a regime). Negli Stati Uniti ce ne sono oltre 4.000 e altri 3.000 in arrivo, e l'opposizione unisce progressisti e conservatori.",
+      "la_mia_lettura": "È la chiave per leggere storie come quella del Minnesota. Credo che la battaglia sui data center diventerà presto anche europea: chi paga l'energia per l'AI, le aziende o i cittadini? È una delle domande politiche più concrete del momento."
+    }
+  ],
+  "da_tenere_d_occhio": "Domani, lunedì 2 novembre: conti di Apple. Martedì 3 novembre: elezioni di metà mandato negli Stati Uniti. Mercoledì 4: partono i test di Apple Intelligence con Qwen in Cina. Da seguire lo Stretto di Hormuz e il petrolio, e la quotazione di Anthropic attesa a metà novembre."
+}
