@@ -1,0 +1,105 @@
+{
+  "data": "2026-11-03",
+  "data_estesa": "Martedì 3 novembre 2026",
+  "aggiornato_il": "2026-11-03T06:51:57+01:00",
+  "titolo": "Rassegna Big Tech & Finanza",
+  "notizie": [
+    {
+      "posizione": 1,
+      "titolo": "Apple fa il record con Ternus, ma il caro memorie spaventa la Borsa",
+      "riassunto": "Nel primo trimestre presentato dal nuovo amministratore delegato John Ternus, Apple ha incassato 114,5 miliardi di dollari (+12%, record per il periodo) e 30,7 miliardi di utile. L'iPhone vale 57,6 miliardi (+17%) e la Cina cresce del 21%. Per il trimestre di Natale Apple prevede il suo miglior trimestre di sempre, ma con margini in calo al 45-46% soprattutto per il costo delle memorie. Ternus ha ammesso che il nuovo iPhone Duo scarseggia. Il titolo è sceso di circa il 4% dopo la chiusura, secondo TechFlow.",
+      "il_senso": "Anche l'azienda più ricca del mondo paga il conto del boom dell'AI: le memorie costano di più perché se le prendono i data center.",
+      "fonti": [
+        {
+          "nome": "MacRumors",
+          "url": "https://www.macrumors.com/2026/11/02/apple-4q-2026-earnings/"
+        },
+        {
+          "nome": "Apple Newsroom",
+          "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/"
+        },
+        {
+          "nome": "TechFlow",
+          "url": "https://www.techflowpost.com/en-US/article/35045"
+        }
+      ]
+    },
+    {
+      "posizione": 2,
+      "titolo": "Petrolio giù del 7% sulle speranze per Hormuz, la tecnologia continua a scendere",
+      "riassunto": "Lunedì il petrolio è crollato: il Brent ha perso circa il 7,8% a 104,6 dollari e il WTI il 7,3% a circa 96,5, dopo i segnali positivi dai colloqui di Doha e la proposta iraniana di riaprire lo Stretto di Hormuz entro due giorni. A Wall Street però il settore tecnologico ha perso quasi il 3%: Nasdaq -1,07%, S&P 500 -0,51% ai minimi dal 31 luglio, mentre il Dow è salito dello 0,41%. Tesla ha guadagnato oltre il 7%.",
+      "il_senso": "Meno paura della guerra fa bene a bollette e inflazione, ma i mercati continuano a dubitare che le spese per l'AI rendano quanto promesso.",
+      "fonti": [
+        {
+          "nome": "TechFlow",
+          "url": "https://www.techflowpost.com/en-US/article/35045"
+        }
+      ]
+    },
+    {
+      "posizione": 3,
+      "titolo": "Marvell compra Lumentum per 115 miliardi: maxi scommessa sui data center",
+      "riassunto": "Il produttore americano di chip Marvell acquisterà Lumentum, che fa componenti ottici per trasportare dati con la luce dentro i data center, in un'operazione da 115 miliardi di dollari debito incluso, pagata interamente in azioni. È uno dei più grandi accordi del 2026. Marvell punta sul fatto che la domanda di questi componenti continuerà a superare l'offerta e vuole sfidare Broadcom nei chip su misura per l'AI. La Borsa non ha gradito: Marvell ha chiuso a -12,7% e Lumentum a -18,6%.",
+      "il_senso": "Il collo di bottiglia dell'AI non sono solo i chip, ma i cavi che li collegano: chi controlla la luce che trasporta i dati ha un potere nuovo.",
+      "fonti": [
+        {
+          "nome": "Reuters (via Euronext)",
+          "url": "https://live.euronext.com/en/financial-news/marvell-buy-lumentum-115-billion-deal-ai-data-center-bet"
+        },
+        {
+          "nome": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings"
+        }
+      ]
+    },
+    {
+      "posizione": 4,
+      "titolo": "Oracle chiede 20 miliardi al mercato per l'AI, e il titolo cade",
+      "riassunto": "Oracle ha depositato i documenti per raccogliere 20 miliardi di dollari: 10 con nuove azioni e 10 con obbligazioni, per finanziare investimenti, ripagare debiti ed eventuali acquisizioni. La raccolta era stata annunciata la settimana scorsa, ma lunedì il titolo ha perso intorno al 6-7%. Le azioni Oracle sono già giù del 33% da inizio anno: gli investitori temono il debito necessario per costruire i data center dell'AI.",
+      "il_senso": "Costruire l'AI costa così tanto che anche i giganti devono chiedere soldi in prestito: se la domanda delude, il conto ricade su azionisti e creditori.",
+      "fonti": [
+        {
+          "nome": "The Motley Fool",
+          "url": "https://www.fool.com/investing/2026/11/02/why-oracle-stock-is-down-today/"
+        },
+        {
+          "nome": "Dataconomy",
+          "url": "https://dataconomy.com/2026/11/02/oracle-files-to-raise-20-billion-for-ai-buildout/"
+        }
+      ]
+    },
+    {
+      "posizione": 5,
+      "titolo": "Oggi l'America vota, e i data center sono diventati un tema elettorale",
+      "riassunto": "Oggi si tengono le elezioni di metà mandato negli Stati Uniti. I data center per l'AI sono entrati nella campagna: secondo Data Center Watch, nel primo semestre 2026 quasi 200 miliardi di progetti sono stati rinviati o bloccati dall'opposizione locale. OpenAI, secondo Axios, prepara una campagna di immagine che rinomina i suoi data center \"AI Compute Campuses\" e vede le elezioni di oggi come \"il trailer\" del 2028.",
+      "il_senso": "Elettricità, acqua e bollette stanno trasformando l'AI da tema per esperti a tema di voto: la politica può rallentare la corsa dei giganti tech.",
+      "fonti": [
+        {
+          "nome": "TechCrunch",
+          "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
+        },
+        {
+          "nome": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue"
+        }
+      ]
+    }
+  ],
+  "approfondimenti": [
+    {
+      "titolo": "Inside optical and the battle for scale – how the AI industry is racing to integrate photonic interconnects",
+      "testata": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/inside-optical-and-the-battle-for-scale-how-the-ai-industry-is-racing-to-integrate-photonic-interconnects",
+      "perche_e_importante": "Spiega perché oggi la velocità dell'AI dipende sempre più da come i chip sono collegati tra loro, e perché il rame sta lasciando il posto alla luce. Racconta la guerra degli standard tra Nvidia e il fronte di AMD, Broadcom, Meta e Microsoft, e segnala che i laser sono un collo di bottiglia: Lumentum e Coherent hanno ordini per anni e la Cina controlla circa l'80% di alcuni materiali chiave. È il contesto giusto per capire l'acquisto di Lumentum da parte di Marvell.",
+      "la_mia_lettura": "Dopo i chip e le memorie, la prossima strozzatura dell'AI è la connessione. Ogni volta che una strozzatura emerge, chi la controlla acquista un potere enorme, e i 115 miliardi di ieri sono il prezzo di quel potere."
+    },
+    {
+      "titolo": "How off-balance-sheet financing is masking the true cost of the AI boom",
+      "testata": "EnterpriseAM (su un'analisi del Financial Times)",
+      "url": "https://enterpriseam.com/ksa/2025/12/25/how-off-balance-sheet-financing-is-masking-the-true-cost-of-the-ai-boom/",
+      "perche_e_importante": "Riprende un'analisi del Financial Times secondo cui le aziende tech hanno spostato fuori bilancio oltre 120 miliardi di dollari di finanziamenti per data center, attraverso società veicolo finanziate da fondi privati come Pimco, BlackRock, Apollo e Blue Owl. Oracle ne rappresenta circa due terzi. Morgan Stanley stima che servano 1.500 miliardi di finanziamenti esterni per costruire l'infrastruttura dell'AI.",
+      "la_mia_lettura": "È di un anno fa, ma spiega bene la raccolta di Oracle di ieri: il boom dell'AI si regge sempre più sul debito, e una parte resta poco visibile. Se la domanda rallentasse, il rischio non resterebbe nella Silicon Valley ma si allargherebbe alla finanza."
+    }
+  ],
+  "da_tenere_d_occhio": "Oggi le elezioni di metà mandato negli Stati Uniti, con i risultati nella notte italiana, e dopo la chiusura i conti di AMD. Mercoledì Uber e Arm, venerdì il rapporto sul lavoro americano. Da domani gli sviluppatori in Cina provano le funzioni di Apple Intelligence con Alibaba."
+}
