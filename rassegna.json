@@ -1,105 +1,101 @@
 {
-  "data": "2026-11-03",
-  "data_estesa": "Martedì 3 novembre 2026",
-  "aggiornato_il": "2026-11-03T06:51:57+01:00",
+  "data": "2026-11-04",
+  "data_estesa": "Mercoledì 4 novembre 2026",
+  "aggiornato_il": "2026-11-04T06:51:19+01:00",
   "titolo": "Rassegna Big Tech & Finanza",
   "notizie": [
     {
       "posizione": 1,
-      "titolo": "Apple fa il record con Ternus, ma il caro memorie spaventa la Borsa",
-      "riassunto": "Nel primo trimestre presentato dal nuovo amministratore delegato John Ternus, Apple ha incassato 114,5 miliardi di dollari (+12%, record per il periodo) e 30,7 miliardi di utile. L'iPhone vale 57,6 miliardi (+17%) e la Cina cresce del 21%. Per il trimestre di Natale Apple prevede il suo miglior trimestre di sempre, ma con margini in calo al 45-46% soprattutto per il costo delle memorie. Ternus ha ammesso che il nuovo iPhone Duo scarseggia. Il titolo è sceso di circa il 4% dopo la chiusura, secondo TechFlow.",
-      "il_senso": "Anche l'azienda più ricca del mondo paga il conto del boom dell'AI: le memorie costano di più perché se le prendono i data center.",
+      "titolo": "Elezioni di metà mandato: i democratici conquistano il Senato",
+      "riassunto": "Nella notte l'agenzia AP ha assegnato il Senato americano ai democratici, dopo la vittoria di Josh Turek in Iowa. Secondo Forbes i democratici hanno strappato ai repubblicani seggi in Stati come Iowa, Kansas, Ohio, Carolina del Nord e Texas. Alla Camera, CNN e CBS prevedono a loro volta una maggioranza democratica, ma al momento dei nostri controlli il risultato non era ancora ufficiale. Per gli ultimi due anni di Trump si apre una fase di Congresso ostile.",
+      "il_senso": "Con un Congresso in mano all'opposizione, le big tech e l'AI rischiano più indagini, più regole e meno favori da Washington.",
       "fonti": [
         {
-          "nome": "MacRumors",
-          "url": "https://www.macrumors.com/2026/11/02/apple-4q-2026-earnings/"
+          "nome": "Forbes",
+          "url": "https://www.forbes.com/sites/saradorn/2026/11/03/midterm-election-results-live-updates-democrats-win-senate-in-stunning-rout/"
         },
         {
-          "nome": "Apple Newsroom",
-          "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/"
-        },
-        {
-          "nome": "TechFlow",
-          "url": "https://www.techflowpost.com/en-US/article/35045"
+          "nome": "The National",
+          "url": "https://www.thenationalnews.com/business/markets/2026/11/04/asian-equities-and-us-stocks-futures-slump-amid-blue-sweep-in-us-polls/"
         }
       ]
     },
     {
       "posizione": 2,
-      "titolo": "Petrolio giù del 7% sulle speranze per Hormuz, la tecnologia continua a scendere",
-      "riassunto": "Lunedì il petrolio è crollato: il Brent ha perso circa il 7,8% a 104,6 dollari e il WTI il 7,3% a circa 96,5, dopo i segnali positivi dai colloqui di Doha e la proposta iraniana di riaprire lo Stretto di Hormuz entro due giorni. A Wall Street però il settore tecnologico ha perso quasi il 3%: Nasdaq -1,07%, S&P 500 -0,51% ai minimi dal 31 luglio, mentre il Dow è salito dello 0,41%. Tesla ha guadagnato oltre il 7%.",
-      "il_senso": "Meno paura della guerra fa bene a bollette e inflazione, ma i mercati continuano a dubitare che le spese per l'AI rendano quanto promesso.",
+      "titolo": "L'\"onda blu\" fa crollare le Borse asiatiche: Tokyo -3,6%, SoftBank -8%",
+      "riassunto": "I mercati hanno reagito male al risultato: stamattina il Nikkei di Tokyo perde il 3,6%, ai minimi da inizio maggio, la Borsa coreana circa il 3,2-3,6% e Taiwan il 2,3%. SoftBank cede l'8%, Kioxia quasi l'11%, SK Hynix il 3,2%. I future sul Nasdaq 100 sono scesi di circa l'1,9%: gli investitori temono che un Congresso democratico porti regole più severe e più controlli sulle aziende dell'AI. Ieri a Wall Street il Nasdaq aveva chiuso a +0,8%, mentre Apple aveva perso l'1,9% per il caro memorie.",
+      "il_senso": "La Borsa scommetteva su un'AI senza freni politici: ora deve mettere in conto che Washington possa frenare.",
       "fonti": [
         {
-          "nome": "TechFlow",
-          "url": "https://www.techflowpost.com/en-US/article/35045"
+          "nome": "AP (via WSLS)",
+          "url": "https://www.wsls.com/business/2026/11/04/asian-shares-fall-on-selling-of-tech-shares-as-markets-watch-for-results-of-us-midterm-elections/"
+        },
+        {
+          "nome": "The National",
+          "url": "https://www.thenationalnews.com/business/markets/2026/11/04/asian-equities-and-us-stocks-futures-slump-amid-blue-sweep-in-us-polls/"
         }
       ]
     },
     {
       "posizione": 3,
-      "titolo": "Marvell compra Lumentum per 115 miliardi: maxi scommessa sui data center",
-      "riassunto": "Il produttore americano di chip Marvell acquisterà Lumentum, che fa componenti ottici per trasportare dati con la luce dentro i data center, in un'operazione da 115 miliardi di dollari debito incluso, pagata interamente in azioni. È uno dei più grandi accordi del 2026. Marvell punta sul fatto che la domanda di questi componenti continuerà a superare l'offerta e vuole sfidare Broadcom nei chip su misura per l'AI. La Borsa non ha gradito: Marvell ha chiuso a -12,7% e Lumentum a -18,6%.",
-      "il_senso": "Il collo di bottiglia dell'AI non sono solo i chip, ma i cavi che li collegano: chi controlla la luce che trasporta i dati ha un potere nuovo.",
+      "titolo": "AMD vola: il fatturato dei data center quasi raddoppia",
+      "riassunto": "AMD, la principale rivale di Nvidia nei chip per l'AI, ha chiuso il trimestre con ricavi record di 13,4 miliardi di dollari (+45%) e 8,5 miliardi dai data center (+97%), grazie ai nuovi acceleratori MI450. Per il trimestre in corso prevede circa 17 miliardi, una crescita del 66%. La CEO Lisa Su dice che la crescita accelererà ancora. Secondo CNBC il titolo è salito di circa l'8% dopo la chiusura.",
+      "il_senso": "Nvidia non è più sola: un secondo fornitore forte di chip per l'AI significa più concorrenza e prezzi meno dettati da un'unica azienda.",
       "fonti": [
         {
-          "nome": "Reuters (via Euronext)",
-          "url": "https://live.euronext.com/en/financial-news/marvell-buy-lumentum-115-billion-deal-ai-data-center-bet"
+          "nome": "AMD (comunicato)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/03/3394824/0/en/amd-reports-third-quarter-2026-financial-results.html"
         },
         {
-          "nome": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-02/marvell-reaches-115-billion-deal-for-lumentum-holdings"
+          "nome": "CNBC",
+          "url": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html"
         }
       ]
     },
     {
       "posizione": 4,
-      "titolo": "Oracle chiede 20 miliardi al mercato per l'AI, e il titolo cade",
-      "riassunto": "Oracle ha depositato i documenti per raccogliere 20 miliardi di dollari: 10 con nuove azioni e 10 con obbligazioni, per finanziare investimenti, ripagare debiti ed eventuali acquisizioni. La raccolta era stata annunciata la settimana scorsa, ma lunedì il titolo ha perso intorno al 6-7%. Le azioni Oracle sono già giù del 33% da inizio anno: gli investitori temono il debito necessario per costruire i data center dell'AI.",
-      "il_senso": "Costruire l'AI costa così tanto che anche i giganti devono chiedere soldi in prestito: se la domanda delude, il conto ricade su azionisti e creditori.",
+      "titolo": "SK Hynix, il piano da 45 miliardi a New York si inceppa sulla Cina",
+      "riassunto": "Secondo Reuters, Washington tiene bloccate le licenze per esportare macchinari americani nella fabbrica di memorie di SK Hynix a Dalian, in Cina. Il gruppo coreano sostiene che più produzione a Dalian servirebbe a finanziare l'espansione negli Stati Uniti: la sua controllata Solidigm progetta due impianti da circa 45 miliardi di dollari a Marcy, nello Stato di New York, fino a 100 miliardi nel tempo. Solidigm dice di valutare siti in tutto il mondo.",
+      "il_senso": "La guerra dei chip con la Cina può ritorcersi contro gli Stati Uniti: bloccare un alleato in Cina rischia di far saltare fabbriche e posti di lavoro in America.",
       "fonti": [
         {
-          "nome": "The Motley Fool",
-          "url": "https://www.fool.com/investing/2026/11/02/why-oracle-stock-is-down-today/"
-        },
-        {
-          "nome": "Dataconomy",
-          "url": "https://dataconomy.com/2026/11/02/oracle-files-to-raise-20-billion-for-ai-buildout/"
+          "nome": "Reuters (via Korea Times)",
+          "url": "https://www.koreatimes.co.kr/world/20261104/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-on-china-sources-say"
         }
       ]
     },
     {
       "posizione": 5,
-      "titolo": "Oggi l'America vota, e i data center sono diventati un tema elettorale",
-      "riassunto": "Oggi si tengono le elezioni di metà mandato negli Stati Uniti. I data center per l'AI sono entrati nella campagna: secondo Data Center Watch, nel primo semestre 2026 quasi 200 miliardi di progetti sono stati rinviati o bloccati dall'opposizione locale. OpenAI, secondo Axios, prepara una campagna di immagine che rinomina i suoi data center \"AI Compute Campuses\" e vede le elezioni di oggi come \"il trailer\" del 2028.",
-      "il_senso": "Elettricità, acqua e bollette stanno trasformando l'AI da tema per esperti a tema di voto: la politica può rallentare la corsa dei giganti tech.",
+      "titolo": "Canva taglia circa il 22% del personale: la crescita rallenta per la prima volta",
+      "riassunto": "Canva, l'app australiana di grafica usata da milioni di persone e tra le startup più ricche al mondo, ha annunciato tagli e riorganizzazioni per circa il 22% dei dipendenti, 1.271 posti secondo il quotidiano The Age. La fondatrice Melanie Perkins spiega che la crescita è rallentata per la prima volta in dieci anni.",
+      "il_senso": "Anche le app più amate possono entrare in crisi quando l'AI rende facile per tutti ciò che prima richiedeva un software dedicato, e il lavoro creativo digitale è tra i primi a sentirlo.",
       "fonti": [
         {
-          "nome": "TechCrunch",
-          "url": "https://techcrunch.com/2026/10/31/data-centers-are-now-a-midterm-issue-even-in-brooklyn/"
+          "nome": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-03/canva-announces-layoffs-job-changes-for-about-22-of-workforce"
         },
         {
-          "nome": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/tech-industry/data-centers/openai-considers-rebranding-data-centers-to-ai-compute-campuses-as-data-center-backlash-intensifies-company-reportedly-sees-2028-presidential-election-becoming-an-ai-issue"
+          "nome": "The Age",
+          "url": "https://www.theage.com.au/technology/canva-unveils-mass-job-cuts-in-hardest-moment-of-its-history-20261104-p61b62.html"
         }
       ]
     }
   ],
   "approfondimenti": [
     {
-      "titolo": "Inside optical and the battle for scale – how the AI industry is racing to integrate photonic interconnects",
-      "testata": "Tom's Hardware",
-      "url": "https://www.tomshardware.com/tech-industry/inside-optical-and-the-battle-for-scale-how-the-ai-industry-is-racing-to-integrate-photonic-interconnects",
-      "perche_e_importante": "Spiega perché oggi la velocità dell'AI dipende sempre più da come i chip sono collegati tra loro, e perché il rame sta lasciando il posto alla luce. Racconta la guerra degli standard tra Nvidia e il fronte di AMD, Broadcom, Meta e Microsoft, e segnala che i laser sono un collo di bottiglia: Lumentum e Coherent hanno ordini per anni e la Cina controlla circa l'80% di alcuni materiali chiave. È il contesto giusto per capire l'acquisto di Lumentum da parte di Marvell.",
-      "la_mia_lettura": "Dopo i chip e le memorie, la prossima strozzatura dell'AI è la connessione. Ogni volta che una strozzatura emerge, chi la controlla acquista un potere enorme, e i 115 miliardi di ieri sono il prezzo di quel potere."
+      "titolo": "Diversion and resale: estimating compute smuggling to China",
+      "testata": "Epoch AI",
+      "url": "https://epoch.ai/publications/chip-smuggling",
+      "perche_e_importante": "Uno dei pochi tentativi seri di misurare quanti chip per l'AI arrivano in Cina di contrabbando, nonostante i divieti americani. Le accuse pubbliche parlano di circa 300.000 chip equivalenti a un Nvidia H100 entro fine 2025, ma la stima centrale del centro di ricerca è più che doppia, circa 660.000, perché gran parte del contrabbando non viene scoperta. Aiuta a capire perché Washington stringe sempre di più, come mostra il caso SK Hynix.",
+      "la_mia_lettura": "I divieti funzionano solo in parte: i chip sono piccoli e passano. Per questo gli Stati Uniti spostano la stretta sulle macchine che servono a produrli, che sono enormi e difficili da nascondere, anche a costo di colpire gli alleati."
     },
     {
-      "titolo": "How off-balance-sheet financing is masking the true cost of the AI boom",
-      "testata": "EnterpriseAM (su un'analisi del Financial Times)",
-      "url": "https://enterpriseam.com/ksa/2025/12/25/how-off-balance-sheet-financing-is-masking-the-true-cost-of-the-ai-boom/",
-      "perche_e_importante": "Riprende un'analisi del Financial Times secondo cui le aziende tech hanno spostato fuori bilancio oltre 120 miliardi di dollari di finanziamenti per data center, attraverso società veicolo finanziate da fondi privati come Pimco, BlackRock, Apollo e Blue Owl. Oracle ne rappresenta circa due terzi. Morgan Stanley stima che servano 1.500 miliardi di finanziamenti esterni per costruire l'infrastruttura dell'AI.",
-      "la_mia_lettura": "È di un anno fa, ma spiega bene la raccolta di Oracle di ieri: il boom dell'AI si regge sempre più sul debito, e una parte resta poco visibile. Se la domanda rallentasse, il rischio non resterebbe nella Silicon Valley ma si allargherebbe alla finanza."
+      "titolo": "Did AI Really Take Your Job, or Is it 'AI Washing'?",
+      "testata": "Built In",
+      "url": "https://builtin.com/articles/ai-washing-layoffs",
+      "perche_e_importante": "Spiega il fenomeno dell'\"AI washing\": aziende che giustificano con l'AI licenziamenti che in realtà hanno ragioni economiche. Nel 2025 l'AI è stata citata in circa 55.000 tagli su oltre 1,2 milioni negli Stati Uniti. In un sondaggio di Harvard Business Review il 60% dei dirigenti ha ridotto il personale in previsione dei guadagni dell'AI, ma solo il 2% lo ha fatto per effetto di un'AI già in uso.",
+      "la_mia_lettura": "È una chiave utile per leggere tagli come quelli di Canva: l'AI non sostituisce ancora molte persone, ma cambia i mercati e dà alle aziende una giustificazione comoda. Per chi racconta il lavoro, la domanda giusta è sempre: l'AI ha fatto il lavoro, o è solo la scusa?"
     }
   ],
-  "da_tenere_d_occhio": "Oggi le elezioni di metà mandato negli Stati Uniti, con i risultati nella notte italiana, e dopo la chiusura i conti di AMD. Mercoledì Uber e Arm, venerdì il rapporto sul lavoro americano. Da domani gli sviluppatori in Cina provano le funzioni di Apple Intelligence con Alibaba."
+  "da_tenere_d_occhio": "Oggi i risultati definitivi per la Camera americana e l'apertura di Wall Street dopo il voto; dopo la chiusura i conti di Arm, prima dell'apertura quelli di Uber. Da oggi gli sviluppatori in Cina provano le funzioni di Apple Intelligence con Alibaba. Venerdì il rapporto sul lavoro americano."
 }
