@@ -1,101 +1,97 @@
 {
-  "data": "2026-11-04",
-  "data_estesa": "Mercoledì 4 novembre 2026",
-  "aggiornato_il": "2026-11-04T06:51:19+01:00",
+  "data": "2026-11-05",
+  "data_estesa": "Giovedì 5 novembre 2026",
+  "aggiornato_il": "2026-11-05T06:53:17+01:00",
   "titolo": "Rassegna Big Tech & Finanza",
   "notizie": [
     {
       "posizione": 1,
-      "titolo": "Elezioni di metà mandato: i democratici conquistano il Senato",
-      "riassunto": "Nella notte l'agenzia AP ha assegnato il Senato americano ai democratici, dopo la vittoria di Josh Turek in Iowa. Secondo Forbes i democratici hanno strappato ai repubblicani seggi in Stati come Iowa, Kansas, Ohio, Carolina del Nord e Texas. Alla Camera, CNN e CBS prevedono a loro volta una maggioranza democratica, ma al momento dei nostri controlli il risultato non era ancora ufficiale. Per gli ultimi due anni di Trump si apre una fase di Congresso ostile.",
-      "il_senso": "Con un Congresso in mano all'opposizione, le big tech e l'AI rischiano più indagini, più regole e meno favori da Washington.",
+      "titolo": "Wall Street festeggia il voto: il Dow fa +3%, petrolio giù dell'8%",
+      "riassunto": "Dopo i timori della notte, mercoledì Wall Street è salita forte: Dow Jones +3,03% (quasi 1.570 punti, il giorno migliore da aprile 2025), S&P 500 +1,58%, Nasdaq +1,44%. Secondo le proiezioni AP i democratici hanno conquistato Camera e Senato e Trump ha detto che accetterà il risultato. Il petrolio americano è sceso di oltre l'8% a 88 dollari. Volano i grandi del cloud: Microsoft +6,7%, Amazon +6,1%, Apple +5,3% con un nuovo record durante la seduta. Cadono invece i chip: indice dei semiconduttori -3,1%, Nvidia -3,2%, Micron -7%.",
+      "il_senso": "I mercati odiano l'incertezza più di qualsiasi risultato: chiuso il voto, comprano i giganti più solidi e vendono chi vive solo di costruzione di data center.",
       "fonti": [
         {
-          "nome": "Forbes",
-          "url": "https://www.forbes.com/sites/saradorn/2026/11/03/midterm-election-results-live-updates-democrats-win-senate-in-stunning-rout/"
+          "nome": "Stock Titan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026"
         },
         {
-          "nome": "The National",
-          "url": "https://www.thenationalnews.com/business/markets/2026/11/04/asian-equities-and-us-stocks-futures-slump-amid-blue-sweep-in-us-polls/"
+          "nome": "TradingKey",
+          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262275848-us-stocks-close-dow-surges-1500-points-hyperscalers-amazon-ai-infrastructure-tradingkey"
         }
       ]
     },
     {
       "posizione": 2,
-      "titolo": "L'\"onda blu\" fa crollare le Borse asiatiche: Tokyo -3,6%, SoftBank -8%",
-      "riassunto": "I mercati hanno reagito male al risultato: stamattina il Nikkei di Tokyo perde il 3,6%, ai minimi da inizio maggio, la Borsa coreana circa il 3,2-3,6% e Taiwan il 2,3%. SoftBank cede l'8%, Kioxia quasi l'11%, SK Hynix il 3,2%. I future sul Nasdaq 100 sono scesi di circa l'1,9%: gli investitori temono che un Congresso democratico porti regole più severe e più controlli sulle aziende dell'AI. Ieri a Wall Street il Nasdaq aveva chiuso a +0,8%, mentre Apple aveva perso l'1,9% per il caro memorie.",
-      "il_senso": "La Borsa scommetteva su un'AI senza freni politici: ora deve mettere in conto che Washington possa frenare.",
+      "titolo": "I data center perdono alle urne: no in Ohio, stop promesso in Texas",
+      "riassunto": "In Ohio gli elettori hanno votato 21 quesiti sui data center in 18 comuni e almeno 14 hanno approvato divieti o limiti, secondo Fortune. In Texas la nuova governatrice democratica Gina Hinojosa ha promesso una pausa alla costruzione di nuovi data center per l'AI. In Borsa le società che li costruiscono sono crollate: Hut 8 ha perso oltre il 20% durante la seduta. Secondo economisti di Goldman Sachs citati da AI Weekly, le moratorie locali potrebbero toccare circa il 45% della nuova capacità prevista negli Stati Uniti.",
+      "il_senso": "I cittadini cominciano a frenare col voto la corsa all'AI: senza elettricità e terreni, anche i miliardi delle big tech restano sulla carta.",
       "fonti": [
         {
-          "nome": "AP (via WSLS)",
-          "url": "https://www.wsls.com/business/2026/11/04/asian-shares-fall-on-selling-of-tech-shares-as-markets-watch-for-results-of-us-midterm-elections/"
+          "nome": "Fortune",
+          "url": "https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections/"
         },
         {
-          "nome": "The National",
-          "url": "https://www.thenationalnews.com/business/markets/2026/11/04/asian-equities-and-us-stocks-futures-slump-amid-blue-sweep-in-us-polls/"
+          "nome": "Stock Titan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026"
+        },
+        {
+          "nome": "AI Weekly",
+          "url": "https://aiweekly.co/ai-news-today"
         }
       ]
     },
     {
       "posizione": 3,
-      "titolo": "AMD vola: il fatturato dei data center quasi raddoppia",
-      "riassunto": "AMD, la principale rivale di Nvidia nei chip per l'AI, ha chiuso il trimestre con ricavi record di 13,4 miliardi di dollari (+45%) e 8,5 miliardi dai data center (+97%), grazie ai nuovi acceleratori MI450. Per il trimestre in corso prevede circa 17 miliardi, una crescita del 66%. La CEO Lisa Su dice che la crescita accelererà ancora. Secondo CNBC il titolo è salito di circa l'8% dopo la chiusura.",
-      "il_senso": "Nvidia non è più sola: un secondo fornitore forte di chip per l'AI significa più concorrenza e prezzi meno dettati da un'unica azienda.",
+      "titolo": "Gemini e i giornali: per l'avvocato generale Ue i chatbot possono violare i diritti degli editori",
+      "riassunto": "Nel caso Like Company contro Google, l'avvocato generale della Corte di giustizia Ue Maciej Szpunar ha dato il suo parere: un chatbot come Gemini viola i diritti degli editori se aggira paywall o blocchi ai robot, oppure se riassume un articolo in modo così fedele che il lettore non ha più bisogno dell'originale. Riportare i fatti resta libero, e l'addestramento dei modelli non rientra in questo diritto. Il parere non è vincolante: ora decidono i giudici.",
+      "il_senso": "È una delle prime volte che la giustizia europea dice dove finisce il riassunto e inizia la copia: una partita decisiva per il futuro economico del giornalismo.",
       "fonti": [
         {
-          "nome": "AMD (comunicato)",
-          "url": "https://www.globenewswire.com/news-release/2026/11/03/3394824/0/en/amd-reports-third-quarter-2026-financial-results.html"
-        },
-        {
-          "nome": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/03/amd-amd-q3-earnings-report-2026-.html"
+          "nome": "PPC Land",
+          "url": "https://ppc.land/googles-gemini-can-infringe-press-rights-in-2-ways-eu-court-adviser-says/"
         }
       ]
     },
     {
       "posizione": 4,
-      "titolo": "SK Hynix, il piano da 45 miliardi a New York si inceppa sulla Cina",
-      "riassunto": "Secondo Reuters, Washington tiene bloccate le licenze per esportare macchinari americani nella fabbrica di memorie di SK Hynix a Dalian, in Cina. Il gruppo coreano sostiene che più produzione a Dalian servirebbe a finanziare l'espansione negli Stati Uniti: la sua controllata Solidigm progetta due impianti da circa 45 miliardi di dollari a Marcy, nello Stato di New York, fino a 100 miliardi nel tempo. Solidigm dice di valutare siti in tutto il mondo.",
-      "il_senso": "La guerra dei chip con la Cina può ritorcersi contro gli Stati Uniti: bloccare un alleato in Cina rischia di far saltare fabbriche e posti di lavoro in America.",
+      "titolo": "Google fa da garante ad Anthropic per un campus AI da 19 miliardi in Kentucky",
+      "riassunto": "TeraWulf ha annunciato che Google garantirà parte degli affitti che Anthropic pagherà per un grande campus di data center a Hawesville, in Kentucky: circa 401 megawatt e circa 19 miliardi di dollari di contratti. Se Anthropic non pagasse, Google potrebbe subentrare. In cambio Anthropic dovrà usare solo i chip TPU approvati da Google per tutta la durata del contratto. I primi edifici saranno pronti tra fine 2027 e metà 2028. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "il_senso": "Le big tech non vendono più solo chip o cloud: prestano la loro affidabilità finanziaria per legare a sé i clienti, e così i rischi dell'AI si intrecciano.",
       "fonti": [
         {
-          "nome": "Reuters (via Korea Times)",
-          "url": "https://www.koreatimes.co.kr/world/20261104/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-on-china-sources-say"
+          "nome": "Unite.AI",
+          "url": "https://www.unite.ai/terawulf-lines-up-google-backstop-for-anthropics-kentucky-ai-campus/"
         }
       ]
     },
     {
       "posizione": 5,
-      "titolo": "Canva taglia circa il 22% del personale: la crescita rallenta per la prima volta",
-      "riassunto": "Canva, l'app australiana di grafica usata da milioni di persone e tra le startup più ricche al mondo, ha annunciato tagli e riorganizzazioni per circa il 22% dei dipendenti, 1.271 posti secondo il quotidiano The Age. La fondatrice Melanie Perkins spiega che la crescita è rallentata per la prima volta in dieci anni.",
-      "il_senso": "Anche le app più amate possono entrare in crisi quando l'AI rende facile per tutti ciò che prima richiedeva un software dedicato, e il lavoro creativo digitale è tra i primi a sentirlo.",
+      "titolo": "Qualcomm, crollano i chip per smartphone: -7% dopo i conti",
+      "riassunto": "Qualcomm, il principale produttore di chip per smartphone Android, ha visto le vendite di chip per telefoni scendere del 26% nel trimestre. L'azienda punta a far crescere di oltre il 60% nel prossimo anno fiscale le vendite fuori dai telefoni, a partire dai data center. Il mercato non si è fidato: dopo la chiusura il titolo ha perso il 7,4%.",
+      "il_senso": "Soldi e attenzione si spostano dagli smartphone ai data center dell'AI: anche i giganti dei telefoni devono reinventarsi.",
       "fonti": [
         {
-          "nome": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-03/canva-announces-layoffs-job-changes-for-about-22-of-workforce"
-        },
-        {
-          "nome": "The Age",
-          "url": "https://www.theage.com.au/technology/canva-unveils-mass-job-cuts-in-hardest-moment-of-its-history-20261104-p61b62.html"
+          "nome": "Stock Titan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026"
         }
       ]
     }
   ],
   "approfondimenti": [
     {
-      "titolo": "Diversion and resale: estimating compute smuggling to China",
-      "testata": "Epoch AI",
-      "url": "https://epoch.ai/publications/chip-smuggling",
-      "perche_e_importante": "Uno dei pochi tentativi seri di misurare quanti chip per l'AI arrivano in Cina di contrabbando, nonostante i divieti americani. Le accuse pubbliche parlano di circa 300.000 chip equivalenti a un Nvidia H100 entro fine 2025, ma la stima centrale del centro di ricerca è più che doppia, circa 660.000, perché gran parte del contrabbando non viene scoperta. Aiuta a capire perché Washington stringe sempre di più, come mostra il caso SK Hynix.",
-      "la_mia_lettura": "I divieti funzionano solo in parte: i chip sono piccoli e passano. Per questo gli Stati Uniti spostano la stretta sulle macchine che servono a produrli, che sono enormi e difficili da nascondere, anche a costo di colpire gli alleati."
+      "titolo": "Google has promised to pay $44bn of rent on buildings it will never own",
+      "testata": "The Next Web",
+      "url": "https://thenextweb.com/news/google-44-billion-data-centre-lease-guarantees-tpu-anthropic",
+      "perche_e_importante": "Spiega il meccanismo dietro la notizia del Kentucky: Google garantisce fino a 44 miliardi di affitti di data center altrui, perché con la sua firma chi costruisce si indebita a costi più bassi, compra chip Google e li affitta ad Anthropic. L'articolo allarga lo sguardo agli impegni nascosti nei bilanci: secondo Moody's i cinque maggiori gruppi del cloud avevano a fine 2025 969 miliardi di futuri affitti, in gran parte non ancora iniziati.",
+      "la_mia_lettura": "È così che la guerra dei chip diventa una guerra finanziaria: Google usa il suo rating come arma contro Nvidia. Funziona finché la domanda di AI regge; se rallenta, le garanzie trasformano un problema dei clienti in un problema dei giganti."
     },
     {
-      "titolo": "Did AI Really Take Your Job, or Is it 'AI Washing'?",
-      "testata": "Built In",
-      "url": "https://builtin.com/articles/ai-washing-layoffs",
-      "perche_e_importante": "Spiega il fenomeno dell'\"AI washing\": aziende che giustificano con l'AI licenziamenti che in realtà hanno ragioni economiche. Nel 2025 l'AI è stata citata in circa 55.000 tagli su oltre 1,2 milioni negli Stati Uniti. In un sondaggio di Harvard Business Review il 60% dei dirigenti ha ridotto il personale in previsione dei guadagni dell'AI, ma solo il 2% lo ha fatto per effetto di un'AI già in uso.",
-      "la_mia_lettura": "È una chiave utile per leggere tagli come quelli di Canva: l'AI non sostituisce ancora molte persone, ma cambia i mercati e dà alle aziende una giustificazione comoda. Per chi racconta il lavoro, la domanda giusta è sempre: l'AI ha fatto il lavoro, o è solo la scusa?"
+      "titolo": "Journalism and Technology Trends and Predictions 2026",
+      "testata": "Reuters Institute for the Study of Journalism (Nic Newman)",
+      "url": "https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2026-01/Newman%20-%20Trends%20and%20Predictions%202026%20FINAL.pdf",
+      "perche_e_importante": "Il rapporto annuale del Reuters Institute, basato su 280 dirigenti di testate in 51 Paesi, racconta come l'AI sta cambiando l'economia dell'informazione. Gli editori si aspettano di perdere oltre il 40% del traffico dai motori di ricerca in tre anni, mentre ChatGPT porta ancora pochissimi lettori ai siti. Il 76% vuole spingere i giornalisti a comportarsi più come creator, e solo il 20% si aspetta entrate importanti dalle licenze all'AI.",
+      "la_mia_lettura": "Letto accanto al parere Ue su Gemini, dice che il giornalismo sta perdendo il suo canale di distribuzione principale e cerca di farsi pagare dove può. Per chi crea contenuti, il valore si sposta sulla firma, sulla presenza diretta e su ciò che un chatbot non può riassumere: il lavoro sul campo."
     }
   ],
-  "da_tenere_d_occhio": "Oggi i risultati definitivi per la Camera americana e l'apertura di Wall Street dopo il voto; dopo la chiusura i conti di Arm, prima dell'apertura quelli di Uber. Da oggi gli sviluppatori in Cina provano le funzioni di Apple Intelligence con Alibaba. Venerdì il rapporto sul lavoro americano."
+  "da_tenere_d_occhio": "I risultati definitivi del voto americano e le prime mosse del nuovo Congresso su AI e data center. Venerdì il rapporto sul lavoro americano. Nei prossimi giorni gli sviluppi dei negoziati sull'Iran, che continuano a muovere il prezzo del petrolio."
 }
