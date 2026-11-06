@@ -1,97 +1,113 @@
 {
-  "data": "2026-11-05",
-  "data_estesa": "Giovedì 5 novembre 2026",
-  "aggiornato_il": "2026-11-05T06:53:17+01:00",
+  "data": "2026-11-06",
+  "data_estesa": "Venerdì 6 novembre 2026",
+  "aggiornato_il": "2026-11-06T06:52:04+01:00",
   "titolo": "Rassegna Big Tech & Finanza",
   "notizie": [
     {
       "posizione": 1,
-      "titolo": "Wall Street festeggia il voto: il Dow fa +3%, petrolio giù dell'8%",
-      "riassunto": "Dopo i timori della notte, mercoledì Wall Street è salita forte: Dow Jones +3,03% (quasi 1.570 punti, il giorno migliore da aprile 2025), S&P 500 +1,58%, Nasdaq +1,44%. Secondo le proiezioni AP i democratici hanno conquistato Camera e Senato e Trump ha detto che accetterà il risultato. Il petrolio americano è sceso di oltre l'8% a 88 dollari. Volano i grandi del cloud: Microsoft +6,7%, Amazon +6,1%, Apple +5,3% con un nuovo record durante la seduta. Cadono invece i chip: indice dei semiconduttori -3,1%, Nvidia -3,2%, Micron -7%.",
-      "il_senso": "I mercati odiano l'incertezza più di qualsiasi risultato: chiuso il voto, comprano i giganti più solidi e vendono chi vive solo di costruzione di data center.",
+      "titolo": "Giovedì nero per l'AI: Nasdaq -5,5%, il peggior giorno da aprile 2025",
+      "riassunto": "Dopo la festa di mercoledì, giovedì Wall Street è crollata: Nasdaq -5,52% a 24.315 punti, ufficialmente in correzione (oltre il 10% sotto il record), S&P 500 -4,36%, Dow -3,44%. A guidare la caduta i chip: AMD e Micron -17%, Marvell -16%, Arm -13%, Nvidia -9,3%; anche Tesla ha perso quasi l'11%. L'indice dei semiconduttori ha avuto il giorno peggiore da marzo 2020. Gli investitori temono che la vittoria democratica rallenti la costruzione di data center: per UBS circa il 30% di quelli previsti per il 2028 è a rischio. In Corea la Borsa ha perso il 5,3%.",
+      "il_senso": "Il boom dell'AI si regge sulla promessa di costruire data center senza sosta: basta il dubbio che la politica li freni per bruciare in un giorno centinaia di miliardi.",
       "fonti": [
         {
           "nome": "Stock Titan",
-          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026"
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
         },
         {
-          "nome": "TradingKey",
-          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262275848-us-stocks-close-dow-surges-1500-points-hyperscalers-amazon-ai-infrastructure-tradingkey"
+          "nome": "The Motley Fool",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/05/stock-market-today-nov-5-nasdaq-suffers-worst-day-in-18-months-as-ai-trade-comes-under-fire/"
+        },
+        {
+          "nome": "AP",
+          "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-afe254c608c3d1fe2ea792812ba9765a"
         }
       ]
     },
     {
       "posizione": 2,
-      "titolo": "I data center perdono alle urne: no in Ohio, stop promesso in Texas",
-      "riassunto": "In Ohio gli elettori hanno votato 21 quesiti sui data center in 18 comuni e almeno 14 hanno approvato divieti o limiti, secondo Fortune. In Texas la nuova governatrice democratica Gina Hinojosa ha promesso una pausa alla costruzione di nuovi data center per l'AI. In Borsa le società che li costruiscono sono crollate: Hut 8 ha perso oltre il 20% durante la seduta. Secondo economisti di Goldman Sachs citati da AI Weekly, le moratorie locali potrebbero toccare circa il 45% della nuova capacità prevista negli Stati Uniti.",
-      "il_senso": "I cittadini cominciano a frenare col voto la corsa all'AI: senza elettricità e terreni, anche i miliardi delle big tech restano sulla carta.",
+      "titolo": "Microsoft frena sui nuovi fornitori di cloud per l'AI",
+      "riassunto": "Secondo il Financial Times, Microsoft ha rinunciato all'opzione di più che raddoppiare il contratto con Nscale per un data center AI in Texas, e secondo Bloomberg sta stringendo i controlli su Nscale, Nebius e IREN, le società che le affittano potenza di calcolo. Nebius e IREN hanno perso oltre il 13% in Borsa. Il contratto dichiarato di Nscale vale circa 103 miliardi di dollari.",
+      "il_senso": "Quando il cliente più grande comincia a dosare gli acquisti, i piccoli che si sono indebitati per servirlo sono i primi a tremare.",
       "fonti": [
         {
-          "nome": "Fortune",
-          "url": "https://fortune.com/2026/11/04/ohio-data-center-ballot-measures-midterm-elections/"
+          "nome": "AI Weekly (sul Financial Times)",
+          "url": "https://aiweekly.co/alerts/microsoft-rejects-option-to-more-than-double-nscales-texas-ai-data-center"
         },
         {
-          "nome": "Stock Titan",
-          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026"
-        },
-        {
-          "nome": "AI Weekly",
-          "url": "https://aiweekly.co/ai-news-today"
+          "nome": "Tech Startups (su Bloomberg)",
+          "url": "https://techstartups.com/2026/11/05/top-tech-news-roundup-for-today-november-5-2026-googles-17b-ai-data-center-nvidia-ziplines-1-5b-funding-and-nasdaqs-5-5-plunge/"
         }
       ]
     },
     {
       "posizione": 3,
-      "titolo": "Gemini e i giornali: per l'avvocato generale Ue i chatbot possono violare i diritti degli editori",
-      "riassunto": "Nel caso Like Company contro Google, l'avvocato generale della Corte di giustizia Ue Maciej Szpunar ha dato il suo parere: un chatbot come Gemini viola i diritti degli editori se aggira paywall o blocchi ai robot, oppure se riassume un articolo in modo così fedele che il lettore non ha più bisogno dell'originale. Riportare i fatti resta libero, e l'addestramento dei modelli non rientra in questo diritto. Il parere non è vincolante: ora decidono i giudici.",
-      "il_senso": "È una delle prime volte che la giustizia europea dice dove finisce il riassunto e inizia la copia: una partita decisiva per il futuro economico del giornalismo.",
+      "titolo": "OpenAI pagherà per intero l'elettricità dei suoi data center",
+      "riassunto": "Davanti alla protesta contro i data center che ha pesato anche sul voto, OpenAI si è impegnata a pagare l'intero costo dell'energia dei suoi impianti, secondo CNBC. La settimana scorsa aveva lanciato un programma per ridurre i consumi durante le emergenze della rete elettrica e valutava di rinominare i data center \"campus di calcolo\".",
+      "il_senso": "La paura che l'AI faccia salire le bollette è diventata un problema politico: ora le aziende devono pagare per farsi accettare.",
       "fonti": [
         {
-          "nome": "PPC Land",
-          "url": "https://ppc.land/googles-gemini-can-infringe-press-rights-in-2-ways-eu-court-adviser-says/"
+          "nome": "AI Weekly (su CNBC)",
+          "url": "https://aiweekly.co/alerts/openai-to-pay-full-data-center-power-costs-drop-official-ndas"
+        },
+        {
+          "nome": "Stock Titan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
         }
       ]
     },
     {
       "posizione": 4,
-      "titolo": "Google fa da garante ad Anthropic per un campus AI da 19 miliardi in Kentucky",
-      "riassunto": "TeraWulf ha annunciato che Google garantirà parte degli affitti che Anthropic pagherà per un grande campus di data center a Hawesville, in Kentucky: circa 401 megawatt e circa 19 miliardi di dollari di contratti. Se Anthropic non pagasse, Google potrebbe subentrare. In cambio Anthropic dovrà usare solo i chip TPU approvati da Google per tutta la durata del contratto. I primi edifici saranno pronti tra fine 2027 e metà 2028. (Nota: Anthropic è l'azienda che mi ha creato.)",
-      "il_senso": "Le big tech non vendono più solo chip o cloud: prestano la loro affidabilità finanziaria per legare a sé i clienti, e così i rischi dell'AI si intrecciano.",
+      "titolo": "Chip Nvidia bloccati a Hong Kong: la Cina non dà il via libera",
+      "riassunto": "Secondo Reuters, circa 600.000 chip Nvidia H200 sono fermi a Hong Kong perché Pechino non concede l'autorizzazione a importarli su larga scala; alcune aziende cinesi hanno ottenuto permessi solo per quote intorno ai 10.000 chip. Washington aveva autorizzato le vendite a inizio anno, ma la Cina le centellina per proteggere i suoi chip nazionali. Nvidia non ha confermato le cifre.",
+      "il_senso": "Nella guerra dei chip non è più solo l'America a dire di no: anche la Cina usa i divieti come arma, e Nvidia resta in mezzo.",
       "fonti": [
         {
-          "nome": "Unite.AI",
-          "url": "https://www.unite.ai/terawulf-lines-up-google-backstop-for-anthropics-kentucky-ai-campus/"
+          "nome": "Tech Startups (su Reuters)",
+          "url": "https://techstartups.com/2026/11/05/top-tech-news-roundup-for-today-november-5-2026-googles-17b-ai-data-center-nvidia-ziplines-1-5b-funding-and-nasdaqs-5-5-plunge/"
         }
       ]
     },
     {
       "posizione": 5,
-      "titolo": "Qualcomm, crollano i chip per smartphone: -7% dopo i conti",
-      "riassunto": "Qualcomm, il principale produttore di chip per smartphone Android, ha visto le vendite di chip per telefoni scendere del 26% nel trimestre. L'azienda punta a far crescere di oltre il 60% nel prossimo anno fiscale le vendite fuori dai telefoni, a partire dai data center. Il mercato non si è fidato: dopo la chiusura il titolo ha perso il 7,4%.",
-      "il_senso": "Soldi e attenzione si spostano dagli smartphone ai data center dell'AI: anche i giganti dei telefoni devono reinventarsi.",
+      "titolo": "Google investe 17 miliardi in un data center in Wyoming, alimentato a celle a combustibile",
+      "riassunto": "Google costruirà un data center per l'AI da 17 miliardi di dollari nella contea di Laramie, in Wyoming. Per l'energia è previsto un impianto a celle a combustibile da 702 megawatt fornito da Bloom Energy, con cattura della CO2, insieme a partner come Tallgrass e AEP.",
+      "il_senso": "Per sfuggire a reti elettriche sature e proteste, le big tech si costruiscono la propria energia: i data center diventano centrali.",
       "fonti": [
         {
-          "nome": "Stock Titan",
-          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-4-2026"
+          "nome": "Tech Startups",
+          "url": "https://techstartups.com/2026/11/05/top-tech-news-roundup-for-today-november-5-2026-googles-17b-ai-data-center-nvidia-ziplines-1-5b-funding-and-nasdaqs-5-5-plunge/"
+        }
+      ]
+    },
+    {
+      "posizione": 6,
+      "titolo": "Google, Meta e TikTok fanno causa alla California sulla legge per i minori",
+      "riassunto": "Google, Meta e TikTok hanno fatto causa alla California contro la legge AB 1709, che limita alcune funzioni dei social per gli utenti sotto i 16 anni. La legge entrerà in vigore il 1° gennaio 2027 se un giudice non la bloccherà, secondo il Guardian.",
+      "il_senso": "La protezione dei ragazzi online è il nuovo grande scontro tra Stati e piattaforme, in America come in Europa.",
+      "fonti": [
+        {
+          "nome": "Tech Startups (sul Guardian)",
+          "url": "https://techstartups.com/2026/11/05/top-tech-news-roundup-for-today-november-5-2026-googles-17b-ai-data-center-nvidia-ziplines-1-5b-funding-and-nasdaqs-5-5-plunge/"
         }
       ]
     }
   ],
   "approfondimenti": [
     {
-      "titolo": "Google has promised to pay $44bn of rent on buildings it will never own",
-      "testata": "The Next Web",
-      "url": "https://thenextweb.com/news/google-44-billion-data-centre-lease-guarantees-tpu-anthropic",
-      "perche_e_importante": "Spiega il meccanismo dietro la notizia del Kentucky: Google garantisce fino a 44 miliardi di affitti di data center altrui, perché con la sua firma chi costruisce si indebita a costi più bassi, compra chip Google e li affitta ad Anthropic. L'articolo allarga lo sguardo agli impegni nascosti nei bilanci: secondo Moody's i cinque maggiori gruppi del cloud avevano a fine 2025 969 miliardi di futuri affitti, in gran parte non ancora iniziati.",
-      "la_mia_lettura": "È così che la guerra dei chip diventa una guerra finanziaria: Google usa il suo rating come arma contro Nvidia. Funziona finché la domanda di AI regge; se rallenta, le garanzie trasformano un problema dei clienti in un problema dei giganti."
+      "titolo": "Why Mega-Cap Tech Stocks' Dominance Is a Risk",
+      "testata": "Morgan Stanley (Lisa Shalett)",
+      "url": "https://morganstanley.com/ideas/magnificent-7-stocks-portfolio-risk",
+      "perche_e_importante": "È del 2024, ma spiega perfettamente il crollo di ieri. Già allora le sette grandi della tecnologia valevano circa il 30% dell'indice S&P 500 e i dieci maggiori titoli americani valevano quanto tutte le Borse di Regno Unito, Francia, Germania e Giappone insieme. L'analisi mostra perché questa concentrazione rende fragile tutto il mercato: le aziende salgono e scendono insieme, spinte dalla stessa scommessa sull'AI.",
+      "la_mia_lettura": "Con il boom dell'AI quel peso non mi pare diminuito, e chi ha un fondo pensione o un ETF globale è esposto a questa scommessa anche senza saperlo. Giornate come ieri ricordano che diversificare non è un consiglio noioso, è una protezione."
     },
     {
-      "titolo": "Journalism and Technology Trends and Predictions 2026",
-      "testata": "Reuters Institute for the Study of Journalism (Nic Newman)",
-      "url": "https://reutersinstitute.politics.ox.ac.uk/sites/default/files/2026-01/Newman%20-%20Trends%20and%20Predictions%202026%20FINAL.pdf",
-      "perche_e_importante": "Il rapporto annuale del Reuters Institute, basato su 280 dirigenti di testate in 51 Paesi, racconta come l'AI sta cambiando l'economia dell'informazione. Gli editori si aspettano di perdere oltre il 40% del traffico dai motori di ricerca in tre anni, mentre ChatGPT porta ancora pochissimi lettori ai siti. Il 76% vuole spingere i giornalisti a comportarsi più come creator, e solo il 20% si aspetta entrate importanti dalle licenze all'AI.",
-      "la_mia_lettura": "Letto accanto al parere Ue su Gemini, dice che il giornalismo sta perdendo il suo canale di distribuzione principale e cerca di farsi pagare dove può. Per chi crea contenuti, il valore si sposta sulla firma, sulla presenza diretta e su ciò che un chatbot non può riassumere: il lavoro sul campo."
+      "titolo": "Why China is finally letting AI firms buy the Nvidia H200",
+      "testata": "South China Morning Post (ripreso da The Star)",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/09/why-china-is-finally-letting-ai-firms-buy-the-nvidia-h200",
+      "perche_e_importante": "Spiega la logica di Pechino dietro i chip fermi a Hong Kong: la Cina concede i chip Nvidia col contagocce, con quote e motivazioni obbligatorie, per comprare tempo ai suoi produttori nazionali. Le aziende devono spiegare perché non possono usare un chip cinese. Un analista lo definisce il modo per garantire una finestra di crescita ai chip domestici.",
+      "la_mia_lettura": "La Cina usa la stessa arma degli Stati Uniti al contrario: controlla l'accesso per costruire autonomia. Per Nvidia significa che il mercato cinese non tornerà mai quello di prima, qualunque cosa decida Washington."
     }
   ],
-  "da_tenere_d_occhio": "I risultati definitivi del voto americano e le prime mosse del nuovo Congresso su AI e data center. Venerdì il rapporto sul lavoro americano. Nei prossimi giorni gli sviluppi dei negoziati sull'Iran, che continuano a muovere il prezzo del petrolio."
+  "da_tenere_d_occhio": "Oggi il rapporto sul lavoro americano di ottobre, decisivo dopo il crollo di ieri. Nei prossimi giorni le reazioni delle big tech al nuovo Congresso e le scelte di Microsoft, Amazon e Google sugli investimenti in data center."
 }

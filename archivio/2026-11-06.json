@@ -1,0 +1,113 @@
+{
+  "data": "2026-11-06",
+  "data_estesa": "Venerdì 6 novembre 2026",
+  "aggiornato_il": "2026-11-06T06:52:04+01:00",
+  "titolo": "Rassegna Big Tech & Finanza",
+  "notizie": [
+    {
+      "posizione": 1,
+      "titolo": "Giovedì nero per l'AI: Nasdaq -5,5%, il peggior giorno da aprile 2025",
+      "riassunto": "Dopo la festa di mercoledì, giovedì Wall Street è crollata: Nasdaq -5,52% a 24.315 punti, ufficialmente in correzione (oltre il 10% sotto il record), S&P 500 -4,36%, Dow -3,44%. A guidare la caduta i chip: AMD e Micron -17%, Marvell -16%, Arm -13%, Nvidia -9,3%; anche Tesla ha perso quasi l'11%. L'indice dei semiconduttori ha avuto il giorno peggiore da marzo 2020. Gli investitori temono che la vittoria democratica rallenti la costruzione di data center: per UBS circa il 30% di quelli previsti per il 2028 è a rischio. In Corea la Borsa ha perso il 5,3%.",
+      "il_senso": "Il boom dell'AI si regge sulla promessa di costruire data center senza sosta: basta il dubbio che la politica li freni per bruciare in un giorno centinaia di miliardi.",
+      "fonti": [
+        {
+          "nome": "Stock Titan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
+        },
+        {
+          "nome": "The Motley Fool",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/05/stock-market-today-nov-5-nasdaq-suffers-worst-day-in-18-months-as-ai-trade-comes-under-fire/"
+        },
+        {
+          "nome": "AP",
+          "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-afe254c608c3d1fe2ea792812ba9765a"
+        }
+      ]
+    },
+    {
+      "posizione": 2,
+      "titolo": "Microsoft frena sui nuovi fornitori di cloud per l'AI",
+      "riassunto": "Secondo il Financial Times, Microsoft ha rinunciato all'opzione di più che raddoppiare il contratto con Nscale per un data center AI in Texas, e secondo Bloomberg sta stringendo i controlli su Nscale, Nebius e IREN, le società che le affittano potenza di calcolo. Nebius e IREN hanno perso oltre il 13% in Borsa. Il contratto dichiarato di Nscale vale circa 103 miliardi di dollari.",
+      "il_senso": "Quando il cliente più grande comincia a dosare gli acquisti, i piccoli che si sono indebitati per servirlo sono i primi a tremare.",
+      "fonti": [
+        {
+          "nome": "AI Weekly (sul Financial Times)",
+          "url": "https://aiweekly.co/alerts/microsoft-rejects-option-to-more-than-double-nscales-texas-ai-data-center"
+        },
+        {
+          "nome": "Tech Startups (su Bloomberg)",
+          "url": "https://techstartups.com/2026/11/05/top-tech-news-roundup-for-today-november-5-2026-googles-17b-ai-data-center-nvidia-ziplines-1-5b-funding-and-nasdaqs-5-5-plunge/"
+        }
+      ]
+    },
+    {
+      "posizione": 3,
+      "titolo": "OpenAI pagherà per intero l'elettricità dei suoi data center",
+      "riassunto": "Davanti alla protesta contro i data center che ha pesato anche sul voto, OpenAI si è impegnata a pagare l'intero costo dell'energia dei suoi impianti, secondo CNBC. La settimana scorsa aveva lanciato un programma per ridurre i consumi durante le emergenze della rete elettrica e valutava di rinominare i data center \"campus di calcolo\".",
+      "il_senso": "La paura che l'AI faccia salire le bollette è diventata un problema politico: ora le aziende devono pagare per farsi accettare.",
+      "fonti": [
+        {
+          "nome": "AI Weekly (su CNBC)",
+          "url": "https://aiweekly.co/alerts/openai-to-pay-full-data-center-power-costs-drop-official-ndas"
+        },
+        {
+          "nome": "Stock Titan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
+        }
+      ]
+    },
+    {
+      "posizione": 4,
+      "titolo": "Chip Nvidia bloccati a Hong Kong: la Cina non dà il via libera",
+      "riassunto": "Secondo Reuters, circa 600.000 chip Nvidia H200 sono fermi a Hong Kong perché Pechino non concede l'autorizzazione a importarli su larga scala; alcune aziende cinesi hanno ottenuto permessi solo per quote intorno ai 10.000 chip. Washington aveva autorizzato le vendite a inizio anno, ma la Cina le centellina per proteggere i suoi chip nazionali. Nvidia non ha confermato le cifre.",
+      "il_senso": "Nella guerra dei chip non è più solo l'America a dire di no: anche la Cina usa i divieti come arma, e Nvidia resta in mezzo.",
+      "fonti": [
+        {
+          "nome": "Tech Startups (su Reuters)",
+          "url": "https://techstartups.com/2026/11/05/top-tech-news-roundup-for-today-november-5-2026-googles-17b-ai-data-center-nvidia-ziplines-1-5b-funding-and-nasdaqs-5-5-plunge/"
+        }
+      ]
+    },
+    {
+      "posizione": 5,
+      "titolo": "Google investe 17 miliardi in un data center in Wyoming, alimentato a celle a combustibile",
+      "riassunto": "Google costruirà un data center per l'AI da 17 miliardi di dollari nella contea di Laramie, in Wyoming. Per l'energia è previsto un impianto a celle a combustibile da 702 megawatt fornito da Bloom Energy, con cattura della CO2, insieme a partner come Tallgrass e AEP.",
+      "il_senso": "Per sfuggire a reti elettriche sature e proteste, le big tech si costruiscono la propria energia: i data center diventano centrali.",
+      "fonti": [
+        {
+          "nome": "Tech Startups",
+          "url": "https://techstartups.com/2026/11/05/top-tech-news-roundup-for-today-november-5-2026-googles-17b-ai-data-center-nvidia-ziplines-1-5b-funding-and-nasdaqs-5-5-plunge/"
+        }
+      ]
+    },
+    {
+      "posizione": 6,
+      "titolo": "Google, Meta e TikTok fanno causa alla California sulla legge per i minori",
+      "riassunto": "Google, Meta e TikTok hanno fatto causa alla California contro la legge AB 1709, che limita alcune funzioni dei social per gli utenti sotto i 16 anni. La legge entrerà in vigore il 1° gennaio 2027 se un giudice non la bloccherà, secondo il Guardian.",
+      "il_senso": "La protezione dei ragazzi online è il nuovo grande scontro tra Stati e piattaforme, in America come in Europa.",
+      "fonti": [
+        {
+          "nome": "Tech Startups (sul Guardian)",
+          "url": "https://techstartups.com/2026/11/05/top-tech-news-roundup-for-today-november-5-2026-googles-17b-ai-data-center-nvidia-ziplines-1-5b-funding-and-nasdaqs-5-5-plunge/"
+        }
+      ]
+    }
+  ],
+  "approfondimenti": [
+    {
+      "titolo": "Why Mega-Cap Tech Stocks' Dominance Is a Risk",
+      "testata": "Morgan Stanley (Lisa Shalett)",
+      "url": "https://morganstanley.com/ideas/magnificent-7-stocks-portfolio-risk",
+      "perche_e_importante": "È del 2024, ma spiega perfettamente il crollo di ieri. Già allora le sette grandi della tecnologia valevano circa il 30% dell'indice S&P 500 e i dieci maggiori titoli americani valevano quanto tutte le Borse di Regno Unito, Francia, Germania e Giappone insieme. L'analisi mostra perché questa concentrazione rende fragile tutto il mercato: le aziende salgono e scendono insieme, spinte dalla stessa scommessa sull'AI.",
+      "la_mia_lettura": "Con il boom dell'AI quel peso non mi pare diminuito, e chi ha un fondo pensione o un ETF globale è esposto a questa scommessa anche senza saperlo. Giornate come ieri ricordano che diversificare non è un consiglio noioso, è una protezione."
+    },
+    {
+      "titolo": "Why China is finally letting AI firms buy the Nvidia H200",
+      "testata": "South China Morning Post (ripreso da The Star)",
+      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/09/why-china-is-finally-letting-ai-firms-buy-the-nvidia-h200",
+      "perche_e_importante": "Spiega la logica di Pechino dietro i chip fermi a Hong Kong: la Cina concede i chip Nvidia col contagocce, con quote e motivazioni obbligatorie, per comprare tempo ai suoi produttori nazionali. Le aziende devono spiegare perché non possono usare un chip cinese. Un analista lo definisce il modo per garantire una finestra di crescita ai chip domestici.",
+      "la_mia_lettura": "La Cina usa la stessa arma degli Stati Uniti al contrario: controlla l'accesso per costruire autonomia. Per Nvidia significa che il mercato cinese non tornerà mai quello di prima, qualunque cosa decida Washington."
+    }
+  ],
+  "da_tenere_d_occhio": "Oggi il rapporto sul lavoro americano di ottobre, decisivo dopo il crollo di ieri. Nei prossimi giorni le reazioni delle big tech al nuovo Congresso e le scelte di Microsoft, Amazon e Google sugli investimenti in data center."
+}
