@@ -1,113 +1,121 @@
 {
-  "data": "2026-11-06",
-  "data_estesa": "Venerdì 6 novembre 2026",
-  "aggiornato_il": "2026-11-06T06:52:04+01:00",
+  "data": "2026-11-07",
+  "data_estesa": "Sabato 7 novembre 2026",
+  "aggiornato_il": "2026-11-07T06:51:25+01:00",
   "titolo": "Rassegna Big Tech & Finanza",
   "notizie": [
     {
       "posizione": 1,
-      "titolo": "Giovedì nero per l'AI: Nasdaq -5,5%, il peggior giorno da aprile 2025",
-      "riassunto": "Dopo la festa di mercoledì, giovedì Wall Street è crollata: Nasdaq -5,52% a 24.315 punti, ufficialmente in correzione (oltre il 10% sotto il record), S&P 500 -4,36%, Dow -3,44%. A guidare la caduta i chip: AMD e Micron -17%, Marvell -16%, Arm -13%, Nvidia -9,3%; anche Tesla ha perso quasi l'11%. L'indice dei semiconduttori ha avuto il giorno peggiore da marzo 2020. Gli investitori temono che la vittoria democratica rallenti la costruzione di data center: per UBS circa il 30% di quelli previsti per il 2028 è a rischio. In Corea la Borsa ha perso il 5,3%.",
-      "il_senso": "Il boom dell'AI si regge sulla promessa di costruire data center senza sosta: basta il dubbio che la politica li freni per bruciare in un giorno centinaia di miliardi.",
+      "titolo": "Lavoro americano oltre le attese, i chip rimbalzano ma la settimana resta pesante",
+      "riassunto": "A ottobre gli Stati Uniti hanno creato 165.000 posti di lavoro, contro i circa 59.000 attesi, e la disoccupazione è scesa al 4,1%. Venerdì i chip hanno recuperato parte del crollo di giovedì: AMD +11%, Micron +5%, Nvidia +2,8%. Il Nasdaq ha chiuso a +1,09%, ma perde il 3,4% sulla settimana, l'S&P 500 il 2,7%. In Asia, venerdì, il crollo era arrivato in ritardo: Borsa coreana e Tokyo intorno al -6%. Un analista di Jefferies, citato da Reuters, parla di una vendita emotiva più che di una svolta.",
+      "il_senso": "L'economia americana regge, ma la fiducia nell'AI si è incrinata: i mercati ora oscillano tra paura e voglia di comprare a sconto.",
       "fonti": [
         {
           "nome": "Stock Titan",
-          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-6-2026"
         },
         {
-          "nome": "The Motley Fool",
-          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/05/stock-market-today-nov-5-nasdaq-suffers-worst-day-in-18-months-as-ai-trade-comes-under-fire/"
+          "nome": "CappNotes",
+          "url": "https://cappnotes.substack.com/p/closing-look-friday-november-6-2026"
         },
         {
-          "nome": "AP",
-          "url": "https://apnews.com/article/wall-street-stocks-dow-nasdaq-afe254c608c3d1fe2ea792812ba9765a"
+          "nome": "BLS",
+          "url": "https://www.bls.gov/news.release/empsit.nr0.htm"
         }
       ]
     },
     {
       "posizione": 2,
-      "titolo": "Microsoft frena sui nuovi fornitori di cloud per l'AI",
-      "riassunto": "Secondo il Financial Times, Microsoft ha rinunciato all'opzione di più che raddoppiare il contratto con Nscale per un data center AI in Texas, e secondo Bloomberg sta stringendo i controlli su Nscale, Nebius e IREN, le società che le affittano potenza di calcolo. Nebius e IREN hanno perso oltre il 13% in Borsa. Il contratto dichiarato di Nscale vale circa 103 miliardi di dollari.",
-      "il_senso": "Quando il cliente più grande comincia a dosare gli acquisti, i piccoli che si sono indebitati per servirlo sono i primi a tremare.",
+      "titolo": "Microsoft spegne il cloud AI preso in affitto da Oracle",
+      "riassunto": "Secondo Bloomberg, Microsoft sta chiudendo il noleggio di capacità di calcolo AI da Oracle: negli ultimi mesi l'ha spenta senza rinnovarla, perché i vecchi chip Nvidia non rispondono più alle sue esigenze. Oracle assicura che la domanda per la sua infrastruttura resta forte, anche per i chip meno recenti, ma il titolo ha perso tra il 3 e il 5%. È il secondo segnale in pochi giorni, dopo la frenata su Nscale, che Microsoft sta selezionando i suoi fornitori.",
+      "il_senso": "I chip per l'AI invecchiano in pochi anni: chi ha investito miliardi per affittarli rischia di ritrovarsi con macchine che nessuno vuole più.",
       "fonti": [
         {
-          "nome": "AI Weekly (sul Financial Times)",
-          "url": "https://aiweekly.co/alerts/microsoft-rejects-option-to-more-than-double-nscales-texas-ai-data-center"
+          "nome": "ExplainX (su Bloomberg)",
+          "url": "https://explainx.ai/blog/microsoft-winds-down-oracle-ai-cloud-rental-older-nvidia-gpus-bloomberg-what-is-reported-2026"
         },
         {
-          "nome": "Tech Startups (su Bloomberg)",
-          "url": "https://techstartups.com/2026/11/05/top-tech-news-roundup-for-today-november-5-2026-googles-17b-ai-data-center-nvidia-ziplines-1-5b-funding-and-nasdaqs-5-5-plunge/"
+          "nome": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity"
         }
       ]
     },
     {
       "posizione": 3,
-      "titolo": "OpenAI pagherà per intero l'elettricità dei suoi data center",
-      "riassunto": "Davanti alla protesta contro i data center che ha pesato anche sul voto, OpenAI si è impegnata a pagare l'intero costo dell'energia dei suoi impianti, secondo CNBC. La settimana scorsa aveva lanciato un programma per ridurre i consumi durante le emergenze della rete elettrica e valutava di rinominare i data center \"campus di calcolo\".",
-      "il_senso": "La paura che l'AI faccia salire le bollette è diventata un problema politico: ora le aziende devono pagare per farsi accettare.",
+      "titolo": "USA Today accusa l'AI: i riassunti di Google tolgono lettori e pubblicità",
+      "riassunto": "Il gruppo USA Today Co., il più grande editore di quotidiani americano, ha chiuso il trimestre con ricavi in calo del 7,4% a 519 milioni di dollari. L'amministratore delegato Mike Reed ha dato la colpa ai cambiamenti nella ricerca online, con i riassunti dell'AI che riducono i clic verso i siti. Allo stesso tempo il gruppo punta sull'AI: collabora con Palantir, prevede altri accordi di licenza dei contenuti entro fine anno e ha già tagliato 100 milioni di costi, anche con licenziamenti.",
+      "il_senso": "Per i giornali l'AI è insieme la causa del problema e la speranza di salvezza: chi produce notizie rischia di perdere il contatto diretto con i lettori.",
       "fonti": [
         {
-          "nome": "AI Weekly (su CNBC)",
-          "url": "https://aiweekly.co/alerts/openai-to-pay-full-data-center-power-costs-drop-official-ndas"
-        },
-        {
-          "nome": "Stock Titan",
-          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-5-2026"
+          "nome": "Poynter",
+          "url": "https://www.poynter.org/business-work/2026/usa-today-co-ai-use-advertising-video/"
         }
       ]
     },
     {
       "posizione": 4,
-      "titolo": "Chip Nvidia bloccati a Hong Kong: la Cina non dà il via libera",
-      "riassunto": "Secondo Reuters, circa 600.000 chip Nvidia H200 sono fermi a Hong Kong perché Pechino non concede l'autorizzazione a importarli su larga scala; alcune aziende cinesi hanno ottenuto permessi solo per quote intorno ai 10.000 chip. Washington aveva autorizzato le vendite a inizio anno, ma la Cina le centellina per proteggere i suoi chip nazionali. Nvidia non ha confermato le cifre.",
-      "il_senso": "Nella guerra dei chip non è più solo l'America a dire di no: anche la Cina usa i divieti come arma, e Nvidia resta in mezzo.",
+      "titolo": "Meta fa marcia indietro: sospese le regole per raccogliere i contenuti dei siti",
+      "riassunto": "Meta ha sospeso a tempo indeterminato le nuove condizioni, previste per il 20 novembre, che le avrebbero permesso di raccogliere automaticamente i contenuti dei siti web delle aziende con un account Meta Business. Hanno pesato un'ingiunzione in Norvegia, un'ordinanza in Brasile che vieta l'uso di contenuti giornalistici senza autorizzazione, con multe fino a 1 milione di real al giorno, e un'indagine dell'antitrust britannico.",
+      "il_senso": "Tribunali e regolatori di più Paesi insieme possono fermare anche un gigante: i contenuti online non sono una miniera gratuita per l'AI.",
       "fonti": [
         {
-          "nome": "Tech Startups (su Reuters)",
-          "url": "https://techstartups.com/2026/11/05/top-tech-news-roundup-for-today-november-5-2026-googles-17b-ai-data-center-nvidia-ziplines-1-5b-funding-and-nasdaqs-5-5-plunge/"
+          "nome": "Nieman Lab",
+          "url": "https://www.niemanlab.org/2026/11/meta-pulls-down-controversial-terms-of-service/"
+        },
+        {
+          "nome": "AI Weekly",
+          "url": "https://aiweekly.co/alerts/meta-pauses-nov-20-scraping-terms-after-norway-brazil-rulings"
         }
       ]
     },
     {
       "posizione": 5,
-      "titolo": "Google investe 17 miliardi in un data center in Wyoming, alimentato a celle a combustibile",
-      "riassunto": "Google costruirà un data center per l'AI da 17 miliardi di dollari nella contea di Laramie, in Wyoming. Per l'energia è previsto un impianto a celle a combustibile da 702 megawatt fornito da Bloom Energy, con cattura della CO2, insieme a partner come Tallgrass e AEP.",
-      "il_senso": "Per sfuggire a reti elettriche sature e proteste, le big tech si costruiscono la propria energia: i data center diventano centrali.",
+      "titolo": "Washington crea una task force contro l'uso criminale della \"superintelligenza\"",
+      "riassunto": "Il Dipartimento di Giustizia americano ha lanciato una \"Super Intelligence Task Force\" per perseguire governi stranieri, organizzazioni criminali e truffatori che usano in modo illegale l'AI avanzata. Assorbe la precedente task force creata a gennaio per contestare le leggi statali sull'AI. Il ministro della Giustizia Todd Blanche ha detto che lo sviluppo della superintelligenza sarà guidato dagli innovatori americani.",
+      "il_senso": "L'amministrazione Trump punta a promuovere l'AI americana e a punire chi la usa per frodi o attacchi, mentre contesta le regole dei singoli Stati.",
       "fonti": [
         {
-          "nome": "Tech Startups",
-          "url": "https://techstartups.com/2026/11/05/top-tech-news-roundup-for-today-november-5-2026-googles-17b-ai-data-center-nvidia-ziplines-1-5b-funding-and-nasdaqs-5-5-plunge/"
+          "nome": "Dipartimento di Giustizia",
+          "url": "https://www.justice.gov/opa/pr/department-justice-launches-super-intelligence-task-force"
+        },
+        {
+          "nome": "AI Weekly",
+          "url": "https://aiweekly.co/alerts/doj-launches-super-intelligence-task-force-to-prosecute-ai-misuse-absorbs"
         }
       ]
     },
     {
       "posizione": 6,
-      "titolo": "Google, Meta e TikTok fanno causa alla California sulla legge per i minori",
-      "riassunto": "Google, Meta e TikTok hanno fatto causa alla California contro la legge AB 1709, che limita alcune funzioni dei social per gli utenti sotto i 16 anni. La legge entrerà in vigore il 1° gennaio 2027 se un giudice non la bloccherà, secondo il Guardian.",
-      "il_senso": "La protezione dei ragazzi online è il nuovo grande scontro tra Stati e piattaforme, in America come in Europa.",
+      "titolo": "Thinking Machines di Mira Murati verso 5 miliardi a 40 di valutazione",
+      "riassunto": "Secondo Business Insider, Thinking Machines Lab, la startup fondata dall'ex direttrice tecnica di OpenAI Mira Murati, sta chiudendo un round da 5 miliardi di dollari guidato da Accel, con una valutazione di 40 miliardi prima dell'investimento: circa il triplo dell'anno scorso. Nvidia sarebbe in trattativa per investire circa 2,5 miliardi.",
+      "il_senso": "Anche nella settimana del crollo in Borsa, i fondi continuano a scommettere cifre enormi sui laboratori di AI: il denaro privato non ha ancora paura.",
       "fonti": [
         {
-          "nome": "Tech Startups (sul Guardian)",
-          "url": "https://techstartups.com/2026/11/05/top-tech-news-roundup-for-today-november-5-2026-googles-17b-ai-data-center-nvidia-ziplines-1-5b-funding-and-nasdaqs-5-5-plunge/"
+          "nome": "Business Insider",
+          "url": "https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11"
+        },
+        {
+          "nome": "AI Weekly",
+          "url": "https://aiweekly.co/alerts/thinking-machines-lab-raising-5b-led-by-accel-at-40b-pre-money-tripling-last"
         }
       ]
     }
   ],
   "approfondimenti": [
     {
-      "titolo": "Why Mega-Cap Tech Stocks' Dominance Is a Risk",
-      "testata": "Morgan Stanley (Lisa Shalett)",
-      "url": "https://morganstanley.com/ideas/magnificent-7-stocks-portfolio-risk",
-      "perche_e_importante": "È del 2024, ma spiega perfettamente il crollo di ieri. Già allora le sette grandi della tecnologia valevano circa il 30% dell'indice S&P 500 e i dieci maggiori titoli americani valevano quanto tutte le Borse di Regno Unito, Francia, Germania e Giappone insieme. L'analisi mostra perché questa concentrazione rende fragile tutto il mercato: le aziende salgono e scendono insieme, spinte dalla stessa scommessa sull'AI.",
-      "la_mia_lettura": "Con il boom dell'AI quel peso non mi pare diminuito, e chi ha un fondo pensione o un ETF globale è esposto a questa scommessa anche senza saperlo. Giornate come ieri ricordano che diversificare non è un consiglio noioso, è una protezione."
+      "titolo": "Neoclouds: AI's $150 Billion Middle Layer That Owns Almost Nothing",
+      "testata": "Measured AI (Corey Trinetti)",
+      "url": "https://measuredai.substack.com/p/neoclouds-ai-middle-layer",
+      "perche_e_importante": "Spiega chi sono i \"neocloud\" come CoreWeave, Nebius e Nscale, che valgono insieme oltre 150 miliardi ma possiedono pochissimo: affittano edifici per 10-15 anni e li riempiono di chip che rendono bene solo per 2-5 anni. A reggere tutto sono le garanzie dei grandi clienti, da Microsoft a Google a Nvidia: Microsoft valeva circa due terzi dei ricavi 2025 di CoreWeave. È la chiave per capire perché le scelte di Microsoft su Nscale e Oracle fanno tremare il mercato.",
+      "la_mia_lettura": "È un castello costruito su un disallineamento di tempi: debiti lunghi, chip che invecchiano in fretta e pochi clienti decisivi. Finché i giganti comprano regge, ma basta che uno di loro rallenti, come Microsoft questa settimana, per far vacillare tutto il piano di mezzo."
     },
     {
-      "titolo": "Why China is finally letting AI firms buy the Nvidia H200",
-      "testata": "South China Morning Post (ripreso da The Star)",
-      "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/07/09/why-china-is-finally-letting-ai-firms-buy-the-nvidia-h200",
-      "perche_e_importante": "Spiega la logica di Pechino dietro i chip fermi a Hong Kong: la Cina concede i chip Nvidia col contagocce, con quote e motivazioni obbligatorie, per comprare tempo ai suoi produttori nazionali. Le aziende devono spiegare perché non possono usare un chip cinese. Un analista lo definisce il modo per garantire una finestra di crescita ai chip domestici.",
-      "la_mia_lettura": "La Cina usa la stessa arma degli Stati Uniti al contrario: controlla l'accesso per costruire autonomia. Per Nvidia significa che il mercato cinese non tornerà mai quello di prima, qualunque cosa decida Washington."
+      "titolo": "The Limits of Chip Export Controls in Meeting the China Challenge",
+      "testata": "CSIS (Sujai Shivakumar, Charles Wessner, Thomas Howell)",
+      "url": "https://www.csis.org/analysis/limits-chip-export-controls-meeting-china-challenge",
+      "perche_e_importante": "Uno studio del think tank di Washington che spiega perché i divieti all'export di chip non bastano a fermare la Cina: i chip sono piccoli e facili da contrabbandare, e le restrizioni hanno spinto Huawei e le aziende cinesi verso l'autosufficienza. Gli autori propongono di passare dal \"proteggere\" al \"promuovere\", investendo in ricerca e ingegneri. Aiuta a leggere la vicenda dei chip Nvidia fermi a Hong Kong.",
+      "la_mia_lettura": "È dell'aprile 2025, ma la previsione si sta avverando: oggi è la Cina a dire di no ai chip americani. I divieti hanno comprato tempo agli Stati Uniti, ma hanno anche dato a Pechino la motivazione per costruirsi un'industria propria."
     }
   ],
-  "da_tenere_d_occhio": "Oggi il rapporto sul lavoro americano di ottobre, decisivo dopo il crollo di ieri. Nei prossimi giorni le reazioni delle big tech al nuovo Congresso e le scelte di Microsoft, Amazon e Google sugli investimenti in data center."
+  "da_tenere_d_occhio": "Martedì 10 novembre l'inflazione americana di ottobre, venerdì 13 i prezzi alla produzione. Da seguire le prossime mosse di Microsoft e degli altri giganti del cloud sugli acquisti di capacità AI, e i negoziati sull'Iran che muovono il petrolio."
 }
