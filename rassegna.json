@@ -1,121 +1,97 @@
 {
-  "data": "2026-11-07",
-  "data_estesa": "Sabato 7 novembre 2026",
-  "aggiornato_il": "2026-11-07T06:51:25+01:00",
+  "data": "2026-11-08",
+  "data_estesa": "Domenica 8 novembre 2026",
+  "aggiornato_il": "2026-11-08T06:52:57+01:00",
   "titolo": "Rassegna Big Tech & Finanza",
   "notizie": [
     {
       "posizione": 1,
-      "titolo": "Lavoro americano oltre le attese, i chip rimbalzano ma la settimana resta pesante",
-      "riassunto": "A ottobre gli Stati Uniti hanno creato 165.000 posti di lavoro, contro i circa 59.000 attesi, e la disoccupazione è scesa al 4,1%. Venerdì i chip hanno recuperato parte del crollo di giovedì: AMD +11%, Micron +5%, Nvidia +2,8%. Il Nasdaq ha chiuso a +1,09%, ma perde il 3,4% sulla settimana, l'S&P 500 il 2,7%. In Asia, venerdì, il crollo era arrivato in ritardo: Borsa coreana e Tokyo intorno al -6%. Un analista di Jefferies, citato da Reuters, parla di una vendita emotiva più che di una svolta.",
-      "il_senso": "L'economia americana regge, ma la fiducia nell'AI si è incrinata: i mercati ora oscillano tra paura e voglia di comprare a sconto.",
+      "titolo": "OpenAI chiude 11 miliardi di dollari a una valutazione di 1.250 miliardi",
+      "riassunto": "Secondo Bloomberg, OpenAI ha incassato una prima tranche da 11 miliardi di dollari a una valutazione di 1.250 miliardi. Nel primo closing ci sono Coatue e T. Rowe Price; nel round anche SoftBank, Sequoia, Founders Fund, Andreessen Horowitz e investitori degli Emirati. L'obiettivo iniziale era di almeno 30 miliardi a oltre 1.400 miliardi di valutazione, poi ridotto a 20 miliardi. Il resto è atteso nelle prossime settimane.",
+      "il_senso": "Anche il gigante dell'IA ha dovuto chiedere meno soldi e accettare un prezzo più basso del previsto: un segnale che gli investitori stanno diventando più prudenti sull'intelligenza artificiale.",
       "fonti": [
         {
-          "nome": "Stock Titan",
-          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-6-2026"
+          "nome": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value"
         },
         {
-          "nome": "CappNotes",
-          "url": "https://cappnotes.substack.com/p/closing-look-friday-november-6-2026"
-        },
-        {
-          "nome": "BLS",
-          "url": "https://www.bls.gov/news.release/empsit.nr0.htm"
+          "nome": "Daily AI Brief",
+          "url": "https://dailyaibrief.com/news/openai-closes-11-billion-at-1-25-trillion-valuation-6rUgNwA0"
         }
       ]
     },
     {
       "posizione": 2,
-      "titolo": "Microsoft spegne il cloud AI preso in affitto da Oracle",
-      "riassunto": "Secondo Bloomberg, Microsoft sta chiudendo il noleggio di capacità di calcolo AI da Oracle: negli ultimi mesi l'ha spenta senza rinnovarla, perché i vecchi chip Nvidia non rispondono più alle sue esigenze. Oracle assicura che la domanda per la sua infrastruttura resta forte, anche per i chip meno recenti, ma il titolo ha perso tra il 3 e il 5%. È il secondo segnale in pochi giorni, dopo la frenata su Nscale, che Microsoft sta selezionando i suoi fornitori.",
-      "il_senso": "I chip per l'AI invecchiano in pochi anni: chi ha investito miliardi per affittarli rischia di ritrovarsi con macchine che nessuno vuole più.",
+      "titolo": "Quotazione di Anthropic: gli investitori dubitano dei tempi e del prezzo",
+      "riassunto": "Secondo Reuters (quattro fonti), i potenziali investitori dubitano che il roadshow dell'IPO possa partire la settimana del 9 novembre e alcuni chiedono una valutazione sotto i 1.500 miliardi discussi. Aspettano il dato sui ricavi di ottobre, lasciato in bianco nel prospetto S-1 aggiornato. Per Bloomberg le trattative ora sono tra 1.200 e 1.300 miliardi; secondo il WSJ c'è chi parla di circa 1.000 miliardi. La raccolta potrebbe valere circa 100 miliardi. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "il_senso": "Una delle quotazioni tecnologiche più attese arriva nel mezzo del crollo dei titoli IA: il prezzo che il mercato sarà disposto a pagare dirà molto su quanto valga davvero questa corsa.",
       "fonti": [
         {
-          "nome": "ExplainX (su Bloomberg)",
-          "url": "https://explainx.ai/blog/microsoft-winds-down-oracle-ai-cloud-rental-older-nvidia-gpus-bloomberg-what-is-reported-2026"
+          "nome": "Reuters via Global Banking & Finance",
+          "url": "https://www.globalbankingandfinance.com/exclusive-ai-backlash-threaten-anthropic-ipo-timing/"
         },
         {
-          "nome": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/microsoft-is-winding-down-oracle-deal-to-rent-ai-cloud-capacity"
+          "nome": "City AM (WSJ)",
+          "url": "https://www.cityam.com/anthropics-1-5-trillion-ipo-in-doubt-as-ai-sell-off-spooks-investors/"
         }
       ]
     },
     {
       "posizione": 3,
-      "titolo": "USA Today accusa l'AI: i riassunti di Google tolgono lettori e pubblicità",
-      "riassunto": "Il gruppo USA Today Co., il più grande editore di quotidiani americano, ha chiuso il trimestre con ricavi in calo del 7,4% a 519 milioni di dollari. L'amministratore delegato Mike Reed ha dato la colpa ai cambiamenti nella ricerca online, con i riassunti dell'AI che riducono i clic verso i siti. Allo stesso tempo il gruppo punta sull'AI: collabora con Palantir, prevede altri accordi di licenza dei contenuti entro fine anno e ha già tagliato 100 milioni di costi, anche con licenziamenti.",
-      "il_senso": "Per i giornali l'AI è insieme la causa del problema e la speranza di salvezza: chi produce notizie rischia di perdere il contatto diretto con i lettori.",
+      "titolo": "Torna la carenza di chip: Microchip dice che i clienti IA si prendono tutta la fabbrica",
+      "riassunto": "Il CEO di Microchip, Steve Sanghi, ha detto che i compratori legati all'IA hanno \"preso tutta la fabbrica\". I tempi di consegna dei chip standard sono passati da 4-8 settimane a 6-32 settimane. Il titolo ha perso il 13,9% il 5 novembre e il 10% il 6 novembre, circa il 22,6% in due giorni. Il fatturato data center supera i 250 milioni a trimestre (+55,7% su anno).",
+      "il_senso": "Quando le fabbriche lavorano per l'IA, restano indietro i chip comuni che finiscono in auto, elettrodomestici e macchinari: il rischio è rivedere ritardi e rincari come negli anni del Covid.",
       "fonti": [
         {
-          "nome": "Poynter",
-          "url": "https://www.poynter.org/business-work/2026/usa-today-co-ai-use-advertising-video/"
+          "nome": "24/7 Wall St.",
+          "url": "https://247wallst.com/investing/2026/11/07/the-chip-shortage-is-back-and-microchip-says-ai-customers-are-crowding-everyone-out/"
         }
       ]
     },
     {
       "posizione": 4,
-      "titolo": "Meta fa marcia indietro: sospese le regole per raccogliere i contenuti dei siti",
-      "riassunto": "Meta ha sospeso a tempo indeterminato le nuove condizioni, previste per il 20 novembre, che le avrebbero permesso di raccogliere automaticamente i contenuti dei siti web delle aziende con un account Meta Business. Hanno pesato un'ingiunzione in Norvegia, un'ordinanza in Brasile che vieta l'uso di contenuti giornalistici senza autorizzazione, con multe fino a 1 milione di real al giorno, e un'indagine dell'antitrust britannico.",
-      "il_senso": "Tribunali e regolatori di più Paesi insieme possono fermare anche un gigante: i contenuti online non sono una miniera gratuita per l'AI.",
+      "titolo": "Tesla ridurrà la produzione del Cybertruck in Texas per fare spazio al Cybercab",
+      "riassunto": "Elon Musk ha scritto su X che Tesla chiuderà gradualmente la produzione del Cybertruck nella Gigafactory del Texas verso metà 2027, per fare posto al Cybercab, il robotaxi a due posti senza volante né pedali. Non ha detto se la produzione si fermerà del tutto o si sposterà altrove. Tesla aveva già cancellato il Cybertruck per Australia e Nuova Zelanda a ottobre. I regolatori stanno indagando su come il Cybercab sia stato certificato.",
+      "il_senso": "Musk punta tutto sulla guida autonoma, sacrificando un prodotto iconico: per Tesla il futuro (e il valore in Borsa) dipende sempre più dai robotaxi che dalle auto.",
       "fonti": [
         {
-          "nome": "Nieman Lab",
-          "url": "https://www.niemanlab.org/2026/11/meta-pulls-down-controversial-terms-of-service/"
+          "nome": "The Washington Post",
+          "url": "https://www.washingtonpost.com/business/2026/11/06/musk-says-tesla-will-wind-down-cybertruck-production-texas/"
         },
         {
-          "nome": "AI Weekly",
-          "url": "https://aiweekly.co/alerts/meta-pauses-nov-20-scraping-terms-after-norway-brazil-rulings"
+          "nome": "Tesla North",
+          "url": "https://teslanorth.com/2026/11/06/tesla-cybertruck-wind-down-cybercab-2027/"
         }
       ]
     },
     {
       "posizione": 5,
-      "titolo": "Washington crea una task force contro l'uso criminale della \"superintelligenza\"",
-      "riassunto": "Il Dipartimento di Giustizia americano ha lanciato una \"Super Intelligence Task Force\" per perseguire governi stranieri, organizzazioni criminali e truffatori che usano in modo illegale l'AI avanzata. Assorbe la precedente task force creata a gennaio per contestare le leggi statali sull'AI. Il ministro della Giustizia Todd Blanche ha detto che lo sviluppo della superintelligenza sarà guidato dagli innovatori americani.",
-      "il_senso": "L'amministrazione Trump punta a promuovere l'AI americana e a punire chi la usa per frodi o attacchi, mentre contesta le regole dei singoli Stati.",
+      "titolo": "Deutsche Bank: la politica locale potrebbe frenare i data center americani",
+      "riassunto": "Secondo un'analisi di Deutsche Bank riportata da FourWeekMBA, circa il 45% della capacità di data center pianificata negli Stati Uniti si trova in Stati che hanno appena eletto governatori democratici. Per la banca, eventuali limiti ai data center potrebbero ridimensionare l'espansione prevista.",
+      "il_senso": "Dopo le elezioni di metà mandato, il boom dei data center non dipende più solo da soldi e chip ma anche dal consenso dei territori che devono ospitarli.",
       "fonti": [
         {
-          "nome": "Dipartimento di Giustizia",
-          "url": "https://www.justice.gov/opa/pr/department-justice-launches-super-intelligence-task-force"
-        },
-        {
-          "nome": "AI Weekly",
-          "url": "https://aiweekly.co/alerts/doj-launches-super-intelligence-task-force-to-prosecute-ai-misuse-absorbs"
-        }
-      ]
-    },
-    {
-      "posizione": 6,
-      "titolo": "Thinking Machines di Mira Murati verso 5 miliardi a 40 di valutazione",
-      "riassunto": "Secondo Business Insider, Thinking Machines Lab, la startup fondata dall'ex direttrice tecnica di OpenAI Mira Murati, sta chiudendo un round da 5 miliardi di dollari guidato da Accel, con una valutazione di 40 miliardi prima dell'investimento: circa il triplo dell'anno scorso. Nvidia sarebbe in trattativa per investire circa 2,5 miliardi.",
-      "il_senso": "Anche nella settimana del crollo in Borsa, i fondi continuano a scommettere cifre enormi sui laboratori di AI: il denaro privato non ha ancora paura.",
-      "fonti": [
-        {
-          "nome": "Business Insider",
-          "url": "https://www.businessinsider.com/thinking-machines-lab-is-closing-5-billion-new-round-2026-11"
-        },
-        {
-          "nome": "AI Weekly",
-          "url": "https://aiweekly.co/alerts/thinking-machines-lab-raising-5b-led-by-accel-at-40b-pre-money-tripling-last"
+          "nome": "FourWeekMBA",
+          "url": "https://fourweekmba.com/ai-deutsche-bank-data-center-limits-could-cap-an-ai-bubble/"
         }
       ]
     }
   ],
   "approfondimenti": [
     {
-      "titolo": "Neoclouds: AI's $150 Billion Middle Layer That Owns Almost Nothing",
-      "testata": "Measured AI (Corey Trinetti)",
-      "url": "https://measuredai.substack.com/p/neoclouds-ai-middle-layer",
-      "perche_e_importante": "Spiega chi sono i \"neocloud\" come CoreWeave, Nebius e Nscale, che valgono insieme oltre 150 miliardi ma possiedono pochissimo: affittano edifici per 10-15 anni e li riempiono di chip che rendono bene solo per 2-5 anni. A reggere tutto sono le garanzie dei grandi clienti, da Microsoft a Google a Nvidia: Microsoft valeva circa due terzi dei ricavi 2025 di CoreWeave. È la chiave per capire perché le scelte di Microsoft su Nscale e Oracle fanno tremare il mercato.",
-      "la_mia_lettura": "È un castello costruito su un disallineamento di tempi: debiti lunghi, chip che invecchiano in fretta e pochi clienti decisivi. Finché i giganti comprano regge, ma basta che uno di loro rallenti, come Microsoft questa settimana, per far vacillare tutto il piano di mezzo."
+      "titolo": "Thirsty, Tired, Wired: Singapore, Johor, Batam and the data centre boom",
+      "testata": "Kontinentalist, Nicole Lim, 11 maggio 2026",
+      "url": "https://kontinentalist.com/stories/data-centres-in-johor-singapore-batam",
+      "perche_e_importante": "Racconta con molti dati cosa succede quando un Paese dice basta ai data center: la moratoria di Singapore del 2019 ha spinto gli operatori in Malesia e Indonesia. Johor è passata da 10 MW di capacità nel 2021 a oltre 900 MW a fine 2025. A febbraio 2026 ci sono state proteste a Gelang Patah per la polvere, e il governo ha fermato le nuove richieste per data center non legati all'IA. Ora gli operatori devono usare almeno l'85% della potenza dichiarata.",
+      "la_mia_lettura": "È un ottimo caso di studio per capire il dibattito che sta arrivando anche in America e in Europa: i data center non spariscono, si spostano dove le regole sono più leggere, finché anche lì la popolazione non chiede il conto."
     },
     {
-      "titolo": "The Limits of Chip Export Controls in Meeting the China Challenge",
-      "testata": "CSIS (Sujai Shivakumar, Charles Wessner, Thomas Howell)",
-      "url": "https://www.csis.org/analysis/limits-chip-export-controls-meeting-china-challenge",
-      "perche_e_importante": "Uno studio del think tank di Washington che spiega perché i divieti all'export di chip non bastano a fermare la Cina: i chip sono piccoli e facili da contrabbandare, e le restrizioni hanno spinto Huawei e le aziende cinesi verso l'autosufficienza. Gli autori propongono di passare dal \"proteggere\" al \"promuovere\", investendo in ricerca e ingegneri. Aiuta a leggere la vicenda dei chip Nvidia fermi a Hong Kong.",
-      "la_mia_lettura": "È dell'aprile 2025, ma la previsione si sta avverando: oggi è la Cina a dire di no ai chip americani. I divieti hanno comprato tempo agli Stati Uniti, ma hanno anche dato a Pechino la motivazione per costruirsi un'industria propria."
+      "titolo": "OpenAI's $38 Billion Loss Raises Bigger Questions About AI Economics",
+      "testata": "VKTR, Scott Clark, 26 giugno 2026",
+      "url": "https://www.vktr.com/ai-market/openais-38-billion-loss-raises-bigger-questions-about-the-economics-of-ai/",
+      "perche_e_importante": "Mette in fila i conti 2025 di OpenAI riportati dal Financial Times: 13,07 miliardi di ricavi, 34 miliardi di costi, perdita operativa di 20,92 miliardi e perdita netta di 38,53 miliardi, gonfiata da oltre 41 miliardi di oneri contabili non monetari. In pratica OpenAI ha speso quasi 3 dollari per ogni dollaro incassato.",
+      "la_mia_lettura": "Da leggere insieme alla notizia di oggi sul round ridotto: spiega perché gli investitori iniziano a chiedere prezzi più bassi. La mia lettura è che la domanda chiave non sia se l'IA funzioni, ma quando i ricavi riusciranno a coprire costi così alti."
     }
   ],
-  "da_tenere_d_occhio": "Martedì 10 novembre l'inflazione americana di ottobre, venerdì 13 i prezzi alla produzione. Da seguire le prossime mosse di Microsoft e degli altri giganti del cloud sugli acquisti di capacità AI, e i negoziati sull'Iran che muovono il petrolio."
+  "da_tenere_d_occhio": "Martedì 10 novembre esce l'inflazione USA (CPI), venerdì 13 i prezzi alla produzione (PPI): numeri che possono muovere i titoli tech dopo il crollo della settimana. Da seguire anche se Anthropic farà partire il roadshow dell'IPO e l'incontro informativo con Jensen Huang (Nvidia) chiesto dai repubblicani della Camera per il 18 novembre, secondo CNBC."
 }
