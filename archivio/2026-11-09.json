@@ -1,0 +1,117 @@
+{
+  "data": "2026-11-09",
+  "data_estesa": "Lunedì 9 novembre 2026",
+  "aggiornato_il": "2026-11-09T06:53:00+01:00",
+  "titolo": "Rassegna Big Tech & Finanza",
+  "notizie": [
+    {
+      "posizione": 1,
+      "titolo": "Dopo il crollo, i titoli tech costano meno del resto della Borsa: non succedeva dal 2017",
+      "riassunto": "Secondo una nota di Keith Lerner (Truist Wealth), i titoli tecnologici dell'S&P 500 scambiano a circa 17 volte gli utili attesi, contro 18 dell'indice: la prima volta dal 2017. Al picco di ottobre 2025 erano a 32 volte. S&P 500 e Nasdaq hanno perso circa il 3% nella settimana, la quarta di fila in calo; l'indice dei semiconduttori ha perso quasi il 30% in cinque settimane, con Micron e Sandisk giù di oltre il 20% nell'ultima.",
+      "il_senso": "In poche settimane il mercato è passato dall'euforia per l'IA alla prudenza: i colossi tech oggi vengono pagati meno della media, un cambio di umore che pesa su risparmi, fondi e pensioni legati alla Borsa americana.",
+      "fonti": [
+        {
+          "nome": "JournalArta",
+          "url": "https://journalarta.com/en/2026/11/09/tech-stocks-cheaper-than-sp-500-first-time-since-2017/"
+        }
+      ]
+    },
+    {
+      "posizione": 2,
+      "titolo": "Anthropic compra generatori a gas per 3,4 miliardi di dollari per alimentare i suoi data center",
+      "riassunto": "Secondo il Financial Times, a fine settembre Anthropic ha rilevato da OnePWR Solutions (Texas) gli ordini per 1,7 gigawatt di generatori a gas Caterpillar, per 3,4 miliardi di dollari. OnePWR li aveva ordinati due anni fa ma non riusciva a finanziarli. Per l'FT è il più grande acquisto noto di apparecchiature elettriche da parte di un laboratorio di IA. Non è stato detto dove verranno installati; le aziende non hanno commentato. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "il_senso": "Le aziende dell'IA non aspettano più la rete elettrica: si producono l'energia da sole, spesso con il gas. È la prova di quanto l'IA stia diventando anche una questione di energia e di clima.",
+      "fonti": [
+        {
+          "nome": "Financial Times",
+          "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0"
+        },
+        {
+          "nome": "Daily AI Brief",
+          "url": "https://dailyaibrief.com/news/anthropic-buys-3-4-billion-gas-generator-commitments-TIDRULFj"
+        }
+      ]
+    },
+    {
+      "posizione": 3,
+      "titolo": "Nvidia e la Cina: aziende fantasma tra i compratori autorizzati e un memo su un tentativo di spionaggio",
+      "riassunto": "Un'inchiesta del New York Times ha trovato che tra le circa due dozzine di aziende cinesi autorizzate a comprare i chip H200 di Nvidia ce ne sono con uffici vuoti e proprietari legati a società sotto sanzioni americane. Un'altra inchiesta del NYT riferisce di un memo basato sull'intelligence USA secondo cui una dirigente della singaporiana Megaspeed sarebbe stata reclutata dai servizi cinesi per spiare il CEO Jensen Huang. Nvidia ha definito quei contatti \"non insoliti\" e dice di non condividere informazioni riservate con i clienti.",
+      "il_senso": "Le regole sull'export dei chip valgono quanto i controlli che le fanno rispettare: queste rivelazioni aumentano la pressione politica su Nvidia e sulla Casa Bianca, proprio mentre il Congresso chiede spiegazioni a Huang.",
+      "fonti": [
+        {
+          "nome": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+        },
+        {
+          "nome": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/two-chinese-companies-cleared-to-buy-banned-nvidia-ai-chips-have-empty-offices-and-unknown-addresses-investigation-reveals-businesses-have-ties-to-sanctioned-chinese-military-suppliers"
+        }
+      ]
+    },
+    {
+      "posizione": 4,
+      "titolo": "CoreWeave scrive alla nuova governatrice del Texas, che aveva promesso una moratoria sui data center",
+      "riassunto": "CoreWeave, uno dei principali fornitori di potenza di calcolo per l'IA, ha scritto alla governatrice eletta del Texas Gina Hinojosa per offrire collaborazione. Il CEO Michael Intrator riconosce che la crescita dei data center \"deve funzionare per il Texas\" e propone \"standard chiari e duraturi\". Hinojosa, prima democratica eletta governatrice del Texas dal 1990, aveva fatto campagna per una moratoria statale sui data center; ora dice di voler bilanciare regole favorevoli alle imprese e vincoli più severi.",
+      "il_senso": "Dopo il voto di metà mandato le aziende dell'IA devono trattare con la politica locale: dove e a che condizioni si costruiscono i data center diventa una questione elettorale.",
+      "fonti": [
+        {
+          "nome": "Taipei Times",
+          "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/09/2003867387"
+        },
+        {
+          "nome": "Daily AI Brief",
+          "url": "https://dailyaibrief.com/news/coreweave-letter-texas-governor-elect-hinojosa-ZYqtjANO"
+        }
+      ]
+    },
+    {
+      "posizione": 5,
+      "titolo": "Apple vuole una Siri \"agente\" già dal prossimo anno, e Ternus spinge per accelerare",
+      "riassunto": "Secondo Mark Gurman di Bloomberg, Apple potrebbe rendere Siri capace di portare avanti compiti in autonomia già dal prossimo anno, come fanno gli agenti di OpenAI, Meta e xAI. Il nuovo CEO John Ternus avrebbe chiesto in un incontro riservato a Craig Federighi di accelerare la tabella di marcia sull'IA. Apple non ha annunciato nulla ufficialmente.",
+      "il_senso": "Apple è rimasta indietro nell'IA e il nuovo capo vuole recuperare: su oltre un miliardo di iPhone, un assistente che agisce al posto nostro cambierebbe il modo in cui usiamo il telefono.",
+      "fonti": [
+        {
+          "nome": "9to5Mac (Bloomberg)",
+          "url": "https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report/"
+        },
+        {
+          "nome": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/08/john-ternus-pushing-craig-federighi-to-move-faster-software-engineering/"
+        }
+      ]
+    },
+    {
+      "posizione": 6,
+      "titolo": "JPMorgan firma con OpenAI e Brockman parla di quotazione nel 2027",
+      "riassunto": "Il presidente di OpenAI Greg Brockman ha annunciato alla conferenza tecnologica del Wall Street Journal un accordo con JPMorgan Chase, che userà Codex, lo strumento di OpenAI per scrivere codice, e i suoi modelli per la sicurezza informatica. Non sono stati resi noti i termini economici. Brockman ha anche detto che OpenAI potrebbe essere pronta a quotarsi in Borsa nel 2027.",
+      "il_senso": "La più grande banca americana porta l'IA dentro i suoi sistemi più delicati: è il tipo di cliente che OpenAI deve conquistare per giustificare valutazioni da migliaia di miliardi.",
+      "fonti": [
+        {
+          "nome": "Finextra",
+          "url": "https://www.finextra.com/newsarticle/48718/jpmorgan-chase-signs-cybersecurity-and-coding-deal-with-openai"
+        },
+        {
+          "nome": "PYMNTS",
+          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-forms-jpmorgan-partnership-ahead-of-2027-ipo/"
+        }
+      ]
+    }
+  ],
+  "approfondimenti": [
+    {
+      "titolo": "How AI Labs Are Solving the Power Crisis: The Onsite Gas Deep Dive",
+      "testata": "SemiAnalysis, Ajey Pandey, Jeremie Eliahou Ontiveros e Dylan Patel, 30 dicembre 2025",
+      "url": "https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power",
+      "perche_e_importante": "È un'analisi molto dettagliata sul perché le aziende dell'IA si costruiscono centrali a gas accanto ai data center: negli Stati Uniti servono di solito circa cinque anni per collegare nuova generazione, mentre turbine e motori a gas arrivano in 15-36 mesi. Spiega costi, tempi e protagonisti, da xAI a OpenAI e Oracle. Aiuta a leggere la notizia di oggi su Anthropic. Una parte del testo è riservata agli abbonati.",
+      "la_mia_lettura": "Il messaggio di fondo è che nella corsa all'IA il tempo vale più del costo e dell'impatto ambientale. La mia lettura è che questo rischia di legare per anni il settore al gas, proprio mentre molte big tech avevano promesso di azzerare le emissioni."
+    },
+    {
+      "titolo": "The AI rally looks like the dot-com bubble, but the companies do not",
+      "testata": "The Next Web, Alina Maria Stan, 25 aprile 2026",
+      "url": "https://thenextweb.com/news/ai-stocks-dot-com-bubble-comparison-market-outlook",
+      "perche_e_importante": "Mette a confronto, numeri alla mano, la Borsa dell'IA e quella del 2000: indice Shiller CAPE vicino ai massimi storici e dieci aziende che pesano il 36-40% dell'S&P 500 (contro circa il 27% del 2000), ma anche colossi con utili e flussi di cassa enormi. Presenta sia la tesi di chi vede una bolla sia quella di chi la esclude.",
+      "la_mia_lettura": "Utile per leggere il calo di queste settimane senza panico né euforia. La mia lettura è che la differenza col 2000 stia nei profitti dei grandi, mentre il rischio maggiore è nelle aziende più piccole e indebitate che inseguono la corsa."
+    }
+  ],
+  "da_tenere_d_occhio": "Martedì 10 novembre l'inflazione USA (CPI) e venerdì 13 i prezzi alla produzione (PPI), dati che possono decidere se il calo del tech continua. Da seguire se Anthropic farà partire il roadshow della quotazione questa settimana e l'incontro di Jensen Huang (Nvidia) con i repubblicani della Camera chiesto per il 18 novembre."
+}

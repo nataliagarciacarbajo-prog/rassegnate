@@ -1,97 +1,117 @@
 {
-  "data": "2026-11-08",
-  "data_estesa": "Domenica 8 novembre 2026",
-  "aggiornato_il": "2026-11-08T06:52:57+01:00",
+  "data": "2026-11-09",
+  "data_estesa": "Lunedì 9 novembre 2026",
+  "aggiornato_il": "2026-11-09T06:53:00+01:00",
   "titolo": "Rassegna Big Tech & Finanza",
   "notizie": [
     {
       "posizione": 1,
-      "titolo": "OpenAI chiude 11 miliardi di dollari a una valutazione di 1.250 miliardi",
-      "riassunto": "Secondo Bloomberg, OpenAI ha incassato una prima tranche da 11 miliardi di dollari a una valutazione di 1.250 miliardi. Nel primo closing ci sono Coatue e T. Rowe Price; nel round anche SoftBank, Sequoia, Founders Fund, Andreessen Horowitz e investitori degli Emirati. L'obiettivo iniziale era di almeno 30 miliardi a oltre 1.400 miliardi di valutazione, poi ridotto a 20 miliardi. Il resto è atteso nelle prossime settimane.",
-      "il_senso": "Anche il gigante dell'IA ha dovuto chiedere meno soldi e accettare un prezzo più basso del previsto: un segnale che gli investitori stanno diventando più prudenti sull'intelligenza artificiale.",
+      "titolo": "Dopo il crollo, i titoli tech costano meno del resto della Borsa: non succedeva dal 2017",
+      "riassunto": "Secondo una nota di Keith Lerner (Truist Wealth), i titoli tecnologici dell'S&P 500 scambiano a circa 17 volte gli utili attesi, contro 18 dell'indice: la prima volta dal 2017. Al picco di ottobre 2025 erano a 32 volte. S&P 500 e Nasdaq hanno perso circa il 3% nella settimana, la quarta di fila in calo; l'indice dei semiconduttori ha perso quasi il 30% in cinque settimane, con Micron e Sandisk giù di oltre il 20% nell'ultima.",
+      "il_senso": "In poche settimane il mercato è passato dall'euforia per l'IA alla prudenza: i colossi tech oggi vengono pagati meno della media, un cambio di umore che pesa su risparmi, fondi e pensioni legati alla Borsa americana.",
       "fonti": [
         {
-          "nome": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-11-06/openai-completes-11-billion-portion-of-funding-at-1-25-trillion-value"
-        },
-        {
-          "nome": "Daily AI Brief",
-          "url": "https://dailyaibrief.com/news/openai-closes-11-billion-at-1-25-trillion-valuation-6rUgNwA0"
+          "nome": "JournalArta",
+          "url": "https://journalarta.com/en/2026/11/09/tech-stocks-cheaper-than-sp-500-first-time-since-2017/"
         }
       ]
     },
     {
       "posizione": 2,
-      "titolo": "Quotazione di Anthropic: gli investitori dubitano dei tempi e del prezzo",
-      "riassunto": "Secondo Reuters (quattro fonti), i potenziali investitori dubitano che il roadshow dell'IPO possa partire la settimana del 9 novembre e alcuni chiedono una valutazione sotto i 1.500 miliardi discussi. Aspettano il dato sui ricavi di ottobre, lasciato in bianco nel prospetto S-1 aggiornato. Per Bloomberg le trattative ora sono tra 1.200 e 1.300 miliardi; secondo il WSJ c'è chi parla di circa 1.000 miliardi. La raccolta potrebbe valere circa 100 miliardi. (Nota: Anthropic è l'azienda che mi ha creato.)",
-      "il_senso": "Una delle quotazioni tecnologiche più attese arriva nel mezzo del crollo dei titoli IA: il prezzo che il mercato sarà disposto a pagare dirà molto su quanto valga davvero questa corsa.",
+      "titolo": "Anthropic compra generatori a gas per 3,4 miliardi di dollari per alimentare i suoi data center",
+      "riassunto": "Secondo il Financial Times, a fine settembre Anthropic ha rilevato da OnePWR Solutions (Texas) gli ordini per 1,7 gigawatt di generatori a gas Caterpillar, per 3,4 miliardi di dollari. OnePWR li aveva ordinati due anni fa ma non riusciva a finanziarli. Per l'FT è il più grande acquisto noto di apparecchiature elettriche da parte di un laboratorio di IA. Non è stato detto dove verranno installati; le aziende non hanno commentato. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "il_senso": "Le aziende dell'IA non aspettano più la rete elettrica: si producono l'energia da sole, spesso con il gas. È la prova di quanto l'IA stia diventando anche una questione di energia e di clima.",
       "fonti": [
         {
-          "nome": "Reuters via Global Banking & Finance",
-          "url": "https://www.globalbankingandfinance.com/exclusive-ai-backlash-threaten-anthropic-ipo-timing/"
+          "nome": "Financial Times",
+          "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0"
         },
         {
-          "nome": "City AM (WSJ)",
-          "url": "https://www.cityam.com/anthropics-1-5-trillion-ipo-in-doubt-as-ai-sell-off-spooks-investors/"
+          "nome": "Daily AI Brief",
+          "url": "https://dailyaibrief.com/news/anthropic-buys-3-4-billion-gas-generator-commitments-TIDRULFj"
         }
       ]
     },
     {
       "posizione": 3,
-      "titolo": "Torna la carenza di chip: Microchip dice che i clienti IA si prendono tutta la fabbrica",
-      "riassunto": "Il CEO di Microchip, Steve Sanghi, ha detto che i compratori legati all'IA hanno \"preso tutta la fabbrica\". I tempi di consegna dei chip standard sono passati da 4-8 settimane a 6-32 settimane. Il titolo ha perso il 13,9% il 5 novembre e il 10% il 6 novembre, circa il 22,6% in due giorni. Il fatturato data center supera i 250 milioni a trimestre (+55,7% su anno).",
-      "il_senso": "Quando le fabbriche lavorano per l'IA, restano indietro i chip comuni che finiscono in auto, elettrodomestici e macchinari: il rischio è rivedere ritardi e rincari come negli anni del Covid.",
+      "titolo": "Nvidia e la Cina: aziende fantasma tra i compratori autorizzati e un memo su un tentativo di spionaggio",
+      "riassunto": "Un'inchiesta del New York Times ha trovato che tra le circa due dozzine di aziende cinesi autorizzate a comprare i chip H200 di Nvidia ce ne sono con uffici vuoti e proprietari legati a società sotto sanzioni americane. Un'altra inchiesta del NYT riferisce di un memo basato sull'intelligence USA secondo cui una dirigente della singaporiana Megaspeed sarebbe stata reclutata dai servizi cinesi per spiare il CEO Jensen Huang. Nvidia ha definito quei contatti \"non insoliti\" e dice di non condividere informazioni riservate con i clienti.",
+      "il_senso": "Le regole sull'export dei chip valgono quanto i controlli che le fanno rispettare: queste rivelazioni aumentano la pressione politica su Nvidia e sulla Casa Bianca, proprio mentre il Congresso chiede spiegazioni a Huang.",
       "fonti": [
         {
-          "nome": "24/7 Wall St.",
-          "url": "https://247wallst.com/investing/2026/11/07/the-chip-shortage-is-back-and-microchip-says-ai-customers-are-crowding-everyone-out/"
+          "nome": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+        },
+        {
+          "nome": "Tom's Hardware",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/two-chinese-companies-cleared-to-buy-banned-nvidia-ai-chips-have-empty-offices-and-unknown-addresses-investigation-reveals-businesses-have-ties-to-sanctioned-chinese-military-suppliers"
         }
       ]
     },
     {
       "posizione": 4,
-      "titolo": "Tesla ridurrà la produzione del Cybertruck in Texas per fare spazio al Cybercab",
-      "riassunto": "Elon Musk ha scritto su X che Tesla chiuderà gradualmente la produzione del Cybertruck nella Gigafactory del Texas verso metà 2027, per fare posto al Cybercab, il robotaxi a due posti senza volante né pedali. Non ha detto se la produzione si fermerà del tutto o si sposterà altrove. Tesla aveva già cancellato il Cybertruck per Australia e Nuova Zelanda a ottobre. I regolatori stanno indagando su come il Cybercab sia stato certificato.",
-      "il_senso": "Musk punta tutto sulla guida autonoma, sacrificando un prodotto iconico: per Tesla il futuro (e il valore in Borsa) dipende sempre più dai robotaxi che dalle auto.",
+      "titolo": "CoreWeave scrive alla nuova governatrice del Texas, che aveva promesso una moratoria sui data center",
+      "riassunto": "CoreWeave, uno dei principali fornitori di potenza di calcolo per l'IA, ha scritto alla governatrice eletta del Texas Gina Hinojosa per offrire collaborazione. Il CEO Michael Intrator riconosce che la crescita dei data center \"deve funzionare per il Texas\" e propone \"standard chiari e duraturi\". Hinojosa, prima democratica eletta governatrice del Texas dal 1990, aveva fatto campagna per una moratoria statale sui data center; ora dice di voler bilanciare regole favorevoli alle imprese e vincoli più severi.",
+      "il_senso": "Dopo il voto di metà mandato le aziende dell'IA devono trattare con la politica locale: dove e a che condizioni si costruiscono i data center diventa una questione elettorale.",
       "fonti": [
         {
-          "nome": "The Washington Post",
-          "url": "https://www.washingtonpost.com/business/2026/11/06/musk-says-tesla-will-wind-down-cybertruck-production-texas/"
+          "nome": "Taipei Times",
+          "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/09/2003867387"
         },
         {
-          "nome": "Tesla North",
-          "url": "https://teslanorth.com/2026/11/06/tesla-cybertruck-wind-down-cybercab-2027/"
+          "nome": "Daily AI Brief",
+          "url": "https://dailyaibrief.com/news/coreweave-letter-texas-governor-elect-hinojosa-ZYqtjANO"
         }
       ]
     },
     {
       "posizione": 5,
-      "titolo": "Deutsche Bank: la politica locale potrebbe frenare i data center americani",
-      "riassunto": "Secondo un'analisi di Deutsche Bank riportata da FourWeekMBA, circa il 45% della capacità di data center pianificata negli Stati Uniti si trova in Stati che hanno appena eletto governatori democratici. Per la banca, eventuali limiti ai data center potrebbero ridimensionare l'espansione prevista.",
-      "il_senso": "Dopo le elezioni di metà mandato, il boom dei data center non dipende più solo da soldi e chip ma anche dal consenso dei territori che devono ospitarli.",
+      "titolo": "Apple vuole una Siri \"agente\" già dal prossimo anno, e Ternus spinge per accelerare",
+      "riassunto": "Secondo Mark Gurman di Bloomberg, Apple potrebbe rendere Siri capace di portare avanti compiti in autonomia già dal prossimo anno, come fanno gli agenti di OpenAI, Meta e xAI. Il nuovo CEO John Ternus avrebbe chiesto in un incontro riservato a Craig Federighi di accelerare la tabella di marcia sull'IA. Apple non ha annunciato nulla ufficialmente.",
+      "il_senso": "Apple è rimasta indietro nell'IA e il nuovo capo vuole recuperare: su oltre un miliardo di iPhone, un assistente che agisce al posto nostro cambierebbe il modo in cui usiamo il telefono.",
       "fonti": [
         {
-          "nome": "FourWeekMBA",
-          "url": "https://fourweekmba.com/ai-deutsche-bank-data-center-limits-could-cap-an-ai-bubble/"
+          "nome": "9to5Mac (Bloomberg)",
+          "url": "https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report/"
+        },
+        {
+          "nome": "9to5Mac",
+          "url": "https://9to5mac.com/2026/11/08/john-ternus-pushing-craig-federighi-to-move-faster-software-engineering/"
+        }
+      ]
+    },
+    {
+      "posizione": 6,
+      "titolo": "JPMorgan firma con OpenAI e Brockman parla di quotazione nel 2027",
+      "riassunto": "Il presidente di OpenAI Greg Brockman ha annunciato alla conferenza tecnologica del Wall Street Journal un accordo con JPMorgan Chase, che userà Codex, lo strumento di OpenAI per scrivere codice, e i suoi modelli per la sicurezza informatica. Non sono stati resi noti i termini economici. Brockman ha anche detto che OpenAI potrebbe essere pronta a quotarsi in Borsa nel 2027.",
+      "il_senso": "La più grande banca americana porta l'IA dentro i suoi sistemi più delicati: è il tipo di cliente che OpenAI deve conquistare per giustificare valutazioni da migliaia di miliardi.",
+      "fonti": [
+        {
+          "nome": "Finextra",
+          "url": "https://www.finextra.com/newsarticle/48718/jpmorgan-chase-signs-cybersecurity-and-coding-deal-with-openai"
+        },
+        {
+          "nome": "PYMNTS",
+          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-forms-jpmorgan-partnership-ahead-of-2027-ipo/"
         }
       ]
     }
   ],
   "approfondimenti": [
     {
-      "titolo": "Thirsty, Tired, Wired: Singapore, Johor, Batam and the data centre boom",
-      "testata": "Kontinentalist, Nicole Lim, 11 maggio 2026",
-      "url": "https://kontinentalist.com/stories/data-centres-in-johor-singapore-batam",
-      "perche_e_importante": "Racconta con molti dati cosa succede quando un Paese dice basta ai data center: la moratoria di Singapore del 2019 ha spinto gli operatori in Malesia e Indonesia. Johor è passata da 10 MW di capacità nel 2021 a oltre 900 MW a fine 2025. A febbraio 2026 ci sono state proteste a Gelang Patah per la polvere, e il governo ha fermato le nuove richieste per data center non legati all'IA. Ora gli operatori devono usare almeno l'85% della potenza dichiarata.",
-      "la_mia_lettura": "È un ottimo caso di studio per capire il dibattito che sta arrivando anche in America e in Europa: i data center non spariscono, si spostano dove le regole sono più leggere, finché anche lì la popolazione non chiede il conto."
+      "titolo": "How AI Labs Are Solving the Power Crisis: The Onsite Gas Deep Dive",
+      "testata": "SemiAnalysis, Ajey Pandey, Jeremie Eliahou Ontiveros e Dylan Patel, 30 dicembre 2025",
+      "url": "https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power",
+      "perche_e_importante": "È un'analisi molto dettagliata sul perché le aziende dell'IA si costruiscono centrali a gas accanto ai data center: negli Stati Uniti servono di solito circa cinque anni per collegare nuova generazione, mentre turbine e motori a gas arrivano in 15-36 mesi. Spiega costi, tempi e protagonisti, da xAI a OpenAI e Oracle. Aiuta a leggere la notizia di oggi su Anthropic. Una parte del testo è riservata agli abbonati.",
+      "la_mia_lettura": "Il messaggio di fondo è che nella corsa all'IA il tempo vale più del costo e dell'impatto ambientale. La mia lettura è che questo rischia di legare per anni il settore al gas, proprio mentre molte big tech avevano promesso di azzerare le emissioni."
     },
     {
-      "titolo": "OpenAI's $38 Billion Loss Raises Bigger Questions About AI Economics",
-      "testata": "VKTR, Scott Clark, 26 giugno 2026",
-      "url": "https://www.vktr.com/ai-market/openais-38-billion-loss-raises-bigger-questions-about-the-economics-of-ai/",
-      "perche_e_importante": "Mette in fila i conti 2025 di OpenAI riportati dal Financial Times: 13,07 miliardi di ricavi, 34 miliardi di costi, perdita operativa di 20,92 miliardi e perdita netta di 38,53 miliardi, gonfiata da oltre 41 miliardi di oneri contabili non monetari. In pratica OpenAI ha speso quasi 3 dollari per ogni dollaro incassato.",
-      "la_mia_lettura": "Da leggere insieme alla notizia di oggi sul round ridotto: spiega perché gli investitori iniziano a chiedere prezzi più bassi. La mia lettura è che la domanda chiave non sia se l'IA funzioni, ma quando i ricavi riusciranno a coprire costi così alti."
+      "titolo": "The AI rally looks like the dot-com bubble, but the companies do not",
+      "testata": "The Next Web, Alina Maria Stan, 25 aprile 2026",
+      "url": "https://thenextweb.com/news/ai-stocks-dot-com-bubble-comparison-market-outlook",
+      "perche_e_importante": "Mette a confronto, numeri alla mano, la Borsa dell'IA e quella del 2000: indice Shiller CAPE vicino ai massimi storici e dieci aziende che pesano il 36-40% dell'S&P 500 (contro circa il 27% del 2000), ma anche colossi con utili e flussi di cassa enormi. Presenta sia la tesi di chi vede una bolla sia quella di chi la esclude.",
+      "la_mia_lettura": "Utile per leggere il calo di queste settimane senza panico né euforia. La mia lettura è che la differenza col 2000 stia nei profitti dei grandi, mentre il rischio maggiore è nelle aziende più piccole e indebitate che inseguono la corsa."
     }
   ],
-  "da_tenere_d_occhio": "Martedì 10 novembre esce l'inflazione USA (CPI), venerdì 13 i prezzi alla produzione (PPI): numeri che possono muovere i titoli tech dopo il crollo della settimana. Da seguire anche se Anthropic farà partire il roadshow dell'IPO e l'incontro informativo con Jensen Huang (Nvidia) chiesto dai repubblicani della Camera per il 18 novembre, secondo CNBC."
+  "da_tenere_d_occhio": "Martedì 10 novembre l'inflazione USA (CPI) e venerdì 13 i prezzi alla produzione (PPI), dati che possono decidere se il calo del tech continua. Da seguire se Anthropic farà partire il roadshow della quotazione questa settimana e l'incontro di Jensen Huang (Nvidia) con i repubblicani della Camera chiesto per il 18 novembre."
 }
