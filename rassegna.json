@@ -1,117 +1,121 @@
 {
-  "data": "2026-11-09",
-  "data_estesa": "Lunedì 9 novembre 2026",
-  "aggiornato_il": "2026-11-09T06:53:00+01:00",
+  "data": "2026-11-10",
+  "data_estesa": "Martedì 10 novembre 2026",
+  "aggiornato_il": "2026-11-10T06:53:02+01:00",
   "titolo": "Rassegna Big Tech & Finanza",
   "notizie": [
     {
       "posizione": 1,
-      "titolo": "Dopo il crollo, i titoli tech costano meno del resto della Borsa: non succedeva dal 2017",
-      "riassunto": "Secondo una nota di Keith Lerner (Truist Wealth), i titoli tecnologici dell'S&P 500 scambiano a circa 17 volte gli utili attesi, contro 18 dell'indice: la prima volta dal 2017. Al picco di ottobre 2025 erano a 32 volte. S&P 500 e Nasdaq hanno perso circa il 3% nella settimana, la quarta di fila in calo; l'indice dei semiconduttori ha perso quasi il 30% in cinque settimane, con Micron e Sandisk giù di oltre il 20% nell'ultima.",
-      "il_senso": "In poche settimane il mercato è passato dall'euforia per l'IA alla prudenza: i colossi tech oggi vengono pagati meno della media, un cambio di umore che pesa su risparmi, fondi e pensioni legati alla Borsa americana.",
+      "titolo": "Nvidia apre un'indagine interna sul CEO Jensen Huang e brucia oltre 200 miliardi in Borsa",
+      "riassunto": "Domenica il consiglio di amministrazione di Nvidia ha annunciato un'indagine indipendente, guidata da consiglieri indipendenti con avvocati esterni, dopo le notizie secondo cui Huang sarebbe stato bersaglio di un'operazione di intelligence straniera. Il board dice di non avere motivo di credere che sicurezza nazionale o segreti aziendali siano stati compromessi e conferma la fiducia in Huang, che collabora. Lunedì il titolo ha perso circa il 4,3%, oltre 200 miliardi di valore, mentre il resto del tech saliva. Huang ha anche annullato alcuni interventi pubblici.",
+      "il_senso": "Nvidia è l'azienda più importante dell'IA e la sua immagine coincide con quella del fondatore: quando il capo finisce sotto esame, a tremare è un pezzo intero di Borsa e della sfida tecnologica tra Stati Uniti e Cina.",
       "fonti": [
         {
-          "nome": "JournalArta",
-          "url": "https://journalarta.com/en/2026/11/09/tech-stocks-cheaper-than-sp-500-first-time-since-2017/"
+          "nome": "Nvidia (comunicato del board)",
+          "url": "https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/default.aspx"
+        },
+        {
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-9-2026"
+        },
+        {
+          "nome": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"
         }
       ]
     },
     {
       "posizione": 2,
-      "titolo": "Anthropic compra generatori a gas per 3,4 miliardi di dollari per alimentare i suoi data center",
-      "riassunto": "Secondo il Financial Times, a fine settembre Anthropic ha rilevato da OnePWR Solutions (Texas) gli ordini per 1,7 gigawatt di generatori a gas Caterpillar, per 3,4 miliardi di dollari. OnePWR li aveva ordinati due anni fa ma non riusciva a finanziarli. Per l'FT è il più grande acquisto noto di apparecchiature elettriche da parte di un laboratorio di IA. Non è stato detto dove verranno installati; le aziende non hanno commentato. (Nota: Anthropic è l'azienda che mi ha creato.)",
-      "il_senso": "Le aziende dell'IA non aspettano più la rete elettrica: si producono l'energia da sole, spesso con il gas. È la prova di quanto l'IA stia diventando anche una questione di energia e di clima.",
+      "titolo": "Wall Street rimbalza dopo la settimana peggiore da aprile 2025: chip in forte rialzo",
+      "riassunto": "Lunedì il Nasdaq ha chiuso a +2,74%, l'S&P 500 a +2,35% e il Dow Jones a +2,15%, recuperando parte delle perdite della settimana del voto di metà mandato. Hanno aiutato il calo del petrolio e il ritorno degli acquisti sui titoli tecnologici: secondo Forbes e StockTitan, AMD è salita di oltre l'11% e Broadcom di circa l'8-9% in giornata. A metà giornata, tra i Magnifici Sette, solo Nvidia era in calo secondo Forbes.",
+      "il_senso": "Il mercato non ha abbandonato l'IA: dopo la paura arriva la caccia ai titoli scesi troppo. Ma basta un dato sull'inflazione o una notizia negativa per far ripartire le vendite.",
       "fonti": [
         {
-          "nome": "Financial Times",
-          "url": "https://www.ft.com/content/41bf5c6a-9735-4f1a-a8e3-2bcccad58ba0"
+          "nome": "The Motley Fool",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/09/stock-market-today-nov-9-markets-rally-as-semiconductor-gains-lift-nasdaq/"
         },
         {
-          "nome": "Daily AI Brief",
-          "url": "https://dailyaibrief.com/news/anthropic-buys-3-4-billion-gas-generator-commitments-TIDRULFj"
+          "nome": "Forbes",
+          "url": "https://www.forbes.com/sites/fionariley/2026/11/09/tech-stocks-continue-rebound-after-midterms-triggered-ai-linked-selloff/"
         }
       ]
     },
     {
       "posizione": 3,
-      "titolo": "Nvidia e la Cina: aziende fantasma tra i compratori autorizzati e un memo su un tentativo di spionaggio",
-      "riassunto": "Un'inchiesta del New York Times ha trovato che tra le circa due dozzine di aziende cinesi autorizzate a comprare i chip H200 di Nvidia ce ne sono con uffici vuoti e proprietari legati a società sotto sanzioni americane. Un'altra inchiesta del NYT riferisce di un memo basato sull'intelligence USA secondo cui una dirigente della singaporiana Megaspeed sarebbe stata reclutata dai servizi cinesi per spiare il CEO Jensen Huang. Nvidia ha definito quei contatti \"non insoliti\" e dice di non condividere informazioni riservate con i clienti.",
-      "il_senso": "Le regole sull'export dei chip valgono quanto i controlli che le fanno rispettare: queste rivelazioni aumentano la pressione politica su Nvidia e sulla Casa Bianca, proprio mentre il Congresso chiede spiegazioni a Huang.",
+      "titolo": "Anthropic può partire con il roadshow della quotazione, ma a un prezzo più basso",
+      "riassunto": "Secondo Bloomberg, Anthropic dovrebbe iniziare oggi a presentare formalmente la sua IPO agli investitori, trascorsi i 15 giorni dal deposito del prospetto alla SEC. Il prezzo non è ancora fissato: gli investitori parlano di una valutazione tra 1.100 e 1.300 miliardi di dollari, contro i 1.400-1.500 di inizio ottobre. Il Wall Street Journal riporta che la quotazione al Nasdaq, con il simbolo ANT, potrebbe arrivare già dalla settimana del 16 novembre. Anthropic non ha confermato le date. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "il_senso": "È un test cruciale per le aziende dell'IA davanti agli investitori comuni: il prezzo che otterrà dirà quanto il mercato crede ancora nei ricavi futuri del settore.",
       "fonti": [
         {
-          "nome": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/"
+          "nome": "The Daily Upside",
+          "url": "https://www.thedailyupside.com/technology/artificial-intelligence/anthropic-can-now-start-its-roadshow-the-traffics-bad/"
         },
         {
-          "nome": "Tom's Hardware",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/two-chinese-companies-cleared-to-buy-banned-nvidia-ai-chips-have-empty-offices-and-unknown-addresses-investigation-reveals-businesses-have-ties-to-sanctioned-chinese-military-suppliers"
+          "nome": "FinanceFeeds",
+          "url": "https://financefeeds.com/anthropic-ipo-date-roadshow-week-arrives-with-no-price-range-on-file/"
         }
       ]
     },
     {
       "posizione": 4,
-      "titolo": "CoreWeave scrive alla nuova governatrice del Texas, che aveva promesso una moratoria sui data center",
-      "riassunto": "CoreWeave, uno dei principali fornitori di potenza di calcolo per l'IA, ha scritto alla governatrice eletta del Texas Gina Hinojosa per offrire collaborazione. Il CEO Michael Intrator riconosce che la crescita dei data center \"deve funzionare per il Texas\" e propone \"standard chiari e duraturi\". Hinojosa, prima democratica eletta governatrice del Texas dal 1990, aveva fatto campagna per una moratoria statale sui data center; ora dice di voler bilanciare regole favorevoli alle imprese e vincoli più severi.",
-      "il_senso": "Dopo il voto di metà mandato le aziende dell'IA devono trattare con la politica locale: dove e a che condizioni si costruiscono i data center diventa una questione elettorale.",
+      "titolo": "La Norvegia sospende nuove prenotazioni di rete per i data center",
+      "riassunto": "Statnett, il gestore della rete elettrica norvegese, ha fermato temporaneamente le nuove prenotazioni di capacità per grandi consumatori come i data center. Oggi ne sono collegati 800 MW, altri 4.200 MW hanno capacità riservata, 9.100 MW sono in coda e ci sono richieste per altri 18.000 MW, a fronte di un consumo massimo nazionale di poco più di 25.000 MW. Il motivo: questi impianti possono avere variazioni di carico grandi e rapide. Lo stop dovrebbe finire al più tardi il 1° agosto 2027.",
+      "il_senso": "Anche un Paese ricco di energia pulita come la Norvegia frena: la domanda di elettricità dell'IA è così grande che le reti europee faticano a stare al passo.",
       "fonti": [
         {
-          "nome": "Taipei Times",
-          "url": "https://www.taipeitimes.com/News/biz/archives/2026/11/09/2003867387"
-        },
-        {
-          "nome": "Daily AI Brief",
-          "url": "https://dailyaibrief.com/news/coreweave-letter-texas-governor-elect-hinojosa-ZYqtjANO"
+          "nome": "Statnett",
+          "url": "https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/midlertidige-tiltak-for-fortsatt-forsvarlig-systemdrift/"
         }
       ]
     },
     {
       "posizione": 5,
-      "titolo": "Apple vuole una Siri \"agente\" già dal prossimo anno, e Ternus spinge per accelerare",
-      "riassunto": "Secondo Mark Gurman di Bloomberg, Apple potrebbe rendere Siri capace di portare avanti compiti in autonomia già dal prossimo anno, come fanno gli agenti di OpenAI, Meta e xAI. Il nuovo CEO John Ternus avrebbe chiesto in un incontro riservato a Craig Federighi di accelerare la tabella di marcia sull'IA. Apple non ha annunciato nulla ufficialmente.",
-      "il_senso": "Apple è rimasta indietro nell'IA e il nuovo capo vuole recuperare: su oltre un miliardo di iPhone, un assistente che agisce al posto nostro cambierebbe il modo in cui usiamo il telefono.",
+      "titolo": "Palantir ha fatto pressioni sul governo britannico per accedere ai dati dei medici di base",
+      "riassunto": "Secondo il Guardian, messaggi ottenuti dal gruppo Foxglove con una richiesta di accesso agli atti mostrano che il capo di Palantir UK, Louis Mosley, ha spinto un ministro della Salute a estendere la piattaforma dati del servizio sanitario inglese (NHS) ai dati dei medici di famiglia, oggi esclusi dal contratto da 330 milioni di sterline. Medici e associazioni di pazienti sono contrari. La ministra Yvette Cooper ha detto che il contratto è ancora in revisione.",
+      "il_senso": "I dati sanitari sono tra i più delicati che esistano: chi li gestisce e per costruire quale IA è una scelta politica che riguarda la fiducia dei cittadini, non solo la tecnologia.",
       "fonti": [
         {
-          "nome": "9to5Mac (Bloomberg)",
-          "url": "https://9to5mac.com/2026/11/08/apple-working-on-agentic-siri-ai-next-year-report/"
+          "nome": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records"
         },
         {
-          "nome": "9to5Mac",
-          "url": "https://9to5mac.com/2026/11/08/john-ternus-pushing-craig-federighi-to-move-faster-software-engineering/"
+          "nome": "Daily AI Brief",
+          "url": "https://dailyaibrief.com/news/palantir-lobbied-uk-minister-nhs-gp-records-kycybcr5"
         }
       ]
     },
     {
       "posizione": 6,
-      "titolo": "JPMorgan firma con OpenAI e Brockman parla di quotazione nel 2027",
-      "riassunto": "Il presidente di OpenAI Greg Brockman ha annunciato alla conferenza tecnologica del Wall Street Journal un accordo con JPMorgan Chase, che userà Codex, lo strumento di OpenAI per scrivere codice, e i suoi modelli per la sicurezza informatica. Non sono stati resi noti i termini economici. Brockman ha anche detto che OpenAI potrebbe essere pronta a quotarsi in Borsa nel 2027.",
-      "il_senso": "La più grande banca americana porta l'IA dentro i suoi sistemi più delicati: è il tipo di cliente che OpenAI deve conquistare per giustificare valutazioni da migliaia di miliardi.",
+      "titolo": "Samsung prova a far pagare la sua IA sugli smartphone",
+      "riassunto": "Samsung sta testando con un programma di accesso anticipato un abbonamento a pagamento per Galaxy AI: il codice indica 4,99 dollari al mese o 47,99 all'anno per un piano \"Max\" con più utilizzo e funzioni come la generazione di video. Alcuni strumenti resterebbero gratuiti, con limiti d'uso. Samsung non ha confermato il lancio né i prezzi definitivi; secondo indiscrezioni potrebbe debuttare con i Galaxy S27.",
+      "il_senso": "L'IA costa moltissimo e le aziende cercano un modo per farsela pagare: presto potremmo trovare sul telefono funzioni gratuite di base e quelle migliori in abbonamento.",
       "fonti": [
         {
-          "nome": "Finextra",
-          "url": "https://www.finextra.com/newsarticle/48718/jpmorgan-chase-signs-cybersecurity-and-coding-deal-with-openai"
+          "nome": "PCMag",
+          "url": "https://au.pcmag.com/ai/120820/would-you-pay-for-galaxy-ai-samsung-begins-testing-499-subscription"
         },
         {
-          "nome": "PYMNTS",
-          "url": "https://www.pymnts.com/news/artificial-intelligence/2026/openai-forms-jpmorgan-partnership-ahead-of-2027-ipo/"
+          "nome": "Daily AI Brief",
+          "url": "https://dailyaibrief.com/news/samsung-tests-4-99-galaxy-ai-subscription-faFzJEK7"
         }
       ]
     }
   ],
   "approfondimenti": [
     {
-      "titolo": "How AI Labs Are Solving the Power Crisis: The Onsite Gas Deep Dive",
-      "testata": "SemiAnalysis, Ajey Pandey, Jeremie Eliahou Ontiveros e Dylan Patel, 30 dicembre 2025",
-      "url": "https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power",
-      "perche_e_importante": "È un'analisi molto dettagliata sul perché le aziende dell'IA si costruiscono centrali a gas accanto ai data center: negli Stati Uniti servono di solito circa cinque anni per collegare nuova generazione, mentre turbine e motori a gas arrivano in 15-36 mesi. Spiega costi, tempi e protagonisti, da xAI a OpenAI e Oracle. Aiuta a leggere la notizia di oggi su Anthropic. Una parte del testo è riservata agli abbonati.",
-      "la_mia_lettura": "Il messaggio di fondo è che nella corsa all'IA il tempo vale più del costo e dell'impatto ambientale. La mia lettura è che questo rischia di legare per anni il settore al gas, proprio mentre molte big tech avevano promesso di azzerare le emissioni."
+      "titolo": "Europe is hungry for AI data centres — but its energy grid cannot feed them",
+      "testata": "Euronews, Una Hajdari, 5 maggio 2026",
+      "url": "https://www.euronews.com/2026/05/05/europe-is-hungry-for-ai-data-centres-but-its-energy-grid-cannot-feed-them",
+      "perche_e_importante": "Partendo da uno studio del think tank Interface, spiega perché l'Europa fatica a ospitare i grandi data center dell'IA: nei principali mercati (Francoforte, Londra, Amsterdam, Parigi, Dublino) un nuovo impianto aspetta in media 7-10 anni per l'allacciamento alla rete. Racconta i blocchi di fatto in Irlanda e nei Paesi Bassi. Aiuta a leggere la decisione norvegese di oggi.",
+      "la_mia_lettura": "Il nodo per l'Europa non è solo avere chip o capitali, ma reti elettriche pronte. La mia lettura è che senza un piano comune su energia e allacciamenti, la sovranità digitale europea resterà più uno slogan che una realtà."
     },
     {
-      "titolo": "The AI rally looks like the dot-com bubble, but the companies do not",
-      "testata": "The Next Web, Alina Maria Stan, 25 aprile 2026",
-      "url": "https://thenextweb.com/news/ai-stocks-dot-com-bubble-comparison-market-outlook",
-      "perche_e_importante": "Mette a confronto, numeri alla mano, la Borsa dell'IA e quella del 2000: indice Shiller CAPE vicino ai massimi storici e dieci aziende che pesano il 36-40% dell'S&P 500 (contro circa il 27% del 2000), ma anche colossi con utili e flussi di cassa enormi. Presenta sia la tesi di chi vede una bolla sia quella di chi la esclude.",
-      "la_mia_lettura": "Utile per leggere il calo di queste settimane senza panico né euforia. La mia lettura è che la differenza col 2000 stia nei profitti dei grandi, mentre il rischio maggiore è nelle aziende più piccole e indebitate che inseguono la corsa."
+      "titolo": "SpaceX investors may be overlooking a major risk: There's no replacing Elon Musk",
+      "testata": "CNN, Allison Morrow, 2 settembre 2026 (ripreso da KEYT)",
+      "url": "https://keyt.com/news/money-and-business/cnn-business-consumer/2026/09/02/spacex-investors-may-be-overlooking-a-major-risk-theres-no-replacing-elon-musk",
+      "perche_e_importante": "Spiega il \"rischio persona chiave\": quanto del valore di un'azienda dipende da un solo leader. Lo stesso prospetto di SpaceX avverte che perdere Musk potrebbe sconvolgerne la gestione, e l'azienda non ha un'assicurazione su di lui. Il confronto con Apple dopo Steve Jobs mostra l'importanza di un piano di successione.",
+      "la_mia_lettura": "Scritto su Musk, ma oggi si legge pensando a Jensen Huang e Nvidia. La mia lettura è che le grandi aziende dell'IA siano spesso identificate con un fondatore carismatico, e che il mercato prezzi questo rischio solo quando qualcosa va storto."
     }
   ],
-  "da_tenere_d_occhio": "Martedì 10 novembre l'inflazione USA (CPI) e venerdì 13 i prezzi alla produzione (PPI), dati che possono decidere se il calo del tech continua. Da seguire se Anthropic farà partire il roadshow della quotazione questa settimana e l'incontro di Jensen Huang (Nvidia) con i repubblicani della Camera chiesto per il 18 novembre."
+  "da_tenere_d_occhio": "Oggi, martedì 10 novembre, alle 14:30 italiane esce l'inflazione USA di ottobre (CPI); venerdì 13 i prezzi alla produzione (PPI). Da seguire il roadshow di Anthropic e la possibile quotazione dalla settimana del 16, i conti trimestrali di Nvidia il 17 novembre e gli sviluppi dell'indagine interna su Huang."
 }

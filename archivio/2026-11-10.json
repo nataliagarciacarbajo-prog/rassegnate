@@ -1,0 +1,121 @@
+{
+  "data": "2026-11-10",
+  "data_estesa": "Martedì 10 novembre 2026",
+  "aggiornato_il": "2026-11-10T06:53:02+01:00",
+  "titolo": "Rassegna Big Tech & Finanza",
+  "notizie": [
+    {
+      "posizione": 1,
+      "titolo": "Nvidia apre un'indagine interna sul CEO Jensen Huang e brucia oltre 200 miliardi in Borsa",
+      "riassunto": "Domenica il consiglio di amministrazione di Nvidia ha annunciato un'indagine indipendente, guidata da consiglieri indipendenti con avvocati esterni, dopo le notizie secondo cui Huang sarebbe stato bersaglio di un'operazione di intelligence straniera. Il board dice di non avere motivo di credere che sicurezza nazionale o segreti aziendali siano stati compromessi e conferma la fiducia in Huang, che collabora. Lunedì il titolo ha perso circa il 4,3%, oltre 200 miliardi di valore, mentre il resto del tech saliva. Huang ha anche annullato alcuni interventi pubblici.",
+      "il_senso": "Nvidia è l'azienda più importante dell'IA e la sua immagine coincide con quella del fondatore: quando il capo finisce sotto esame, a tremare è un pezzo intero di Borsa e della sfida tecnologica tra Stati Uniti e Cina.",
+      "fonti": [
+        {
+          "nome": "Nvidia (comunicato del board)",
+          "url": "https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/default.aspx"
+        },
+        {
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-9-2026"
+        },
+        {
+          "nome": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"
+        }
+      ]
+    },
+    {
+      "posizione": 2,
+      "titolo": "Wall Street rimbalza dopo la settimana peggiore da aprile 2025: chip in forte rialzo",
+      "riassunto": "Lunedì il Nasdaq ha chiuso a +2,74%, l'S&P 500 a +2,35% e il Dow Jones a +2,15%, recuperando parte delle perdite della settimana del voto di metà mandato. Hanno aiutato il calo del petrolio e il ritorno degli acquisti sui titoli tecnologici: secondo Forbes e StockTitan, AMD è salita di oltre l'11% e Broadcom di circa l'8-9% in giornata. A metà giornata, tra i Magnifici Sette, solo Nvidia era in calo secondo Forbes.",
+      "il_senso": "Il mercato non ha abbandonato l'IA: dopo la paura arriva la caccia ai titoli scesi troppo. Ma basta un dato sull'inflazione o una notizia negativa per far ripartire le vendite.",
+      "fonti": [
+        {
+          "nome": "The Motley Fool",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/09/stock-market-today-nov-9-markets-rally-as-semiconductor-gains-lift-nasdaq/"
+        },
+        {
+          "nome": "Forbes",
+          "url": "https://www.forbes.com/sites/fionariley/2026/11/09/tech-stocks-continue-rebound-after-midterms-triggered-ai-linked-selloff/"
+        }
+      ]
+    },
+    {
+      "posizione": 3,
+      "titolo": "Anthropic può partire con il roadshow della quotazione, ma a un prezzo più basso",
+      "riassunto": "Secondo Bloomberg, Anthropic dovrebbe iniziare oggi a presentare formalmente la sua IPO agli investitori, trascorsi i 15 giorni dal deposito del prospetto alla SEC. Il prezzo non è ancora fissato: gli investitori parlano di una valutazione tra 1.100 e 1.300 miliardi di dollari, contro i 1.400-1.500 di inizio ottobre. Il Wall Street Journal riporta che la quotazione al Nasdaq, con il simbolo ANT, potrebbe arrivare già dalla settimana del 16 novembre. Anthropic non ha confermato le date. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "il_senso": "È un test cruciale per le aziende dell'IA davanti agli investitori comuni: il prezzo che otterrà dirà quanto il mercato crede ancora nei ricavi futuri del settore.",
+      "fonti": [
+        {
+          "nome": "The Daily Upside",
+          "url": "https://www.thedailyupside.com/technology/artificial-intelligence/anthropic-can-now-start-its-roadshow-the-traffics-bad/"
+        },
+        {
+          "nome": "FinanceFeeds",
+          "url": "https://financefeeds.com/anthropic-ipo-date-roadshow-week-arrives-with-no-price-range-on-file/"
+        }
+      ]
+    },
+    {
+      "posizione": 4,
+      "titolo": "La Norvegia sospende nuove prenotazioni di rete per i data center",
+      "riassunto": "Statnett, il gestore della rete elettrica norvegese, ha fermato temporaneamente le nuove prenotazioni di capacità per grandi consumatori come i data center. Oggi ne sono collegati 800 MW, altri 4.200 MW hanno capacità riservata, 9.100 MW sono in coda e ci sono richieste per altri 18.000 MW, a fronte di un consumo massimo nazionale di poco più di 25.000 MW. Il motivo: questi impianti possono avere variazioni di carico grandi e rapide. Lo stop dovrebbe finire al più tardi il 1° agosto 2027.",
+      "il_senso": "Anche un Paese ricco di energia pulita come la Norvegia frena: la domanda di elettricità dell'IA è così grande che le reti europee faticano a stare al passo.",
+      "fonti": [
+        {
+          "nome": "Statnett",
+          "url": "https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/midlertidige-tiltak-for-fortsatt-forsvarlig-systemdrift/"
+        }
+      ]
+    },
+    {
+      "posizione": 5,
+      "titolo": "Palantir ha fatto pressioni sul governo britannico per accedere ai dati dei medici di base",
+      "riassunto": "Secondo il Guardian, messaggi ottenuti dal gruppo Foxglove con una richiesta di accesso agli atti mostrano che il capo di Palantir UK, Louis Mosley, ha spinto un ministro della Salute a estendere la piattaforma dati del servizio sanitario inglese (NHS) ai dati dei medici di famiglia, oggi esclusi dal contratto da 330 milioni di sterline. Medici e associazioni di pazienti sono contrari. La ministra Yvette Cooper ha detto che il contratto è ancora in revisione.",
+      "il_senso": "I dati sanitari sono tra i più delicati che esistano: chi li gestisce e per costruire quale IA è una scelta politica che riguarda la fiducia dei cittadini, non solo la tecnologia.",
+      "fonti": [
+        {
+          "nome": "The Guardian",
+          "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records"
+        },
+        {
+          "nome": "Daily AI Brief",
+          "url": "https://dailyaibrief.com/news/palantir-lobbied-uk-minister-nhs-gp-records-kycybcr5"
+        }
+      ]
+    },
+    {
+      "posizione": 6,
+      "titolo": "Samsung prova a far pagare la sua IA sugli smartphone",
+      "riassunto": "Samsung sta testando con un programma di accesso anticipato un abbonamento a pagamento per Galaxy AI: il codice indica 4,99 dollari al mese o 47,99 all'anno per un piano \"Max\" con più utilizzo e funzioni come la generazione di video. Alcuni strumenti resterebbero gratuiti, con limiti d'uso. Samsung non ha confermato il lancio né i prezzi definitivi; secondo indiscrezioni potrebbe debuttare con i Galaxy S27.",
+      "il_senso": "L'IA costa moltissimo e le aziende cercano un modo per farsela pagare: presto potremmo trovare sul telefono funzioni gratuite di base e quelle migliori in abbonamento.",
+      "fonti": [
+        {
+          "nome": "PCMag",
+          "url": "https://au.pcmag.com/ai/120820/would-you-pay-for-galaxy-ai-samsung-begins-testing-499-subscription"
+        },
+        {
+          "nome": "Daily AI Brief",
+          "url": "https://dailyaibrief.com/news/samsung-tests-4-99-galaxy-ai-subscription-faFzJEK7"
+        }
+      ]
+    }
+  ],
+  "approfondimenti": [
+    {
+      "titolo": "Europe is hungry for AI data centres — but its energy grid cannot feed them",
+      "testata": "Euronews, Una Hajdari, 5 maggio 2026",
+      "url": "https://www.euronews.com/2026/05/05/europe-is-hungry-for-ai-data-centres-but-its-energy-grid-cannot-feed-them",
+      "perche_e_importante": "Partendo da uno studio del think tank Interface, spiega perché l'Europa fatica a ospitare i grandi data center dell'IA: nei principali mercati (Francoforte, Londra, Amsterdam, Parigi, Dublino) un nuovo impianto aspetta in media 7-10 anni per l'allacciamento alla rete. Racconta i blocchi di fatto in Irlanda e nei Paesi Bassi. Aiuta a leggere la decisione norvegese di oggi.",
+      "la_mia_lettura": "Il nodo per l'Europa non è solo avere chip o capitali, ma reti elettriche pronte. La mia lettura è che senza un piano comune su energia e allacciamenti, la sovranità digitale europea resterà più uno slogan che una realtà."
+    },
+    {
+      "titolo": "SpaceX investors may be overlooking a major risk: There's no replacing Elon Musk",
+      "testata": "CNN, Allison Morrow, 2 settembre 2026 (ripreso da KEYT)",
+      "url": "https://keyt.com/news/money-and-business/cnn-business-consumer/2026/09/02/spacex-investors-may-be-overlooking-a-major-risk-theres-no-replacing-elon-musk",
+      "perche_e_importante": "Spiega il \"rischio persona chiave\": quanto del valore di un'azienda dipende da un solo leader. Lo stesso prospetto di SpaceX avverte che perdere Musk potrebbe sconvolgerne la gestione, e l'azienda non ha un'assicurazione su di lui. Il confronto con Apple dopo Steve Jobs mostra l'importanza di un piano di successione.",
+      "la_mia_lettura": "Scritto su Musk, ma oggi si legge pensando a Jensen Huang e Nvidia. La mia lettura è che le grandi aziende dell'IA siano spesso identificate con un fondatore carismatico, e che il mercato prezzi questo rischio solo quando qualcosa va storto."
+    }
+  ],
+  "da_tenere_d_occhio": "Oggi, martedì 10 novembre, alle 14:30 italiane esce l'inflazione USA di ottobre (CPI); venerdì 13 i prezzi alla produzione (PPI). Da seguire il roadshow di Anthropic e la possibile quotazione dalla settimana del 16, i conti trimestrali di Nvidia il 17 novembre e gli sviluppi dell'indagine interna su Huang."
+}
