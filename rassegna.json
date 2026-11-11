@@ -1,121 +1,97 @@
 {
-  "data": "2026-11-10",
-  "data_estesa": "Martedì 10 novembre 2026",
-  "aggiornato_il": "2026-11-10T06:53:02+01:00",
+  "data": "2026-11-11",
+  "data_estesa": "Mercoledì 11 novembre 2026",
+  "aggiornato_il": "2026-11-11T06:51:34+01:00",
   "titolo": "Rassegna Big Tech & Finanza",
   "notizie": [
     {
       "posizione": 1,
-      "titolo": "Nvidia apre un'indagine interna sul CEO Jensen Huang e brucia oltre 200 miliardi in Borsa",
-      "riassunto": "Domenica il consiglio di amministrazione di Nvidia ha annunciato un'indagine indipendente, guidata da consiglieri indipendenti con avvocati esterni, dopo le notizie secondo cui Huang sarebbe stato bersaglio di un'operazione di intelligence straniera. Il board dice di non avere motivo di credere che sicurezza nazionale o segreti aziendali siano stati compromessi e conferma la fiducia in Huang, che collabora. Lunedì il titolo ha perso circa il 4,3%, oltre 200 miliardi di valore, mentre il resto del tech saliva. Huang ha anche annullato alcuni interventi pubblici.",
-      "il_senso": "Nvidia è l'azienda più importante dell'IA e la sua immagine coincide con quella del fondatore: quando il capo finisce sotto esame, a tremare è un pezzo intero di Borsa e della sfida tecnologica tra Stati Uniti e Cina.",
+      "titolo": "Anthropic fissa il prezzo della quotazione: fino a 1.400 miliardi di dollari, debutto verso il 19 novembre",
+      "riassunto": "Nel prospetto aggiornato Anthropic offre 825 milioni di azioni tra 70 e 78 dollari, per una raccolta fino a circa 64 miliardi e una valutazione massima di 1.404 miliardi. Sette partner strategici (tra cui Google, Nvidia, Microsoft, AMD, Broadcom, Micron e TSMC) compreranno altri 26 miliardi di azioni senza diritto di voto. I ricavi annualizzati sono saliti a 81 miliardi a fine ottobre. Secondo CNBC le contrattazioni al Nasdaq (simbolo ANT) potrebbero iniziare intorno al 19 novembre; fino al 20% delle azioni andrà ai piccoli risparmiatori. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "il_senso": "Sarebbe una delle più grandi quotazioni della storia, e arriva nel mezzo di un forte calo dei titoli IA: la risposta degli investitori dirà molto sulla fiducia nel settore.",
       "fonti": [
         {
-          "nome": "Nvidia (comunicato del board)",
-          "url": "https://investor.nvidia.com/news/press-release-details/2026/Statement-from-NVIDIA-Board-of-Directors/default.aspx"
-        },
-        {
-          "nome": "StockTitan",
-          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-9-2026"
-        },
-        {
           "nome": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/09/jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy/"
+          "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+        },
+        {
+          "nome": "Fortune",
+          "url": "https://fortune.com/2026/11/10/anthropic-ipo-price-range-ai-stock-sell-off/"
         }
       ]
     },
     {
       "posizione": 2,
-      "titolo": "Wall Street rimbalza dopo la settimana peggiore da aprile 2025: chip in forte rialzo",
-      "riassunto": "Lunedì il Nasdaq ha chiuso a +2,74%, l'S&P 500 a +2,35% e il Dow Jones a +2,15%, recuperando parte delle perdite della settimana del voto di metà mandato. Hanno aiutato il calo del petrolio e il ritorno degli acquisti sui titoli tecnologici: secondo Forbes e StockTitan, AMD è salita di oltre l'11% e Broadcom di circa l'8-9% in giornata. A metà giornata, tra i Magnifici Sette, solo Nvidia era in calo secondo Forbes.",
-      "il_senso": "Il mercato non ha abbandonato l'IA: dopo la paura arriva la caccia ai titoli scesi troppo. Ma basta un dato sull'inflazione o una notizia negativa per far ripartire le vendite.",
+      "titolo": "Inflazione USA più alta del previsto: rendimenti al 5% e la Fed pensa a un rialzo dei tassi",
+      "riassunto": "A ottobre i prezzi al consumo negli Stati Uniti sono saliti dello 0,4% sul mese, quelli \"core\" (senza energia e alimentari) dello 0,3%, per il terzo mese di fila. Il rendimento del Treasury decennale è tornato intorno al 5%. Il governatore della Fed Christopher Waller si è detto favorevole a un rialzo dei tassi a dicembre. Le Borse hanno chiuso in calo: S&P 500 -0,38%, Nasdaq -0,74%, Dow -0,30%.",
+      "il_senso": "Se l'inflazione non scende, i tassi restano alti o salgono: questo pesa su mutui, prestiti e soprattutto sulle aziende tech, valutate per i guadagni futuri.",
       "fonti": [
         {
-          "nome": "The Motley Fool",
-          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/09/stock-market-today-nov-9-markets-rally-as-semiconductor-gains-lift-nasdaq/"
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-10-2026"
         },
         {
-          "nome": "Forbes",
-          "url": "https://www.forbes.com/sites/fionariley/2026/11/09/tech-stocks-continue-rebound-after-midterms-triggered-ai-linked-selloff/"
+          "nome": "TradingKey",
+          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262299690-us-stocks-cpi-exceeds-expectations-nvda-drops-amd-broadcom-rises-tradingkey"
         }
       ]
     },
     {
       "posizione": 3,
-      "titolo": "Anthropic può partire con il roadshow della quotazione, ma a un prezzo più basso",
-      "riassunto": "Secondo Bloomberg, Anthropic dovrebbe iniziare oggi a presentare formalmente la sua IPO agli investitori, trascorsi i 15 giorni dal deposito del prospetto alla SEC. Il prezzo non è ancora fissato: gli investitori parlano di una valutazione tra 1.100 e 1.300 miliardi di dollari, contro i 1.400-1.500 di inizio ottobre. Il Wall Street Journal riporta che la quotazione al Nasdaq, con il simbolo ANT, potrebbe arrivare già dalla settimana del 16 novembre. Anthropic non ha confermato le date. (Nota: Anthropic è l'azienda che mi ha creato.)",
-      "il_senso": "È un test cruciale per le aziende dell'IA davanti agli investitori comuni: il prezzo che otterrà dirà quanto il mercato crede ancora nei ricavi futuri del settore.",
+      "titolo": "Nvidia perde un altro 5,5% e scende per un momento sotto i 4.000 miliardi",
+      "riassunto": "Martedì Nvidia ha chiuso in calo del 5,47%, il secondo giorno di forti perdite dopo l'annuncio dell'indagine interna sul CEO Jensen Huang, ed è stata il principale freno dell'S&P 500. Il board ha affidato l'indagine a consulenti esterni, tra cui lo studio Wachtell, Lipton, Rosen & Katz. Secondo TradingKey è stata proposta una class action degli azionisti per mancata comunicazione dei rischi. Nello stesso giorno Broadcom e AMD sono salite.",
+      "il_senso": "Mentre altri titoli dei chip salgono, Nvidia scende: per ora l'incertezza sul suo leader pesa sul titolo, a una settimana dai conti trimestrali.",
       "fonti": [
         {
-          "nome": "The Daily Upside",
-          "url": "https://www.thedailyupside.com/technology/artificial-intelligence/anthropic-can-now-start-its-roadshow-the-traffics-bad/"
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-10-2026"
         },
         {
-          "nome": "FinanceFeeds",
-          "url": "https://financefeeds.com/anthropic-ipo-date-roadshow-week-arrives-with-no-price-range-on-file/"
+          "nome": "TradingKey",
+          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262299690-us-stocks-cpi-exceeds-expectations-nvda-drops-amd-broadcom-rises-tradingkey"
         }
       ]
     },
     {
       "posizione": 4,
-      "titolo": "La Norvegia sospende nuove prenotazioni di rete per i data center",
-      "riassunto": "Statnett, il gestore della rete elettrica norvegese, ha fermato temporaneamente le nuove prenotazioni di capacità per grandi consumatori come i data center. Oggi ne sono collegati 800 MW, altri 4.200 MW hanno capacità riservata, 9.100 MW sono in coda e ci sono richieste per altri 18.000 MW, a fronte di un consumo massimo nazionale di poco più di 25.000 MW. Il motivo: questi impianti possono avere variazioni di carico grandi e rapide. Lo stop dovrebbe finire al più tardi il 1° agosto 2027.",
-      "il_senso": "Anche un Paese ricco di energia pulita come la Norvegia frena: la domanda di elettricità dell'IA è così grande che le reti europee faticano a stare al passo.",
+      "titolo": "Anthropic sfida Google e Microsoft con fogli di calcolo e strumenti per le riunioni",
+      "riassunto": "A un evento a San Francisco, Anthropic ha presentato Claude Sheets, che crea e modifica fogli di calcolo con formule ed esporta in Excel, Claude Meetings, un agente per le riunioni (prima su Google Meet, per clienti aziendali), e Claude Whiteboards per organizzare idee e compiti di gruppo. Dentro Claude si potranno aprire anche app di partner come Adobe, Atlassian e HubSpot. Molti strumenti sono in beta per gli abbonati. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "il_senso": "Le aziende dell'IA non vogliono più essere solo un assistente: puntano agli strumenti di ufficio che usiamo ogni giorno, il territorio storico di Microsoft e Google.",
       "fonti": [
         {
-          "nome": "Statnett",
-          "url": "https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/midlertidige-tiltak-for-fortsatt-forsvarlig-systemdrift/"
+          "nome": "Engadget",
+          "url": "https://www.engadget.com/2312177/anthropic-takes-on-google-and-microsoft-with-claude-sheets/"
         }
       ]
     },
     {
       "posizione": 5,
-      "titolo": "Palantir ha fatto pressioni sul governo britannico per accedere ai dati dei medici di base",
-      "riassunto": "Secondo il Guardian, messaggi ottenuti dal gruppo Foxglove con una richiesta di accesso agli atti mostrano che il capo di Palantir UK, Louis Mosley, ha spinto un ministro della Salute a estendere la piattaforma dati del servizio sanitario inglese (NHS) ai dati dei medici di famiglia, oggi esclusi dal contratto da 330 milioni di sterline. Medici e associazioni di pazienti sono contrari. La ministra Yvette Cooper ha detto che il contratto è ancora in revisione.",
-      "il_senso": "I dati sanitari sono tra i più delicati che esistano: chi li gestisce e per costruire quale IA è una scelta politica che riguarda la fiducia dei cittadini, non solo la tecnologia.",
+      "titolo": "OpenAI: ricavi a circa 10 miliardi nel terzo trimestre, ma crescono anche le perdite",
+      "riassunto": "Secondo The Information, che cita una persona a conoscenza dei fatti, OpenAI ha comunicato agli investitori ricavi per circa 10 miliardi di dollari nel terzo trimestre, quasi il 50% in più rispetto al trimestre precedente, insieme a perdite operative in aumento. L'articolo è a pagamento e i dettagli sulle perdite non sono pubblici.",
+      "il_senso": "Il confronto con Anthropic, che quota proprio ora, diventa diretto: entrambe crescono velocissime, ma restano in perdita.",
       "fonti": [
         {
-          "nome": "The Guardian",
-          "url": "https://www.theguardian.com/technology/2026/nov/09/revealed-palantir-lobbied-minister-to-stretch-ai-tools-reach-to-nhs-gp-records"
-        },
-        {
-          "nome": "Daily AI Brief",
-          "url": "https://dailyaibrief.com/news/palantir-lobbied-uk-minister-nhs-gp-records-kycybcr5"
-        }
-      ]
-    },
-    {
-      "posizione": 6,
-      "titolo": "Samsung prova a far pagare la sua IA sugli smartphone",
-      "riassunto": "Samsung sta testando con un programma di accesso anticipato un abbonamento a pagamento per Galaxy AI: il codice indica 4,99 dollari al mese o 47,99 all'anno per un piano \"Max\" con più utilizzo e funzioni come la generazione di video. Alcuni strumenti resterebbero gratuiti, con limiti d'uso. Samsung non ha confermato il lancio né i prezzi definitivi; secondo indiscrezioni potrebbe debuttare con i Galaxy S27.",
-      "il_senso": "L'IA costa moltissimo e le aziende cercano un modo per farsela pagare: presto potremmo trovare sul telefono funzioni gratuite di base e quelle migliori in abbonamento.",
-      "fonti": [
-        {
-          "nome": "PCMag",
-          "url": "https://au.pcmag.com/ai/120820/would-you-pay-for-galaxy-ai-samsung-begins-testing-499-subscription"
-        },
-        {
-          "nome": "Daily AI Brief",
-          "url": "https://dailyaibrief.com/news/samsung-tests-4-99-galaxy-ai-subscription-faFzJEK7"
+          "nome": "The Information",
+          "url": "https://www.theinformation.com/articles/openai-revenue-jumps-10-billion-third-quarter"
         }
       ]
     }
   ],
   "approfondimenti": [
     {
-      "titolo": "Europe is hungry for AI data centres — but its energy grid cannot feed them",
-      "testata": "Euronews, Una Hajdari, 5 maggio 2026",
-      "url": "https://www.euronews.com/2026/05/05/europe-is-hungry-for-ai-data-centres-but-its-energy-grid-cannot-feed-them",
-      "perche_e_importante": "Partendo da uno studio del think tank Interface, spiega perché l'Europa fatica a ospitare i grandi data center dell'IA: nei principali mercati (Francoforte, Londra, Amsterdam, Parigi, Dublino) un nuovo impianto aspetta in media 7-10 anni per l'allacciamento alla rete. Racconta i blocchi di fatto in Irlanda e nei Paesi Bassi. Aiuta a leggere la decisione norvegese di oggi.",
-      "la_mia_lettura": "Il nodo per l'Europa non è solo avere chip o capitali, ma reti elettriche pronte. La mia lettura è che senza un piano comune su energia e allacciamenti, la sovranità digitale europea resterà più uno slogan che una realtà."
+      "titolo": "From Meta to SpaceX, this is how dual-class shares keep founders in control",
+      "testata": "Reuters (ripreso da TimesLIVE), 22 maggio 2026",
+      "url": "https://www.timeslive.co.za/news/business/2026-05-22-from-meta-to-spacex-this-is-how-dual-class-shares-keep-founders-in-control/",
+      "perche_e_importante": "Spiega in modo chiaro le azioni a doppia classe: alcune azioni valgono più voti di altre, così i fondatori mantengono il controllo anche quotandosi, come in Alphabet, Meta e SpaceX. Riporta le critiche degli investitori istituzionali e studi che danno risultati diversi: per alcuni queste aziende rendono di più, per altri il vantaggio svanisce dopo 7-9 anni.",
+      "la_mia_lettura": "Oggi vale anche per Anthropic, i cui fondatori mantengono la maggioranza dei voti. La mia lettura è che chi compra azioni delle grandi aziende tech compri sempre più una quota dei profitti, non una voce in capitolo."
     },
     {
-      "titolo": "SpaceX investors may be overlooking a major risk: There's no replacing Elon Musk",
-      "testata": "CNN, Allison Morrow, 2 settembre 2026 (ripreso da KEYT)",
-      "url": "https://keyt.com/news/money-and-business/cnn-business-consumer/2026/09/02/spacex-investors-may-be-overlooking-a-major-risk-theres-no-replacing-elon-musk",
-      "perche_e_importante": "Spiega il \"rischio persona chiave\": quanto del valore di un'azienda dipende da un solo leader. Lo stesso prospetto di SpaceX avverte che perdere Musk potrebbe sconvolgerne la gestione, e l'azienda non ha un'assicurazione su di lui. Il confronto con Apple dopo Steve Jobs mostra l'importanza di un piano di successione.",
-      "la_mia_lettura": "Scritto su Musk, ma oggi si legge pensando a Jensen Huang e Nvidia. La mia lettura è che le grandi aziende dell'IA siano spesso identificate con un fondatore carismatico, e che il mercato prezzi questo rischio solo quando qualcosa va storto."
+      "titolo": "In the AI Era, Language is Now an Attack Surface",
+      "testata": "Tech Policy Press, Matthew Kirschenbaum, 9 novembre 2026",
+      "url": "https://techpolicy.press/in-the-ai-era-language-is-now-an-attack-surface",
+      "perche_e_importante": "Un professore di IA e letteratura dell'Università della Virginia spiega perché, con gli agenti di IA che navigano sul web, ogni testo può diventare un comando nascosto (la cosiddetta \"prompt injection\"). Usa il paragone con gli hacker telefonici degli anni Settanta e con incidenti recenti per mostrare che il linguaggio è diventato un nuovo terreno di attacco informatico.",
+      "la_mia_lettura": "È un saggio utile per capire un rischio poco visibile ma concreto. La mia lettura è che più deleghiamo compiti agli agenti, più la sicurezza dipenderà da cosa questi leggono, e non solo da come sono costruiti."
     }
   ],
-  "da_tenere_d_occhio": "Oggi, martedì 10 novembre, alle 14:30 italiane esce l'inflazione USA di ottobre (CPI); venerdì 13 i prezzi alla produzione (PPI). Da seguire il roadshow di Anthropic e la possibile quotazione dalla settimana del 16, i conti trimestrali di Nvidia il 17 novembre e gli sviluppi dell'indagine interna su Huang."
+  "da_tenere_d_occhio": "Venerdì 13 novembre i prezzi alla produzione USA (PPI). Martedì 17 i conti trimestrali di Nvidia, nel pieno dell'indagine su Huang. Intorno al 19 novembre il possibile debutto in Borsa di Anthropic. Sullo sfondo, le prossime mosse della Fed in vista della riunione di dicembre."
 }

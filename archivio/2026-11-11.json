@@ -1,0 +1,97 @@
+{
+  "data": "2026-11-11",
+  "data_estesa": "Mercoledì 11 novembre 2026",
+  "aggiornato_il": "2026-11-11T06:51:34+01:00",
+  "titolo": "Rassegna Big Tech & Finanza",
+  "notizie": [
+    {
+      "posizione": 1,
+      "titolo": "Anthropic fissa il prezzo della quotazione: fino a 1.400 miliardi di dollari, debutto verso il 19 novembre",
+      "riassunto": "Nel prospetto aggiornato Anthropic offre 825 milioni di azioni tra 70 e 78 dollari, per una raccolta fino a circa 64 miliardi e una valutazione massima di 1.404 miliardi. Sette partner strategici (tra cui Google, Nvidia, Microsoft, AMD, Broadcom, Micron e TSMC) compreranno altri 26 miliardi di azioni senza diritto di voto. I ricavi annualizzati sono saliti a 81 miliardi a fine ottobre. Secondo CNBC le contrattazioni al Nasdaq (simbolo ANT) potrebbero iniziare intorno al 19 novembre; fino al 20% delle azioni andrà ai piccoli risparmiatori. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "il_senso": "Sarebbe una delle più grandi quotazioni della storia, e arriva nel mezzo di un forte calo dei titoli IA: la risposta degli investitori dirà molto sulla fiducia nel settore.",
+      "fonti": [
+        {
+          "nome": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+        },
+        {
+          "nome": "Fortune",
+          "url": "https://fortune.com/2026/11/10/anthropic-ipo-price-range-ai-stock-sell-off/"
+        }
+      ]
+    },
+    {
+      "posizione": 2,
+      "titolo": "Inflazione USA più alta del previsto: rendimenti al 5% e la Fed pensa a un rialzo dei tassi",
+      "riassunto": "A ottobre i prezzi al consumo negli Stati Uniti sono saliti dello 0,4% sul mese, quelli \"core\" (senza energia e alimentari) dello 0,3%, per il terzo mese di fila. Il rendimento del Treasury decennale è tornato intorno al 5%. Il governatore della Fed Christopher Waller si è detto favorevole a un rialzo dei tassi a dicembre. Le Borse hanno chiuso in calo: S&P 500 -0,38%, Nasdaq -0,74%, Dow -0,30%.",
+      "il_senso": "Se l'inflazione non scende, i tassi restano alti o salgono: questo pesa su mutui, prestiti e soprattutto sulle aziende tech, valutate per i guadagni futuri.",
+      "fonti": [
+        {
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-10-2026"
+        },
+        {
+          "nome": "TradingKey",
+          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262299690-us-stocks-cpi-exceeds-expectations-nvda-drops-amd-broadcom-rises-tradingkey"
+        }
+      ]
+    },
+    {
+      "posizione": 3,
+      "titolo": "Nvidia perde un altro 5,5% e scende per un momento sotto i 4.000 miliardi",
+      "riassunto": "Martedì Nvidia ha chiuso in calo del 5,47%, il secondo giorno di forti perdite dopo l'annuncio dell'indagine interna sul CEO Jensen Huang, ed è stata il principale freno dell'S&P 500. Il board ha affidato l'indagine a consulenti esterni, tra cui lo studio Wachtell, Lipton, Rosen & Katz. Secondo TradingKey è stata proposta una class action degli azionisti per mancata comunicazione dei rischi. Nello stesso giorno Broadcom e AMD sono salite.",
+      "il_senso": "Mentre altri titoli dei chip salgono, Nvidia scende: per ora l'incertezza sul suo leader pesa sul titolo, a una settimana dai conti trimestrali.",
+      "fonti": [
+        {
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-10-2026"
+        },
+        {
+          "nome": "TradingKey",
+          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262299690-us-stocks-cpi-exceeds-expectations-nvda-drops-amd-broadcom-rises-tradingkey"
+        }
+      ]
+    },
+    {
+      "posizione": 4,
+      "titolo": "Anthropic sfida Google e Microsoft con fogli di calcolo e strumenti per le riunioni",
+      "riassunto": "A un evento a San Francisco, Anthropic ha presentato Claude Sheets, che crea e modifica fogli di calcolo con formule ed esporta in Excel, Claude Meetings, un agente per le riunioni (prima su Google Meet, per clienti aziendali), e Claude Whiteboards per organizzare idee e compiti di gruppo. Dentro Claude si potranno aprire anche app di partner come Adobe, Atlassian e HubSpot. Molti strumenti sono in beta per gli abbonati. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "il_senso": "Le aziende dell'IA non vogliono più essere solo un assistente: puntano agli strumenti di ufficio che usiamo ogni giorno, il territorio storico di Microsoft e Google.",
+      "fonti": [
+        {
+          "nome": "Engadget",
+          "url": "https://www.engadget.com/2312177/anthropic-takes-on-google-and-microsoft-with-claude-sheets/"
+        }
+      ]
+    },
+    {
+      "posizione": 5,
+      "titolo": "OpenAI: ricavi a circa 10 miliardi nel terzo trimestre, ma crescono anche le perdite",
+      "riassunto": "Secondo The Information, che cita una persona a conoscenza dei fatti, OpenAI ha comunicato agli investitori ricavi per circa 10 miliardi di dollari nel terzo trimestre, quasi il 50% in più rispetto al trimestre precedente, insieme a perdite operative in aumento. L'articolo è a pagamento e i dettagli sulle perdite non sono pubblici.",
+      "il_senso": "Il confronto con Anthropic, che quota proprio ora, diventa diretto: entrambe crescono velocissime, ma restano in perdita.",
+      "fonti": [
+        {
+          "nome": "The Information",
+          "url": "https://www.theinformation.com/articles/openai-revenue-jumps-10-billion-third-quarter"
+        }
+      ]
+    }
+  ],
+  "approfondimenti": [
+    {
+      "titolo": "From Meta to SpaceX, this is how dual-class shares keep founders in control",
+      "testata": "Reuters (ripreso da TimesLIVE), 22 maggio 2026",
+      "url": "https://www.timeslive.co.za/news/business/2026-05-22-from-meta-to-spacex-this-is-how-dual-class-shares-keep-founders-in-control/",
+      "perche_e_importante": "Spiega in modo chiaro le azioni a doppia classe: alcune azioni valgono più voti di altre, così i fondatori mantengono il controllo anche quotandosi, come in Alphabet, Meta e SpaceX. Riporta le critiche degli investitori istituzionali e studi che danno risultati diversi: per alcuni queste aziende rendono di più, per altri il vantaggio svanisce dopo 7-9 anni.",
+      "la_mia_lettura": "Oggi vale anche per Anthropic, i cui fondatori mantengono la maggioranza dei voti. La mia lettura è che chi compra azioni delle grandi aziende tech compri sempre più una quota dei profitti, non una voce in capitolo."
+    },
+    {
+      "titolo": "In the AI Era, Language is Now an Attack Surface",
+      "testata": "Tech Policy Press, Matthew Kirschenbaum, 9 novembre 2026",
+      "url": "https://techpolicy.press/in-the-ai-era-language-is-now-an-attack-surface",
+      "perche_e_importante": "Un professore di IA e letteratura dell'Università della Virginia spiega perché, con gli agenti di IA che navigano sul web, ogni testo può diventare un comando nascosto (la cosiddetta \"prompt injection\"). Usa il paragone con gli hacker telefonici degli anni Settanta e con incidenti recenti per mostrare che il linguaggio è diventato un nuovo terreno di attacco informatico.",
+      "la_mia_lettura": "È un saggio utile per capire un rischio poco visibile ma concreto. La mia lettura è che più deleghiamo compiti agli agenti, più la sicurezza dipenderà da cosa questi leggono, e non solo da come sono costruiti."
+    }
+  ],
+  "da_tenere_d_occhio": "Venerdì 13 novembre i prezzi alla produzione USA (PPI). Martedì 17 i conti trimestrali di Nvidia, nel pieno dell'indagine su Huang. Intorno al 19 novembre il possibile debutto in Borsa di Anthropic. Sullo sfondo, le prossime mosse della Fed in vista della riunione di dicembre."
+}
