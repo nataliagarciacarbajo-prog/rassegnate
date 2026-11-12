@@ -1,0 +1,101 @@
+{
+  "data": "2026-11-12",
+  "data_estesa": "Giovedì 12 novembre 2026",
+  "aggiornato_il": "2026-11-12T06:53:07+01:00",
+  "titolo": "Rassegna Big Tech & Finanza",
+  "notizie": [
+    {
+      "posizione": 1,
+      "titolo": "Nvidia, il board valuta la rimozione di Jensen Huang: titolo giù di oltre l'8% dopo la chiusura",
+      "riassunto": "Secondo il Wall Street Journal, confermato da Reuters stando a Forbes, il consiglio di Nvidia si prepara a rimuovere il fondatore e CEO Jensen Huang e si sarebbe riunito mercoledì sera. Poche ore prima il New York Times aveva riferito di una seconda relazione extraconiugale di Huang, con la dirigente Nvidia Kimberly Powell. Nessuna decisione è stata annunciata, Nvidia non ha commentato e non c'è un successore indicato. Dopo la chiusura il titolo è sceso dell'8,6% a 158,78 dollari.",
+      "il_senso": "L'azienda simbolo dell'IA potrebbe perdere il suo fondatore senza un piano di successione chiaro: un terremoto per la Borsa e per tutta la filiera dei chip.",
+      "fonti": [
+        {
+          "nome": "Fortune",
+          "url": "https://fortune.com/2026/11/11/nvidia-oust-jensen-huang-spy-affairs/"
+        },
+        {
+          "nome": "Forbes",
+          "url": "https://www.forbes.com/sites/siladityaray/2026/11/12/nvidia-shares-plunge-as-board-reportedly-prepares-to-oust-ceo-jensen-huang/"
+        }
+      ]
+    },
+    {
+      "posizione": 2,
+      "titolo": "CoreWeave riaccende l'IA in Borsa: ricavi +168% e titolo +25%",
+      "riassunto": "CoreWeave, che affitta potenza di calcolo per l'IA, ha chiuso il trimestre con 3,66 miliardi di ricavi (+168%) e ha alzato le previsioni 2026 a 13-13,3 miliardi; il titolo è salito del 24,7%. Resta in perdita (709 milioni) e paga 846 milioni di interessi a trimestre. Per finanziarsi punta su circa 9 miliardi di anticipi dai clienti: il CEO Michael Intrator dice che non userà il debito non garantito ai rendimenti attuali. I prezzi sono stati alzati di circa il 25% a luglio.",
+      "il_senso": "La domanda di calcolo per l'IA resta fortissima, ma costruirlo costa caro: chi offre questo servizio corre tra crescita record e debiti pesanti.",
+      "fonti": [
+        {
+          "nome": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/"
+        },
+        {
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-11-2026"
+        }
+      ]
+    },
+    {
+      "posizione": 3,
+      "titolo": "Wall Street sale, Apple tocca un nuovo record",
+      "riassunto": "Mercoledì, spinti da CoreWeave e dai titoli dei chip, il Nasdaq ha guadagnato l'1,6%, l'S&P 500 l'1,31% e il Dow lo 0,49%. Nvidia aveva chiuso in rialzo del 2,9% prima delle notizie serali su Huang. Apple ha chiuso a 355,63 dollari (+2%), nuovo massimo storico, ed è l'azienda di maggior valore al mondo con oltre 5.000 miliardi.",
+      "il_senso": "Mentre Nvidia è nella tempesta, gli investitori premiano chi sembra più solido: Apple sembra tornare il rifugio dei grandi capitali tecnologici.",
+      "fonti": [
+        {
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-11-2026"
+        },
+        {
+          "nome": "MacDailyNews",
+          "url": "https://macdailynews.com/2026/11/11/apple-shares-hit-new-all-time-intraday-and-closing-highs-95/"
+        }
+      ]
+    },
+    {
+      "posizione": 4,
+      "titolo": "Da oggi Claude è vietato dalla Cina continentale, e OpenAI stringe le regole",
+      "riassunto": "Da giovedì 12 novembre entrano in vigore le nuove regole di Anthropic, annunciate l'8 ottobre, che vietano l'uso di Claude dalla Cina continentale e da altre regioni non supportate; i controlli possono includere documento d'identità e selfie, con chiusura dell'account in caso di violazioni. OpenAI dal 20 novembre chiederà un'approvazione preventiva alle piattaforme terze che rivendono l'accesso ai suoi modelli. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "il_senso": "L'IA diventa terreno di confine geopolitico come i chip: le aziende americane chiudono le porte alla Cina, mentre la Cina costruisce un ecosistema tutto suo.",
+      "fonti": [
+        {
+          "nome": "TokenPost",
+          "url": "https://www.tokenpost.com/news/technology/53665"
+        }
+      ]
+    },
+    {
+      "posizione": 5,
+      "titolo": "Google compra i dati di Spirit Airlines per addestrare l'IA",
+      "riassunto": "Secondo Reuters, Google ha concordato protezioni aggiuntive per la privacy nell'acquisto, per circa 10 milioni di dollari, di archivi aziendali della compagnia aerea Spirit Airlines da usare per addestrare l'IA. Le informazioni sanitarie sono escluse e l'operazione richiede ancora l'approvazione di un tribunale.",
+      "il_senso": "I dati sono il carburante dell'IA, e ora si comprano anche dagli archivi di altre aziende: una domanda aperta su cosa succede alle nostre informazioni quando un'impresa le vende.",
+      "fonti": [
+        {
+          "nome": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/google-agrees-addition-privacy-protections-spirit-airlines-data-sale-2026-11-10/"
+        },
+        {
+          "nome": "The Neuron",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-11-2026/"
+        }
+      ]
+    }
+  ],
+  "approfondimenti": [
+    {
+      "titolo": "How do you replace a CEO like Tim Cook or Warren Buffett?",
+      "testata": "The Economist (ripreso da The Nightly), 21 novembre 2025",
+      "url": "https://thenightly.com.au/business/the-economist-how-do-you-replace-superstar-ceos-like-tim-cook-and-warren-buffett-c-20747391",
+      "perche_e_importante": "Analizza perché sostituire un capo leggendario è così difficile. Con Cook, Apple è passata da 108 a 416 miliardi di ricavi e da circa 350 a 4.000 miliardi di valore. I dati sono istruttivi: secondo Spencer Stuart, dal 2000 al 2024 l'85% dei nuovi CEO è arrivato dall'interno, e due terzi di loro hanno reso meno dei predecessori. Il caso GE mostra quanto possa costare sbagliare.",
+      "la_mia_lettura": "Scritto un anno fa, oggi è attualissimo con Nvidia. La mia lettura è che il vero banco di prova di un grande CEO non sia la crescita, ma aver preparato l'azienda a fare a meno di lui."
+    },
+    {
+      "titolo": "The open-source AI platforms vying to become China's Hugging Face",
+      "testata": "Rest of World, Viola Zhou, 29 settembre 2026",
+      "url": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/",
+      "perche_e_importante": "Racconta come la Cina stia costruendo piattaforme proprie per condividere modelli di IA, dopo aver bloccato Hugging Face nel 2023: ModelScope di Alibaba ospita oltre 170.000 modelli, MoArk circa 20.000. Spiega anche perché molti sviluppatori cinesi continuano a usare le piattaforme straniere tramite VPN.",
+      "la_mia_lettura": "Si legge bene insieme alla notizia di oggi sul blocco di Claude. La mia lettura è che stiamo andando verso due internet dell'IA separate, una americana e una cinese, con regole, modelli e piattaforme diverse."
+    }
+  ],
+  "da_tenere_d_occhio": "Prima di tutto la decisione del board di Nvidia su Huang. Venerdì 13 novembre i prezzi alla produzione USA (PPI). Martedì 17 i conti trimestrali di Nvidia. Intorno al 19 novembre il possibile debutto in Borsa di Anthropic."
+}

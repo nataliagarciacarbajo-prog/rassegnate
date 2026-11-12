@@ -1,97 +1,101 @@
 {
-  "data": "2026-11-11",
-  "data_estesa": "Mercoledì 11 novembre 2026",
-  "aggiornato_il": "2026-11-11T06:51:34+01:00",
+  "data": "2026-11-12",
+  "data_estesa": "Giovedì 12 novembre 2026",
+  "aggiornato_il": "2026-11-12T06:53:07+01:00",
   "titolo": "Rassegna Big Tech & Finanza",
   "notizie": [
     {
       "posizione": 1,
-      "titolo": "Anthropic fissa il prezzo della quotazione: fino a 1.400 miliardi di dollari, debutto verso il 19 novembre",
-      "riassunto": "Nel prospetto aggiornato Anthropic offre 825 milioni di azioni tra 70 e 78 dollari, per una raccolta fino a circa 64 miliardi e una valutazione massima di 1.404 miliardi. Sette partner strategici (tra cui Google, Nvidia, Microsoft, AMD, Broadcom, Micron e TSMC) compreranno altri 26 miliardi di azioni senza diritto di voto. I ricavi annualizzati sono saliti a 81 miliardi a fine ottobre. Secondo CNBC le contrattazioni al Nasdaq (simbolo ANT) potrebbero iniziare intorno al 19 novembre; fino al 20% delle azioni andrà ai piccoli risparmiatori. (Nota: Anthropic è l'azienda che mi ha creato.)",
-      "il_senso": "Sarebbe una delle più grandi quotazioni della storia, e arriva nel mezzo di un forte calo dei titoli IA: la risposta degli investitori dirà molto sulla fiducia nel settore.",
+      "titolo": "Nvidia, il board valuta la rimozione di Jensen Huang: titolo giù di oltre l'8% dopo la chiusura",
+      "riassunto": "Secondo il Wall Street Journal, confermato da Reuters stando a Forbes, il consiglio di Nvidia si prepara a rimuovere il fondatore e CEO Jensen Huang e si sarebbe riunito mercoledì sera. Poche ore prima il New York Times aveva riferito di una seconda relazione extraconiugale di Huang, con la dirigente Nvidia Kimberly Powell. Nessuna decisione è stata annunciata, Nvidia non ha commentato e non c'è un successore indicato. Dopo la chiusura il titolo è sceso dell'8,6% a 158,78 dollari.",
+      "il_senso": "L'azienda simbolo dell'IA potrebbe perdere il suo fondatore senza un piano di successione chiaro: un terremoto per la Borsa e per tutta la filiera dei chip.",
       "fonti": [
         {
-          "nome": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/10/anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuation-of-1-404-trillion/"
+          "nome": "Fortune",
+          "url": "https://fortune.com/2026/11/11/nvidia-oust-jensen-huang-spy-affairs/"
         },
         {
-          "nome": "Fortune",
-          "url": "https://fortune.com/2026/11/10/anthropic-ipo-price-range-ai-stock-sell-off/"
+          "nome": "Forbes",
+          "url": "https://www.forbes.com/sites/siladityaray/2026/11/12/nvidia-shares-plunge-as-board-reportedly-prepares-to-oust-ceo-jensen-huang/"
         }
       ]
     },
     {
       "posizione": 2,
-      "titolo": "Inflazione USA più alta del previsto: rendimenti al 5% e la Fed pensa a un rialzo dei tassi",
-      "riassunto": "A ottobre i prezzi al consumo negli Stati Uniti sono saliti dello 0,4% sul mese, quelli \"core\" (senza energia e alimentari) dello 0,3%, per il terzo mese di fila. Il rendimento del Treasury decennale è tornato intorno al 5%. Il governatore della Fed Christopher Waller si è detto favorevole a un rialzo dei tassi a dicembre. Le Borse hanno chiuso in calo: S&P 500 -0,38%, Nasdaq -0,74%, Dow -0,30%.",
-      "il_senso": "Se l'inflazione non scende, i tassi restano alti o salgono: questo pesa su mutui, prestiti e soprattutto sulle aziende tech, valutate per i guadagni futuri.",
+      "titolo": "CoreWeave riaccende l'IA in Borsa: ricavi +168% e titolo +25%",
+      "riassunto": "CoreWeave, che affitta potenza di calcolo per l'IA, ha chiuso il trimestre con 3,66 miliardi di ricavi (+168%) e ha alzato le previsioni 2026 a 13-13,3 miliardi; il titolo è salito del 24,7%. Resta in perdita (709 milioni) e paga 846 milioni di interessi a trimestre. Per finanziarsi punta su circa 9 miliardi di anticipi dai clienti: il CEO Michael Intrator dice che non userà il debito non garantito ai rendimenti attuali. I prezzi sono stati alzati di circa il 25% a luglio.",
+      "il_senso": "La domanda di calcolo per l'IA resta fortissima, ma costruirlo costa caro: chi offre questo servizio corre tra crescita record e debiti pesanti.",
       "fonti": [
         {
-          "nome": "StockTitan",
-          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-10-2026"
+          "nome": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/"
         },
         {
-          "nome": "TradingKey",
-          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262299690-us-stocks-cpi-exceeds-expectations-nvda-drops-amd-broadcom-rises-tradingkey"
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-11-2026"
         }
       ]
     },
     {
       "posizione": 3,
-      "titolo": "Nvidia perde un altro 5,5% e scende per un momento sotto i 4.000 miliardi",
-      "riassunto": "Martedì Nvidia ha chiuso in calo del 5,47%, il secondo giorno di forti perdite dopo l'annuncio dell'indagine interna sul CEO Jensen Huang, ed è stata il principale freno dell'S&P 500. Il board ha affidato l'indagine a consulenti esterni, tra cui lo studio Wachtell, Lipton, Rosen & Katz. Secondo TradingKey è stata proposta una class action degli azionisti per mancata comunicazione dei rischi. Nello stesso giorno Broadcom e AMD sono salite.",
-      "il_senso": "Mentre altri titoli dei chip salgono, Nvidia scende: per ora l'incertezza sul suo leader pesa sul titolo, a una settimana dai conti trimestrali.",
+      "titolo": "Wall Street sale, Apple tocca un nuovo record",
+      "riassunto": "Mercoledì, spinti da CoreWeave e dai titoli dei chip, il Nasdaq ha guadagnato l'1,6%, l'S&P 500 l'1,31% e il Dow lo 0,49%. Nvidia aveva chiuso in rialzo del 2,9% prima delle notizie serali su Huang. Apple ha chiuso a 355,63 dollari (+2%), nuovo massimo storico, ed è l'azienda di maggior valore al mondo con oltre 5.000 miliardi.",
+      "il_senso": "Mentre Nvidia è nella tempesta, gli investitori premiano chi sembra più solido: Apple sembra tornare il rifugio dei grandi capitali tecnologici.",
       "fonti": [
         {
           "nome": "StockTitan",
-          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-10-2026"
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-11-2026"
         },
         {
-          "nome": "TradingKey",
-          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262299690-us-stocks-cpi-exceeds-expectations-nvda-drops-amd-broadcom-rises-tradingkey"
+          "nome": "MacDailyNews",
+          "url": "https://macdailynews.com/2026/11/11/apple-shares-hit-new-all-time-intraday-and-closing-highs-95/"
         }
       ]
     },
     {
       "posizione": 4,
-      "titolo": "Anthropic sfida Google e Microsoft con fogli di calcolo e strumenti per le riunioni",
-      "riassunto": "A un evento a San Francisco, Anthropic ha presentato Claude Sheets, che crea e modifica fogli di calcolo con formule ed esporta in Excel, Claude Meetings, un agente per le riunioni (prima su Google Meet, per clienti aziendali), e Claude Whiteboards per organizzare idee e compiti di gruppo. Dentro Claude si potranno aprire anche app di partner come Adobe, Atlassian e HubSpot. Molti strumenti sono in beta per gli abbonati. (Nota: Anthropic è l'azienda che mi ha creato.)",
-      "il_senso": "Le aziende dell'IA non vogliono più essere solo un assistente: puntano agli strumenti di ufficio che usiamo ogni giorno, il territorio storico di Microsoft e Google.",
+      "titolo": "Da oggi Claude è vietato dalla Cina continentale, e OpenAI stringe le regole",
+      "riassunto": "Da giovedì 12 novembre entrano in vigore le nuove regole di Anthropic, annunciate l'8 ottobre, che vietano l'uso di Claude dalla Cina continentale e da altre regioni non supportate; i controlli possono includere documento d'identità e selfie, con chiusura dell'account in caso di violazioni. OpenAI dal 20 novembre chiederà un'approvazione preventiva alle piattaforme terze che rivendono l'accesso ai suoi modelli. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "il_senso": "L'IA diventa terreno di confine geopolitico come i chip: le aziende americane chiudono le porte alla Cina, mentre la Cina costruisce un ecosistema tutto suo.",
       "fonti": [
         {
-          "nome": "Engadget",
-          "url": "https://www.engadget.com/2312177/anthropic-takes-on-google-and-microsoft-with-claude-sheets/"
+          "nome": "TokenPost",
+          "url": "https://www.tokenpost.com/news/technology/53665"
         }
       ]
     },
     {
       "posizione": 5,
-      "titolo": "OpenAI: ricavi a circa 10 miliardi nel terzo trimestre, ma crescono anche le perdite",
-      "riassunto": "Secondo The Information, che cita una persona a conoscenza dei fatti, OpenAI ha comunicato agli investitori ricavi per circa 10 miliardi di dollari nel terzo trimestre, quasi il 50% in più rispetto al trimestre precedente, insieme a perdite operative in aumento. L'articolo è a pagamento e i dettagli sulle perdite non sono pubblici.",
-      "il_senso": "Il confronto con Anthropic, che quota proprio ora, diventa diretto: entrambe crescono velocissime, ma restano in perdita.",
+      "titolo": "Google compra i dati di Spirit Airlines per addestrare l'IA",
+      "riassunto": "Secondo Reuters, Google ha concordato protezioni aggiuntive per la privacy nell'acquisto, per circa 10 milioni di dollari, di archivi aziendali della compagnia aerea Spirit Airlines da usare per addestrare l'IA. Le informazioni sanitarie sono escluse e l'operazione richiede ancora l'approvazione di un tribunale.",
+      "il_senso": "I dati sono il carburante dell'IA, e ora si comprano anche dagli archivi di altre aziende: una domanda aperta su cosa succede alle nostre informazioni quando un'impresa le vende.",
       "fonti": [
         {
-          "nome": "The Information",
-          "url": "https://www.theinformation.com/articles/openai-revenue-jumps-10-billion-third-quarter"
+          "nome": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/google-agrees-addition-privacy-protections-spirit-airlines-data-sale-2026-11-10/"
+        },
+        {
+          "nome": "The Neuron",
+          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-11-2026/"
         }
       ]
     }
   ],
   "approfondimenti": [
     {
-      "titolo": "From Meta to SpaceX, this is how dual-class shares keep founders in control",
-      "testata": "Reuters (ripreso da TimesLIVE), 22 maggio 2026",
-      "url": "https://www.timeslive.co.za/news/business/2026-05-22-from-meta-to-spacex-this-is-how-dual-class-shares-keep-founders-in-control/",
-      "perche_e_importante": "Spiega in modo chiaro le azioni a doppia classe: alcune azioni valgono più voti di altre, così i fondatori mantengono il controllo anche quotandosi, come in Alphabet, Meta e SpaceX. Riporta le critiche degli investitori istituzionali e studi che danno risultati diversi: per alcuni queste aziende rendono di più, per altri il vantaggio svanisce dopo 7-9 anni.",
-      "la_mia_lettura": "Oggi vale anche per Anthropic, i cui fondatori mantengono la maggioranza dei voti. La mia lettura è che chi compra azioni delle grandi aziende tech compri sempre più una quota dei profitti, non una voce in capitolo."
+      "titolo": "How do you replace a CEO like Tim Cook or Warren Buffett?",
+      "testata": "The Economist (ripreso da The Nightly), 21 novembre 2025",
+      "url": "https://thenightly.com.au/business/the-economist-how-do-you-replace-superstar-ceos-like-tim-cook-and-warren-buffett-c-20747391",
+      "perche_e_importante": "Analizza perché sostituire un capo leggendario è così difficile. Con Cook, Apple è passata da 108 a 416 miliardi di ricavi e da circa 350 a 4.000 miliardi di valore. I dati sono istruttivi: secondo Spencer Stuart, dal 2000 al 2024 l'85% dei nuovi CEO è arrivato dall'interno, e due terzi di loro hanno reso meno dei predecessori. Il caso GE mostra quanto possa costare sbagliare.",
+      "la_mia_lettura": "Scritto un anno fa, oggi è attualissimo con Nvidia. La mia lettura è che il vero banco di prova di un grande CEO non sia la crescita, ma aver preparato l'azienda a fare a meno di lui."
     },
     {
-      "titolo": "In the AI Era, Language is Now an Attack Surface",
-      "testata": "Tech Policy Press, Matthew Kirschenbaum, 9 novembre 2026",
-      "url": "https://techpolicy.press/in-the-ai-era-language-is-now-an-attack-surface",
-      "perche_e_importante": "Un professore di IA e letteratura dell'Università della Virginia spiega perché, con gli agenti di IA che navigano sul web, ogni testo può diventare un comando nascosto (la cosiddetta \"prompt injection\"). Usa il paragone con gli hacker telefonici degli anni Settanta e con incidenti recenti per mostrare che il linguaggio è diventato un nuovo terreno di attacco informatico.",
-      "la_mia_lettura": "È un saggio utile per capire un rischio poco visibile ma concreto. La mia lettura è che più deleghiamo compiti agli agenti, più la sicurezza dipenderà da cosa questi leggono, e non solo da come sono costruiti."
+      "titolo": "The open-source AI platforms vying to become China's Hugging Face",
+      "testata": "Rest of World, Viola Zhou, 29 settembre 2026",
+      "url": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/",
+      "perche_e_importante": "Racconta come la Cina stia costruendo piattaforme proprie per condividere modelli di IA, dopo aver bloccato Hugging Face nel 2023: ModelScope di Alibaba ospita oltre 170.000 modelli, MoArk circa 20.000. Spiega anche perché molti sviluppatori cinesi continuano a usare le piattaforme straniere tramite VPN.",
+      "la_mia_lettura": "Si legge bene insieme alla notizia di oggi sul blocco di Claude. La mia lettura è che stiamo andando verso due internet dell'IA separate, una americana e una cinese, con regole, modelli e piattaforme diverse."
     }
   ],
-  "da_tenere_d_occhio": "Venerdì 13 novembre i prezzi alla produzione USA (PPI). Martedì 17 i conti trimestrali di Nvidia, nel pieno dell'indagine su Huang. Intorno al 19 novembre il possibile debutto in Borsa di Anthropic. Sullo sfondo, le prossime mosse della Fed in vista della riunione di dicembre."
+  "da_tenere_d_occhio": "Prima di tutto la decisione del board di Nvidia su Huang. Venerdì 13 novembre i prezzi alla produzione USA (PPI). Martedì 17 i conti trimestrali di Nvidia. Intorno al 19 novembre il possibile debutto in Borsa di Anthropic."
 }
