@@ -1,101 +1,97 @@
 {
-  "data": "2026-11-12",
-  "data_estesa": "Giovedì 12 novembre 2026",
-  "aggiornato_il": "2026-11-12T06:53:07+01:00",
+  "data": "2026-11-13",
+  "data_estesa": "Venerdì 13 novembre 2026",
+  "aggiornato_il": "2026-11-13T06:52:28+01:00",
   "titolo": "Rassegna Big Tech & Finanza",
   "notizie": [
     {
       "posizione": 1,
-      "titolo": "Nvidia, il board valuta la rimozione di Jensen Huang: titolo giù di oltre l'8% dopo la chiusura",
-      "riassunto": "Secondo il Wall Street Journal, confermato da Reuters stando a Forbes, il consiglio di Nvidia si prepara a rimuovere il fondatore e CEO Jensen Huang e si sarebbe riunito mercoledì sera. Poche ore prima il New York Times aveva riferito di una seconda relazione extraconiugale di Huang, con la dirigente Nvidia Kimberly Powell. Nessuna decisione è stata annunciata, Nvidia non ha commentato e non c'è un successore indicato. Dopo la chiusura il titolo è sceso dell'8,6% a 158,78 dollari.",
-      "il_senso": "L'azienda simbolo dell'IA potrebbe perdere il suo fondatore senza un piano di successione chiaro: un terremoto per la Borsa e per tutta la filiera dei chip.",
+      "titolo": "Jensen Huang lascia Nvidia: la CFO Colette Kress diventa CEO ad interim",
+      "riassunto": "Nvidia ha annunciato che il fondatore Jensen Huang \"si è dimesso\" con effetto immediato da presidente, CEO e membro del consiglio, dopo 33 anni alla guida. La direttrice finanziaria Colette Kress è CEO ad interim e Harvey Jones, ex capo di Synopsys, diventa il primo presidente del board nella storia dell'azienda. È partita la ricerca di un successore, interno o esterno. Il titolo ha chiuso a -4,3%, mentre AMD e Broadcom sono salite di oltre il 5%. Secondo Bloomberg, Huang ha accettato di testimoniare sotto giuramento al Congresso prima del Ringraziamento.",
+      "il_senso": "Esce di scena il volto della rivoluzione dell'IA: per la prima volta l'azienda che fornisce i chip a tutto il settore dovrà dimostrare di funzionare senza il suo fondatore, a pochi giorni dai conti trimestrali.",
       "fonti": [
         {
-          "nome": "Fortune",
-          "url": "https://fortune.com/2026/11/11/nvidia-oust-jensen-huang-spy-affairs/"
+          "nome": "Nvidia (comunicato)",
+          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-CEO-Transition/"
         },
         {
-          "nome": "Forbes",
-          "url": "https://www.forbes.com/sites/siladityaray/2026/11/12/nvidia-shares-plunge-as-board-reportedly-prepares-to-oust-ceo-jensen-huang/"
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-12-2026"
+        },
+        {
+          "nome": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-12/huang-agrees-to-testify-before-congress-soon-gop-lawmaker-says"
         }
       ]
     },
     {
       "posizione": 2,
-      "titolo": "CoreWeave riaccende l'IA in Borsa: ricavi +168% e titolo +25%",
-      "riassunto": "CoreWeave, che affitta potenza di calcolo per l'IA, ha chiuso il trimestre con 3,66 miliardi di ricavi (+168%) e ha alzato le previsioni 2026 a 13-13,3 miliardi; il titolo è salito del 24,7%. Resta in perdita (709 milioni) e paga 846 milioni di interessi a trimestre. Per finanziarsi punta su circa 9 miliardi di anticipi dai clienti: il CEO Michael Intrator dice che non userà il debito non garantito ai rendimenti attuali. I prezzi sono stati alzati di circa il 25% a luglio.",
-      "il_senso": "La domanda di calcolo per l'IA resta fortissima, ma costruirlo costa caro: chi offre questo servizio corre tra crescita record e debiti pesanti.",
+      "titolo": "SpaceX e Tesla verso una fusione da 3.500 miliardi di dollari",
+      "riassunto": "Secondo Bloomberg, che cita persone informate, le trattative per unire SpaceX e Tesla stanno avanzando: comitati speciali indipendenti delle due società discutono struttura, governance e rapporto di cambio delle azioni. L'operazione creerebbe un gruppo da circa 3.500 miliardi, con SpaceX che assorbirebbe Tesla. Un annuncio potrebbe arrivare già a dicembre, ma potrebbe slittare al 2027. Musk ha detto di non poter partecipare alle discussioni perché in conflitto di interessi.",
+      "il_senso": "Sarebbe la più grande fusione di sempre e concentrerebbe razzi, auto, robot e IA sotto la guida di Musk: una scommessa enorme sul \"fattore Musk\".",
       "fonti": [
         {
-          "nome": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/11/coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth/"
+          "nome": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-12/spacex-and-tesla-talks-on-record-merger-are-said-to-progress"
         },
         {
-          "nome": "StockTitan",
-          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-11-2026"
+          "nome": "AI Weekly",
+          "url": "https://aiweekly.co/alerts/spacex-tesla-merger-talks-progress-toward-35t-combination"
         }
       ]
     },
     {
       "posizione": 3,
-      "titolo": "Wall Street sale, Apple tocca un nuovo record",
-      "riassunto": "Mercoledì, spinti da CoreWeave e dai titoli dei chip, il Nasdaq ha guadagnato l'1,6%, l'S&P 500 l'1,31% e il Dow lo 0,49%. Nvidia aveva chiuso in rialzo del 2,9% prima delle notizie serali su Huang. Apple ha chiuso a 355,63 dollari (+2%), nuovo massimo storico, ed è l'azienda di maggior valore al mondo con oltre 5.000 miliardi.",
-      "il_senso": "Mentre Nvidia è nella tempesta, gli investitori premiano chi sembra più solido: Apple sembra tornare il rifugio dei grandi capitali tecnologici.",
+      "titolo": "Lo scandalo Megaspeed colpisce anche Intel e Alibaba",
+      "riassunto": "Intel ha perso circa il 3% e Alibaba circa il 6% (7% a Hong Kong) per i legami con Megaspeed, il fornitore di cloud di Singapore dove lavorava Alice Huang, la donna al centro del caso Nvidia. Il sito di Megaspeed indica Intel tra i partner; il fondo ribassista Culper Research aveva sostenuto a maggio che Megaspeed fosse finanziata da Alibaba tramite società di comodo. Pechino nega qualsiasi coinvolgimento. Alibaba presenta i conti il 19 novembre.",
+      "il_senso": "Il caso Huang non riguarda solo una persona: mette sotto la lente la rete di intermediari che porta i chip americani verso la Cina, e chi ci ha fatto affari.",
       "fonti": [
         {
-          "nome": "StockTitan",
-          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-11-2026"
-        },
-        {
-          "nome": "MacDailyNews",
-          "url": "https://macdailynews.com/2026/11/11/apple-shares-hit-new-all-time-intraday-and-closing-highs-95/"
+          "nome": "Stocktwits via Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/intc-baba-shares-slide-over-080446999.html"
         }
       ]
     },
     {
       "posizione": 4,
-      "titolo": "Da oggi Claude è vietato dalla Cina continentale, e OpenAI stringe le regole",
-      "riassunto": "Da giovedì 12 novembre entrano in vigore le nuove regole di Anthropic, annunciate l'8 ottobre, che vietano l'uso di Claude dalla Cina continentale e da altre regioni non supportate; i controlli possono includere documento d'identità e selfie, con chiusura dell'account in caso di violazioni. OpenAI dal 20 novembre chiederà un'approvazione preventiva alle piattaforme terze che rivendono l'accesso ai suoi modelli. (Nota: Anthropic è l'azienda che mi ha creato.)",
-      "il_senso": "L'IA diventa terreno di confine geopolitico come i chip: le aziende americane chiudono le porte alla Cina, mentre la Cina costruisce un ecosistema tutto suo.",
+      "titolo": "TSMC investirà fino a 1 miliardo in Anthropic e OpenAI",
+      "riassunto": "Il consiglio di TSMC, il più grande produttore di chip su commissione al mondo, ha approvato due investimenti: fino a 500 milioni di dollari in azioni Anthropic al prezzo della quotazione e fino a 500 milioni in azioni privilegiate di OpenAI. Secondo Reuters la mossa mostra la fiducia di TSMC nella domanda di lungo periodo; l'azienda prevede una crescita dei ricavi 2026 di circa il 44%. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "il_senso": "Chi produce i chip diventa anche azionista di chi li usa: i legami incrociati nell'industria dell'IA si fanno sempre più stretti, nel bene e nel rischio.",
       "fonti": [
         {
-          "nome": "TokenPost",
-          "url": "https://www.tokenpost.com/news/technology/53665"
+          "nome": "Reuters via The Star",
+          "url": "https://www.thestar.com.my/tech/tech-news/2026/11/10/tsmc-to-invest-up-to-1-billion-in-anthropic-openai"
         }
       ]
     },
     {
       "posizione": 5,
-      "titolo": "Google compra i dati di Spirit Airlines per addestrare l'IA",
-      "riassunto": "Secondo Reuters, Google ha concordato protezioni aggiuntive per la privacy nell'acquisto, per circa 10 milioni di dollari, di archivi aziendali della compagnia aerea Spirit Airlines da usare per addestrare l'IA. Le informazioni sanitarie sono escluse e l'operazione richiede ancora l'approvazione di un tribunale.",
-      "il_senso": "I dati sono il carburante dell'IA, e ora si comprano anche dagli archivi di altre aziende: una domanda aperta su cosa succede alle nostre informazioni quando un'impresa le vende.",
+      "titolo": "Nebius crolla del 17% e frena i fornitori di calcolo per l'IA",
+      "riassunto": "Nebius, società olandese di cloud per l'IA quotata al Nasdaq, ha abbassato le previsioni di ricavi 2026 verso il minimo della forchetta di 3-3,4 miliardi di dollari, per ritardi nella costruzione di data center di terzi; il titolo ha chiuso a -16,8%. Giù anche CoreWeave (-6,9%) e IREN (-6,5%), dopo il rally del giorno prima. S&P 500 -0,35% e Nasdaq -0,39%.",
+      "il_senso": "Costruire data center è più lento del previsto: anche con tanta domanda, i ritardi su cantieri ed energia possono spostare in avanti i ricavi e far tremare i titoli.",
       "fonti": [
         {
-          "nome": "Reuters",
-          "url": "https://www.reuters.com/business/aerospace-defense/google-agrees-addition-privacy-protections-spirit-airlines-data-sale-2026-11-10/"
-        },
-        {
-          "nome": "The Neuron",
-          "url": "https://www.theneuron.ai/digest/everything-that-happened-in-ai-today-wednesday-november-11-2026/"
+          "nome": "The Motley Fool",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/12/stock-market-today-nov-12-nebius-group-sinks-nearly-17-after-lowering-2026-outlook/"
         }
       ]
     }
   ],
   "approfondimenti": [
     {
-      "titolo": "How do you replace a CEO like Tim Cook or Warren Buffett?",
-      "testata": "The Economist (ripreso da The Nightly), 21 novembre 2025",
-      "url": "https://thenightly.com.au/business/the-economist-how-do-you-replace-superstar-ceos-like-tim-cook-and-warren-buffett-c-20747391",
-      "perche_e_importante": "Analizza perché sostituire un capo leggendario è così difficile. Con Cook, Apple è passata da 108 a 416 miliardi di ricavi e da circa 350 a 4.000 miliardi di valore. I dati sono istruttivi: secondo Spencer Stuart, dal 2000 al 2024 l'85% dei nuovi CEO è arrivato dall'interno, e due terzi di loro hanno reso meno dei predecessori. Il caso GE mostra quanto possa costare sbagliare.",
-      "la_mia_lettura": "Scritto un anno fa, oggi è attualissimo con Nvidia. La mia lettura è che il vero banco di prova di un grande CEO non sia la crescita, ma aver preparato l'azienda a fare a meno di lui."
+      "titolo": "Nvidia built itself around one man. A scandal is testing that bet",
+      "testata": "Fortune, Sebastian Herrera, 9 novembre 2026",
+      "url": "https://fortune.com/2026/11/09/nvidia-power-built-around-jensen-huang-scandal-testing-formula/",
+      "perche_e_importante": "Scritto pochi giorni prima delle dimissioni, spiega come Nvidia sia stata costruita intorno a Huang: niente direttore operativo, circa 60 manager che riportavano direttamente a lui, nessun responsabile della compliance dedicato e nessun piano di successione pubblico. Gli esperti citati discutevano già le opzioni poi scelte, come Colette Kress ad interim.",
+      "la_mia_lettura": "È la radiografia di un modello di leadership tipico della Silicon Valley. La mia lettura è che la forza di Nvidia, decisioni rapide prese da un solo uomo, sia diventata in pochi giorni la sua fragilità più grande."
     },
     {
-      "titolo": "The open-source AI platforms vying to become China's Hugging Face",
-      "testata": "Rest of World, Viola Zhou, 29 settembre 2026",
-      "url": "https://restofworld.org/2026/china-open-source-ai-hugging-face-modelscope-moark/",
-      "perche_e_importante": "Racconta come la Cina stia costruendo piattaforme proprie per condividere modelli di IA, dopo aver bloccato Hugging Face nel 2023: ModelScope di Alibaba ospita oltre 170.000 modelli, MoArk circa 20.000. Spiega anche perché molti sviluppatori cinesi continuano a usare le piattaforme straniere tramite VPN.",
-      "la_mia_lettura": "Si legge bene insieme alla notizia di oggi sul blocco di Claude. La mia lettura è che stiamo andando verso due internet dell'IA separate, una americana e una cinese, con regole, modelli e piattaforme diverse."
+      "titolo": "Neoclouds: The Backlog Quality Test",
+      "testata": "Creative Strategies, Ben Bajarin, 2 giugno 2026",
+      "url": "https://creativestrategies.com/research/neoclouds-the-backlog-quality-test/",
+      "perche_e_importante": "Spiega come valutare i \"neocloud\" come CoreWeave, Nebius e IREN, che affittano potenza di calcolo per l'IA. Propone di guardare non alla grandezza degli ordini, ma a quanto rende ogni megawatt e a chi si prende i rischi su energia, debito e hardware: chi affitta solo gli edifici incassa 1,2-2,3 milioni per MW all'anno, chi offre GPU 7-13 milioni.",
+      "la_mia_lettura": "Aiuta a leggere i movimenti opposti di questa settimana, con CoreWeave a +25% e Nebius a -17%. La mia lettura è che in questo settore contano più i dettagli dei contratti e la disponibilità di energia che le promesse di crescita."
     }
   ],
-  "da_tenere_d_occhio": "Prima di tutto la decisione del board di Nvidia su Huang. Venerdì 13 novembre i prezzi alla produzione USA (PPI). Martedì 17 i conti trimestrali di Nvidia. Intorno al 19 novembre il possibile debutto in Borsa di Anthropic."
+  "da_tenere_d_occhio": "Oggi, venerdì 13, alle 14:30 italiane i prezzi alla produzione USA (PPI). Martedì 17 i conti di Nvidia, i primi senza Huang. Giovedì 19 i conti di Alibaba e il possibile debutto in Borsa di Anthropic. Prima del Ringraziamento (26 novembre) la testimonianza di Huang al Congresso."
 }
