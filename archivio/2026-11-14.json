@@ -1,0 +1,109 @@
+{
+  "data": "2026-11-14",
+  "data_estesa": "Sabato 14 novembre 2026",
+  "aggiornato_il": "2026-11-14T06:52:37+01:00",
+  "titolo": "Rassegna Big Tech & Finanza",
+  "notizie": [
+    {
+      "posizione": 1,
+      "titolo": "Nvidia dopo Huang: HSBC taglia il giudizio, la ricerca del nuovo CEO potrebbe durare mesi",
+      "riassunto": "Venerdì l'analista di HSBC Frank Lee ha abbassato il giudizio su Nvidia a Hold (mantenere) e ha tagliato il prezzo obiettivo da 375 a 170 dollari. Secondo Lee, il titolo farà fatica finché l'azienda non avrà un CEO permanente. Nvidia ha chiuso a 162,85 dollari (-2,01%). Secondo Fortune, la ricerca del successore sarà probabilmente guidata da Harvey Jones, 73 anni, consigliere dal 1993 e appena nominato primo presidente del board. Reuters riferisce di una relazione di Huang con una seconda dipendente.",
+      "il_senso": "Quando un'azienda da migliaia di miliardi perde all'improvviso il suo fondatore, molti investitori preferiscono aspettare di sapere chi comanderà. Martedì arrivano i conti, i primi senza Huang.",
+      "fonti": [
+        {
+          "nome": "Motley Fool via Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-13-222002466.html"
+        },
+        {
+          "nome": "Fortune",
+          "url": "https://fortune.com/2026/11/13/next-nvidia-ceo-search-harvey-jones-chair-board/"
+        }
+      ]
+    },
+    {
+      "posizione": 2,
+      "titolo": "I chip trascinano giù Wall Street: AMD -8,75%, rendimenti sopra il 5%",
+      "riassunto": "Venerdì la Borsa ha aperto in rialzo e ha chiuso in calo. Il Nasdaq ha perso lo 0,91% e l'S&P 500 lo 0,40%, mentre il Dow ha chiuso in leggero rialzo (+0,10%). I titoli dei chip hanno guidato le vendite: AMD -8,75% dopo una settimana di forti rialzi, Broadcom -4,76%, Intel -2,52%. I prezzi alla produzione di ottobre sono saliti dello 0,3% in un mese, meno del previsto, ma del 6,5% in un anno. Il rendimento del Treasury decennale resta intorno al 5,1%, e secondo il CME FedWatch i mercati danno quasi per certo un rialzo dei tassi a dicembre.",
+      "il_senso": "Con un'inflazione così alta il denaro costa di più, e in genere i titoli tecnologici, valutati sui profitti futuri, sono tra i più esposti.",
+      "fonti": [
+        {
+          "nome": "Motley Fool via Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-13-221355021.html"
+        },
+        {
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-13-2026"
+        }
+      ]
+    },
+    {
+      "posizione": 3,
+      "titolo": "La settimana della verità per l'IA: conti Nvidia e debutto in Borsa di Anthropic",
+      "riassunto": "Secondo Reuters, la prossima settimana sarà un banco di prova per il commercio legato all'IA. Martedì Nvidia pubblica i conti: gli analisti si aspettano ricavi di 109 miliardi e utili in crescita del 90% (dati LSEG). Il valore di borsa di Nvidia è sceso da circa 5.800 a circa 4.000 miliardi da inizio ottobre. Circa due giorni dopo è atteso il debutto di Anthropic, che punta a raccogliere fino a 64,4 miliardi con una valutazione fino a 1.400 miliardi. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "il_senso": "Nel giro di pochi giorni il mercato dirà se crede ancora alla corsa dell'IA o se la fiducia si è incrinata.",
+      "fonti": [
+        {
+          "nome": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/nvidia-results-anthropic-ipo-pose-tests-for-tumultuous-ai-trade-5024815"
+        }
+      ]
+    },
+    {
+      "posizione": 4,
+      "titolo": "Samsung tratta per comprare Modine, che raffredda i data center",
+      "riassunto": "Secondo Bloomberg, Samsung è in trattative per acquisire l'americana Modine, specializzata nei sistemi di raffreddamento per data center, che in Borsa vale circa 5,6 miliardi di dollari. Venerdì il titolo Modine è salito del 27,95%. Samsung ha detto di non poter confermare. Nessun accordo è stato annunciato.",
+      "il_senso": "I chip per l'IA scaldano moltissimo, e chi sa raffreddarli è diventato prezioso. Anche i giganti coreani vogliono la loro parte dell'infrastruttura.",
+      "fonti": [
+        {
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-13-2026"
+        },
+        {
+          "nome": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-12/samsung-is-in-talks-to-acquire-data-center-cooling-firm-modine"
+        }
+      ]
+    },
+    {
+      "posizione": 5,
+      "titolo": "Amazon e il piano per controllare i dati dei prodotti contro gli agenti IA",
+      "riassunto": "Secondo un'esclusiva Reuters, un documento interno di Amazon descrive un \"World Product Graph\": un grande archivio di dati sui prodotti, pensato anche per non dipendere dagli agenti IA di terzi che fanno acquisti per conto degli utenti. Reuters cita marchi come Coca-Cola e Bayer. Amazon lo definisce un \"brainstorming superato\" e dice che non c'è alcun lancio confermato. Secondo Reuters, a settembre Amazon aveva bloccato l'agente Muse di Meta.",
+      "il_senso": "Se in futuro a fare la spesa saranno gli assistenti IA, chi possiede i dati sui prodotti decide chi vende. Amazon non vuole diventare un semplice magazzino per gli agenti altrui.",
+      "fonti": [
+        {
+          "nome": "Reuters via Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/exclusiveamazons-plan-to-own-the-worlds-product-data-and-fight-ai-shopping-agents-5024784"
+        }
+      ]
+    },
+    {
+      "posizione": 6,
+      "titolo": "OpenAI scioglie il team dedicato ai robot",
+      "riassunto": "Secondo un'esclusiva di Fortune, confermata da un portavoce, OpenAI ha sciolto il suo team di robotica. I ricercatori passano all'area di ricerca guidata da Mark Chen, la parte applicata e hardware a quella di Greg Brockman. Secondo Fortune, l'azienda punta ancora a una dimostrazione di robot umanoide nel 2027, usando i suoi modelli generali per guidare i robot invece di un gruppo separato.",
+      "il_senso": "OpenAI scommette che lo stesso cervello digitale potrà guidare sia le chat sia le macchine fisiche. È una riorganizzazione, non una rinuncia ai robot.",
+      "fonti": [
+        {
+          "nome": "Fortune",
+          "url": "https://fortune.com/2026/11/13/openai-disbands-robotics-team-as-its-general-models-start-running-robots/"
+        }
+      ]
+    }
+  ],
+  "approfondimenti": [
+    {
+      "titolo": "How Retailers Can Reinvent the Digital Flywheel for Agentic Commerce",
+      "testata": "Boston Consulting Group, ottobre 2026",
+      "url": "https://www.bcg.com/publications/2026/retailers-win-ai-shopping-agents",
+      "perche_e_importante": "Spiega in modo ordinato cosa succede ai negozi online quando a scegliere i prodotti sono assistenti come ChatGPT, Gemini o Claude. I rivenditori devono decidere quali dati dare agli agenti (prezzi, disponibilità) e quali tenersi (clienti, abitudini). Secondo il sondaggio BCG, solo il 18% si sente pronto. È il contesto giusto per leggere la notizia su Amazon.",
+      "la_mia_lettura": "È una società di consulenza, quindi ha interesse a dire che bisogna muoversi subito, e i numeri vengono da un suo sondaggio. Ma la domanda di fondo è reale: chi controlla il rapporto con il cliente quando a comprare è una macchina?"
+    },
+    {
+      "titolo": "Busting the tech-stock, bond-yield connection myth",
+      "testata": "Morningstar, ottobre 2021",
+      "url": "https://www.morningstar.com.au/stocks/busting-the-tech-stock-bond-yield-connection-myth",
+      "perche_e_importante": "Si sente spesso dire che quando salgono i rendimenti dei titoli di Stato i titoli tecnologici scendono. Morningstar ha guardato 15 anni di dati e ha trovato un legame debole: la teoria vale, ma sull'andamento delle azioni avevano pesato di più altri fattori, come la crescita del cloud e degli smartphone. L'articolo è del 2021, quando i tassi erano molto più bassi.",
+      "la_mia_lettura": "È utile come antidoto alle spiegazioni troppo semplici, incluse quelle di questa rassegna. Con il decennale sopra il 5% il contesto è diverso dal 2021, e oggi il peso dei tassi potrebbe essere maggiore: è una mia interpretazione, non un dato."
+    }
+  ],
+  "da_tenere_d_occhio": "Martedì 17 novembre: conti trimestrali di Nvidia (i primi senza Huang) e vendite al dettaglio USA. Mercoledì 18: verbali della Fed. Giovedì 19: possibile debutto in Borsa di Anthropic. In settimana: conti di Walmart, Target, Home Depot e Lowe's. Entro il Giorno del Ringraziamento (26 novembre): audizione di Huang al Congresso."
+}
