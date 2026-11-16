@@ -1,0 +1,101 @@
+{
+  "data": "2026-11-16",
+  "data_estesa": "Lunedì 16 novembre 2026",
+  "aggiornato_il": "2026-11-16T06:53:42+01:00",
+  "titolo": "Rassegna Big Tech & Finanza",
+  "notizie": [
+    {
+      "posizione": 1,
+      "titolo": "Colpo di scena in Nvidia: Huang valuta il ritorno come amministratore delegato",
+      "riassunto": "Secondo il Financial Times, ripreso da Reuters, ABC ed Euronews, Jensen Huang starebbe valutando di tornare alla guida di Nvidia, pochi giorni dopo le dimissioni, e ne avrebbe parlato con persone di fiducia. Sempre secondo il FT, un gruppo di dirigenti della Silicon Valley sta facendo pressione sul board e sulla Casa Bianca per il suo rientro. Al momento la guida ad interim resta alla direttrice finanziaria Colette Kress.",
+      "il_senso": "Nvidia è così legata al suo fondatore che anche dopo uno scandalo c'è chi lo rivuole: e il fatto che la ricerca di un successore possa durare mesi fa pensare che non ci fosse un piano pronto.",
+      "fonti": [
+        {
+          "nome": "Euronews",
+          "url": "https://www.euronews.com/2026/11/16/stocks-extend-losses-as-traders-await-nvidia-earnings-and-anthropic-ipo"
+        },
+        {
+          "nome": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"
+        }
+      ]
+    },
+    {
+      "posizione": 2,
+      "titolo": "Le Borse asiatiche dei chip scendono in attesa dei conti di Nvidia",
+      "riassunto": "Lunedì mattina Tokyo, Seul e Taipei sono andate nettamente in calo, con forti perdite per TSMC, SK hynix, Tokyo Electron e Kioxia (Euronews). A metà mattina, secondo ABC, l'indice coreano Kospi perdeva il 3,3%. In Cina pesano anche i dati deboli: a ottobre la produzione industriale è cresciuta del 4,8% e le vendite al dettaglio solo dello 0,4%, sotto le attese.",
+      "il_senso": "Le aziende asiatiche che fabbricano chip e memorie vivono degli ordini dell'IA: quando il mercato dubita di Nvidia, l'onda arriva subito in Asia.",
+      "fonti": [
+        {
+          "nome": "Euronews",
+          "url": "https://www.euronews.com/2026/11/16/stocks-extend-losses-as-traders-await-nvidia-earnings-and-anthropic-ipo"
+        },
+        {
+          "nome": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"
+        },
+        {
+          "nome": "Reuters via MarketScreener",
+          "url": "https://www.marketscreener.com/news/china-stocks-fall-as-ai-hardware-selloff-weak-data-weigh-ce785edede88ff27"
+        }
+      ]
+    },
+    {
+      "posizione": 3,
+      "titolo": "Martedì i conti di Nvidia, i primi senza Huang: cosa si aspetta il mercato",
+      "riassunto": "Nvidia pubblica i risultati del trimestre martedì 17 dopo la chiusura di Wall Street, e la conferenza con gli analisti sarà guidata dalla CEO ad interim Colette Kress. L'azienda aveva previsto ricavi di circa 108 miliardi di dollari, senza contare i chip per i data center cinesi. Gli analisti si aspettano circa 109 miliardi. Secondo TheStreet, venerdì il titolo valeva circa il 33% in meno rispetto al massimo del 6 ottobre (243,37 dollari).",
+      "il_senso": "Anche dei numeri ottimi potrebbero non bastare: questa volta gli investitori guarderanno soprattutto a cosa dice l'azienda sul futuro e su chi la guiderà.",
+      "fonti": [
+        {
+          "nome": "TheStreet via Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-along-baggage-top-053700154.html"
+        },
+        {
+          "nome": "TradingKey",
+          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262305825-week-ahead-nvidia-q3-earnings-us-october-retail-sales-fomc-minutes-walmart-tradingkey"
+        }
+      ]
+    },
+    {
+      "posizione": 4,
+      "titolo": "Anthropic verso la Borsa: i conti e i fornitori che compreranno azioni",
+      "riassunto": "Il prezzo della quotazione di Anthropic sarà fissato mercoledì 18 e le azioni dovrebbero debuttare al Nasdaq giovedì 19 con il simbolo ANT. Secondo Yahoo Finance l'offerta è di 825 milioni di azioni tra 70 e 78 dollari, per una valutazione di circa 1.400 miliardi. Nei primi nove mesi del 2026 Anthropic ha avuto ricavi per 33,2 miliardi e una perdita operativa di 1,3 miliardi. Inoltre sette fornitori, tra cui Nvidia, Microsoft, Google e TSMC, compreranno circa 26 miliardi di azioni senza diritto di voto. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "il_senso": "I fornitori di chip e cloud diventano anche azionisti del loro cliente: un intreccio che lega i destini di tutta la filiera dell'IA.",
+      "fonti": [
+        {
+          "nome": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/technology/ai/article/anthropic-ipo-what-we-know-143321078.html"
+        }
+      ]
+    },
+    {
+      "posizione": 5,
+      "titolo": "Il Giappone torna in contrazione e il rame scende con i titoli dell'IA",
+      "riassunto": "Secondo Reuters, ripreso da ABC, nel terzo trimestre il PIL del Giappone è calato dello 0,1% annualizzato, contro una crescita attesa dello 0,3%, con i consumi privati in calo. Sempre secondo Reuters, Goldman Sachs collega il calo del rame, ai minimi da quasi quattro mesi a Londra, alle vendite sui titoli dell'IA, perché i data center sono grandi consumatori di questo metallo.",
+      "il_senso": "L'IA non è più solo un tema di Borsa tecnologica: il suo andamento si riflette ormai anche sulle materie prime e sull'umore dell'economia globale.",
+      "fonti": [
+        {
+          "nome": "ABC News (Australia)",
+          "url": "https://www.abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"
+        }
+      ]
+    }
+  ],
+  "approfondimenti": [
+    {
+      "titolo": "For companies, rehiring a founder can be enticing, but the results are usually worse",
+      "testata": "NPR (ripreso da KUOW), novembre 2023",
+      "url": "https://www.kuow.org/stories/for-companies-rehiring-a-founder-can-be-enticing-but-the-results-are-usually-worse",
+      "perche_e_importante": "Scritto durante il caso Altman in OpenAI, racconta uno studio su 167 amministratori delegati \"di ritorno\" nelle aziende dell'indice S&P 1500 in 25 anni: in media le loro aziende hanno fatto peggio in Borsa di oltre il 10% all'anno rispetto a quelle guidate da CEO nuovi. Spiega perché succede: il mondo cambia mentre sono via e i fondatori non sempre sanno gestire un'azienda diventata enorme.",
+      "la_mia_lettura": "È la lettura più utile per la notizia di oggi su Huang. Il caso di Steve Jobs nel 1997 è l'eccezione che tutti ricordano, ma i numeri dicono che è raro: secondo me il board di Nvidia dovrebbe tenerne conto prima di cedere alla nostalgia."
+    },
+    {
+      "titolo": "Boomerang CEOs don't always work out; Disney hopes this one bucks trend",
+      "testata": "Reuters (ripreso da The Globe and Mail), novembre 2022",
+      "url": "https://www.theglobeandmail.com/business/international-business/article-disney-hopes-to-buck-trend-as-analysts-investors-say-boomerang-ceos/",
+      "perche_e_importante": "Al ritorno di Bob Iger in Disney, Reuters mette in fila casi riusciti e falliti: Xerox crollata del 60% dopo il ritorno di Paul Allaire, Procter & Gamble rimasta indietro rispetto al mercato con Lafley, Starbucks invece cresciuta moltissimo con Schultz. Cita uno studio del MIT Sloan secondo cui i ritorni vanno peggio quando il CEO è un fondatore, il settore cambia in fretta e manca un piano di successione.",
+      "la_mia_lettura": "Nvidia ha tutti e tre i fattori di rischio indicati dallo studio: fondatore, settore velocissimo, nessun successore annunciato. Non vuol dire che un ritorno fallirebbe, ma secondo me la vera domanda per gli investitori è perché non fosse già stato indicato un successore."
+    }
+  ],
+  "da_tenere_d_occhio": "Lunedì 16: conti di Baidu e XPeng. Martedì 17: conti di Nvidia (dopo la chiusura), Home Depot e Disney; vendite al dettaglio USA. Mercoledì 18: conti di Target, Lowe's e Palo Alto Networks; verbali della Fed; prezzo della quotazione di Anthropic. Giovedì 19: conti di Walmart e Alibaba; debutto di Anthropic al Nasdaq. 1-3 dicembre: audizioni su Nvidia al Congresso."
+}
