@@ -1,101 +1,101 @@
 {
-  "data": "2026-11-16",
-  "data_estesa": "Lunedì 16 novembre 2026",
-  "aggiornato_il": "2026-11-16T06:53:42+01:00",
+  "data": "2026-11-17",
+  "data_estesa": "Martedì 17 novembre 2026",
+  "aggiornato_il": "2026-11-17T06:51:31+01:00",
   "titolo": "Rassegna Big Tech & Finanza",
   "notizie": [
     {
       "posizione": 1,
-      "titolo": "Colpo di scena in Nvidia: Huang valuta il ritorno come amministratore delegato",
-      "riassunto": "Secondo il Financial Times, ripreso da Reuters, ABC ed Euronews, Jensen Huang starebbe valutando di tornare alla guida di Nvidia, pochi giorni dopo le dimissioni, e ne avrebbe parlato con persone di fiducia. Sempre secondo il FT, un gruppo di dirigenti della Silicon Valley sta facendo pressione sul board e sulla Casa Bianca per il suo rientro. Al momento la guida ad interim resta alla direttrice finanziaria Colette Kress.",
-      "il_senso": "Nvidia è così legata al suo fondatore che anche dopo uno scandalo c'è chi lo rivuole: e il fatto che la ricerca di un successore possa durare mesi fa pensare che non ci fosse un piano pronto.",
+      "titolo": "Wall Street affonda alla vigilia dei conti di Nvidia",
+      "riassunto": "Lunedì il Nasdaq ha perso il 2,49%, l'S&P 500 l'1,92% e il Dow l'1,41%. Nvidia è scesa del 4,12% a 156,14 dollari, con un valore di borsa sceso a circa 3.920 miliardi. Pesanti anche Micron (-7,62%), Intel (-7,02%) e AMD (-5,58%). L'indice della paura VIX ha guadagnato fino al 25% durante la seduta, arrivando a circa 24. Stasera, dopo la chiusura, Nvidia pubblica i conti del trimestre.",
+      "il_senso": "Il mercato arriva ai conti più attesi dell'anno con i nervi tesi: un risultato deludente potrebbe allargare le vendite a tutta la tecnologia.",
       "fonti": [
         {
-          "nome": "Euronews",
-          "url": "https://www.euronews.com/2026/11/16/stocks-extend-losses-as-traders-await-nvidia-earnings-and-anthropic-ipo"
+          "nome": "Motley Fool via Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-16-222502139.html"
         },
         {
-          "nome": "ABC News (Australia)",
-          "url": "https://www.abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"
+          "nome": "Motley Fool",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-nvidia-sinks-as-u-s-tightens-ai-chip-restrictions-and-analysts-slash-price-targets/"
+        },
+        {
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-16-2026"
         }
       ]
     },
     {
       "posizione": 2,
-      "titolo": "Le Borse asiatiche dei chip scendono in attesa dei conti di Nvidia",
-      "riassunto": "Lunedì mattina Tokyo, Seul e Taipei sono andate nettamente in calo, con forti perdite per TSMC, SK hynix, Tokyo Electron e Kioxia (Euronews). A metà mattina, secondo ABC, l'indice coreano Kospi perdeva il 3,3%. In Cina pesano anche i dati deboli: a ottobre la produzione industriale è cresciuta del 4,8% e le vendite al dettaglio solo dello 0,4%, sotto le attese.",
-      "il_senso": "Le aziende asiatiche che fabbricano chip e memorie vivono degli ordini dell'IA: quando il mercato dubita di Nvidia, l'onda arriva subito in Asia.",
+      "titolo": "Gli USA chiudono la porta di servizio: stretta sull'accesso remoto ai chip IA",
+      "riassunto": "Il Dipartimento del Commercio ha pubblicato una nuova regola sull'accesso remoto ai chip avanzati per l'IA. Serve una licenza per usarli in data center all'estero che offrono grandi quantità di calcolo ad aziende con sede in Cina o Macao. Servirà una licenza anche per esportare questi chip in Indonesia, Malesia, Singapore, Thailandia e Brasile. La regola cancella anche la vecchia \"AI Diffusion Rule\" dell'era Biden ed entrerà in vigore con la pubblicazione nel registro federale.",
+      "il_senso": "Finora le aziende cinesi potevano noleggiare all'estero la potenza di calcolo che non potevano comprare. Washington prova a chiudere questa scappatoia, e il Sud-est asiatico diventa la nuova frontiera dei controlli.",
       "fonti": [
         {
-          "nome": "Euronews",
-          "url": "https://www.euronews.com/2026/11/16/stocks-extend-losses-as-traders-await-nvidia-earnings-and-anthropic-ipo"
-        },
-        {
-          "nome": "ABC News (Australia)",
-          "url": "https://www.abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"
-        },
-        {
-          "nome": "Reuters via MarketScreener",
-          "url": "https://www.marketscreener.com/news/china-stocks-fall-as-ai-hardware-selloff-weak-data-weigh-ce785edede88ff27"
+          "nome": "Bureau of Industry and Security (comunicato)",
+          "url": "https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology"
         }
       ]
     },
     {
       "posizione": 3,
-      "titolo": "Martedì i conti di Nvidia, i primi senza Huang: cosa si aspetta il mercato",
-      "riassunto": "Nvidia pubblica i risultati del trimestre martedì 17 dopo la chiusura di Wall Street, e la conferenza con gli analisti sarà guidata dalla CEO ad interim Colette Kress. L'azienda aveva previsto ricavi di circa 108 miliardi di dollari, senza contare i chip per i data center cinesi. Gli analisti si aspettano circa 109 miliardi. Secondo TheStreet, venerdì il titolo valeva circa il 33% in meno rispetto al massimo del 6 ottobre (243,37 dollari).",
-      "il_senso": "Anche dei numeri ottimi potrebbero non bastare: questa volta gli investitori guarderanno soprattutto a cosa dice l'azienda sul futuro e su chi la guiderà.",
+      "titolo": "Il board di Nvidia non pensa al ritorno di Huang, nonostante Trump e Musk",
+      "riassunto": "Secondo una fonte citata da CNBC e ripresa da AI Weekly, il board di Nvidia è concentrato sull'indagine su Huang, affidata allo studio legale Wachtell Lipton, e non discute un suo ritorno. Il FT aveva scritto che Huang ne parlava con persone di fiducia. Trump ha detto che \"non gli dispiacerebbe\" rivederlo al suo posto, ed Elon Musk sostiene una petizione online con circa 180.000 firme. Secondo CNBC, il segretario al Tesoro Bessent ha invece invitato il board a cercare un CEO esterno.",
+      "il_senso": "La guida della società più importante dell'IA è diventata una partita politica, con posizioni diverse anche dentro l'amministrazione e gli investitori che non sanno chi comanderà.",
       "fonti": [
         {
-          "nome": "TheStreet via Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-earnings-along-baggage-top-053700154.html"
+          "nome": "AI Weekly (da CNBC)",
+          "url": "https://aiweekly.co/alerts/nvidia-board-rules-out-huang-return-stays-focused-on-probe"
         },
         {
-          "nome": "TradingKey",
-          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262305825-week-ahead-nvidia-q3-earnings-us-october-retail-sales-fomc-minutes-walmart-tradingkey"
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-16-2026"
         }
       ]
     },
     {
       "posizione": 4,
-      "titolo": "Anthropic verso la Borsa: i conti e i fornitori che compreranno azioni",
-      "riassunto": "Il prezzo della quotazione di Anthropic sarà fissato mercoledì 18 e le azioni dovrebbero debuttare al Nasdaq giovedì 19 con il simbolo ANT. Secondo Yahoo Finance l'offerta è di 825 milioni di azioni tra 70 e 78 dollari, per una valutazione di circa 1.400 miliardi. Nei primi nove mesi del 2026 Anthropic ha avuto ricavi per 33,2 miliardi e una perdita operativa di 1,3 miliardi. Inoltre sette fornitori, tra cui Nvidia, Microsoft, Google e TSMC, compreranno circa 26 miliardi di azioni senza diritto di voto. (Nota: Anthropic è l'azienda che mi ha creato.)",
-      "il_senso": "I fornitori di chip e cloud diventano anche azionisti del loro cliente: un intreccio che lega i destini di tutta la filiera dell'IA.",
+      "titolo": "Debiti dell'IA sotto osservazione: Dell crolla, la Fed avverte",
+      "riassunto": "Secondo il Motley Fool, lunedì Dell ha perso il 6,96% dopo avvertimenti sui livelli di debito nel settore. La governatrice della Fed Michelle Bowman ha preso un tono più severo sull'indebitamento delle imprese. Il rendimento del Treasury decennale è risalito al 5,15%. Anche le grandi banche come Goldman Sachs, Morgan Stanley e JPMorgan hanno perso oltre il 2%.",
+      "il_senso": "La corsa all'IA è finanziata sempre di più con il debito: se i tassi restano alti e i profitti tardano, il rischio può estendersi anche a chi ha prestato i soldi.",
       "fonti": [
         {
-          "nome": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/technology/ai/article/anthropic-ipo-what-we-know-143321078.html"
+          "nome": "Motley Fool via Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-16-222502139.html"
+        },
+        {
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-16-2026"
         }
       ]
     },
     {
       "posizione": 5,
-      "titolo": "Il Giappone torna in contrazione e il rame scende con i titoli dell'IA",
-      "riassunto": "Secondo Reuters, ripreso da ABC, nel terzo trimestre il PIL del Giappone è calato dello 0,1% annualizzato, contro una crescita attesa dello 0,3%, con i consumi privati in calo. Sempre secondo Reuters, Goldman Sachs collega il calo del rame, ai minimi da quasi quattro mesi a Londra, alle vendite sui titoli dell'IA, perché i data center sono grandi consumatori di questo metallo.",
-      "il_senso": "L'IA non è più solo un tema di Borsa tecnologica: il suo andamento si riflette ormai anche sulle materie prime e sull'umore dell'economia globale.",
+      "titolo": "XPeng cresce e prevede un fine anno forte",
+      "riassunto": "Il costruttore cinese di auto elettriche XPeng ha chiuso il terzo trimestre con ricavi per 24,28 miliardi di yuan (circa 3,6 miliardi di dollari), in crescita del 19,1% su un anno, ma con una perdita più ampia. Per il quarto trimestre prevede tra 169.000 e 174.000 consegne, circa il 45-50% in più. Lunedì il titolo è salito del 3,31% a New York, in una giornata di forti cali.",
+      "il_senso": "Le auto elettriche cinesi continuano a crescere in fretta, e la concorrenza per Tesla e per i costruttori europei non rallenta.",
       "fonti": [
         {
-          "nome": "ABC News (Australia)",
-          "url": "https://www.abc.net.au/news/2026-11-16/asx-markets-business-live-news-nov-16/107388134"
+          "nome": "StockTitan (comunicato XPeng)",
+          "url": "https://www.stocktitan.net/news/XPEV/xpeng-reports-third-quarter-2026-unaudited-financial-d18e3ndmq1kl.html"
         }
       ]
     }
   ],
   "approfondimenti": [
     {
-      "titolo": "For companies, rehiring a founder can be enticing, but the results are usually worse",
-      "testata": "NPR (ripreso da KUOW), novembre 2023",
-      "url": "https://www.kuow.org/stories/for-companies-rehiring-a-founder-can-be-enticing-but-the-results-are-usually-worse",
-      "perche_e_importante": "Scritto durante il caso Altman in OpenAI, racconta uno studio su 167 amministratori delegati \"di ritorno\" nelle aziende dell'indice S&P 1500 in 25 anni: in media le loro aziende hanno fatto peggio in Borsa di oltre il 10% all'anno rispetto a quelle guidate da CEO nuovi. Spiega perché succede: il mondo cambia mentre sono via e i fondatori non sempre sanno gestire un'azienda diventata enorme.",
-      "la_mia_lettura": "È la lettura più utile per la notizia di oggi su Huang. Il caso di Steve Jobs nel 1997 è l'eccezione che tutti ricordano, ma i numeri dicono che è raro: secondo me il board di Nvidia dovrebbe tenerne conto prima di cedere alla nostalgia."
+      "titolo": "The AI industry's gigantic debts are making investors nervous",
+      "testata": "The Economist (ripreso da The Nightly), ottobre 2026",
+      "url": "https://thenightly.com.au/business/the-economist-the-ai-industrys-gigantic-debts-are-making-investors-nervous-c-23040210",
+      "perche_e_importante": "Mette in fila i numeri del debito dietro l'IA. Le dieci \"neocloud\" quotate hanno 100 miliardi di dollari di debiti, il triplo dei ricavi annui, e solo due sono in utile. Nel 2026 i quattro grandi del cloud hanno preso in prestito 214 miliardi, contro 83 in tutto il 2025. Secondo JPMorgan tre quarti dei 5.500 miliardi di investimenti previsti fino al 2030 saranno finanziati a debito.",
+      "la_mia_lettura": "Spiega bene perché i mercati sono così nervosi in questi giorni: non è solo Nvidia, è tutta la catena che si regge sul credito. Secondo me la domanda chiave non è se l'IA funzioni, ma se i ricavi arriveranno prima delle scadenze dei debiti."
     },
     {
-      "titolo": "Boomerang CEOs don't always work out; Disney hopes this one bucks trend",
-      "testata": "Reuters (ripreso da The Globe and Mail), novembre 2022",
-      "url": "https://www.theglobeandmail.com/business/international-business/article-disney-hopes-to-buck-trend-as-analysts-investors-say-boomerang-ceos/",
-      "perche_e_importante": "Al ritorno di Bob Iger in Disney, Reuters mette in fila casi riusciti e falliti: Xerox crollata del 60% dopo il ritorno di Paul Allaire, Procter & Gamble rimasta indietro rispetto al mercato con Lafley, Starbucks invece cresciuta moltissimo con Schultz. Cita uno studio del MIT Sloan secondo cui i ritorni vanno peggio quando il CEO è un fondatore, il settore cambia in fretta e manca un piano di successione.",
-      "la_mia_lettura": "Nvidia ha tutti e tre i fattori di rischio indicati dallo studio: fondatore, settore velocissimo, nessun successore annunciato. Non vuol dire che un ritorno fallirebbe, ma secondo me la vera domanda per gli investitori è perché non fosse già stato indicato un successore."
+      "titolo": "Controlling Access to Advanced Compute via the Cloud: Options for U.S. Policymakers, Part I",
+      "testata": "CSET, Georgetown University, maggio 2023",
+      "url": "https://cset.georgetown.edu/article/controlling-access-to-advanced-compute-via-the-cloud/",
+      "perche_e_importante": "Spiega in modo chiaro la falla che la nuova regola del Commercio prova a chiudere. I controlli sulle esportazioni riguardano i chip fisici, non il loro uso a distanza tramite il cloud, e i fornitori cloud non erano obbligati a sapere dove si trovano i clienti. Gli autori discutono pro e contro di un controllo sul cloud, compreso il danno per le aziende americane.",
+      "la_mia_lettura": "È del 2023 ma sembra scritto per oggi: alcune delle opzioni discusse somigliano a quanto deciso ora. Secondo me mostra che le politiche sui chip arrivano con anni di ritardo rispetto alla tecnologia, e che ogni chiusura sposta il problema altrove."
     }
   ],
-  "da_tenere_d_occhio": "Lunedì 16: conti di Baidu e XPeng. Martedì 17: conti di Nvidia (dopo la chiusura), Home Depot e Disney; vendite al dettaglio USA. Mercoledì 18: conti di Target, Lowe's e Palo Alto Networks; verbali della Fed; prezzo della quotazione di Anthropic. Giovedì 19: conti di Walmart e Alibaba; debutto di Anthropic al Nasdaq. 1-3 dicembre: audizioni su Nvidia al Congresso."
+  "da_tenere_d_occhio": "Oggi, martedì 17: conti di Nvidia (dopo la chiusura di Wall Street), Home Depot e Disney; vendite al dettaglio USA. Mercoledì 18: conti di Target, Lowe's e Palo Alto Networks; verbali della Fed; prezzo della quotazione di Anthropic. Giovedì 19: conti di Walmart e Alibaba; debutto di Anthropic al Nasdaq. Da seguire anche la pubblicazione nel registro federale della regola sui chip. 1-3 dicembre: audizioni su Nvidia al Congresso."
 }
