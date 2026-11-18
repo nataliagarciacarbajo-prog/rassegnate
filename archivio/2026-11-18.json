@@ -1,0 +1,93 @@
+{
+  "data": "2026-11-18",
+  "data_estesa": "Mercoledì 18 novembre 2026",
+  "aggiornato_il": "2026-11-18T06:51:50+01:00",
+  "titolo": "Rassegna Big Tech & Finanza",
+  "notizie": [
+    {
+      "posizione": 1,
+      "titolo": "Nvidia batte le attese: ricavi a 115,8 miliardi e previsioni a 130",
+      "riassunto": "Nel primo trimestre senza Huang, Nvidia ha registrato ricavi per 115,8 miliardi di dollari, il 103% in più su un anno, contro i circa 109 attesi. I data center valgono 107,6 miliardi. L'utile per azione rettificato è di 2,68 dollari, contro i 2,47 previsti. Per il prossimo trimestre l'azienda prevede ricavi di 130 miliardi (più o meno il 3%), senza contare la Cina, ma con margini in calo al 71-72%. Dopo la chiusura il titolo è salito fino a circa il 4%.",
+      "il_senso": "La domanda di chip per l'IA resta enorme, scandalo o no. Per ora i numeri rassicurano il mercato, anche se i margini in calo potrebbero indicare costi più alti per i nuovi chip.",
+      "fonti": [
+        {
+          "nome": "Comunicato Nvidia (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/17/3405200/0/en/nvidia-announces-financial-results-for-third-quarter-fiscal-2027.html"
+        },
+        {
+          "nome": "TradingKey",
+          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262309793-nvidia-earnings-report-q3-rubin-ramp-data-center-growth-revenue-guidance-gross-margin-tradingkey"
+        }
+      ]
+    },
+    {
+      "posizione": 2,
+      "titolo": "Il board di Nvidia chiude la porta a Huang, stop alle vendite in Cina",
+      "riassunto": "Secondo Yahoo Finance, il board di Nvidia ha fatto sapere di non voler reintegrare Jensen Huang come amministratore delegato e prosegue la ricerca di un successore. In conferenza con gli analisti, la CEO ad interim Colette Kress ha spiegato che le vendite in Cina dei chip Hopper (2,4 miliardi nel trimestre) si sono fermate. Nvidia ha anche 227 miliardi ancora disponibili per riacquistare azioni proprie.",
+      "il_senso": "Si chiude, almeno per ora, l'ipotesi del ritorno del fondatore. E la Cina, un tempo grande mercato, esce dai conti di Nvidia.",
+      "fonti": [
+        {
+          "nome": "Yahoo Finance (live)",
+          "url": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html"
+        },
+        {
+          "nome": "Comunicato Nvidia (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/17/3405200/0/en/nvidia-announces-financial-results-for-third-quarter-fiscal-2027.html"
+        }
+      ]
+    },
+    {
+      "posizione": 3,
+      "titolo": "Prima dei conti, Wall Street aveva chiuso ai minimi da luglio",
+      "riassunto": "Martedì, prima dei risultati di Nvidia, il Dow Jones ha perso l'1,64% e il Nasdaq lo 0,74%, mentre l'S&P 500 ha chiuso ai livelli più bassi da fine luglio. Le vendite al dettaglio USA di ottobre sono salite solo dello 0,2% e la produzione industriale è scesa dello 0,4%. Oggi si saprà se il rimbalzo di Nvidia dopo la chiusura reggerà anche in seduta.",
+      "il_senso": "L'economia americana mostra segni di rallentamento proprio mentre i tassi sono alti: per questo i mercati restano fragili anche con buone notizie dalla tecnologia.",
+      "fonti": [
+        {
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-17-2026"
+        }
+      ]
+    },
+    {
+      "posizione": 4,
+      "titolo": "Disney cresce del 16% e alza il dividendo di un terzo",
+      "riassunto": "Disney ha chiuso l'ultimo trimestre fiscale con ricavi per 25,9 miliardi di dollari, il 16% in più, e un utile per azione rettificato di 1,77 dollari, contro 1,11 un anno prima. Ha alzato il dividendo del 33%, da 1,50 a 2 dollari. Nonostante i conti, il titolo ha chiuso in calo dell'1,48% in una giornata negativa per tutto il mercato.",
+      "il_senso": "Il gigante dell'intrattenimento sembra aver trovato una formula redditizia tra parchi, cinema e streaming, e lo dimostra restituendo più soldi agli azionisti.",
+      "fonti": [
+        {
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-17-2026"
+        }
+      ]
+    },
+    {
+      "posizione": 5,
+      "titolo": "Home Depot: vendite in crescita e un nuovo CEO dal 23 novembre",
+      "riassunto": "La catena americana di fai-da-te Home Depot ha registrato vendite per 43,4 miliardi di dollari nel trimestre, il 4,9% in più, e prevede una crescita di circa il 4,5% sull'anno. Dal 23 novembre il nuovo amministratore delegato sarà McPhail. Il titolo ha perso il 2,45%.",
+      "il_senso": "Home Depot è un termometro della casa e dei consumi americani: una crescita moderata conferma un'economia che rallenta ma non si ferma.",
+      "fonti": [
+        {
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-17-2026"
+        }
+      ]
+    }
+  ],
+  "approfondimenti": [
+    {
+      "titolo": "Analysis: Nvidia's US$750B Deals Spark AI Circular Financing Fears",
+      "testata": "TaiwanPlus, luglio 2026",
+      "url": "https://www.taiwanplus.com/news/taiwan-news/business/260728020/analysis-nvidias-us750b-deals-spark-ai-circular-financing-fears",
+      "perche_e_importante": "In un'intervista, l'analista Rolf Bulk del Futurum Group spiega cosa si intende per \"finanziamento circolare\": Nvidia aiuta, direttamente o con garanzie come quelle per OpenAI, i clienti che comprano i suoi stessi chip. Il rischio è che, se quei chip non rendono abbastanza, Nvidia resti esposta. Bulk però vede ancora una domanda superiore all'offerta e non è preoccupato nel breve periodo. Aiuta a leggere i conti record di oggi con un po' di distanza.",
+      "la_mia_lettura": "Numeri come quelli di ieri sono reali, ma una parte della domanda potrebbe essere sostenuta dagli stessi fornitori. Secondo me la vera prova arriverà quando i clienti dovranno pagare i chip con i ricavi dell'IA, non con nuovi prestiti o investimenti incrociati."
+    },
+    {
+      "titolo": "How the Streamers Stack Up in Subscribers, Revenue and Profits",
+      "testata": "TheWrap, maggio 2026",
+      "url": "https://www.thewrap.com/industry-news/business/netflix-disney-warner-bros-discovery-paramount-peacock-subscribers-revenue-profit-may-2026-update",
+      "perche_e_importante": "Una fotografia chiara dello streaming con abbonati, ricavi e profitti di Netflix, Disney, Warner Bros. Discovery, Paramount e Peacock. Netflix guida con 325 milioni di abbonati e 5,28 miliardi di profitto nel trimestre. Disney+ e Hulu sono ormai in utile, Peacock è ancora in perdita. Utile per capire i conti di Disney di ieri.",
+      "la_mia_lettura": "Dopo anni di perdite, lo streaming è diventato un business vero, ma solo per chi è molto grande. Secondo me le fusioni, come quella proposta tra Paramount e Warner, dicono che il mercato andrà verso pochi giganti."
+    }
+  ],
+  "da_tenere_d_occhio": "Oggi, mercoledì 18: prezzo della quotazione di Anthropic (dopo la chiusura), verbali della Fed, conti di Target, Lowe's e Palo Alto Networks. Giovedì 19: debutto di Anthropic al Nasdaq con il simbolo ANT, conti di Walmart e Alibaba. 1-3 dicembre: audizioni su Nvidia al Congresso."
+}

@@ -1,101 +1,93 @@
 {
-  "data": "2026-11-17",
-  "data_estesa": "Martedì 17 novembre 2026",
-  "aggiornato_il": "2026-11-17T06:51:31+01:00",
+  "data": "2026-11-18",
+  "data_estesa": "Mercoledì 18 novembre 2026",
+  "aggiornato_il": "2026-11-18T06:51:50+01:00",
   "titolo": "Rassegna Big Tech & Finanza",
   "notizie": [
     {
       "posizione": 1,
-      "titolo": "Wall Street affonda alla vigilia dei conti di Nvidia",
-      "riassunto": "Lunedì il Nasdaq ha perso il 2,49%, l'S&P 500 l'1,92% e il Dow l'1,41%. Nvidia è scesa del 4,12% a 156,14 dollari, con un valore di borsa sceso a circa 3.920 miliardi. Pesanti anche Micron (-7,62%), Intel (-7,02%) e AMD (-5,58%). L'indice della paura VIX ha guadagnato fino al 25% durante la seduta, arrivando a circa 24. Stasera, dopo la chiusura, Nvidia pubblica i conti del trimestre.",
-      "il_senso": "Il mercato arriva ai conti più attesi dell'anno con i nervi tesi: un risultato deludente potrebbe allargare le vendite a tutta la tecnologia.",
+      "titolo": "Nvidia batte le attese: ricavi a 115,8 miliardi e previsioni a 130",
+      "riassunto": "Nel primo trimestre senza Huang, Nvidia ha registrato ricavi per 115,8 miliardi di dollari, il 103% in più su un anno, contro i circa 109 attesi. I data center valgono 107,6 miliardi. L'utile per azione rettificato è di 2,68 dollari, contro i 2,47 previsti. Per il prossimo trimestre l'azienda prevede ricavi di 130 miliardi (più o meno il 3%), senza contare la Cina, ma con margini in calo al 71-72%. Dopo la chiusura il titolo è salito fino a circa il 4%.",
+      "il_senso": "La domanda di chip per l'IA resta enorme, scandalo o no. Per ora i numeri rassicurano il mercato, anche se i margini in calo potrebbero indicare costi più alti per i nuovi chip.",
       "fonti": [
         {
-          "nome": "Motley Fool via Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-16-222502139.html"
+          "nome": "Comunicato Nvidia (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/17/3405200/0/en/nvidia-announces-financial-results-for-third-quarter-fiscal-2027.html"
         },
         {
-          "nome": "Motley Fool",
-          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/16/stock-market-today-nov-16-nvidia-sinks-as-u-s-tightens-ai-chip-restrictions-and-analysts-slash-price-targets/"
-        },
-        {
-          "nome": "StockTitan",
-          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-16-2026"
+          "nome": "TradingKey",
+          "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262309793-nvidia-earnings-report-q3-rubin-ramp-data-center-growth-revenue-guidance-gross-margin-tradingkey"
         }
       ]
     },
     {
       "posizione": 2,
-      "titolo": "Gli USA chiudono la porta di servizio: stretta sull'accesso remoto ai chip IA",
-      "riassunto": "Il Dipartimento del Commercio ha pubblicato una nuova regola sull'accesso remoto ai chip avanzati per l'IA. Serve una licenza per usarli in data center all'estero che offrono grandi quantità di calcolo ad aziende con sede in Cina o Macao. Servirà una licenza anche per esportare questi chip in Indonesia, Malesia, Singapore, Thailandia e Brasile. La regola cancella anche la vecchia \"AI Diffusion Rule\" dell'era Biden ed entrerà in vigore con la pubblicazione nel registro federale.",
-      "il_senso": "Finora le aziende cinesi potevano noleggiare all'estero la potenza di calcolo che non potevano comprare. Washington prova a chiudere questa scappatoia, e il Sud-est asiatico diventa la nuova frontiera dei controlli.",
+      "titolo": "Il board di Nvidia chiude la porta a Huang, stop alle vendite in Cina",
+      "riassunto": "Secondo Yahoo Finance, il board di Nvidia ha fatto sapere di non voler reintegrare Jensen Huang come amministratore delegato e prosegue la ricerca di un successore. In conferenza con gli analisti, la CEO ad interim Colette Kress ha spiegato che le vendite in Cina dei chip Hopper (2,4 miliardi nel trimestre) si sono fermate. Nvidia ha anche 227 miliardi ancora disponibili per riacquistare azioni proprie.",
+      "il_senso": "Si chiude, almeno per ora, l'ipotesi del ritorno del fondatore. E la Cina, un tempo grande mercato, esce dai conti di Nvidia.",
       "fonti": [
         {
-          "nome": "Bureau of Industry and Security (comunicato)",
-          "url": "https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology"
+          "nome": "Yahoo Finance (live)",
+          "url": "https://finance.yahoo.com/technology/live/nvidia-earnings-live-nvidia-posts-q3-beat-board-says-it-will-not-reinstate-jensen-huang-as-ceo-221428433.html"
+        },
+        {
+          "nome": "Comunicato Nvidia (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/17/3405200/0/en/nvidia-announces-financial-results-for-third-quarter-fiscal-2027.html"
         }
       ]
     },
     {
       "posizione": 3,
-      "titolo": "Il board di Nvidia non pensa al ritorno di Huang, nonostante Trump e Musk",
-      "riassunto": "Secondo una fonte citata da CNBC e ripresa da AI Weekly, il board di Nvidia è concentrato sull'indagine su Huang, affidata allo studio legale Wachtell Lipton, e non discute un suo ritorno. Il FT aveva scritto che Huang ne parlava con persone di fiducia. Trump ha detto che \"non gli dispiacerebbe\" rivederlo al suo posto, ed Elon Musk sostiene una petizione online con circa 180.000 firme. Secondo CNBC, il segretario al Tesoro Bessent ha invece invitato il board a cercare un CEO esterno.",
-      "il_senso": "La guida della società più importante dell'IA è diventata una partita politica, con posizioni diverse anche dentro l'amministrazione e gli investitori che non sanno chi comanderà.",
+      "titolo": "Prima dei conti, Wall Street aveva chiuso ai minimi da luglio",
+      "riassunto": "Martedì, prima dei risultati di Nvidia, il Dow Jones ha perso l'1,64% e il Nasdaq lo 0,74%, mentre l'S&P 500 ha chiuso ai livelli più bassi da fine luglio. Le vendite al dettaglio USA di ottobre sono salite solo dello 0,2% e la produzione industriale è scesa dello 0,4%. Oggi si saprà se il rimbalzo di Nvidia dopo la chiusura reggerà anche in seduta.",
+      "il_senso": "L'economia americana mostra segni di rallentamento proprio mentre i tassi sono alti: per questo i mercati restano fragili anche con buone notizie dalla tecnologia.",
       "fonti": [
         {
-          "nome": "AI Weekly (da CNBC)",
-          "url": "https://aiweekly.co/alerts/nvidia-board-rules-out-huang-return-stays-focused-on-probe"
-        },
-        {
           "nome": "StockTitan",
-          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-16-2026"
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-17-2026"
         }
       ]
     },
     {
       "posizione": 4,
-      "titolo": "Debiti dell'IA sotto osservazione: Dell crolla, la Fed avverte",
-      "riassunto": "Secondo il Motley Fool, lunedì Dell ha perso il 6,96% dopo avvertimenti sui livelli di debito nel settore. La governatrice della Fed Michelle Bowman ha preso un tono più severo sull'indebitamento delle imprese. Il rendimento del Treasury decennale è risalito al 5,15%. Anche le grandi banche come Goldman Sachs, Morgan Stanley e JPMorgan hanno perso oltre il 2%.",
-      "il_senso": "La corsa all'IA è finanziata sempre di più con il debito: se i tassi restano alti e i profitti tardano, il rischio può estendersi anche a chi ha prestato i soldi.",
+      "titolo": "Disney cresce del 16% e alza il dividendo di un terzo",
+      "riassunto": "Disney ha chiuso l'ultimo trimestre fiscale con ricavi per 25,9 miliardi di dollari, il 16% in più, e un utile per azione rettificato di 1,77 dollari, contro 1,11 un anno prima. Ha alzato il dividendo del 33%, da 1,50 a 2 dollari. Nonostante i conti, il titolo ha chiuso in calo dell'1,48% in una giornata negativa per tutto il mercato.",
+      "il_senso": "Il gigante dell'intrattenimento sembra aver trovato una formula redditizia tra parchi, cinema e streaming, e lo dimostra restituendo più soldi agli azionisti.",
       "fonti": [
         {
-          "nome": "Motley Fool via Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-16-222502139.html"
-        },
-        {
           "nome": "StockTitan",
-          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-16-2026"
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-17-2026"
         }
       ]
     },
     {
       "posizione": 5,
-      "titolo": "XPeng cresce e prevede un fine anno forte",
-      "riassunto": "Il costruttore cinese di auto elettriche XPeng ha chiuso il terzo trimestre con ricavi per 24,28 miliardi di yuan (circa 3,6 miliardi di dollari), in crescita del 19,1% su un anno, ma con una perdita più ampia. Per il quarto trimestre prevede tra 169.000 e 174.000 consegne, circa il 45-50% in più. Lunedì il titolo è salito del 3,31% a New York, in una giornata di forti cali.",
-      "il_senso": "Le auto elettriche cinesi continuano a crescere in fretta, e la concorrenza per Tesla e per i costruttori europei non rallenta.",
+      "titolo": "Home Depot: vendite in crescita e un nuovo CEO dal 23 novembre",
+      "riassunto": "La catena americana di fai-da-te Home Depot ha registrato vendite per 43,4 miliardi di dollari nel trimestre, il 4,9% in più, e prevede una crescita di circa il 4,5% sull'anno. Dal 23 novembre il nuovo amministratore delegato sarà McPhail. Il titolo ha perso il 2,45%.",
+      "il_senso": "Home Depot è un termometro della casa e dei consumi americani: una crescita moderata conferma un'economia che rallenta ma non si ferma.",
       "fonti": [
         {
-          "nome": "StockTitan (comunicato XPeng)",
-          "url": "https://www.stocktitan.net/news/XPEV/xpeng-reports-third-quarter-2026-unaudited-financial-d18e3ndmq1kl.html"
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-17-2026"
         }
       ]
     }
   ],
   "approfondimenti": [
     {
-      "titolo": "The AI industry's gigantic debts are making investors nervous",
-      "testata": "The Economist (ripreso da The Nightly), ottobre 2026",
-      "url": "https://thenightly.com.au/business/the-economist-the-ai-industrys-gigantic-debts-are-making-investors-nervous-c-23040210",
-      "perche_e_importante": "Mette in fila i numeri del debito dietro l'IA. Le dieci \"neocloud\" quotate hanno 100 miliardi di dollari di debiti, il triplo dei ricavi annui, e solo due sono in utile. Nel 2026 i quattro grandi del cloud hanno preso in prestito 214 miliardi, contro 83 in tutto il 2025. Secondo JPMorgan tre quarti dei 5.500 miliardi di investimenti previsti fino al 2030 saranno finanziati a debito.",
-      "la_mia_lettura": "Spiega bene perché i mercati sono così nervosi in questi giorni: non è solo Nvidia, è tutta la catena che si regge sul credito. Secondo me la domanda chiave non è se l'IA funzioni, ma se i ricavi arriveranno prima delle scadenze dei debiti."
+      "titolo": "Analysis: Nvidia's US$750B Deals Spark AI Circular Financing Fears",
+      "testata": "TaiwanPlus, luglio 2026",
+      "url": "https://www.taiwanplus.com/news/taiwan-news/business/260728020/analysis-nvidias-us750b-deals-spark-ai-circular-financing-fears",
+      "perche_e_importante": "In un'intervista, l'analista Rolf Bulk del Futurum Group spiega cosa si intende per \"finanziamento circolare\": Nvidia aiuta, direttamente o con garanzie come quelle per OpenAI, i clienti che comprano i suoi stessi chip. Il rischio è che, se quei chip non rendono abbastanza, Nvidia resti esposta. Bulk però vede ancora una domanda superiore all'offerta e non è preoccupato nel breve periodo. Aiuta a leggere i conti record di oggi con un po' di distanza.",
+      "la_mia_lettura": "Numeri come quelli di ieri sono reali, ma una parte della domanda potrebbe essere sostenuta dagli stessi fornitori. Secondo me la vera prova arriverà quando i clienti dovranno pagare i chip con i ricavi dell'IA, non con nuovi prestiti o investimenti incrociati."
     },
     {
-      "titolo": "Controlling Access to Advanced Compute via the Cloud: Options for U.S. Policymakers, Part I",
-      "testata": "CSET, Georgetown University, maggio 2023",
-      "url": "https://cset.georgetown.edu/article/controlling-access-to-advanced-compute-via-the-cloud/",
-      "perche_e_importante": "Spiega in modo chiaro la falla che la nuova regola del Commercio prova a chiudere. I controlli sulle esportazioni riguardano i chip fisici, non il loro uso a distanza tramite il cloud, e i fornitori cloud non erano obbligati a sapere dove si trovano i clienti. Gli autori discutono pro e contro di un controllo sul cloud, compreso il danno per le aziende americane.",
-      "la_mia_lettura": "È del 2023 ma sembra scritto per oggi: alcune delle opzioni discusse somigliano a quanto deciso ora. Secondo me mostra che le politiche sui chip arrivano con anni di ritardo rispetto alla tecnologia, e che ogni chiusura sposta il problema altrove."
+      "titolo": "How the Streamers Stack Up in Subscribers, Revenue and Profits",
+      "testata": "TheWrap, maggio 2026",
+      "url": "https://www.thewrap.com/industry-news/business/netflix-disney-warner-bros-discovery-paramount-peacock-subscribers-revenue-profit-may-2026-update",
+      "perche_e_importante": "Una fotografia chiara dello streaming con abbonati, ricavi e profitti di Netflix, Disney, Warner Bros. Discovery, Paramount e Peacock. Netflix guida con 325 milioni di abbonati e 5,28 miliardi di profitto nel trimestre. Disney+ e Hulu sono ormai in utile, Peacock è ancora in perdita. Utile per capire i conti di Disney di ieri.",
+      "la_mia_lettura": "Dopo anni di perdite, lo streaming è diventato un business vero, ma solo per chi è molto grande. Secondo me le fusioni, come quella proposta tra Paramount e Warner, dicono che il mercato andrà verso pochi giganti."
     }
   ],
-  "da_tenere_d_occhio": "Oggi, martedì 17: conti di Nvidia (dopo la chiusura di Wall Street), Home Depot e Disney; vendite al dettaglio USA. Mercoledì 18: conti di Target, Lowe's e Palo Alto Networks; verbali della Fed; prezzo della quotazione di Anthropic. Giovedì 19: conti di Walmart e Alibaba; debutto di Anthropic al Nasdaq. Da seguire anche la pubblicazione nel registro federale della regola sui chip. 1-3 dicembre: audizioni su Nvidia al Congresso."
+  "da_tenere_d_occhio": "Oggi, mercoledì 18: prezzo della quotazione di Anthropic (dopo la chiusura), verbali della Fed, conti di Target, Lowe's e Palo Alto Networks. Giovedì 19: debutto di Anthropic al Nasdaq con il simbolo ANT, conti di Walmart e Alibaba. 1-3 dicembre: audizioni su Nvidia al Congresso."
 }
