@@ -1,0 +1,97 @@
+{
+  "data": "2026-11-19",
+  "data_estesa": "Giovedì 19 novembre 2026",
+  "aggiornato_il": "2026-11-19T06:51:52+01:00",
+  "titolo": "Rassegna Big Tech & Finanza",
+  "notizie": [
+    {
+      "posizione": 1,
+      "titolo": "Anthropic fissa il prezzo a 83 dollari: valutazione intorno ai 1.500 miliardi, oggi il debutto",
+      "riassunto": "Anthropic ha fissato il prezzo della sua quotazione a 83 dollari per azione, sopra la forchetta prevista di 70-78 dollari. Secondo TechCrunch e il Motley Fool, la valutazione è di circa 1.500 miliardi di dollari. A questo prezzo le sole 825 milioni di azioni iniziali valgono circa 68,5 miliardi, a cui si aggiungono 26 miliardi da sette fornitori tra cui Nvidia, Microsoft e Google. Secondo il Fool, la raccolta potrebbe rivaleggiare con il record di SpaceX. Le azioni debuttano oggi al Nasdaq con il simbolo ANT. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "il_senso": "Un prezzo sopra le attese, dopo settimane di vendite sui titoli dell'IA, suggerisce che la fiducia nel settore non è finita, ma che si concentra sui nomi più grandi.",
+      "fonti": [
+        {
+          "nome": "TechCrunch",
+          "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/"
+        },
+        {
+          "nome": "Motley Fool",
+          "url": "https://www.fool.com/investing/2026/11/18/it-s-official-anthropic-prices-its-ipo-at-usd83-a-share-here-s-what-we-know-and-what-we-don-t/"
+        }
+      ]
+    },
+    {
+      "posizione": 2,
+      "titolo": "La Fed pronta ad alzare ancora i tassi, il dollaro ai massimi da 19 mesi",
+      "riassunto": "I verbali della riunione di fine ottobre mostrano che quasi tutti i membri della Fed ritengono probabilmente necessari altri rialzi dei tassi, ora al 3,75-4%. Due membri, Cook e Hammack, avrebbero già voluto alzarli di un quarto di punto. Secondo CNBC, ripresa da StockTitan, il governatore Waller ritiene probabile un rialzo di mezzo punto alla riunione dell'8-9 dicembre. Secondo Reuters il dollaro è salito ai massimi da 19 mesi, mentre l'oro è sceso ai minimi da 14 mesi.",
+      "il_senso": "Tassi più alti significano mutui e prestiti più cari per tutti, e rendono più costoso finanziare la corsa all'IA.",
+      "fonti": [
+        {
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
+        },
+        {
+          "nome": "Reuters via Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/trading-day-markets-mixed-nvidia-221528504.html"
+        }
+      ]
+    },
+    {
+      "posizione": 3,
+      "titolo": "Nvidia scende nonostante i conti record",
+      "riassunto": "Il giorno dopo i risultati, Nvidia ha chiuso in calo del 2,89% a 150,96 dollari, dopo essere salita prima dell'apertura. Secondo il Motley Fool hanno pesato l'incertezza sulla successione, i controlli sulla Cina e le nuove restrizioni all'export. AMD invece è salita del 5,31% e Broadcom del 3,65%. Il Nasdaq ha chiuso in rialzo dello 0,42%, mentre l'S&P 500 ha perso lo 0,23%, quinto calo di fila, e il Dow l'1,11%.",
+      "il_senso": "I conti da soli non bastano più: il mercato sembra scontare il rischio politico e di guida che pesa su Nvidia, mentre i concorrenti salgono.",
+      "fonti": [
+        {
+          "nome": "Motley Fool via Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-18-221135469.html"
+        },
+        {
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
+        }
+      ]
+    },
+    {
+      "posizione": 4,
+      "titolo": "Palo Alto Networks cresce del 39% e compra Applied Compute per 4,5 miliardi",
+      "riassunto": "Il gruppo di sicurezza informatica Palo Alto Networks ha registrato ricavi per 3,44 miliardi di dollari nel trimestre, il 39% in più. Ha alzato le previsioni annuali tra 14,52 e 14,57 miliardi. Ha anche annunciato l'acquisto di Applied Compute con un'operazione in azioni da 4,5 miliardi. Dopo la chiusura il titolo è salito di circa il 9%.",
+      "il_senso": "Più l'IA entra nelle aziende, più cresce il bisogno di difendersi da attacchi informatici: la sicurezza potrebbe essere tra i settori che ne guadagnano di più.",
+      "fonti": [
+        {
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
+        }
+      ]
+    },
+    {
+      "posizione": 5,
+      "titolo": "Target, TJX e Lowe's: conti migliori anche grazie ai rimborsi dei dazi",
+      "riassunto": "Target ha registrato vendite per 27,1 miliardi (+7,1%) e ha alzato le previsioni. Il suo utile per azione di 2,65 dollari include 50 centesimi di rimborsi dei dazi. Anche TJX e Lowe's hanno beneficiato dei rimborsi. In Borsa Target è salita del 4% e TJX dell'8%. Oggi arrivano i conti di Walmart.",
+      "il_senso": "I rimborsi dei dazi stanno gonfiando i profitti dei grandi negozi americani, ma è un aiuto una tantum, non un segnale di consumi più forti.",
+      "fonti": [
+        {
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
+        }
+      ]
+    }
+  ],
+  "approfondimenti": [
+    {
+      "titolo": "How Megacap IPOs in 2026 Could Reshape Global Benchmarks",
+      "testata": "MSCI, febbraio 2026",
+      "url": "https://msci.com/research-and-insights/blog-post/how-megacap-ipos-in-2026-could-reshape-global-benchmarks",
+      "perche_e_importante": "MSCI, che costruisce gli indici seguiti da migliaia di fondi, ha simulato cosa succede quando colossi come SpaceX, OpenAI o ByteDance entrano in Borsa. Il peso degli Stati Uniti negli indici mondiali salirebbe ancora, e i fondi passivi sarebbero costretti a comprare le nuove azioni vendendo un po' di Nvidia, Apple e Microsoft. Aiuta a capire perché la quotazione di Anthropic riguarda anche chi ha un semplice fondo pensione.",
+      "la_mia_lettura": "Chi investe in un fondo indicizzato diventerà, quasi senza saperlo, azionista di queste nuove aziende. Secondo me è un effetto poco discusso: le mega-quotazioni concentrano ancora di più i risparmi globali sulle stesse poche aziende americane dell'IA."
+    },
+    {
+      "titolo": "After the Supreme Court's ruling on tariffs, companies line up for refunds",
+      "testata": "NPR, febbraio 2026",
+      "url": "https://npr.org/2026/02/21/g-s1-110987/supreme-court-tariffs-refunds",
+      "perche_e_importante": "Spiega la sentenza con cui la Corte Suprema, con un voto di 6 a 3, ha stabilito che la legge sui poteri d'emergenza non autorizzava i dazi di Trump. Erano stati incassati 133 miliardi di dollari, e la sentenza ha lasciato aperta la questione dei rimborsi. È probabilmente il contesto per capire perché oggi i conti di Target e Lowe's contengono questi \"regali\".",
+      "la_mia_lettura": "I rimborsi vanno alle aziende che hanno pagato i dazi, non ai consumatori che spesso li hanno pagati con prezzi più alti. Secondo me è un caso esemplare di come gli effetti delle politiche commerciali si distribuiscono in modo diseguale."
+    }
+  ],
+  "da_tenere_d_occhio": "Oggi, giovedì 19: debutto di Anthropic al Nasdaq (ANT), conti di Walmart e Alibaba. Venerdì 20: fiducia dei consumatori dell'Università del Michigan. 8-9 dicembre: riunione della Fed, con un rialzo dei tassi molto atteso. 1-3 dicembre: audizioni su Nvidia al Congresso."
+}
