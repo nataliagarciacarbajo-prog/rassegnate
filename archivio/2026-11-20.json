@@ -1,0 +1,97 @@
+{
+  "data": "2026-11-20",
+  "data_estesa": "Venerdì 20 novembre 2026",
+  "aggiornato_il": "2026-11-20T06:52:03+01:00",
+  "titolo": "Rassegna Big Tech & Finanza",
+  "notizie": [
+    {
+      "posizione": 1,
+      "titolo": "Debutto di Anthropic: apre a +34%, chiude a +17%",
+      "riassunto": "Le azioni di Anthropic hanno iniziato a scambiare al Nasdaq poco prima di mezzogiorno a 111,50 dollari, il 34% sopra il prezzo di collocamento di 83 dollari. Hanno chiuso a 97,17 dollari (+17%). Con 980 milioni di azioni vendute, la raccolta è di circa 81,3 miliardi di dollari: secondo Forbes è la più grande quotazione della storia, sopra i 75 miliardi di SpaceX a giugno. Secondo Forbes, a fine giornata il valore di borsa era di circa 1.270 miliardi. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "il_senso": "È il momento simbolo della corsa all'IA: un'azienda giovanissima entra in Borsa con un valore enorme, e da oggi i suoi conti saranno sotto gli occhi di tutti.",
+      "fonti": [
+        {
+          "nome": "Forbes",
+          "url": "https://www.forbes.com/sites/fionariley/2026/11/19/anthropic-ipo-live-stock-closes-day-at-97-up-more-than-17/"
+        },
+        {
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-19-2026"
+        }
+      ]
+    },
+    {
+      "posizione": 2,
+      "titolo": "Wall Street chiude in forte calo, Nvidia ancora giù",
+      "riassunto": "Nonostante i futures positivi al mattino, giovedì i mercati americani hanno chiuso in netto calo: il fondo che replica l'S&P 500 ha perso l'1,96%, quello sul Nasdaq 100 il 2,19% e quello sul Dow il 2,18%. Nvidia è scesa del 3,30%, secondo giorno di calo dopo i conti record.",
+      "il_senso": "Il debutto di Anthropic non è bastato a risollevare l'umore: con i tassi in salita, molti investitori sembrano preferire ridurre i titoli più cari.",
+      "fonti": [
+        {
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-19-2026"
+        },
+        {
+          "nome": "TipRanks / The Fly",
+          "url": "https://www.tipranks.com/news/the-fly/morning-movers-alibaba-and-walmart-slip-following-earnings-reports-thefly-news"
+        }
+      ]
+    },
+    {
+      "posizione": 3,
+      "titolo": "Alibaba: il cloud per l'IA cresce del 53%, ma brucia cassa",
+      "riassunto": "Nel trimestre chiuso a settembre i ricavi di Alibaba da cloud e servizi per l'IA sono cresciuti del 53%. Ma per costruire i data center il flusso di cassa libero è stato negativo per 34,5 miliardi di yuan, peggio di un anno prima. Il titolo ha perso l'1,26% a New York. Tra le altre cinesi, PDD è salita dell'11% e NetEase ha perso l'11% dopo i conti.",
+      "il_senso": "Anche in Cina la corsa all'IA costa moltissimo: i giganti investono oggi sperando in profitti domani, proprio come le big tech americane.",
+      "fonti": [
+        {
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-19-2026"
+        },
+        {
+          "nome": "TipRanks / The Fly",
+          "url": "https://www.tipranks.com/news/the-fly/morning-movers-alibaba-and-walmart-slip-following-earnings-reports-thefly-news"
+        }
+      ]
+    },
+    {
+      "posizione": 4,
+      "titolo": "Walmart alza le previsioni: ricavi a 188,8 miliardi",
+      "riassunto": "Walmart ha registrato ricavi per 188,8 miliardi di dollari nel terzo trimestre, il 5,2% in più, e ha alzato le previsioni per l'anno. Il titolo ha comunque chiuso in calo dell'1,04%, in una giornata negativa per tutto il mercato.",
+      "il_senso": "I conti di Walmart sono una fotografia dei consumi americani: per ora continuano a crescere.",
+      "fonti": [
+        {
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-19-2026"
+        }
+      ]
+    },
+    {
+      "posizione": 5,
+      "titolo": "Palo Alto Networks vola dopo i conti",
+      "riassunto": "Il giorno dopo i risultati, Palo Alto Networks ha chiuso in rialzo del 6,42%, una delle poche grandi società tecnologiche in positivo in una giornata di vendite. L'azienda di sicurezza informatica aveva annunciato ricavi in crescita del 39% e l'acquisto di Applied Compute per 4,5 miliardi.",
+      "il_senso": "Quando il mercato vende quasi tutto, premia chi mostra una crescita concreta e legata a un bisogno reale come la sicurezza.",
+      "fonti": [
+        {
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-19-2026"
+        }
+      ]
+    }
+  ],
+  "approfondimenti": [
+    {
+      "titolo": "Circle IPO leaves $1.76 billion on the table, seventh biggest underpricing in decades",
+      "testata": "Fortune, giugno 2025",
+      "url": "https://fortune.com/2025/06/06/circle-internet-group-ipo-crcl-underpricing-stock-outlook-profits/",
+      "perche_e_importante": "Spiega cosa significa \"lasciare soldi sul tavolo\" in una quotazione: se il titolo sale molto il primo giorno, la differenza rispetto al prezzo di collocamento non va all'azienda ma a chi ha comprato le azioni dalle banche. Nel caso di Circle, nel 2025, questa cifra fu di circa 1,7 miliardi, una delle più alte dal 1980 secondo i dati dell'economista Jay Ritter. Aiuta a leggere con occhio critico il +17% di Anthropic.",
+      "la_mia_lettura": "Un debutto in forte rialzo viene raccontato come un successo, ma per chi vende le azioni può essere un costo. Secondo me, con cifre come quelle di Anthropic, vale la pena chiedersi chi abbia davvero guadagnato dal primo giorno: l'azienda o i grandi investitori che hanno ottenuto le azioni a 83 dollari."
+    },
+    {
+      "titolo": "Alibaba's Next Chapter: From AI-Native To Agent-Native",
+      "testata": "Forrester, settembre 2026",
+      "url": "https://forrester.com/blogs/alibabas-next-chapter-from-ai-native-to-agent-native",
+      "perche_e_importante": "Gli analisti di Forrester spiegano come Alibaba Cloud stia spostando la sua strategia dall'IA in generale agli \"agenti\", cioè programmi che svolgono compiti in autonomia. Descrive i nuovi prodotti, i chip progettati in casa e l'evoluzione dei modelli Qwen. Aiuta a capire dove vanno i miliardi che stanno pesando sul flusso di cassa di Alibaba.",
+      "la_mia_lettura": "La strategia di Alibaba somiglia molto a quella di Amazon e Microsoft, ma con chip progettati in casa, utili anche di fronte ai limiti americani. Secondo me è un segnale che la Cina punta a un ecosistema dell'IA autosufficiente, non a una semplice copia di quello occidentale."
+    }
+  ],
+  "da_tenere_d_occhio": "Oggi, venerdì 20: fiducia dei consumatori dell'Università del Michigan; si chiude formalmente la vendita delle azioni di Anthropic. Giovedì 26: Festa del Ringraziamento, mercati USA chiusi. 1-3 dicembre: audizioni su Nvidia al Congresso. 8-9 dicembre: riunione della Fed, con un rialzo dei tassi molto atteso."
+}
