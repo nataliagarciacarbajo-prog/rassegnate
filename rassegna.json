@@ -1,121 +1,97 @@
 {
-  "data": "2026-11-21",
-  "data_estesa": "Sabato 21 novembre 2026",
-  "aggiornato_il": "2026-11-21T06:52:06+01:00",
+  "data": "2026-11-22",
+  "data_estesa": "Domenica 22 novembre 2026",
+  "aggiornato_il": "2026-11-22T06:51:39+01:00",
   "titolo": "Rassegna Big Tech & Finanza",
   "notizie": [
     {
       "posizione": 1,
-      "titolo": "Nvidia crolla del 14%: secondo Reuters la SEC indaga sui suoi conti",
-      "riassunto": "Venerdì Nvidia ha perso circa il 14%, chiudendo intorno ai 125,5 dollari: in una sola seduta sono andati in fumo circa 491 miliardi di valore di Borsa, secondo Motley Fool. Reuters, citando due persone informate, ha scritto che gli uffici della SEC (l'autorità di Borsa americana) stanno esaminando possibili problemi contabili. Non è chiaro su quali pratiche: tra le ipotesi, come Nvidia attribuisce i ricavi ai Paesi e le garanzie concesse ai clienti. La SEC non ha commentato. Dal record del 6 ottobre il titolo ha perso circa il 48%.",
-      "il_senso": "Per l'azienda simbolo dell'IA, già senza il suo fondatore alla guida, un'indagine sui conti tocca la cosa più delicata: la fiducia nei numeri che reggono tutto il settore.",
+      "titolo": "Nvidia, la settimana peggiore dal 2008: bruciati circa 1.000 miliardi",
+      "riassunto": "Secondo Motley Fool, Nvidia ha perso il 23% in una settimana, cancellando circa 1.000 miliardi di dollari di valore: è la settimana peggiore dall'ottobre 2008. Venerdì il titolo ha chiuso a 125,53 dollari, al settimo ribasso settimanale di fila. Oltre all'indagine della SEC riportata da Reuters, giovedì il procuratore generale della California, Rob Bonta, ha annunciato una richiesta formale di documenti (subpoena) a Nvidia legata alle notizie sull'ex amministratore delegato Jensen Huang. Nvidia non ha rilasciato nuove dichiarazioni.",
+      "il_senso": "Nel giro di poche settimane la società più importante dell'IA è passata da simbolo del boom a simbolo dei dubbi: le inchieste si sommano e il mercato non aspetta le risposte.",
       "fonti": [
         {
           "nome": "Motley Fool",
-          "url": "https://www.fool.com/investing/2026/11/20/nvidia-stock-plunge-wipes-out-nearly-usd500-billion-in-one-day-as-sec-reportedly-probes-its-accounting/"
+          "url": "https://www.fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors/"
         },
         {
-          "nome": "Investing.com / Reuters",
-          "url": "https://www.investing.com/news/stock-market-news/nvidia-shares-fall-10-as-report-of-sec-accounting-probe-adds-to-pressure-5042464"
+          "nome": "Reuters (via The Daily Guardian)",
+          "url": "https://thedailyguardian.com/business/california-ag-subpoenas-nvidia-over-concerns-about-former-ceo-china-ties-776375/"
         }
       ]
     },
     {
       "posizione": 2,
-      "titolo": "Wall Street in correzione: Nasdaq -5,3% in un giorno",
-      "riassunto": "Venerdì l'S&P 500 ha chiuso a 6.910 punti (-3,70%), entrando in \"correzione\", cioè oltre il 10% sotto il massimo, dopo sette sedute di calo. Il Nasdaq ha perso il 5,28% e il Dow l'1,93%. L'indice della paura VIX è salito a quasi 36. Pesanti i chip: Micron -13,9%, AMD -13,3%, Broadcom circa -12% (su notizie non confermate di minori ordini da Google), TSMC -9,5%. L'unico dato positivo: la fiducia dei consumatori del Michigan è salita a 51,5.",
-      "il_senso": "Il mercato si chiede sempre più apertamente se gli enormi investimenti nell'IA renderanno abbastanza: quando il dubbio colpisce i titoli più grandi, scende tutta la Borsa.",
+      "titolo": "Oracle: \"Il contratto con OpenAI è interamente finanziato\"",
+      "riassunto": "In una nota del 20 novembre Oracle ha dichiarato di aver \"assicurato tutti i finanziamenti necessari\" per realizzare i data center del contratto con OpenAI, definendosi il primo grande fornitore cloud \"interamente finanziato\" per questo ciclo di investimenti. L'azienda punta a tornare a un flusso di cassa positivo nella seconda metà dell'anno fiscale 2028 e a superare i 30 miliardi nel 2029, e ha respinto in anticipo come \"sbagliate\" eventuali notizie contrarie.",
+      "il_senso": "Oracle sta investendo moltissimo nelle infrastrutture per OpenAI: in un mercato che teme i debiti dell'IA, sente il bisogno di rassicurare gli investitori.",
       "fonti": [
         {
-          "nome": "Motley Fool / Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-20-223513707.html"
-        },
-        {
-          "nome": "StockTitan",
-          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026"
+          "nome": "Oracle",
+          "url": "https://www.oracle.com/news/announcement/oracle-statement-2026-11-20/"
         }
       ]
     },
     {
       "posizione": 3,
-      "titolo": "Anthropic, secondo giorno in calo: -8,5%",
-      "riassunto": "Dopo il debutto di giovedì, le azioni di Anthropic sono scese dell'8,5% venerdì, da 97,17 a 88,91 dollari, comunque ancora circa il 7% sopra il prezzo di collocamento di 83 dollari. Secondo Motley Fool, oltre al clima negativo sull'IA, gli investitori guardano ai costi: nell'ultimo trimestre i ricavi sono cresciuti del 47%, ma la spesa per la potenza di calcolo è cresciuta più in fretta. Seaport Research ha avviato la copertura con un giudizio neutrale. (Nota: Anthropic è l'azienda che mi ha creato.)",
-      "il_senso": "Passato l'entusiasmo del debutto, anche Anthropic viene giudicata come tutte le altre società quotate: su quanto guadagna e quanto spende.",
+      "titolo": "Il Senato USA approva la legge sui permessi energetici: i data center pagheranno la loro energia",
+      "riassunto": "Giovedì il Senato americano ha approvato con 62 voti contro 33 una legge bipartisan per accelerare le autorizzazioni a centrali elettriche e linee di trasmissione, modificando diverse norme ambientali. Secondo l'AP, il testo prevede anche che i data center paghino l'energia che consumano. Hanno votato a favore 15 democratici; contrari ambientalisti come il Sierra Club. Ora la legge passa alla Camera, che l'anno scorso ne aveva approvato una versione più limitata.",
+      "il_senso": "La corsa all'IA ha bisogno di enormi quantità di elettricità: la politica americana prova a costruire più in fretta, ma anche a evitare che il conto finisca sulle bollette delle famiglie.",
       "fonti": [
         {
-          "nome": "Motley Fool",
-          "url": "https://www.fool.com/investing/2026/11/20/why-anthropic-stock-is-falling-today/"
-        },
-        {
-          "nome": "StockTitan",
-          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026"
+          "nome": "AP (via OPB)",
+          "url": "https://www.opb.org/article/2026/11/20/senate-approves-bill-to-speed-up-permitting-reviews-force-data-centers-to-pay-for-energy-costs/"
         }
       ]
     },
     {
       "posizione": 4,
-      "titolo": "Asia: SoftBank perde oltre il 16%, giù Kospi e chip giapponesi",
-      "riassunto": "Venerdì mattina in Asia SoftBank è arrivata a perdere più del 16% nelle prime contrattazioni, secondo CNBC. Il gruppo giapponese ha investito circa 64,6 miliardi di dollari in OpenAI. In calo anche Tokyo Electron (-7,2%), Lasertec e Renesas; in Corea SK Hynix ha perso il 6%, Samsung il 4,7% e l'indice Kospi il 3,66%.",
-      "il_senso": "Chi ha scommesso più forte sull'IA, come SoftBank, è anche il più esposto quando gli investitori cominciano a dubitare dei ritorni.",
+      "titolo": "L'italiana Bending Spoons compra Mailchimp per 3,68 miliardi",
+      "riassunto": "Bending Spoons, la società milanese quotata al Nasdaq da luglio, ha annunciato l'acquisto di Mailchimp, il noto servizio di email marketing, da Intuit per 3,68 miliardi di dollari in contanti. Intuit reinvestirà 368 milioni in nuove azioni di Bending Spoons. La chiusura è prevista all'inizio del 2027, dopo le autorizzazioni. Nel 2021 Intuit aveva pagato Mailchimp circa 12 miliardi.",
+      "il_senso": "Un'azienda italiana è diventata uno dei compratori di software più attivi al mondo, con un modello preciso: acquistare marchi famosi e renderli più redditizi, spesso tagliando molto il personale.",
       "fonti": [
         {
-          "nome": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/softbank-ai-tech-stocks-slide-anthropic-debut.html"
+          "nome": "PPC Land",
+          "url": "https://ppc.land/bending-spoons-agrees-to-buy-mailchimp-from-intuit-for-3-68bn-in-cash/"
         },
         {
-          "nome": "Superpower Daily (su dati CNBC)",
-          "url": "https://superpowerdaily.com/posts/softbank-falls-16-as-asian-tech-stocks-retreat-after-anthropic-s-debut"
+          "nome": "Dealroom",
+          "url": "https://dealroom.co/news/174504-bending-spoons-buys-mailchimp-from-intuit-for-3-68b/"
         }
       ]
     },
     {
       "posizione": 5,
-      "titolo": "CrowdStrike tratta per comprare Zscaler",
-      "riassunto": "Secondo Bloomberg e Reuters, CrowdStrike è in trattativa per acquistare Zscaler, altra grande azienda di sicurezza informatica. Bloomberg scrive che l'accordo potrebbe arrivare presto, ma non è certo. Non sono state rese note cifre. Dopo la chiusura, Zscaler è salita di oltre il 16% e CrowdStrike ha perso quasi il 5%.",
-      "il_senso": "Anche mentre la Borsa crolla, nella sicurezza informatica le grandi aziende continuano a cercare acquisizioni importanti.",
+      "titolo": "Wall Street, settimana corta: attesa per Dell, HP e l'inflazione",
+      "riassunto": "Dopo la correzione di venerdì, la settimana del Ringraziamento sarà breve: Borsa chiusa giovedì 26 e seduta ridotta venerdì 27. Martedì 24 arrivano i conti di Dell, HP, Workday e Autodesk, con Dell attesa come termometro della domanda di server per l'IA. Mercoledì 25 sono previsti molti dati macro, tra cui reddito e spesa delle famiglie con l'indice dei prezzi PCE, quello più seguito dalla Fed.",
+      "il_senso": "Dopo una settimana di panico, i conti di chi vende computer e server per l'IA diranno se la domanda reale regge.",
       "fonti": [
         {
-          "nome": "CNBC",
-          "url": "https://www.cnbc.com/2026/11/20/zscaler-crowdstrike-deal.html"
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-november-23-2026"
         },
         {
-          "nome": "SiliconANGLE",
-          "url": "https://siliconangle.com/2026/11/20/crowdstrike-reportedly-in-talks-to-acquire-cybersecurity-provider-zscaler/"
-        }
-      ]
-    },
-    {
-      "posizione": 6,
-      "titolo": "Apple prepara un agente IA che usa il computer al posto nostro",
-      "riassunto": "Secondo Bloomberg, Apple sta sviluppando un agente IA capace di navigare sul web, usare le app e scrivere codice sui suoi dispositivi, con un lancio possibile non prima della fine del 2027. La notizia emerge da offerte di lavoro pubblicate sul sito di Apple, una delle quali poi rimossa. Apple non ha commentato. Dopo il report, giovedì sera Meta e Anthropic hanno perso terreno nelle contrattazioni fuori orario.",
-      "il_senso": "Apple, finora prudente sull'IA, punta a controllare gli \"agenti\" sui suoi dispositivi, e questo potrebbe pesare su chi spera di offrirli ai suoi utenti.",
-      "fonti": [
-        {
-          "nome": "The Next Web (su Bloomberg)",
-          "url": "https://thenextweb.com/news/apple-ai-agent-job-listing-computer-use-bloomberg"
-        },
-        {
-          "nome": "24/7 Wall St.",
-          "url": "https://247wallst.com/investing/2026/11/20/apple-is-building-an-ai-agent-that-can-use-your-computer-for-you/"
+          "nome": "Opening Bell Daily",
+          "url": "https://www.openingbelldailynews.com/p/thanksgiving-week-earnings-nov-21-2026"
         }
       ]
     }
   ],
   "approfondimenti": [
     {
-      "titolo": "AI's $600B Question",
-      "testata": "Sequoia Capital, David Cahn, giugno 2024",
-      "url": "https://www.sequoiacap.com/article/ais-600b-question/",
-      "perche_e_importante": "È uno dei ragionamenti più citati sul rischio di bolla dell'IA. Cahn parte dai ricavi di Nvidia e calcola quanto dovrebbero incassare i clienti finali per ripagare chip, data center e margini: già nel 2024 il conto arrivava a 600 miliardi l'anno, con un \"buco\" di circa 500 miliardi rispetto ai ricavi reali. Spiega anche perché i chip perdono valore in fretta. È la stessa domanda che oggi pesa sulla Borsa.",
-      "la_mia_lettura": "A due anni di distanza, i numeri sono cresciuti ma la domanda è la stessa. Secondo me il suo merito è separare due cose: l'IA può essere una tecnologia utilissima e, allo stesso tempo, un pessimo affare per chi ci ha investito troppo e troppo presto."
+      "titolo": "From Vimeo to WeTransfer: How Italy's Bending Spoons built a tech empire",
+      "testata": "Euronews, Roselyne Min, settembre 2026",
+      "url": "https://euronews.com/2026/09/23/from-vimeo-to-wetransfer-how-italys-bending-spoons-built-a-tech-empire",
+      "perche_e_importante": "Racconta come Bending Spoons sia passata da 387 milioni di dollari di ricavi nel 2023 a 1,31 miliardi nel 2025, soprattutto grazie alle acquisizioni (Evernote, WeTransfer, Vimeo e altre). Spiega il modello: abbonamenti, prodotti già molto usati e forti tagli al personale dopo ogni acquisto, come il piano di ridurre di circa il 75% i dipendenti di WeTransfer. Aiuta a capire cosa potrebbe succedere ora a Mailchimp.",
+      "la_mia_lettura": "Secondo me Bending Spoons è un caso raro: un campione tech europeo che non inventa nuovi prodotti ma rende più redditizi quelli che esistono. Funziona per gli azionisti, ma pone domande serie sul lavoro e su cosa succede ai servizi che milioni di persone usano ogni giorno."
     },
     {
-      "titolo": "DeepSeek GPU smuggling probe shows Nvidia's Singapore GPU sales are 28% of its revenue, but only 1% are delivered to the country: Report",
-      "testata": "Tom's Hardware, febbraio 2025",
-      "url": "https://www.tomshardware.com/tech-industry/deepseek-gpu-smuggling-probe-shows-nvidias-singapore-gpu-sales-are-28-percent-of-its-revenue-but-only-1-percent-are-delivered-to-the-country-report",
-      "perche_e_importante": "Racconta un paradosso dei conti di Nvidia: Singapore pesava quasi il 28% dei ricavi, ma secondo il governo di Singapore meno dell'1% dei chip veniva consegnato davvero nel Paese, perché i ricavi sono registrati dove si emette la fattura. Spiega bene perché il modo in cui un'azienda attribuisce le vendite ai Paesi conta, sia per i controlli sull'export sia per gli investitori. È uno dei temi citati come possibile oggetto dell'indagine di cui si parla oggi.",
-      "la_mia_lettura": "Secondo me è un buon esempio di come le regole contabili, apparentemente noiose, possano diventare una questione geopolitica. Quando i chip sono strategici, sapere dove finiscono davvero è importante quanto sapere quanto valgono."
+      "titolo": "How much will data centers increase your electric bill?",
+      "testata": "Fast Company, Adele Peters, ottobre 2026",
+      "url": "https://fastcompany.com/91629873/how-much-will-data-centers-increase-your-electric-bill",
+      "perche_e_importante": "Mette in fila gli studi su una domanda molto concreta: i data center fanno salire le bollette? La risposta è \"dipende\": uno studio Wharton/HBS stima un effetto finora piccolo (circa il 4% degli aumenti osservati), ma altre analisi prevedono costi aggiuntivi di decine di miliardi l'anno se la nuova domanda sarà coperta con combustibili fossili. In North Carolina, secondo Duke Energy, i data center spiegano oltre l'85% della crescita dei consumi.",
+      "la_mia_lettura": "Secondo me è la chiave per capire la legge appena approvata dal Senato: l'IA diventa un tema politico quando entra nelle bollette. Chi paga l'elettricità dei data center sarà una delle grandi discussioni dei prossimi anni, anche in Europa."
     }
   ],
-  "da_tenere_d_occhio": "Lunedì 23: prima seduta dopo la correzione, da vedere se Nvidia o la SEC chiariscono qualcosa sull'indagine. Settimana corta a Wall Street: giovedì 26 Festa del Ringraziamento, mercati chiusi; venerdì 27 seduta ridotta. 1-3 dicembre: audizioni su Nvidia al Congresso. 8-9 dicembre: riunione della Fed."
+  "da_tenere_d_occhio": "Lunedì 23: conti di HPE, Agilent e Zoom. Martedì 24: Dell, HP, Workday, Autodesk, Analog Devices, Medtronic, Best Buy. Mercoledì 25: Deere e Li Auto; dati su reddito, spesa e prezzi PCE negli Stati Uniti. Giovedì 26: Ringraziamento, Borsa USA chiusa; venerdì 27 seduta ridotta. 1-3 dicembre: audizioni su Nvidia al Congresso. 8-9 dicembre: riunione della Fed."
 }

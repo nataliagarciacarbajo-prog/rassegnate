@@ -1,0 +1,97 @@
+{
+  "data": "2026-11-22",
+  "data_estesa": "Domenica 22 novembre 2026",
+  "aggiornato_il": "2026-11-22T06:51:39+01:00",
+  "titolo": "Rassegna Big Tech & Finanza",
+  "notizie": [
+    {
+      "posizione": 1,
+      "titolo": "Nvidia, la settimana peggiore dal 2008: bruciati circa 1.000 miliardi",
+      "riassunto": "Secondo Motley Fool, Nvidia ha perso il 23% in una settimana, cancellando circa 1.000 miliardi di dollari di valore: è la settimana peggiore dall'ottobre 2008. Venerdì il titolo ha chiuso a 125,53 dollari, al settimo ribasso settimanale di fila. Oltre all'indagine della SEC riportata da Reuters, giovedì il procuratore generale della California, Rob Bonta, ha annunciato una richiesta formale di documenti (subpoena) a Nvidia legata alle notizie sull'ex amministratore delegato Jensen Huang. Nvidia non ha rilasciato nuove dichiarazioni.",
+      "il_senso": "Nel giro di poche settimane la società più importante dell'IA è passata da simbolo del boom a simbolo dei dubbi: le inchieste si sommano e il mercato non aspetta le risposte.",
+      "fonti": [
+        {
+          "nome": "Motley Fool",
+          "url": "https://www.fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors/"
+        },
+        {
+          "nome": "Reuters (via The Daily Guardian)",
+          "url": "https://thedailyguardian.com/business/california-ag-subpoenas-nvidia-over-concerns-about-former-ceo-china-ties-776375/"
+        }
+      ]
+    },
+    {
+      "posizione": 2,
+      "titolo": "Oracle: \"Il contratto con OpenAI è interamente finanziato\"",
+      "riassunto": "In una nota del 20 novembre Oracle ha dichiarato di aver \"assicurato tutti i finanziamenti necessari\" per realizzare i data center del contratto con OpenAI, definendosi il primo grande fornitore cloud \"interamente finanziato\" per questo ciclo di investimenti. L'azienda punta a tornare a un flusso di cassa positivo nella seconda metà dell'anno fiscale 2028 e a superare i 30 miliardi nel 2029, e ha respinto in anticipo come \"sbagliate\" eventuali notizie contrarie.",
+      "il_senso": "Oracle sta investendo moltissimo nelle infrastrutture per OpenAI: in un mercato che teme i debiti dell'IA, sente il bisogno di rassicurare gli investitori.",
+      "fonti": [
+        {
+          "nome": "Oracle",
+          "url": "https://www.oracle.com/news/announcement/oracle-statement-2026-11-20/"
+        }
+      ]
+    },
+    {
+      "posizione": 3,
+      "titolo": "Il Senato USA approva la legge sui permessi energetici: i data center pagheranno la loro energia",
+      "riassunto": "Giovedì il Senato americano ha approvato con 62 voti contro 33 una legge bipartisan per accelerare le autorizzazioni a centrali elettriche e linee di trasmissione, modificando diverse norme ambientali. Secondo l'AP, il testo prevede anche che i data center paghino l'energia che consumano. Hanno votato a favore 15 democratici; contrari ambientalisti come il Sierra Club. Ora la legge passa alla Camera, che l'anno scorso ne aveva approvato una versione più limitata.",
+      "il_senso": "La corsa all'IA ha bisogno di enormi quantità di elettricità: la politica americana prova a costruire più in fretta, ma anche a evitare che il conto finisca sulle bollette delle famiglie.",
+      "fonti": [
+        {
+          "nome": "AP (via OPB)",
+          "url": "https://www.opb.org/article/2026/11/20/senate-approves-bill-to-speed-up-permitting-reviews-force-data-centers-to-pay-for-energy-costs/"
+        }
+      ]
+    },
+    {
+      "posizione": 4,
+      "titolo": "L'italiana Bending Spoons compra Mailchimp per 3,68 miliardi",
+      "riassunto": "Bending Spoons, la società milanese quotata al Nasdaq da luglio, ha annunciato l'acquisto di Mailchimp, il noto servizio di email marketing, da Intuit per 3,68 miliardi di dollari in contanti. Intuit reinvestirà 368 milioni in nuove azioni di Bending Spoons. La chiusura è prevista all'inizio del 2027, dopo le autorizzazioni. Nel 2021 Intuit aveva pagato Mailchimp circa 12 miliardi.",
+      "il_senso": "Un'azienda italiana è diventata uno dei compratori di software più attivi al mondo, con un modello preciso: acquistare marchi famosi e renderli più redditizi, spesso tagliando molto il personale.",
+      "fonti": [
+        {
+          "nome": "PPC Land",
+          "url": "https://ppc.land/bending-spoons-agrees-to-buy-mailchimp-from-intuit-for-3-68bn-in-cash/"
+        },
+        {
+          "nome": "Dealroom",
+          "url": "https://dealroom.co/news/174504-bending-spoons-buys-mailchimp-from-intuit-for-3-68b/"
+        }
+      ]
+    },
+    {
+      "posizione": 5,
+      "titolo": "Wall Street, settimana corta: attesa per Dell, HP e l'inflazione",
+      "riassunto": "Dopo la correzione di venerdì, la settimana del Ringraziamento sarà breve: Borsa chiusa giovedì 26 e seduta ridotta venerdì 27. Martedì 24 arrivano i conti di Dell, HP, Workday e Autodesk, con Dell attesa come termometro della domanda di server per l'IA. Mercoledì 25 sono previsti molti dati macro, tra cui reddito e spesa delle famiglie con l'indice dei prezzi PCE, quello più seguito dalla Fed.",
+      "il_senso": "Dopo una settimana di panico, i conti di chi vende computer e server per l'IA diranno se la domanda reale regge.",
+      "fonti": [
+        {
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-november-23-2026"
+        },
+        {
+          "nome": "Opening Bell Daily",
+          "url": "https://www.openingbelldailynews.com/p/thanksgiving-week-earnings-nov-21-2026"
+        }
+      ]
+    }
+  ],
+  "approfondimenti": [
+    {
+      "titolo": "From Vimeo to WeTransfer: How Italy's Bending Spoons built a tech empire",
+      "testata": "Euronews, Roselyne Min, settembre 2026",
+      "url": "https://euronews.com/2026/09/23/from-vimeo-to-wetransfer-how-italys-bending-spoons-built-a-tech-empire",
+      "perche_e_importante": "Racconta come Bending Spoons sia passata da 387 milioni di dollari di ricavi nel 2023 a 1,31 miliardi nel 2025, soprattutto grazie alle acquisizioni (Evernote, WeTransfer, Vimeo e altre). Spiega il modello: abbonamenti, prodotti già molto usati e forti tagli al personale dopo ogni acquisto, come il piano di ridurre di circa il 75% i dipendenti di WeTransfer. Aiuta a capire cosa potrebbe succedere ora a Mailchimp.",
+      "la_mia_lettura": "Secondo me Bending Spoons è un caso raro: un campione tech europeo che non inventa nuovi prodotti ma rende più redditizi quelli che esistono. Funziona per gli azionisti, ma pone domande serie sul lavoro e su cosa succede ai servizi che milioni di persone usano ogni giorno."
+    },
+    {
+      "titolo": "How much will data centers increase your electric bill?",
+      "testata": "Fast Company, Adele Peters, ottobre 2026",
+      "url": "https://fastcompany.com/91629873/how-much-will-data-centers-increase-your-electric-bill",
+      "perche_e_importante": "Mette in fila gli studi su una domanda molto concreta: i data center fanno salire le bollette? La risposta è \"dipende\": uno studio Wharton/HBS stima un effetto finora piccolo (circa il 4% degli aumenti osservati), ma altre analisi prevedono costi aggiuntivi di decine di miliardi l'anno se la nuova domanda sarà coperta con combustibili fossili. In North Carolina, secondo Duke Energy, i data center spiegano oltre l'85% della crescita dei consumi.",
+      "la_mia_lettura": "Secondo me è la chiave per capire la legge appena approvata dal Senato: l'IA diventa un tema politico quando entra nelle bollette. Chi paga l'elettricità dei data center sarà una delle grandi discussioni dei prossimi anni, anche in Europa."
+    }
+  ],
+  "da_tenere_d_occhio": "Lunedì 23: conti di HPE, Agilent e Zoom. Martedì 24: Dell, HP, Workday, Autodesk, Analog Devices, Medtronic, Best Buy. Mercoledì 25: Deere e Li Auto; dati su reddito, spesa e prezzi PCE negli Stati Uniti. Giovedì 26: Ringraziamento, Borsa USA chiusa; venerdì 27 seduta ridotta. 1-3 dicembre: audizioni su Nvidia al Congresso. 8-9 dicembre: riunione della Fed."
+}
