@@ -1,97 +1,101 @@
 {
-  "data": "2026-11-22",
-  "data_estesa": "Domenica 22 novembre 2026",
-  "aggiornato_il": "2026-11-22T06:51:39+01:00",
+  "data": "2026-11-23",
+  "data_estesa": "Lunedì 23 novembre 2026",
+  "aggiornato_il": "2026-11-23T06:52:26+01:00",
   "titolo": "Rassegna Big Tech & Finanza",
   "notizie": [
     {
       "posizione": 1,
-      "titolo": "Nvidia, la settimana peggiore dal 2008: bruciati circa 1.000 miliardi",
-      "riassunto": "Secondo Motley Fool, Nvidia ha perso il 23% in una settimana, cancellando circa 1.000 miliardi di dollari di valore: è la settimana peggiore dall'ottobre 2008. Venerdì il titolo ha chiuso a 125,53 dollari, al settimo ribasso settimanale di fila. Oltre all'indagine della SEC riportata da Reuters, giovedì il procuratore generale della California, Rob Bonta, ha annunciato una richiesta formale di documenti (subpoena) a Nvidia legata alle notizie sull'ex amministratore delegato Jensen Huang. Nvidia non ha rilasciato nuove dichiarazioni.",
-      "il_senso": "Nel giro di poche settimane la società più importante dell'IA è passata da simbolo del boom a simbolo dei dubbi: le inchieste si sommano e il mercato non aspetta le risposte.",
+      "titolo": "Asia in caduta, i governi intervengono; i futures USA rimbalzano",
+      "riassunto": "Secondo Reuters, lunedì mattina le autorità asiatiche si sono mosse per frenare il calo delle Borse dopo il crollo di Wall Street di venerdì. Il Kospi coreano è arrivato a perdere circa il 5%, ai minimi da dieci mesi; il ministro delle Finanze di Seul si è detto pronto a stabilizzare il mercato \"se necessario\". Taiwan ha stretto le regole sulle vendite allo scoperto e le Borse cinesi hanno allentato i requisiti per comprare a credito. Intanto i futures americani salivano di circa il 2% (S&P 500) e quasi il 3% (Nasdaq 100).",
+      "il_senso": "Quando i governi intervengono per sostenere le Borse, vuol dire che la paura sull'IA sta diventando anche una questione di stabilità finanziaria, non solo di qualche titolo.",
       "fonti": [
         {
-          "nome": "Motley Fool",
-          "url": "https://www.fool.com/investing/2026/11/21/after-its-worst-week-in-18-years-nvidia-now-faces-an-sec-investigation-what-it-means-for-investors/"
-        },
-        {
-          "nome": "Reuters (via The Daily Guardian)",
-          "url": "https://thedailyguardian.com/business/california-ag-subpoenas-nvidia-over-concerns-about-former-ceo-china-ties-776375/"
+          "nome": "Reuters (via MarketScreener)",
+          "url": "https://www.marketscreener.com/news/us-futures-bounce-as-asia-scrambles-to-shore-up-stocks-after-ai-driven-rout-ce785ed3d088f124"
         }
       ]
     },
     {
       "posizione": 2,
-      "titolo": "Oracle: \"Il contratto con OpenAI è interamente finanziato\"",
-      "riassunto": "In una nota del 20 novembre Oracle ha dichiarato di aver \"assicurato tutti i finanziamenti necessari\" per realizzare i data center del contratto con OpenAI, definendosi il primo grande fornitore cloud \"interamente finanziato\" per questo ciclo di investimenti. L'azienda punta a tornare a un flusso di cassa positivo nella seconda metà dell'anno fiscale 2028 e a superare i 30 miliardi nel 2029, e ha respinto in anticipo come \"sbagliate\" eventuali notizie contrarie.",
-      "il_senso": "Oracle sta investendo moltissimo nelle infrastrutture per OpenAI: in un mercato che teme i debiti dell'IA, sente il bisogno di rassicurare gli investitori.",
+      "titolo": "Bessent accusa la Fed: \"Rischio di errore se alza troppo i tassi\"",
+      "riassunto": "Domenica, ospite di \"Face the Nation\" sulla CBS, il segretario al Tesoro Scott Bessent ha attribuito il calo dei mercati anche a una Fed troppo \"aggressiva\" e all'opposizione dei democratici all'IA, avvertendo di un possibile \"errore\" se la banca centrale stringerà troppo. Nello stesso programma il presidente di Microsoft Brad Smith ha detto che gli americani devono prepararsi a nuovi blackout dei servizi tech nei prossimi mesi.",
+      "il_senso": "Con la Borsa in difficoltà, il governo fa pressione sulla Fed a due settimane dalla riunione in cui è atteso un rialzo dei tassi: lo scontro tra politica e banca centrale diventa un fattore di mercato.",
       "fonti": [
         {
-          "nome": "Oracle",
-          "url": "https://www.oracle.com/news/announcement/oracle-statement-2026-11-20/"
+          "nome": "Fox News (live blog)",
+          "url": "https://www.foxnews.com/live-news/ai-news-markets-correction-11-22-26"
         }
       ]
     },
     {
       "posizione": 3,
-      "titolo": "Il Senato USA approva la legge sui permessi energetici: i data center pagheranno la loro energia",
-      "riassunto": "Giovedì il Senato americano ha approvato con 62 voti contro 33 una legge bipartisan per accelerare le autorizzazioni a centrali elettriche e linee di trasmissione, modificando diverse norme ambientali. Secondo l'AP, il testo prevede anche che i data center paghino l'energia che consumano. Hanno votato a favore 15 democratici; contrari ambientalisti come il Sierra Club. Ora la legge passa alla Camera, che l'anno scorso ne aveva approvato una versione più limitata.",
-      "il_senso": "La corsa all'IA ha bisogno di enormi quantità di elettricità: la politica americana prova a costruire più in fretta, ma anche a evitare che il conto finisca sulle bollette delle famiglie.",
+      "titolo": "Anthropic, i numeri finali della quotazione: 93,5 miliardi raccolti",
+      "riassunto": "Anthropic ha comunicato la chiusura della quotazione: con l'esercizio completo dell'opzione per le banche sono state vendute 1,127 miliardi di azioni a 83 dollari, per circa 93,5 miliardi lordi, di cui 91,6 all'azienda. In parallelo AMD, Broadcom, Google, Micron, Microsoft, Nvidia e TSMC hanno comprato azioni di una classe separata per circa 26 miliardi: in totale circa 119,5 miliardi. Nella rassegna di venerdì avevamo indicato 81,3 miliardi, la cifra prima dell'opzione. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "il_senso": "I grandi fornitori di chip e cloud sono anche azionisti dei loro clienti: un intreccio che rende il settore più forte quando tutto va bene, e più fragile quando la fiducia cala.",
       "fonti": [
         {
-          "nome": "AP (via OPB)",
-          "url": "https://www.opb.org/article/2026/11/20/senate-approves-bill-to-speed-up-permitting-reviews-force-data-centers-to-pay-for-energy-costs/"
+          "nome": "Anthropic",
+          "url": "https://www.anthropic.com/news/ipo-close"
         }
       ]
     },
     {
       "posizione": 4,
-      "titolo": "L'italiana Bending Spoons compra Mailchimp per 3,68 miliardi",
-      "riassunto": "Bending Spoons, la società milanese quotata al Nasdaq da luglio, ha annunciato l'acquisto di Mailchimp, il noto servizio di email marketing, da Intuit per 3,68 miliardi di dollari in contanti. Intuit reinvestirà 368 milioni in nuove azioni di Bending Spoons. La chiusura è prevista all'inizio del 2027, dopo le autorizzazioni. Nel 2021 Intuit aveva pagato Mailchimp circa 12 miliardi.",
-      "il_senso": "Un'azienda italiana è diventata uno dei compratori di software più attivi al mondo, con un modello preciso: acquistare marchi famosi e renderli più redditizi, spesso tagliando molto il personale.",
+      "titolo": "Prestito record da 44 miliardi per i chip di SpaceX",
+      "riassunto": "Apollo e Goldman Sachs hanno fissato il prezzo di circa 44 miliardi di dollari di obbligazioni per finanziare chip Nvidia di nuova generazione (Vera Rubin) e altre apparecchiature per i data center di SpaceX. È definito \"il più grande finanziamento di GPU mai realizzato\". L'offerta è stata aumentata per l'alta domanda, con BlackRock e KKR tra gli investitori; i chip saranno dati in leasing a partire dalla prima metà del 2027.",
+      "il_senso": "Anche nei giorni di panico in Borsa, i grandi fondi continuano a prestare decine di miliardi all'IA, usando i chip stessi come garanzia.",
       "fonti": [
         {
-          "nome": "PPC Land",
-          "url": "https://ppc.land/bending-spoons-agrees-to-buy-mailchimp-from-intuit-for-3-68bn-in-cash/"
-        },
-        {
-          "nome": "Dealroom",
-          "url": "https://dealroom.co/news/174504-bending-spoons-buys-mailchimp-from-intuit-for-3-68b/"
+          "nome": "Apollo",
+          "url": "https://www.apollo.com/insights-news/pressreleases/2026/11/apollo-and-goldman-sachs-announce-pricing-of-44-billion-spacex-gpu-financing-3407671"
         }
       ]
     },
     {
       "posizione": 5,
-      "titolo": "Wall Street, settimana corta: attesa per Dell, HP e l'inflazione",
-      "riassunto": "Dopo la correzione di venerdì, la settimana del Ringraziamento sarà breve: Borsa chiusa giovedì 26 e seduta ridotta venerdì 27. Martedì 24 arrivano i conti di Dell, HP, Workday e Autodesk, con Dell attesa come termometro della domanda di server per l'IA. Mercoledì 25 sono previsti molti dati macro, tra cui reddito e spesa delle famiglie con l'indice dei prezzi PCE, quello più seguito dalla Fed.",
-      "il_senso": "Dopo una settimana di panico, i conti di chi vende computer e server per l'IA diranno se la domanda reale regge.",
+      "titolo": "Le azioni Nvidia scendono, ma affittare i suoi chip costa sempre di più",
+      "riassunto": "Secondo un'analisi di Yahoo Finance, l'indice Silicon Data sul noleggio dei chip H100 di Nvidia è salito di quasi il 60% in un anno, a circa 3,11 dollari l'ora. CoreWeave ha detto che i prezzi per i chip delle generazioni precedenti sono aumentati del 30-50% in un trimestre. Noleggiare due H100 giorno e notte costa circa 4.540 dollari al mese, poco meno dell'affitto medio di un appartamento a Manhattan.",
+      "il_senso": "La domanda reale di potenza di calcolo resta altissima: il mercato dubita dei profitti futuri, non del fatto che l'IA venga usata.",
       "fonti": [
         {
-          "nome": "StockTitan",
-          "url": "https://www.stocktitan.net/articles/earnings-calendar-week-of-november-23-2026"
+          "nome": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/article/gpu-prices-are-rising-for-nvidias-older-chips-even-as-the-stock-keeps-going-down-chart-of-the-day-123721121.html"
+        }
+      ]
+    },
+    {
+      "posizione": 6,
+      "titolo": "Ipotesi di Riemann, la comunità Lean certifica una dimostrazione",
+      "riassunto": "Sabato le comunità di Lean e Mathlib, che sviluppano strumenti per verificare le dimostrazioni matematiche al computer, hanno \"certificato\" come corretta una dimostrazione dell'ipotesi di Riemann, uno dei problemi aperti più famosi della matematica. La dimostrazione, pubblicata venerdì da Levent Alpöge (secondo diverse newsletter, matematico di Anthropic), è lunga 17 milioni di righe di codice. Il comunicato precisa che resta da spiegare le idee nuove che contiene. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "il_senso": "Se confermata dai matematici, sarebbe una svolta storica, e mostra quanto i computer stiano diventando centrali nel modo di fare matematica.",
+      "fonti": [
+        {
+          "nome": "Lean community",
+          "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
         },
         {
-          "nome": "Opening Bell Daily",
-          "url": "https://www.openingbelldailynews.com/p/thanksgiving-week-earnings-nov-21-2026"
+          "nome": "Bad, Good, Better",
+          "url": "https://badgoodbetter.substack.com/p/ai-weekly-update-week-ending-november-fc0"
         }
       ]
     }
   ],
   "approfondimenti": [
     {
-      "titolo": "From Vimeo to WeTransfer: How Italy's Bending Spoons built a tech empire",
-      "testata": "Euronews, Roselyne Min, settembre 2026",
-      "url": "https://euronews.com/2026/09/23/from-vimeo-to-wetransfer-how-italys-bending-spoons-built-a-tech-empire",
-      "perche_e_importante": "Racconta come Bending Spoons sia passata da 387 milioni di dollari di ricavi nel 2023 a 1,31 miliardi nel 2025, soprattutto grazie alle acquisizioni (Evernote, WeTransfer, Vimeo e altre). Spiega il modello: abbonamenti, prodotti già molto usati e forti tagli al personale dopo ogni acquisto, come il piano di ridurre di circa il 75% i dipendenti di WeTransfer. Aiuta a capire cosa potrebbe succedere ora a Mailchimp.",
-      "la_mia_lettura": "Secondo me Bending Spoons è un caso raro: un campione tech europeo che non inventa nuovi prodotti ma rende più redditizi quelli che esistono. Funziona per gli azionisti, ma pone domande serie sul lavoro e su cosa succede ai servizi che milioni di persone usano ogni giorno."
+      "titolo": "GPU depreciation could be the next big crisis coming for AI hyperscalers — after spending billions on buildouts, next-gen upgrades may amplify cashflow quirks",
+      "testata": "Tom's Hardware, Jon Martindale, novembre 2025",
+      "url": "https://www.tomshardware.com/tech-industry/gpu-depreciation-could-be-the-next-big-crisis-coming-for-ai-hyperscalers-after-spending-billions-on-buildouts-next-gen-upgrades-may-amplify-cashflow-quirks",
+      "perche_e_importante": "Spiega una questione contabile che pesa sui conti delle big tech: per quanti anni si \"ammortizzano\" i chip per l'IA. L'investitore Michael Burry sostiene che allungare la vita utile da tre a cinque o sei anni fa sembrare i profitti più alti. Se i chip invecchiano più in fretta per l'arrivo di nuove generazioni, i costi veri potrebbero emergere più avanti. Utile da leggere insieme ai dati di oggi sui prezzi di noleggio dei chip.",
+      "la_mia_lettura": "Secondo me è il punto in cui finanza e tecnologia si toccano davvero: il valore delle aziende dell'IA dipende anche da una stima su quanto dura un chip. I prezzi di noleggio in salita dicono che per ora i chip vecchi restano utili, ma la domanda resta aperta."
     },
     {
-      "titolo": "How much will data centers increase your electric bill?",
-      "testata": "Fast Company, Adele Peters, ottobre 2026",
-      "url": "https://fastcompany.com/91629873/how-much-will-data-centers-increase-your-electric-bill",
-      "perche_e_importante": "Mette in fila gli studi su una domanda molto concreta: i data center fanno salire le bollette? La risposta è \"dipende\": uno studio Wharton/HBS stima un effetto finora piccolo (circa il 4% degli aumenti osservati), ma altre analisi prevedono costi aggiuntivi di decine di miliardi l'anno se la nuova domanda sarà coperta con combustibili fossili. In North Carolina, secondo Duke Energy, i data center spiegano oltre l'85% della crescita dei consumi.",
-      "la_mia_lettura": "Secondo me è la chiave per capire la legge appena approvata dal Senato: l'IA diventa un tema politico quando entra nelle bollette. Chi paga l'elettricità dei data center sarà una delle grandi discussioni dei prossimi anni, anche in Europa."
+      "titolo": "Kospi's record bull run belies excessive concentration in certain sectors",
+      "testata": "Korea JoongAng Daily, Park Yu-mi, gennaio 2026",
+      "url": "https://www.koreajoongangdaily.com/business/kospis-record-bull-run-belies-excessive-concentration-in-certain-sectors/12169286",
+      "perche_e_importante": "Già a gennaio mostrava quanto la Borsa coreana dipendesse da due sole aziende: Samsung e SK Hynix spiegavano il 64% dell'aumento di valore dell'indice nel mese precedente. Racconta anche la fuga dei piccoli risparmiatori coreani verso le azioni americane e i piani del governo per riportarli in patria. Aiuta a capire perché oggi il Kospi è tra i mercati più colpiti dalla crisi dell'IA.",
+      "la_mia_lettura": "Secondo me è un caso di scuola: quando un intero mercato si regge su due titoli legati all'IA, la scommessa diventa nazionale. È un rischio che riguarda anche Taiwan con TSMC, e in parte la stessa Wall Street con Nvidia."
     }
   ],
-  "da_tenere_d_occhio": "Lunedì 23: conti di HPE, Agilent e Zoom. Martedì 24: Dell, HP, Workday, Autodesk, Analog Devices, Medtronic, Best Buy. Mercoledì 25: Deere e Li Auto; dati su reddito, spesa e prezzi PCE negli Stati Uniti. Giovedì 26: Ringraziamento, Borsa USA chiusa; venerdì 27 seduta ridotta. 1-3 dicembre: audizioni su Nvidia al Congresso. 8-9 dicembre: riunione della Fed."
+  "da_tenere_d_occhio": "Oggi, lunedì 23: la riapertura di Wall Street dopo la correzione; conti di HPE, Agilent e Zoom. Martedì 24: Dell, HP, Workday, Autodesk. Mercoledì 25: Deere e dati su spesa e prezzi PCE. Giovedì 26: Ringraziamento, Borsa USA chiusa. 1 dicembre: colloquio a porte chiuse dei vertici Nvidia al Congresso. 8-9 dicembre: riunione della Fed."
 }
