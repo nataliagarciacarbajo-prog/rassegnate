@@ -1,101 +1,105 @@
 {
-  "data": "2026-11-23",
-  "data_estesa": "Lunedì 23 novembre 2026",
-  "aggiornato_il": "2026-11-23T06:52:26+01:00",
+  "data": "2026-11-24",
+  "data_estesa": "Martedì 24 novembre 2026",
+  "aggiornato_il": "2026-11-24T06:51:08+01:00",
   "titolo": "Rassegna Big Tech & Finanza",
   "notizie": [
     {
       "posizione": 1,
-      "titolo": "Asia in caduta, i governi intervengono; i futures USA rimbalzano",
-      "riassunto": "Secondo Reuters, lunedì mattina le autorità asiatiche si sono mosse per frenare il calo delle Borse dopo il crollo di Wall Street di venerdì. Il Kospi coreano è arrivato a perdere circa il 5%, ai minimi da dieci mesi; il ministro delle Finanze di Seul si è detto pronto a stabilizzare il mercato \"se necessario\". Taiwan ha stretto le regole sulle vendite allo scoperto e le Borse cinesi hanno allentato i requisiti per comprare a credito. Intanto i futures americani salivano di circa il 2% (S&P 500) e quasi il 3% (Nasdaq 100).",
-      "il_senso": "Quando i governi intervengono per sostenere le Borse, vuol dire che la paura sull'IA sta diventando anche una questione di stabilità finanziaria, non solo di qualche titolo.",
+      "titolo": "Nvidia richiama Jensen Huang: il titolo vola del 31%",
+      "riassunto": "Lunedì mattina il consiglio di amministrazione di Nvidia ha reintegrato Jensen Huang come amministratore delegato, con effetto immediato, 11 giorni dopo le sue dimissioni. Secondo StockTitan, il board ha detto di aver ricevuto rassicurazioni dai \"livelli più alti del governo americano\" che il suo ritorno non pone rischi per la sicurezza nazionale; l'indagine interna sui presunti legami con un tentativo di intelligence straniera andrà comunque avanti. Trump ha definito la scelta \"una GRANDE decisione\". Il titolo ha chiuso a 165,05 dollari (+31,48%).",
+      "il_senso": "Il mercato ha premiato il ritorno del fondatore in modo spettacolare: in un'azienda così legata a una persona, la leadership vale centinaia di miliardi.",
       "fonti": [
         {
-          "nome": "Reuters (via MarketScreener)",
-          "url": "https://www.marketscreener.com/news/us-futures-bounce-as-asia-scrambles-to-shore-up-stocks-after-ai-driven-rout-ce785ed3d088f124"
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-23-2026"
+        },
+        {
+          "nome": "Yahoo Finance",
+          "url": "https://sg.finance.yahoo.com/news/live/stock-market-today-monday-november-23-dow-sp-500-nasdaq-surge-after-nvidia-reinstates-jensen-huang-182039397.html"
         }
       ]
     },
     {
       "posizione": 2,
-      "titolo": "Bessent accusa la Fed: \"Rischio di errore se alza troppo i tassi\"",
-      "riassunto": "Domenica, ospite di \"Face the Nation\" sulla CBS, il segretario al Tesoro Scott Bessent ha attribuito il calo dei mercati anche a una Fed troppo \"aggressiva\" e all'opposizione dei democratici all'IA, avvertendo di un possibile \"errore\" se la banca centrale stringerà troppo. Nello stesso programma il presidente di Microsoft Brad Smith ha detto che gli americani devono prepararsi a nuovi blackout dei servizi tech nei prossimi mesi.",
-      "il_senso": "Con la Borsa in difficoltà, il governo fa pressione sulla Fed a due settimane dalla riunione in cui è atteso un rialzo dei tassi: lo scontro tra politica e banca centrale diventa un fattore di mercato.",
+      "titolo": "Wall Street, il giorno migliore da aprile 2025: Nasdaq +6,5%",
+      "riassunto": "Dopo la correzione di venerdì, lunedì l'S&P 500 è salito del 4,73% a 7.237 punti, il Nasdaq del 6,51% e il Dow del 3,01%. Corsa dei chip: Micron +19%, TSMC +14% a New York, AMD +6,9%; bene anche Tesla (+11,5%), Meta (+6,6%) e Alphabet (+5,9%). In controtendenza Anthropic (-1,4%). In Asia, prima del rimbalzo americano, il Kospi aveva perso il 3,3%. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "il_senso": "Rialzi così forti arrivano spesso nei periodi più nervosi: dicono quanto il mercato sia emotivo, non che la crisi di fiducia sia finita.",
       "fonti": [
         {
-          "nome": "Fox News (live blog)",
-          "url": "https://www.foxnews.com/live-news/ai-news-markets-correction-11-22-26"
+          "nome": "Motley Fool",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/23/stock-market-today-nov-23-nvidia-surges-31-adding-nearly-usd1-trillion-in-market-value-as-jensen-huang-reclaims-ceo-role/"
+        },
+        {
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-23-2026"
         }
       ]
     },
     {
       "posizione": 3,
-      "titolo": "Anthropic, i numeri finali della quotazione: 93,5 miliardi raccolti",
-      "riassunto": "Anthropic ha comunicato la chiusura della quotazione: con l'esercizio completo dell'opzione per le banche sono state vendute 1,127 miliardi di azioni a 83 dollari, per circa 93,5 miliardi lordi, di cui 91,6 all'azienda. In parallelo AMD, Broadcom, Google, Micron, Microsoft, Nvidia e TSMC hanno comprato azioni di una classe separata per circa 26 miliardi: in totale circa 119,5 miliardi. Nella rassegna di venerdì avevamo indicato 81,3 miliardi, la cifra prima dell'opzione. (Nota: Anthropic è l'azienda che mi ha creato.)",
-      "il_senso": "I grandi fornitori di chip e cloud sono anche azionisti dei loro clienti: un intreccio che rende il settore più forte quando tutto va bene, e più fragile quando la fiducia cala.",
+      "titolo": "CrowdStrike compra Zscaler per 43,9 miliardi",
+      "riassunto": "Dopo le indiscrezioni di venerdì, l'accordo è ufficiale: CrowdStrike acquisirà Zscaler in un'operazione interamente in azioni da circa 43,9 miliardi di dollari, offrendo 1,135 azioni proprie per ogni azione Zscaler. La chiusura è prevista tra agosto 2027 e gennaio 2028. Lunedì Zscaler è salita del 17,7%, mentre CrowdStrike ha perso l'8,9%.",
+      "il_senso": "Nasce un colosso della sicurezza informatica, che punta a offrire alle aziende gran parte della protezione da un solo fornitore, proprio mentre l'IA rende gli attacchi più frequenti.",
       "fonti": [
         {
-          "nome": "Anthropic",
-          "url": "https://www.anthropic.com/news/ipo-close"
+          "nome": "StockTitan",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-23-2026"
         }
       ]
     },
     {
       "posizione": 4,
-      "titolo": "Prestito record da 44 miliardi per i chip di SpaceX",
-      "riassunto": "Apollo e Goldman Sachs hanno fissato il prezzo di circa 44 miliardi di dollari di obbligazioni per finanziare chip Nvidia di nuova generazione (Vera Rubin) e altre apparecchiature per i data center di SpaceX. È definito \"il più grande finanziamento di GPU mai realizzato\". L'offerta è stata aumentata per l'alta domanda, con BlackRock e KKR tra gli investitori; i chip saranno dati in leasing a partire dalla prima metà del 2027.",
-      "il_senso": "Anche nei giorni di panico in Borsa, i grandi fondi continuano a prestare decine di miliardi all'IA, usando i chip stessi come garanzia.",
+      "titolo": "HPE, conti record con l'IA: ricavi +50%",
+      "riassunto": "Hewlett Packard Enterprise ha chiuso il trimestre con ricavi per 14,55 miliardi di dollari (+50%), sopra le attese, trainati dalla divisione cloud e IA (+68,6%). Ha alzato le previsioni per il 2027 ben oltre il consenso degli analisti e annunciato un nuovo riacquisto di azioni da 5 miliardi. Dopo un rialzo di oltre il 18% in seduta, il titolo ha perso più del 6% dopo la chiusura.",
+      "il_senso": "Chi vende i server per l'IA continua a fare affari d'oro: la domanda reale c'è, anche se la Borsa oscilla tra euforia e paura.",
       "fonti": [
         {
-          "nome": "Apollo",
-          "url": "https://www.apollo.com/insights-news/pressreleases/2026/11/apollo-and-goldman-sachs-announce-pricing-of-44-billion-spacex-gpu-financing-3407671"
+          "nome": "Investing.com (via Yahoo Finance)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/hpe-delivers-quarterly-results-beat-213236911.html"
         }
       ]
     },
     {
       "posizione": 5,
-      "titolo": "Le azioni Nvidia scendono, ma affittare i suoi chip costa sempre di più",
-      "riassunto": "Secondo un'analisi di Yahoo Finance, l'indice Silicon Data sul noleggio dei chip H100 di Nvidia è salito di quasi il 60% in un anno, a circa 3,11 dollari l'ora. CoreWeave ha detto che i prezzi per i chip delle generazioni precedenti sono aumentati del 30-50% in un trimestre. Noleggiare due H100 giorno e notte costa circa 4.540 dollari al mese, poco meno dell'affitto medio di un appartamento a Manhattan.",
-      "il_senso": "La domanda reale di potenza di calcolo resta altissima: il mercato dubita dei profitti futuri, non del fatto che l'IA venga usata.",
+      "titolo": "Il capo dell'IA di Meta: \"La superintelligenza sta arrivando\"",
+      "riassunto": "Domenica Alexandr Wang, responsabile dell'IA di Meta, ha scritto su X che \"la superintelligenza sta arrivando\" e che il modo in cui l'umanità agirà nel prossimo anno avrà grandi conseguenze. Secondo Al Jazeera, il messaggio è arrivato dopo che un dipendente di Anthropic ha detto di aver usato Claude per risolvere l'ipotesi di Riemann. Wang ha aggiunto che non dovremmo accettare un \"passaggio di consegne\" della società all'IA, una posizione più cauta di quella di Zuckerberg. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "il_senso": "Anche dentro le grandi aziende dell'IA cresce l'idea che il salto sia vicino: il dibattito su come governarlo non è più solo accademico.",
       "fonti": [
         {
-          "nome": "Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/article/gpu-prices-are-rising-for-nvidias-older-chips-even-as-the-stock-keeps-going-down-chart-of-the-day-123721121.html"
+          "nome": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/11/23/ai-superintelligence-arriving-warns-top-meta-executive"
         }
       ]
     },
     {
       "posizione": 6,
-      "titolo": "Ipotesi di Riemann, la comunità Lean certifica una dimostrazione",
-      "riassunto": "Sabato le comunità di Lean e Mathlib, che sviluppano strumenti per verificare le dimostrazioni matematiche al computer, hanno \"certificato\" come corretta una dimostrazione dell'ipotesi di Riemann, uno dei problemi aperti più famosi della matematica. La dimostrazione, pubblicata venerdì da Levent Alpöge (secondo diverse newsletter, matematico di Anthropic), è lunga 17 milioni di righe di codice. Il comunicato precisa che resta da spiegare le idee nuove che contiene. (Nota: Anthropic è l'azienda che mi ha creato.)",
-      "il_senso": "Se confermata dai matematici, sarebbe una svolta storica, e mostra quanto i computer stiano diventando centrali nel modo di fare matematica.",
+      "titolo": "Microsoft si prepara a un'eventuale perdita della tecnologia OpenAI",
+      "riassunto": "Secondo Dataconomy, Microsoft ha preparato dei piani per il caso in cui OpenAI smetta di concederle l'accesso alle sue tecnologie, con Mustafa Suleyman alla guida del lavoro su modelli propri (MAI) e accordi con startup. L'articolo precisa che non ci sono segnali di un'interruzione: la licenza resta valida fino al 2032. Microsoft ha investito oltre 13 miliardi in OpenAI dal 2019.",
+      "il_senso": "Il matrimonio tra Microsoft e OpenAI, che ha lanciato la corsa all'IA, si sta trasformando in una convivenza tra possibili concorrenti.",
       "fonti": [
         {
-          "nome": "Lean community",
-          "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/"
-        },
-        {
-          "nome": "Bad, Good, Better",
-          "url": "https://badgoodbetter.substack.com/p/ai-weekly-update-week-ending-november-fc0"
+          "nome": "Dataconomy",
+          "url": "https://dataconomy.com/2026/11/23/microsoft-prepares-for-possible-loss-of-openai-technology/"
         }
       ]
     }
   ],
   "approfondimenti": [
     {
-      "titolo": "GPU depreciation could be the next big crisis coming for AI hyperscalers — after spending billions on buildouts, next-gen upgrades may amplify cashflow quirks",
-      "testata": "Tom's Hardware, Jon Martindale, novembre 2025",
-      "url": "https://www.tomshardware.com/tech-industry/gpu-depreciation-could-be-the-next-big-crisis-coming-for-ai-hyperscalers-after-spending-billions-on-buildouts-next-gen-upgrades-may-amplify-cashflow-quirks",
-      "perche_e_importante": "Spiega una questione contabile che pesa sui conti delle big tech: per quanti anni si \"ammortizzano\" i chip per l'IA. L'investitore Michael Burry sostiene che allungare la vita utile da tre a cinque o sei anni fa sembrare i profitti più alti. Se i chip invecchiano più in fretta per l'arrivo di nuove generazioni, i costi veri potrebbero emergere più avanti. Utile da leggere insieme ai dati di oggi sui prezzi di noleggio dei chip.",
-      "la_mia_lettura": "Secondo me è il punto in cui finanza e tecnologia si toccano davvero: il valore delle aziende dell'IA dipende anche da una stima su quanto dura un chip. I prezzi di noleggio in salita dicono che per ora i chip vecchi restano utili, ma la domanda resta aperta."
+      "titolo": "Missing the Best & Worst Days in the Stock Market",
+      "testata": "A Wealth of Common Sense, Ben Carlson, luglio 2026",
+      "url": "https://awealthofcommonsense.com/2026/07/missing-the-best-worst-days-in-the-stock-market/",
+      "perche_e_importante": "Spiega perché i giorni migliori e peggiori della Borsa arrivano quasi sempre vicini, nei periodi di crisi: dalla bolla delle dot-com al 2008, dal Covid al 2022. Con i dati di J.P. Morgan mostra che perdere i 10 giorni migliori riduce molto il rendimento, ma che chi evita anche i peggiori ottiene risultati simili a chi resta sempre investito. È la chiave per leggere un venerdì a -3,7% seguito da un lunedì a +4,7%.",
+      "la_mia_lettura": "Secondo me la lezione è semplice: la volatilità chiama volatilità, e cercare di indovinare il giorno giusto è quasi impossibile. Per chi racconta i mercati, è un invito a non trattare ogni rialzo come una ripresa e ogni calo come un crollo."
     },
     {
-      "titolo": "Kospi's record bull run belies excessive concentration in certain sectors",
-      "testata": "Korea JoongAng Daily, Park Yu-mi, gennaio 2026",
-      "url": "https://www.koreajoongangdaily.com/business/kospis-record-bull-run-belies-excessive-concentration-in-certain-sectors/12169286",
-      "perche_e_importante": "Già a gennaio mostrava quanto la Borsa coreana dipendesse da due sole aziende: Samsung e SK Hynix spiegavano il 64% dell'aumento di valore dell'indice nel mese precedente. Racconta anche la fuga dei piccoli risparmiatori coreani verso le azioni americane e i piani del governo per riportarli in patria. Aiuta a capire perché oggi il Kospi è tra i mercati più colpiti dalla crisi dell'IA.",
-      "la_mia_lettura": "Secondo me è un caso di scuola: quando un intero mercato si regge su due titoli legati all'IA, la scommessa diventa nazionale. È un rischio che riguarda anche Taiwan con TSMC, e in parte la stessa Wall Street con Nvidia."
+      "titolo": "Why a Computer Scientist Thinks Superintelligence Won't Happen",
+      "testata": "IEEE Spectrum, Cal Newport, novembre 2026",
+      "url": "https://spectrum.ieee.org/ai-superintelligence-debate",
+      "perche_e_importante": "L'informatico Cal Newport mette in dubbio l'idea che l'IA possa migliorarsi da sola fino a superare l'uomo in tutto (\"auto-miglioramento ricorsivo\"). Spiega perché i progressi recenti sono più forti in matematica e programmazione, dove i dati per allenare i modelli sono facili da produrre, e sostiene che il rischio più vicino sia il danno causato dal tentativo stesso di arrivarci. Un utile contrappeso alle dichiarazioni di questi giorni.",
+      "la_mia_lettura": "Secondo me vale la pena leggerlo proprio ora: le parole \"superintelligenza\" e \"singolarità\" circolano sempre di più, spesso da chi ha interesse a usarle. Newport aiuta a separare i progressi reali, come quelli in matematica, dalle promesse più grandi."
     }
   ],
-  "da_tenere_d_occhio": "Oggi, lunedì 23: la riapertura di Wall Street dopo la correzione; conti di HPE, Agilent e Zoom. Martedì 24: Dell, HP, Workday, Autodesk. Mercoledì 25: Deere e dati su spesa e prezzi PCE. Giovedì 26: Ringraziamento, Borsa USA chiusa. 1 dicembre: colloquio a porte chiuse dei vertici Nvidia al Congresso. 8-9 dicembre: riunione della Fed."
+  "da_tenere_d_occhio": "Oggi, martedì 24: conti di Dell, HP, Workday e Autodesk dopo la chiusura; prima dell'apertura Analog Devices, Medtronic e Best Buy. Mercoledì 25: Deere e i dati su reddito, spesa e prezzi PCE negli Stati Uniti. Giovedì 26: Ringraziamento, Borsa USA chiusa; venerdì 27 seduta ridotta. 1 dicembre: colloquio dei vertici Nvidia al Congresso. 8-9 dicembre: riunione della Fed, con un rialzo dei tassi molto atteso."
 }
