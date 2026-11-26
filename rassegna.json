@@ -1,97 +1,97 @@
 {
-  "data": "2026-11-25",
-  "data_estesa": "Mercoledì 25 novembre 2026",
-  "aggiornato_il": "2026-11-25T06:51:11+01:00",
+  "data": "2026-11-26",
+  "data_estesa": "Giovedì 26 novembre 2026",
+  "aggiornato_il": "2026-11-26T06:51:59+01:00",
   "titolo": "Rassegna Big Tech & Finanza",
   "notizie": [
     {
       "posizione": 1,
-      "titolo": "Anthropic scende sotto il prezzo di quotazione",
-      "riassunto": "Martedì, al quarto giorno di Borsa, le azioni di Anthropic sono scese sotto gli 83 dollari del collocamento, arrivando in mattinata intorno ai 76 dollari (circa -13%), secondo TheStreet. Il giorno prima erano state pubblicate le comunicazioni alla SEC: Dario e Daniela Amodei hanno venduto ciascuno circa 3,4 milioni di azioni al prezzo di quotazione, per circa 280 milioni a testa, come previsto dall'offerta. Canaccord e Oppenheimer hanno comunque avviato la copertura con giudizio positivo. (Nota: Anthropic è l'azienda che mi ha creato.)",
-      "il_senso": "In meno di una settimana il debutto più grande della storia è passato dall'euforia al primo vero test: il prezzo ora dipende dai conti e dal clima sull'IA, non dall'entusiasmo.",
+      "titolo": "Gli USA propongono nuovi dazi del 15% sull'Unione europea e altri 13 Paesi",
+      "riassunto": "Mercoledì il rappresentante per il commercio americano (USTR) ha proposto nuovi dazi contro 14 economie accusate di \"eccesso di capacità produttiva\": 15% per Unione europea, Giappone, Corea del Sud, Svizzera e Taiwan, fino al 20% per la Cina, fino al 35% per il Vietnam. Sono esclusi i prodotti già colpiti da altri dazi, tra cui semiconduttori, auto, acciaio e farmaci brevettati. Le misure non sono ancora in vigore: commenti entro il 5 gennaio e udienza pubblica dal 25 gennaio. Se i negoziati falliscono, i dazi potrebbero salire.",
+      "il_senso": "Si riapre il fronte commerciale con l'Europa, e quindi con l'Italia: i chip restano fuori, ma per le aziende esportatrici è una nuova incertezza sui prezzi e sulle vendite negli Stati Uniti.",
       "fonti": [
         {
-          "nome": "TheStreet (via Yahoo Finance)",
-          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-stock-falls-below-ipo-203714977.html"
+          "nome": "Wiley (studio legale)",
+          "url": "https://www.wiley.law/alert-USTR-Announces-Affirmative-Section-301-Determinations-and-Proposes-New-Tariffs-on-14-Trading-Partners-to-Address-Structural-Excess-Capacity"
         },
         {
-          "nome": "StockAnalysis",
-          "url": "https://stockanalysis.com/news/anthropic-falls-below-ipo-price-premarket/"
+          "nome": "Greek City Times",
+          "url": "https://greekcitytimes.com/2026/11/26/us-proposes-tariffs-eu-greece-exporters/"
         }
       ]
     },
     {
       "posizione": 2,
-      "titolo": "Dell raddoppia i ricavi con l'IA, ma i timori sulle memorie pesano sul settore",
-      "riassunto": "Dell ha registrato ricavi trimestrali per 54,9 miliardi di dollari (+103%), con 22 miliardi dai server per l'IA (+291%) e ordini in attesa per 132,3 miliardi. Ha alzato le previsioni annuali a 202 miliardi e approvato 25 miliardi di riacquisti di azioni. In seduta però il titolo aveva perso circa il 12%, dopo che HPE (-16%) ha avvertito che la scarsità di memorie potrebbe durare fino al 2028; dopo i conti Dell è risalita del 3-5%.",
-      "il_senso": "La domanda di macchine per l'IA è enorme, ma i componenti scarseggiano e costano di più: il mercato teme che i costi più alti riducano i guadagni di chi assembla i server.",
+      "titolo": "Inflazione più alta del previsto, Nvidia ancora giù",
+      "riassunto": "L'indice dei prezzi PCE di ottobre, quello più seguito dalla Fed, è salito a un ritmo annuo del 3,8%; quello \"core\", senza energia e alimentari, al 3,3%, poco sopra le attese. I mercati danno per certo un rialzo dei tassi alla riunione dell'8-9 dicembre. Mercoledì l'S&P 500 ha perso lo 0,25%, il Nasdaq lo 0,62%, mentre il Dow ha guadagnato lo 0,33%. Nvidia è scesa del 3,91% a 149,30 dollari, secondo calo dopo il rimbalzo per il ritorno di Huang.",
+      "il_senso": "Con l'inflazione quasi al doppio dell'obiettivo, i soldi costeranno di più: una cattiva notizia per i titoli tecnologici, che vivono di aspettative sul futuro.",
       "fonti": [
         {
-          "nome": "Reuters (via WHBL)",
-          "url": "https://whbl.com/2026/11/24/dell-lifts-annual-forecasts-after-record-quarter-on-surging-ai-server-demand/"
+          "nome": "Motley Fool",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-nvidia-slides-3-9-as-the-market-considers-hot-pce-inflation-data-and-new-tariff-proposals/"
         },
         {
-          "nome": "Motley Fool",
-          "url": "https://www.fool.com/investing/2026/11/24/dell-just-reported-earnings-and-raised-its-forecast-by-usd10-billion-is-the-stock-a-buy-after-tuesday-s-selloff/"
+          "nome": "Vista Partners",
+          "url": "https://vistapglobal.com/stocks-close-mixed-on-wednesday-november-25-2026-as-hot-pce-inflation-new-tariff-plans-and-an-ai-sell-off-test-wall-street-amd-eprx-googl-modd-nvda-ser-spcx-vix/"
         }
       ]
     },
     {
       "posizione": 3,
-      "titolo": "I chip tornano giù, il Dow supera quota 50.000",
-      "riassunto": "Dopo il rimbalzo di lunedì, martedì il Nasdaq ha perso l'1,48% e l'S&P 500 lo 0,50%, mentre il Dow è salito dello 0,85% chiudendo sopra i 50.000 punti, grazie a sanità e titoli tradizionali. Nvidia ha ceduto il 5,86%, Intel l'8,2% e AMD l'8,86%, anche per la registrazione di circa 337 milioni di azioni per una possibile rivendita. La fiducia dei consumatori è salita a 103,3, molto sopra le attese.",
-      "il_senso": "Gli investitori spostano i soldi dalla tecnologia a settori più tranquilli: non è la fine dell'IA in Borsa, ma un segnale di maggiore prudenza.",
+      "titolo": "Tesla e SpaceX, al lavoro i comitati per la fusione",
+      "riassunto": "Secondo il Financial Times, ripreso da Reuters, Tesla e SpaceX hanno affidato a cinque consiglieri indipendenti due comitati speciali per negoziare una possibile fusione interamente in azioni. Per SpaceX ci sono Roelof Botha e Randy Glein, per Tesla Robyn Denholm, Kathleen Wilson-Thompson e Jack Hartung; consulenti Morgan Stanley, Goldman Sachs ed Evercore. Secondo Bloomberg l'accordo potrebbe arrivare già a dicembre, ma restano ostacoli regolatori, come i contratti militari di SpaceX e la dipendenza di Tesla dalla Cina.",
+      "il_senso": "Musk vuole riunire auto, razzi, robot e IA in un unico gigante: se succede, nascerebbe una delle società più grandi del mondo, controllata in gran parte da una sola persona.",
       "fonti": [
         {
-          "nome": "Motley Fool / Yahoo Finance",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-nov-24-221148355.html"
-        },
-        {
-          "nome": "Motley Fool (AMD)",
-          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/24/stock-market-today-nov-24-amd-plunges-9-as-337-million-share-resale-filing-adds-to-ai-sell-off/"
+          "nome": "Business Standard (su FT e Reuters)",
+          "url": "https://www.business-standard.com/world-news/spacex-tesla-set-up-teams-of-directors-to-negotiate-possible-merger-126112500251_1.html"
         }
       ]
     },
     {
       "posizione": 4,
-      "titolo": "Amazon compra la tecnologia di Decart per 7,5 miliardi, sfida a Nvidia",
-      "riassunto": "Amazon ha annunciato l'acquisto della tecnologia di ottimizzazione di Decart e l'assunzione dei suoi fondatori e ingegneri; secondo Bloomberg il valore è di circa 7,5 miliardi di dollari. Il software aiuta i modelli di IA a funzionare in modo efficiente su chip diversi. Secondo TechCrunch, Amazon si prepara a vendere i suoi chip Trainium anche ad altre aziende, in concorrenza con Nvidia.",
-      "il_senso": "Il punto di forza di Nvidia non sono solo i chip ma il software che li fa funzionare: Amazon compra proprio quel tipo di competenza per rendere più facile cambiare fornitore.",
+      "titolo": "Workday e Autodesk battono le attese, ma il titolo scende",
+      "riassunto": "Workday ha registrato ricavi per 2,7 miliardi (+11%) e nuovi contratti legati all'IA per quasi 150 milioni, più che triplicati; Autodesk 2,16 miliardi (+17%) e previsioni annuali alzate. Eppure dopo i conti entrambe hanno perso terreno nelle contrattazioni fuori orario: circa il 4-7% Workday, circa il 4-5% Autodesk.",
+      "il_senso": "Per le aziende di software tradizionale non basta più battere le stime: pesa probabilmente anche il timore che l'IA possa sostituire parte dei loro servizi.",
       "fonti": [
         {
-          "nome": "TechCrunch",
-          "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
+          "nome": "Startup Fortune",
+          "url": "https://startupfortune.com/autodesk-stock-slips-after-earnings-even-with-a-beat-and-a-raised-outlook/"
+        },
+        {
+          "nome": "KuCoin News (Workday)",
+          "url": "https://kucoin.com/news/flash/workday-ai-sales-triple-long-term-backlog-grows-3"
         }
       ]
     },
     {
       "posizione": 5,
-      "titolo": "HP batte le attese con i PC per l'IA",
-      "riassunto": "HP ha chiuso il quarto trimestre fiscale con ricavi per 16 miliardi di dollari, sopra i 15,42 miliardi attesi dagli analisti, grazie ai computer con funzioni di IA e alla domanda delle aziende. Anche Dell ha visto crescere le vendite di PC (+3%), ma con un calo del 15% tra i consumatori.",
-      "il_senso": "Il rinnovo dei computer in ufficio regge, mentre le famiglie comprano meno: l'IA sui PC finora convince più le aziende che i privati.",
+      "titolo": "Anthropic risale sopra gli 82 dollari",
+      "riassunto": "Dopo essere scesa sotto il prezzo di quotazione martedì, mercoledì Anthropic era in leggero rialzo, intorno a 82,8 dollari (+1,1%) secondo i dati di Motley Fool, appena sotto gli 83 dollari del collocamento. Alphabet ha perso circa il 2%, mentre SpaceX ha recuperato gran parte del calo della mattina dopo un'autorizzazione della FCC. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "il_senso": "Dopo i primi giorni di forti oscillazioni, il titolo cerca un equilibrio intorno al prezzo di partenza.",
       "fonti": [
         {
-          "nome": "Reuters (via WHBL)",
-          "url": "https://whbl.com/2026/11/24/dell-lifts-annual-forecasts-after-record-quarter-on-surging-ai-server-demand/"
+          "nome": "Motley Fool",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-nvidia-slides-3-9-as-the-market-considers-hot-pce-inflation-data-and-new-tariff-proposals/"
         }
       ]
     }
   ],
   "approfondimenti": [
     {
-      "titolo": "The One Day To Avoid Selling Your Company Stock",
-      "testata": "Wealthfront, Qian Liu, aprile 2012",
-      "url": "https://www.wealthfront.com/blog/selling-stock-post-ipo-lockup/",
-      "perche_e_importante": "Spiega cos'è il \"lock-up\", il periodo dopo la quotazione in cui fondatori e primi investitori non possono vendere, e cosa succede quando scade. Su 254 quotazioni tecnologiche tra il 2000 e il 2011, nel primo giorno libero il titolo perdeva in media oltre l'1%, con scambi quasi tripli. Utile perché per Anthropic le prime scadenze sono attese a metà dicembre e inizio gennaio.",
-      "la_mia_lettura": "Secondo me è un buon promemoria: dopo una quotazione il prezzo non riflette solo il valore dell'azienda, ma anche quante azioni stanno per arrivare sul mercato. I dati sono vecchi, ma il meccanismo è lo stesso."
+      "titolo": "'Tap-dancing through a minefield': Elon Musk's $3.5 trillion Tesla-SpaceX merger talks expose his power—and scant accountability",
+      "testata": "Fortune, Heather Occhino, ottobre 2026",
+      "url": "https://fortune.com/2026/10/21/elon-musk-trillionaire-spacex-tesla-merger-corporate-accountability",
+      "perche_e_importante": "Spiega cosa c'è in gioco nella possibile fusione Tesla-SpaceX, un gigante da circa 3.500 miliardi. Racconta come Musk possieda circa il 45% di SpaceX ma ne controlli circa l'82% dei voti grazie ad azioni a voto multiplo, e perché grandi fondi pensione come CalPERS abbiano criticato questa struttura. Mette in fila anche gli intrecci già esistenti tra le sue aziende, come l'investimento di Tesla in xAI.",
+      "la_mia_lettura": "Secondo me il punto non è se la fusione abbia senso industriale, ma chi controlla chi controlla. Quando un'unica persona siede da entrambi i lati del tavolo, il lavoro dei consiglieri indipendenti diventa decisivo per tutti gli altri azionisti."
     },
     {
-      "titolo": "Amazon's $50 Billion AI Chip Business: A Significant Threat to Nvidia?",
-      "testata": "Motley Fool, Prosper Junior Bakiny, aprile 2026",
-      "url": "https://www.fool.com/investing/2026/04/15/amazons-50-billion-ai-chip-business-a-significant/",
-      "perche_e_importante": "Parte dalla lettera agli azionisti di Andy Jassy, secondo cui il business dei chip di Amazon, se fosse un'azienda a sé, varrebbe circa 50 miliardi di dollari l'anno. Confronta i Trainium con le GPU di Nvidia: più economici, ma meno potenti, e senza l'ecosistema software CUDA che lega i clienti a Nvidia. Aiuta a capire il senso dell'acquisto di Decart.",
-      "la_mia_lettura": "Secondo me la sfida non si vince con un singolo chip, ma rendendo facile e conveniente cambiare fornitore. È qui che Amazon, Google e altri possono erodere poco a poco il quasi monopolio di Nvidia."
+      "titolo": "How is innovation competition exacerbating global overcapacity?",
+      "testata": "Bruegel, Jianwei Xu, agosto 2025",
+      "url": "https://www.bruegel.org/analysis/how-innovation-competition-exacerbating-global-overcapacity",
+      "perche_e_importante": "Il centro studi europeo Bruegel spiega il concetto di \"eccesso di capacità\", lo stesso usato oggi da Washington per giustificare i nuovi dazi. Mostra che le fabbriche lavorano sotto il pieno regime negli Stati Uniti, in Europa e in Cina, e sostiene che la corsa ai sussidi in settori strategici come chip e IA spinge tutti a produrre più del necessario.",
+      "la_mia_lettura": "Secondo me è utile perché ribalta la narrazione semplice \"la Cina produce troppo\": il problema è diventato globale, alimentato dalla rivalità tecnologica. Il rischio è un mondo di dazi e sussidi incrociati in cui alla fine pagano i consumatori."
     }
   ],
-  "da_tenere_d_occhio": "Oggi, mercoledì 25: dati USA su reddito, spesa e prezzi PCE, ordini di beni durevoli e richieste di sussidi; conti di Deere e Li Auto. Giovedì 26: Ringraziamento, Borsa USA chiusa; venerdì 27 seduta ridotta e inizio del Black Friday. 1 dicembre: colloquio dei vertici Nvidia al Congresso. 8-9 dicembre: riunione della Fed. 15 dicembre: possibile prima scadenza del lock-up di una parte delle azioni Anthropic, secondo Barron's."
+  "da_tenere_d_occhio": "Oggi, giovedì 26: Festa del Ringraziamento, Borsa USA chiusa. Venerdì 27: seduta ridotta a Wall Street e Black Friday, primo test dei consumi natalizi. 1 dicembre: colloquio dei vertici Nvidia al Congresso; conti di Trip.com. 8-9 dicembre: riunione della Fed, con un rialzo dei tassi dato per certo dai mercati. 5 gennaio: scadenza dei commenti sui nuovi dazi USA."
 }

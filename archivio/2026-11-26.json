@@ -1,0 +1,97 @@
+{
+  "data": "2026-11-26",
+  "data_estesa": "Giovedì 26 novembre 2026",
+  "aggiornato_il": "2026-11-26T06:51:59+01:00",
+  "titolo": "Rassegna Big Tech & Finanza",
+  "notizie": [
+    {
+      "posizione": 1,
+      "titolo": "Gli USA propongono nuovi dazi del 15% sull'Unione europea e altri 13 Paesi",
+      "riassunto": "Mercoledì il rappresentante per il commercio americano (USTR) ha proposto nuovi dazi contro 14 economie accusate di \"eccesso di capacità produttiva\": 15% per Unione europea, Giappone, Corea del Sud, Svizzera e Taiwan, fino al 20% per la Cina, fino al 35% per il Vietnam. Sono esclusi i prodotti già colpiti da altri dazi, tra cui semiconduttori, auto, acciaio e farmaci brevettati. Le misure non sono ancora in vigore: commenti entro il 5 gennaio e udienza pubblica dal 25 gennaio. Se i negoziati falliscono, i dazi potrebbero salire.",
+      "il_senso": "Si riapre il fronte commerciale con l'Europa, e quindi con l'Italia: i chip restano fuori, ma per le aziende esportatrici è una nuova incertezza sui prezzi e sulle vendite negli Stati Uniti.",
+      "fonti": [
+        {
+          "nome": "Wiley (studio legale)",
+          "url": "https://www.wiley.law/alert-USTR-Announces-Affirmative-Section-301-Determinations-and-Proposes-New-Tariffs-on-14-Trading-Partners-to-Address-Structural-Excess-Capacity"
+        },
+        {
+          "nome": "Greek City Times",
+          "url": "https://greekcitytimes.com/2026/11/26/us-proposes-tariffs-eu-greece-exporters/"
+        }
+      ]
+    },
+    {
+      "posizione": 2,
+      "titolo": "Inflazione più alta del previsto, Nvidia ancora giù",
+      "riassunto": "L'indice dei prezzi PCE di ottobre, quello più seguito dalla Fed, è salito a un ritmo annuo del 3,8%; quello \"core\", senza energia e alimentari, al 3,3%, poco sopra le attese. I mercati danno per certo un rialzo dei tassi alla riunione dell'8-9 dicembre. Mercoledì l'S&P 500 ha perso lo 0,25%, il Nasdaq lo 0,62%, mentre il Dow ha guadagnato lo 0,33%. Nvidia è scesa del 3,91% a 149,30 dollari, secondo calo dopo il rimbalzo per il ritorno di Huang.",
+      "il_senso": "Con l'inflazione quasi al doppio dell'obiettivo, i soldi costeranno di più: una cattiva notizia per i titoli tecnologici, che vivono di aspettative sul futuro.",
+      "fonti": [
+        {
+          "nome": "Motley Fool",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-nvidia-slides-3-9-as-the-market-considers-hot-pce-inflation-data-and-new-tariff-proposals/"
+        },
+        {
+          "nome": "Vista Partners",
+          "url": "https://vistapglobal.com/stocks-close-mixed-on-wednesday-november-25-2026-as-hot-pce-inflation-new-tariff-plans-and-an-ai-sell-off-test-wall-street-amd-eprx-googl-modd-nvda-ser-spcx-vix/"
+        }
+      ]
+    },
+    {
+      "posizione": 3,
+      "titolo": "Tesla e SpaceX, al lavoro i comitati per la fusione",
+      "riassunto": "Secondo il Financial Times, ripreso da Reuters, Tesla e SpaceX hanno affidato a cinque consiglieri indipendenti due comitati speciali per negoziare una possibile fusione interamente in azioni. Per SpaceX ci sono Roelof Botha e Randy Glein, per Tesla Robyn Denholm, Kathleen Wilson-Thompson e Jack Hartung; consulenti Morgan Stanley, Goldman Sachs ed Evercore. Secondo Bloomberg l'accordo potrebbe arrivare già a dicembre, ma restano ostacoli regolatori, come i contratti militari di SpaceX e la dipendenza di Tesla dalla Cina.",
+      "il_senso": "Musk vuole riunire auto, razzi, robot e IA in un unico gigante: se succede, nascerebbe una delle società più grandi del mondo, controllata in gran parte da una sola persona.",
+      "fonti": [
+        {
+          "nome": "Business Standard (su FT e Reuters)",
+          "url": "https://www.business-standard.com/world-news/spacex-tesla-set-up-teams-of-directors-to-negotiate-possible-merger-126112500251_1.html"
+        }
+      ]
+    },
+    {
+      "posizione": 4,
+      "titolo": "Workday e Autodesk battono le attese, ma il titolo scende",
+      "riassunto": "Workday ha registrato ricavi per 2,7 miliardi (+11%) e nuovi contratti legati all'IA per quasi 150 milioni, più che triplicati; Autodesk 2,16 miliardi (+17%) e previsioni annuali alzate. Eppure dopo i conti entrambe hanno perso terreno nelle contrattazioni fuori orario: circa il 4-7% Workday, circa il 4-5% Autodesk.",
+      "il_senso": "Per le aziende di software tradizionale non basta più battere le stime: pesa probabilmente anche il timore che l'IA possa sostituire parte dei loro servizi.",
+      "fonti": [
+        {
+          "nome": "Startup Fortune",
+          "url": "https://startupfortune.com/autodesk-stock-slips-after-earnings-even-with-a-beat-and-a-raised-outlook/"
+        },
+        {
+          "nome": "KuCoin News (Workday)",
+          "url": "https://kucoin.com/news/flash/workday-ai-sales-triple-long-term-backlog-grows-3"
+        }
+      ]
+    },
+    {
+      "posizione": 5,
+      "titolo": "Anthropic risale sopra gli 82 dollari",
+      "riassunto": "Dopo essere scesa sotto il prezzo di quotazione martedì, mercoledì Anthropic era in leggero rialzo, intorno a 82,8 dollari (+1,1%) secondo i dati di Motley Fool, appena sotto gli 83 dollari del collocamento. Alphabet ha perso circa il 2%, mentre SpaceX ha recuperato gran parte del calo della mattina dopo un'autorizzazione della FCC. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "il_senso": "Dopo i primi giorni di forti oscillazioni, il titolo cerca un equilibrio intorno al prezzo di partenza.",
+      "fonti": [
+        {
+          "nome": "Motley Fool",
+          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-nvidia-slides-3-9-as-the-market-considers-hot-pce-inflation-data-and-new-tariff-proposals/"
+        }
+      ]
+    }
+  ],
+  "approfondimenti": [
+    {
+      "titolo": "'Tap-dancing through a minefield': Elon Musk's $3.5 trillion Tesla-SpaceX merger talks expose his power—and scant accountability",
+      "testata": "Fortune, Heather Occhino, ottobre 2026",
+      "url": "https://fortune.com/2026/10/21/elon-musk-trillionaire-spacex-tesla-merger-corporate-accountability",
+      "perche_e_importante": "Spiega cosa c'è in gioco nella possibile fusione Tesla-SpaceX, un gigante da circa 3.500 miliardi. Racconta come Musk possieda circa il 45% di SpaceX ma ne controlli circa l'82% dei voti grazie ad azioni a voto multiplo, e perché grandi fondi pensione come CalPERS abbiano criticato questa struttura. Mette in fila anche gli intrecci già esistenti tra le sue aziende, come l'investimento di Tesla in xAI.",
+      "la_mia_lettura": "Secondo me il punto non è se la fusione abbia senso industriale, ma chi controlla chi controlla. Quando un'unica persona siede da entrambi i lati del tavolo, il lavoro dei consiglieri indipendenti diventa decisivo per tutti gli altri azionisti."
+    },
+    {
+      "titolo": "How is innovation competition exacerbating global overcapacity?",
+      "testata": "Bruegel, Jianwei Xu, agosto 2025",
+      "url": "https://www.bruegel.org/analysis/how-innovation-competition-exacerbating-global-overcapacity",
+      "perche_e_importante": "Il centro studi europeo Bruegel spiega il concetto di \"eccesso di capacità\", lo stesso usato oggi da Washington per giustificare i nuovi dazi. Mostra che le fabbriche lavorano sotto il pieno regime negli Stati Uniti, in Europa e in Cina, e sostiene che la corsa ai sussidi in settori strategici come chip e IA spinge tutti a produrre più del necessario.",
+      "la_mia_lettura": "Secondo me è utile perché ribalta la narrazione semplice \"la Cina produce troppo\": il problema è diventato globale, alimentato dalla rivalità tecnologica. Il rischio è un mondo di dazi e sussidi incrociati in cui alla fine pagano i consumatori."
+    }
+  ],
+  "da_tenere_d_occhio": "Oggi, giovedì 26: Festa del Ringraziamento, Borsa USA chiusa. Venerdì 27: seduta ridotta a Wall Street e Black Friday, primo test dei consumi natalizi. 1 dicembre: colloquio dei vertici Nvidia al Congresso; conti di Trip.com. 8-9 dicembre: riunione della Fed, con un rialzo dei tassi dato per certo dai mercati. 5 gennaio: scadenza dei commenti sui nuovi dazi USA."
+}
