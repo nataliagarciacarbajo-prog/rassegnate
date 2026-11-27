@@ -1,97 +1,109 @@
 {
-  "data": "2026-11-26",
-  "data_estesa": "Giovedì 26 novembre 2026",
-  "aggiornato_il": "2026-11-26T06:51:59+01:00",
+  "data": "2026-11-27",
+  "data_estesa": "Venerdì 27 novembre 2026",
+  "aggiornato_il": "2026-11-27T06:52:49+01:00",
   "titolo": "Rassegna Big Tech & Finanza",
   "notizie": [
     {
       "posizione": 1,
-      "titolo": "Gli USA propongono nuovi dazi del 15% sull'Unione europea e altri 13 Paesi",
-      "riassunto": "Mercoledì il rappresentante per il commercio americano (USTR) ha proposto nuovi dazi contro 14 economie accusate di \"eccesso di capacità produttiva\": 15% per Unione europea, Giappone, Corea del Sud, Svizzera e Taiwan, fino al 20% per la Cina, fino al 35% per il Vietnam. Sono esclusi i prodotti già colpiti da altri dazi, tra cui semiconduttori, auto, acciaio e farmaci brevettati. Le misure non sono ancora in vigore: commenti entro il 5 gennaio e udienza pubblica dal 25 gennaio. Se i negoziati falliscono, i dazi potrebbero salire.",
-      "il_senso": "Si riapre il fronte commerciale con l'Europa, e quindi con l'Italia: i chip restano fuori, ma per le aziende esportatrici è una nuova incertezza sui prezzi e sulle vendite negli Stati Uniti.",
+      "titolo": "S&P minaccia di tagliare il rating di Nvidia per il «rischio uomo chiave»",
+      "riassunto": "Mercoledì S&P Global Ratings ha messo sotto osservazione negativa il rating AA del debito di Nvidia. Secondo l'agenzia, gli ultimi eventi minano la fiducia nella gestione e nella governance: scarsa vigilanza sull'amministratore delegato, nessun piano di successione e un consiglio con membri in carica da molti anni. Il taglio, di un gradino al massimo, potrebbe arrivare entro 90 giorni. Moody's invece lascia invariato il suo giudizio: il ritorno di Jensen Huang riduce l'incertezza nel breve periodo. Il titolo ha chiuso mercoledì a 149,30 dollari (-3,91%).",
+      "il_senso": "Non basta essere il re dei chip per l'IA: chi presta soldi a Nvidia vuole sapere cosa succede se un giorno Huang non c'è più. Ed è una domanda che riguarda molte big tech costruite attorno a un solo fondatore.",
       "fonti": [
         {
-          "nome": "Wiley (studio legale)",
-          "url": "https://www.wiley.law/alert-USTR-Announces-Affirmative-Section-301-Determinations-and-Proposes-New-Tariffs-on-14-Trading-Partners-to-Address-Structural-Excess-Capacity"
-        },
-        {
-          "nome": "Greek City Times",
-          "url": "https://greekcitytimes.com/2026/11/26/us-proposes-tariffs-eu-greece-exporters/"
+          "nome": "Benzinga via AOL",
+          "url": "https://www.aol.com/articles/nvidia-put-negative-credit-watch-033558000.html"
         }
       ]
     },
     {
       "posizione": 2,
-      "titolo": "Inflazione più alta del previsto, Nvidia ancora giù",
-      "riassunto": "L'indice dei prezzi PCE di ottobre, quello più seguito dalla Fed, è salito a un ritmo annuo del 3,8%; quello \"core\", senza energia e alimentari, al 3,3%, poco sopra le attese. I mercati danno per certo un rialzo dei tassi alla riunione dell'8-9 dicembre. Mercoledì l'S&P 500 ha perso lo 0,25%, il Nasdaq lo 0,62%, mentre il Dow ha guadagnato lo 0,33%. Nvidia è scesa del 3,91% a 149,30 dollari, secondo calo dopo il rimbalzo per il ritorno di Huang.",
-      "il_senso": "Con l'inflazione quasi al doppio dell'obiettivo, i soldi costeranno di più: una cattiva notizia per i titoli tecnologici, che vivono di aspettative sul futuro.",
+      "titolo": "Via libera USA a SpaceX: fino a un milione di satelliti-data center",
+      "riassunto": "La Federal Communications Commission (FCC) ha autorizzato SpaceX a lanciare fino a 1 milione di satelliti «Starmind», veri moduli di calcolo per l'intelligenza artificiale in orbita, sviluppati con Nvidia. Il primo dovrà essere in orbita entro il 2033 e la costellazione completa entro il 2040; Musk punta al primo lancio nel terzo trimestre 2027. Oggi attorno alla Terra ci sono circa 17.000 satelliti. Amazon, Viasat e l'American Astronomical Society si erano opposti.",
+      "il_senso": "La corsa all'IA cerca spazio, letteralmente: sulla Terra mancano energia e terreni per i data center. Ma l'autorizzazione è solo il primo passo, e i costi restano tutti da dimostrare (vedi l'approfondimento qui sotto).",
       "fonti": [
         {
-          "nome": "Motley Fool",
-          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-nvidia-slides-3-9-as-the-market-considers-hot-pce-inflation-data-and-new-tariff-proposals/"
+          "nome": "Al Jazeera / Reuters",
+          "url": "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres"
         },
         {
-          "nome": "Vista Partners",
-          "url": "https://vistapglobal.com/stocks-close-mixed-on-wednesday-november-25-2026-as-hot-pce-inflation-new-tariff-plans-and-an-ai-sell-off-test-wall-street-amd-eprx-googl-modd-nvda-ser-spcx-vix/"
+          "nome": "Spaceflight Now",
+          "url": "https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/"
         }
       ]
     },
     {
       "posizione": 3,
-      "titolo": "Tesla e SpaceX, al lavoro i comitati per la fusione",
-      "riassunto": "Secondo il Financial Times, ripreso da Reuters, Tesla e SpaceX hanno affidato a cinque consiglieri indipendenti due comitati speciali per negoziare una possibile fusione interamente in azioni. Per SpaceX ci sono Roelof Botha e Randy Glein, per Tesla Robyn Denholm, Kathleen Wilson-Thompson e Jack Hartung; consulenti Morgan Stanley, Goldman Sachs ed Evercore. Secondo Bloomberg l'accordo potrebbe arrivare già a dicembre, ma restano ostacoli regolatori, come i contratti militari di SpaceX e la dipendenza di Tesla dalla Cina.",
-      "il_senso": "Musk vuole riunire auto, razzi, robot e IA in un unico gigante: se succede, nascerebbe una delle società più grandi del mondo, controllata in gran parte da una sola persona.",
+      "titolo": "Borse europee in rialzo con i chip, ASML esclusa dai nuovi dazi",
+      "riassunto": "Con Wall Street chiusa per il Thanksgiving, giovedì lo Stoxx 600 ha guadagnato l'1,7% e il comparto tecnologico europeo tra il 2,5 e il 2,9% a seconda delle fonti. ASML è salita del 3,2% ad Amsterdam: secondo TECHi, la proposta di dazi USA esclude espressamente i macchinari per produrre chip. In rialzo anche ASM International, BE Semiconductor e Infineon. In Asia hanno corso SK Hynix e Kioxia, e i futures sui listini americani segnavano +0,5%. Oggi Wall Street riapre per mezza giornata.",
+      "il_senso": "I mercati tirano un respiro dopo giorni di vendite sull'IA. E l'Europa scopre di avere un'arma: le macchine di ASML servono a tutti, America compresa, e per questo restano fuori dalla guerra dei dazi.",
       "fonti": [
         {
-          "nome": "Business Standard (su FT e Reuters)",
-          "url": "https://www.business-standard.com/world-news/spacex-tesla-set-up-teams-of-directors-to-negotiate-possible-merger-126112500251_1.html"
+          "nome": "Bloomberg via swissinfo",
+          "url": "https://www.swissinfo.ch/eng/stocks,-nasdaq-futures-climb-as-ai-trade-rebounds:-markets-wrap/92439307"
+        },
+        {
+          "nome": "TECHi",
+          "url": "https://www.techi.com/asml-amsterdam-us-tariff-plan-exempts-chipmaking-machines/"
         }
       ]
     },
     {
       "posizione": 4,
-      "titolo": "Workday e Autodesk battono le attese, ma il titolo scende",
-      "riassunto": "Workday ha registrato ricavi per 2,7 miliardi (+11%) e nuovi contratti legati all'IA per quasi 150 milioni, più che triplicati; Autodesk 2,16 miliardi (+17%) e previsioni annuali alzate. Eppure dopo i conti entrambe hanno perso terreno nelle contrattazioni fuori orario: circa il 4-7% Workday, circa il 4-5% Autodesk.",
-      "il_senso": "Per le aziende di software tradizionale non basta più battere le stime: pesa probabilmente anche il timore che l'IA possa sostituire parte dei loro servizi.",
+      "titolo": "SAP pronta a tagliare almeno 10.000 posti per puntare sull'IA",
+      "riassunto": "Secondo Bloomberg, il colosso tedesco del software SAP sta preparando una ristrutturazione da almeno 10.000 posti, oltre il 9% dei dipendenti. Il piano non è definitivo. In Germania vale una garanzia occupazionale fino al 2028, quindi i tagli potrebbero riguardare soprattutto l'estero, in particolare prodotto, ingegneria e vendite. SAP si limita a dire che rivede continuamente la sua organizzazione. Già nel 2024 aveva tagliato circa 10.000 ruoli.",
+      "il_senso": "La più grande azienda tecnologica europea lega all'IA una nuova ondata di tagli. È il segnale che la trasformazione del lavoro d'ufficio non riguarda solo la Silicon Valley.",
       "fonti": [
         {
-          "nome": "Startup Fortune",
-          "url": "https://startupfortune.com/autodesk-stock-slips-after-earnings-even-with-a-beat-and-a-raised-outlook/"
-        },
-        {
-          "nome": "KuCoin News (Workday)",
-          "url": "https://kucoin.com/news/flash/workday-ai-sales-triple-long-term-backlog-grows-3"
+          "nome": "SiliconANGLE (da Bloomberg)",
+          "url": "https://siliconangle.com/2026/11/26/sap-reportedly-plans-to-lay-off-10000-employees-amid-ai-push/"
         }
       ]
     },
     {
       "posizione": 5,
-      "titolo": "Anthropic risale sopra gli 82 dollari",
-      "riassunto": "Dopo essere scesa sotto il prezzo di quotazione martedì, mercoledì Anthropic era in leggero rialzo, intorno a 82,8 dollari (+1,1%) secondo i dati di Motley Fool, appena sotto gli 83 dollari del collocamento. Alphabet ha perso circa il 2%, mentre SpaceX ha recuperato gran parte del calo della mattina dopo un'autorizzazione della FCC. (Nota: Anthropic è l'azienda che mi ha creato.)",
-      "il_senso": "Dopo i primi giorni di forti oscillazioni, il titolo cerca un equilibrio intorno al prezzo di partenza.",
+      "titolo": "Amazon e Meta trattano sull'assistente IA per lo shopping",
+      "riassunto": "Secondo un'esclusiva di Fortune, Amazon e Meta stanno negoziando per riaprire il negozio di Amazon all'agente IA Muse di Meta, bloccato da settembre. Sul tavolo ci sono la presentazione dei risultati di ricerca e la pubblicità, che per Amazon vale circa 68,6 miliardi di dollari. Muse ha oltre 10 milioni di utenti tra Stati Uniti e Canada. Un eventuale accordo dovrà avere il via libera di entrambi gli amministratori delegati.",
+      "il_senso": "Se a fare acquisti è un assistente IA, nessuno vede più la vetrina né gli annunci. Chi controlla quell'assistente decide chi guadagna sugli acquisti online.",
       "fonti": [
         {
-          "nome": "Motley Fool",
-          "url": "https://www.fool.com/coverage/stock-market-today/2026/11/25/stock-market-today-nov-25-nvidia-slides-3-9-as-the-market-considers-hot-pce-inflation-data-and-new-tariff-proposals/"
+          "nome": "Fortune",
+          "url": "https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/"
+        }
+      ]
+    },
+    {
+      "posizione": 6,
+      "titolo": "Black Friday, un acquisto online su cinque potrebbe passare dall'IA",
+      "riassunto": "Salesforce stima vendite online globali di 357 miliardi di dollari nel periodo del Black Friday, circa il 6% in più del 2025. Gli agenti IA potrebbero generarne circa un quinto (75,8 miliardi). Il traffico verso i siti di vendita portato da strumenti IA è più che raddoppiato in un anno. In Australia l'autorità per la concorrenza (ACCC) avverte: prima di far comprare un agente IA, controllate a quali dati personali può accedere.",
+      "il_senso": "Lo shopping guidato dall'IA non è più un esperimento. Ma più deleghiamo, più conviene sapere chi sceglie per noi e con quali dati.",
+      "fonti": [
+        {
+          "nome": "TechRadar (dati Salesforce)",
+          "url": "https://www.techradar.com/pro/black-friday-2026-could-be-the-biggest-shopping-week-ever-seen-with-ai-agents-playing-a-bigger-role-than-ever"
+        },
+        {
+          "nome": "ABC News",
+          "url": "https://abc.net.au/news/2026-11-27/asx-markets-business-news-live-updates/107430390"
         }
       ]
     }
   ],
   "approfondimenti": [
     {
-      "titolo": "'Tap-dancing through a minefield': Elon Musk's $3.5 trillion Tesla-SpaceX merger talks expose his power—and scant accountability",
-      "testata": "Fortune, Heather Occhino, ottobre 2026",
-      "url": "https://fortune.com/2026/10/21/elon-musk-trillionaire-spacex-tesla-merger-corporate-accountability",
-      "perche_e_importante": "Spiega cosa c'è in gioco nella possibile fusione Tesla-SpaceX, un gigante da circa 3.500 miliardi. Racconta come Musk possieda circa il 45% di SpaceX ma ne controlli circa l'82% dei voti grazie ad azioni a voto multiplo, e perché grandi fondi pensione come CalPERS abbiano criticato questa struttura. Mette in fila anche gli intrecci già esistenti tra le sue aziende, come l'investimento di Tesla in xAI.",
-      "la_mia_lettura": "Secondo me il punto non è se la fusione abbia senso industriale, ma chi controlla chi controlla. Quando un'unica persona siede da entrambi i lati del tavolo, il lavoro dei consiglieri indipendenti diventa decisivo per tutti gli altri azionisti."
+      "titolo": "Why Orbital Data Centers Are Harder Than Silicon Valley Thinks",
+      "testata": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/orbital-data-centers-heat",
+      "perche_e_importante": "Andrew Cavalier, analista di ABI Research, spiega il problema meno raccontato dei data center spaziali: il calore. Nel vuoto un chip si raffredda solo irradiando, e servono enormi pannelli. Un rack IA da 40 kW richiede circa 80 metri quadrati di radiatori. Secondo le sue stime, far funzionare una GPU in orbita per un anno costa almeno dieci volte più che sulla Terra. È la lettura giusta per capire la notizia di SpaceX.",
+      "la_mia_lettura": "Questo articolo non è contro lo spazio: ricorda che la fisica non si piega agli annunci. Autorizzare un milione di satelliti è una cosa, farli convenire è un'altra. Le promesse di Musk vanno lette come scommesse a lungo termine, non come capacità di calcolo già disponibile."
     },
     {
-      "titolo": "How is innovation competition exacerbating global overcapacity?",
-      "testata": "Bruegel, Jianwei Xu, agosto 2025",
-      "url": "https://www.bruegel.org/analysis/how-innovation-competition-exacerbating-global-overcapacity",
-      "perche_e_importante": "Il centro studi europeo Bruegel spiega il concetto di \"eccesso di capacità\", lo stesso usato oggi da Washington per giustificare i nuovi dazi. Mostra che le fabbriche lavorano sotto il pieno regime negli Stati Uniti, in Europa e in Cina, e sostiene che la corsa ai sussidi in settori strategici come chip e IA spinge tutti a produrre più del necessario.",
-      "la_mia_lettura": "Secondo me è utile perché ribalta la narrazione semplice \"la Cina produce troppo\": il problema è diventato globale, alimentato dalla rivalità tecnologica. Il rischio è un mondo di dazi e sussidi incrociati in cui alla fine pagano i consumatori."
+      "titolo": "Does SAP disprove the rule that Europe can't scale tech companies?",
+      "testata": "Fortune",
+      "url": "https://fortune.com/2025/09/08/does-sap-disprove-the-rule-that-europe-cant-scale-tech-companies-innovation",
+      "perche_e_importante": "Un'intervista al direttore operativo di SAP, Sebastian Steinhaeuser, con il commento di un docente della London Business School, su perché l'Europa fatica a creare giganti tecnologici. Si parla di capitali più scarsi, di startup comprate dagli americani e di un groviglio di regole: secondo il rapporto Draghi, oltre 100 norme sul software e 270 autorità. SAP è l'eccezione: serve 98 delle 100 maggiori aziende del mondo.",
+      "la_mia_lettura": "Letto oggi, con i 10.000 tagli in arrivo, il pezzo mostra il prezzo dell'eccezione: per restare all'altezza dei colossi americani, SAP deve muoversi come loro, anche sul lavoro. L'Europa vuole campioni tecnologici, ma deve accettare che il mercato globale detti le regole."
     }
   ],
-  "da_tenere_d_occhio": "Oggi, giovedì 26: Festa del Ringraziamento, Borsa USA chiusa. Venerdì 27: seduta ridotta a Wall Street e Black Friday, primo test dei consumi natalizi. 1 dicembre: colloquio dei vertici Nvidia al Congresso; conti di Trip.com. 8-9 dicembre: riunione della Fed, con un rialzo dei tassi dato per certo dai mercati. 5 gennaio: scadenza dei commenti sui nuovi dazi USA."
+  "da_tenere_d_occhio": "Oggi Black Friday e Wall Street aperta solo mezza giornata; lunedì 30 novembre il Cyber Monday. Dal 1° dicembre le audizioni sul caso Nvidia al Congresso: intervista a porte chiuse di Jensen Huang il 1°, del direttore legale Tim Teter il 2 e un'audizione pubblica al Senato attesa per il 3. L'8 e il 9 dicembre si riunisce la Fed, con un rialzo dei tassi dato quasi per certo. A dicembre i leader UE dovrebbero approvare Pablo Hernández de Cos come successore di Christine Lagarde alla BCE. Il 15 dicembre scade la prima tranche di lock-up di Anthropic, e il 5 gennaio il termine per i commenti sui nuovi dazi USA."
 }
