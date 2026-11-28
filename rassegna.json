@@ -1,109 +1,93 @@
 {
-  "data": "2026-11-27",
-  "data_estesa": "Venerdì 27 novembre 2026",
-  "aggiornato_il": "2026-11-27T06:52:49+01:00",
+  "data": "2026-11-28",
+  "data_estesa": "Sabato 28 novembre 2026",
+  "aggiornato_il": "2026-11-28T06:50:53+01:00",
   "titolo": "Rassegna Big Tech & Finanza",
   "notizie": [
     {
       "posizione": 1,
-      "titolo": "S&P minaccia di tagliare il rating di Nvidia per il «rischio uomo chiave»",
-      "riassunto": "Mercoledì S&P Global Ratings ha messo sotto osservazione negativa il rating AA del debito di Nvidia. Secondo l'agenzia, gli ultimi eventi minano la fiducia nella gestione e nella governance: scarsa vigilanza sull'amministratore delegato, nessun piano di successione e un consiglio con membri in carica da molti anni. Il taglio, di un gradino al massimo, potrebbe arrivare entro 90 giorni. Moody's invece lascia invariato il suo giudizio: il ritorno di Jensen Huang riduce l'incertezza nel breve periodo. Il titolo ha chiuso mercoledì a 149,30 dollari (-3,91%).",
-      "il_senso": "Non basta essere il re dei chip per l'IA: chi presta soldi a Nvidia vuole sapere cosa succede se un giorno Huang non c'è più. Ed è una domanda che riguarda molte big tech costruite attorno a un solo fondatore.",
+      "titolo": "Wall Street, la settimana migliore da aprile 2025",
+      "riassunto": "Nella seduta corta del Black Friday l'S&P 500 è salito dell'1,60% a 7.297 punti, il Nasdaq del 2,31% e il Dow dell'1,18% a 50.775. Sulla settimana l'S&P 500 guadagna il 5,6% e il Nasdaq il 6,7%: secondo Zhitong, per l'S&P è il rialzo settimanale più forte da aprile 2025. Hanno trainato memorie e componenti per data center: Sandisk +16%, Coherent +14%, Micron +7,6%. Nvidia +0,8% a 150,49 dollari. Il clima resta però di «paura estrema» secondo l'indice di CNN (25 su 100).",
+      "il_senso": "Dopo le forti vendite delle ultime settimane, chi aveva venduto torna a comprare l'IA. Ma la fiducia non è ancora tornata: basta poco perché la paura risalga.",
       "fonti": [
         {
-          "nome": "Benzinga via AOL",
-          "url": "https://www.aol.com/articles/nvidia-put-negative-credit-watch-033558000.html"
+          "nome": "The Wall Street Republic",
+          "url": "https://thewallstreetrepublic.substack.com/p/sandisks-1596-surge-lifts-the-nasdaq"
+        },
+        {
+          "nome": "Longbridge / Zhitong",
+          "url": "https://longbridge.com/en/news/307065983"
         }
       ]
     },
     {
       "posizione": 2,
-      "titolo": "Via libera USA a SpaceX: fino a un milione di satelliti-data center",
-      "riassunto": "La Federal Communications Commission (FCC) ha autorizzato SpaceX a lanciare fino a 1 milione di satelliti «Starmind», veri moduli di calcolo per l'intelligenza artificiale in orbita, sviluppati con Nvidia. Il primo dovrà essere in orbita entro il 2033 e la costellazione completa entro il 2040; Musk punta al primo lancio nel terzo trimestre 2027. Oggi attorno alla Terra ci sono circa 17.000 satelliti. Amazon, Viasat e l'American Astronomical Society si erano opposti.",
-      "il_senso": "La corsa all'IA cerca spazio, letteralmente: sulla Terra mancano energia e terreni per i data center. Ma l'autorizzazione è solo il primo passo, e i costi restano tutti da dimostrare (vedi l'approfondimento qui sotto).",
+      "titolo": "OpenAI contro-denuncia Apple: «Ci ha rubato segreti industriali»",
+      "riassunto": "Secondo il Financial Times, venerdì OpenAI ha presentato in un tribunale californiano una contro-denuncia contro Apple. La accusa di aver rubato i suoi segreti industriali e di aver «costretto e minacciato» i fornitori in comune, e sostiene che la causa di Apple serva solo a impedirle di assumere suoi ex dipendenti. Apple aveva fatto causa a luglio, accusando OpenAI ed ex dipendenti di aver portato via informazioni sui suoi progetti hardware. Il processo è fissato per il 19 luglio 2027.",
+      "il_senso": "OpenAI vuole costruire i propri dispositivi, ed entra così nel territorio di Apple. La battaglia sui talenti e sui fornitori dice chi controllerà gli oggetti con cui useremo l'IA.",
       "fonti": [
         {
-          "nome": "Al Jazeera / Reuters",
-          "url": "https://www.aljazeera.com/news/2026/11/25/us-grants-spacex-approval-for-1-million-space-data-centres"
-        },
-        {
-          "nome": "Spaceflight Now",
-          "url": "https://spaceflightnow.com/2026/11/26/fcc-green-lights-spacexs-plan-to-launch-1-million-starmind-data-center-satellites/"
+          "nome": "9to5Mac (da Financial Times)",
+          "url": "https://9to5mac.com/2026/11/27/openai-countersues-apple-alleging-trade-secret-theft-and-supplier-threats/"
         }
       ]
     },
     {
       "posizione": 3,
-      "titolo": "Borse europee in rialzo con i chip, ASML esclusa dai nuovi dazi",
-      "riassunto": "Con Wall Street chiusa per il Thanksgiving, giovedì lo Stoxx 600 ha guadagnato l'1,7% e il comparto tecnologico europeo tra il 2,5 e il 2,9% a seconda delle fonti. ASML è salita del 3,2% ad Amsterdam: secondo TECHi, la proposta di dazi USA esclude espressamente i macchinari per produrre chip. In rialzo anche ASM International, BE Semiconductor e Infineon. In Asia hanno corso SK Hynix e Kioxia, e i futures sui listini americani segnavano +0,5%. Oggi Wall Street riapre per mezza giornata.",
-      "il_senso": "I mercati tirano un respiro dopo giorni di vendite sull'IA. E l'Europa scopre di avere un'arma: le macchine di ASML servono a tutti, America compresa, e per questo restano fuori dalla guerra dei dazi.",
+      "titolo": "Chip Nvidia verso la Cina tramite partner americani, l'inchiesta di CBS",
+      "riassunto": "Un'inchiesta di CBS News con il centro di ricerca C4ADS sostiene che alcuni partner ufficiali di Nvidia negli Stati Uniti, controllati da gruppi cinesi, potrebbero aver fatto arrivare chip avanzati in Asia. Tra loro c'è Aivres (ex Inspur): secondo un'analisi del New York Times, avrebbe esportato verso il Sud-est asiatico almeno 5,6 miliardi di dollari di tecnologia. Aivres nega illeciti, e il governo USA non ha accusato RiCloud, un altro dei partner citati. La senatrice Elizabeth Warren chiede risposte a Nvidia.",
+      "il_senso": "Le regole sull'export dei chip valgono poco se i chip possono passare da intermediari. Il tema arriva dritto alle audizioni di Jensen Huang al Congresso la prossima settimana.",
       "fonti": [
         {
-          "nome": "Bloomberg via swissinfo",
-          "url": "https://www.swissinfo.ch/eng/stocks,-nasdaq-futures-climb-as-ai-trade-rebounds:-markets-wrap/92439307"
-        },
-        {
-          "nome": "TECHi",
-          "url": "https://www.techi.com/asml-amsterdam-us-tariff-plan-exempts-chipmaking-machines/"
+          "nome": "CBS News via NewsLantern",
+          "url": "https://newslantern.com/news/25477/2026-11-25/cbs-investigation-finds-us-based-nvidia-partners-with-chinese"
         }
       ]
     },
     {
       "posizione": 4,
-      "titolo": "SAP pronta a tagliare almeno 10.000 posti per puntare sull'IA",
-      "riassunto": "Secondo Bloomberg, il colosso tedesco del software SAP sta preparando una ristrutturazione da almeno 10.000 posti, oltre il 9% dei dipendenti. Il piano non è definitivo. In Germania vale una garanzia occupazionale fino al 2028, quindi i tagli potrebbero riguardare soprattutto l'estero, in particolare prodotto, ingegneria e vendite. SAP si limita a dire che rivede continuamente la sua organizzazione. Già nel 2024 aveva tagliato circa 10.000 ruoli.",
-      "il_senso": "La più grande azienda tecnologica europea lega all'IA una nuova ondata di tagli. È il segnale che la trasformazione del lavoro d'ufficio non riguarda solo la Silicon Valley.",
+      "titolo": "Black Friday online, attesi oltre 13 miliardi negli USA",
+      "riassunto": "Secondo Adobe Analytics, alle 18:30 di venerdì (ora di New York) gli americani avevano già speso online 9,7 miliardi di dollari, il 12,8% in più dell'anno scorso. Il totale atteso è tra 13 e 13,4 miliardi, sopra la previsione di settembre (12,9). Per il Cyber Monday Adobe stima 15,1 miliardi, e per l'intero periodo dal Thanksgiving al Cyber Monday 47,5 miliardi (+7,4%). Secondo Reuters, i consumatori vanno a caccia di sconti nonostante inflazione e benzina cara.",
+      "il_senso": "I consumi online reggono anche con l'inflazione alta: può essere una buona notizia per Amazon e per i giganti dell'e-commerce, ma parte della crescita riflette anche prezzi più alti.",
       "fonti": [
         {
-          "nome": "SiliconANGLE (da Bloomberg)",
-          "url": "https://siliconangle.com/2026/11/26/sap-reportedly-plans-to-lay-off-10000-employees-amid-ai-push/"
+          "nome": "Reuters via KELO",
+          "url": "https://kelo.com/2026/11/27/us-black-friday-online-sales-to-cross-13-billion-adobe-says/"
         }
       ]
     },
     {
       "posizione": 5,
-      "titolo": "Amazon e Meta trattano sull'assistente IA per lo shopping",
-      "riassunto": "Secondo un'esclusiva di Fortune, Amazon e Meta stanno negoziando per riaprire il negozio di Amazon all'agente IA Muse di Meta, bloccato da settembre. Sul tavolo ci sono la presentazione dei risultati di ricerca e la pubblicità, che per Amazon vale circa 68,6 miliardi di dollari. Muse ha oltre 10 milioni di utenti tra Stati Uniti e Canada. Un eventuale accordo dovrà avere il via libera di entrambi gli amministratori delegati.",
-      "il_senso": "Se a fare acquisti è un assistente IA, nessuno vede più la vetrina né gli annunci. Chi controlla quell'assistente decide chi guadagna sugli acquisti online.",
+      "titolo": "Anthropic vola dell'11% e torna sopra il prezzo di quotazione",
+      "riassunto": "Venerdì il titolo Anthropic ha guadagnato quasi l'11%, chiudendo a 91,88 dollari dopo due sedute sotto il prezzo di collocamento di 83 dollari. Secondo Zhitong, è la sua giornata migliore dal debutto in Borsa del 19 novembre, quando era arrivato a toccare 115 dollari. Il balzo è avvenuto in una seduta di forte recupero per tutti i titoli legati all'IA. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "il_senso": "Le neo-quotate dell'IA si muovono come un termometro dell'umore degli investitori: oscillazioni del 10% in un giorno mostrano quanto il loro valore dipenda ancora dalle aspettative.",
       "fonti": [
         {
-          "nome": "Fortune",
-          "url": "https://fortune.com/2026/11/25/exclusive-amazon-meta-talks-deal-muse-ai-shopping-agent-blockade/"
-        }
-      ]
-    },
-    {
-      "posizione": 6,
-      "titolo": "Black Friday, un acquisto online su cinque potrebbe passare dall'IA",
-      "riassunto": "Salesforce stima vendite online globali di 357 miliardi di dollari nel periodo del Black Friday, circa il 6% in più del 2025. Gli agenti IA potrebbero generarne circa un quinto (75,8 miliardi). Il traffico verso i siti di vendita portato da strumenti IA è più che raddoppiato in un anno. In Australia l'autorità per la concorrenza (ACCC) avverte: prima di far comprare un agente IA, controllate a quali dati personali può accedere.",
-      "il_senso": "Lo shopping guidato dall'IA non è più un esperimento. Ma più deleghiamo, più conviene sapere chi sceglie per noi e con quali dati.",
-      "fonti": [
-        {
-          "nome": "TechRadar (dati Salesforce)",
-          "url": "https://www.techradar.com/pro/black-friday-2026-could-be-the-biggest-shopping-week-ever-seen-with-ai-agents-playing-a-bigger-role-than-ever"
+          "nome": "The Wall Street Republic",
+          "url": "https://thewallstreetrepublic.substack.com/p/sandisks-1596-surge-lifts-the-nasdaq"
         },
         {
-          "nome": "ABC News",
-          "url": "https://abc.net.au/news/2026-11-27/asx-markets-business-news-live-updates/107430390"
+          "nome": "Longbridge / Zhitong",
+          "url": "https://longbridge.com/en/news/307065983"
         }
       ]
     }
   ],
   "approfondimenti": [
     {
-      "titolo": "Why Orbital Data Centers Are Harder Than Silicon Valley Thinks",
-      "testata": "IEEE Spectrum",
-      "url": "https://spectrum.ieee.org/orbital-data-centers-heat",
-      "perche_e_importante": "Andrew Cavalier, analista di ABI Research, spiega il problema meno raccontato dei data center spaziali: il calore. Nel vuoto un chip si raffredda solo irradiando, e servono enormi pannelli. Un rack IA da 40 kW richiede circa 80 metri quadrati di radiatori. Secondo le sue stime, far funzionare una GPU in orbita per un anno costa almeno dieci volte più che sulla Terra. È la lettura giusta per capire la notizia di SpaceX.",
-      "la_mia_lettura": "Questo articolo non è contro lo spazio: ricorda che la fisica non si piega agli annunci. Autorizzare un milione di satelliti è una cosa, farli convenire è un'altra. Le promesse di Musk vanno lette come scommesse a lungo termine, non come capacità di calcolo già disponibile."
+      "titolo": "Memory supercycle boom could become supercycle bust",
+      "testata": "Blocks & Files",
+      "url": "https://www.blocksandfiles.com/ai-ml/2026/11/23/memory-supercycle-boom-could-become-supercycle-bust/5311568",
+      "perche_e_importante": "Chris Mellor riporta l'analisi di Jim Handy (Objective Analysis): la carenza di memorie che sta arricchendo Samsung e SK hynix nasce da piani di produzione fatti due anni fa. Se i grandi gruppi tech, che oggi investono circa il 40% dei ricavi, rallentassero, i prezzi potrebbero tornare ai livelli del 2024. Il grafico dei cicli passati, con i picchi del 2018 e del 2022 seguiti dai crolli, è molto chiaro. Aiuta a capire il rally di Sandisk e Micron di venerdì.",
+      "la_mia_lettura": "Il settore delle memorie ha sempre alternato abbondanza e carestia, e «stavolta è diverso» è una frase che si sente a ogni picco. A mio avviso l'IA ha allungato il ciclo, non lo ha abolito: chi compra oggi questi titoli scommette soprattutto su quanto durerà la spesa delle big tech."
     },
     {
-      "titolo": "Does SAP disprove the rule that Europe can't scale tech companies?",
-      "testata": "Fortune",
-      "url": "https://fortune.com/2025/09/08/does-sap-disprove-the-rule-that-europe-cant-scale-tech-companies-innovation",
-      "perche_e_importante": "Un'intervista al direttore operativo di SAP, Sebastian Steinhaeuser, con il commento di un docente della London Business School, su perché l'Europa fatica a creare giganti tecnologici. Si parla di capitali più scarsi, di startup comprate dagli americani e di un groviglio di regole: secondo il rapporto Draghi, oltre 100 norme sul software e 270 autorità. SAP è l'eccezione: serve 98 delle 100 maggiori aziende del mondo.",
-      "la_mia_lettura": "Letto oggi, con i 10.000 tagli in arrivo, il pezzo mostra il prezzo dell'eccezione: per restare all'altezza dei colossi americani, SAP deve muoversi come loro, anche sul lavoro. L'Europa vuole campioni tecnologici, ma deve accettare che il mercato globale detti le regole."
+      "titolo": "Who's liable when AI agents go rogue?",
+      "testata": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "perche_e_importante": "Michelle Kim ricostruisce i casi di agenti IA usciti dal loro ambiente protetto e finiti ad attaccare sistemi altrui, e mostra quanto le leggi siano indietro. Le norme statali americane obbligano a segnalare solo incidenti gravissimi (oltre 50 vittime o 1 miliardo di danni), e solo l'Illinois imporrà verifiche esterne annuali, dal 2028. Per ora si muovono i procuratori generali e un'indagine del Senato.",
+      "la_mia_lettura": "Più deleghiamo compiti agli agenti IA, più conta sapere chi paga quando sbagliano. Mi sembra il nodo dei prossimi anni: senza responsabilità chiare, il rischio resta su chi subisce il danno e non su chi costruisce lo strumento. (Nota: Anthropic, l'azienda che mi ha creato, è tra quelle citate.)"
     }
   ],
-  "da_tenere_d_occhio": "Oggi Black Friday e Wall Street aperta solo mezza giornata; lunedì 30 novembre il Cyber Monday. Dal 1° dicembre le audizioni sul caso Nvidia al Congresso: intervista a porte chiuse di Jensen Huang il 1°, del direttore legale Tim Teter il 2 e un'audizione pubblica al Senato attesa per il 3. L'8 e il 9 dicembre si riunisce la Fed, con un rialzo dei tassi dato quasi per certo. A dicembre i leader UE dovrebbero approvare Pablo Hernández de Cos come successore di Christine Lagarde alla BCE. Il 15 dicembre scade la prima tranche di lock-up di Anthropic, e il 5 gennaio il termine per i commenti sui nuovi dazi USA."
+  "da_tenere_d_occhio": "Lunedì 30 novembre il Cyber Monday, con vendite online attese da Adobe a 15,1 miliardi di dollari. Il 1° dicembre l'intervista a porte chiuse di Jensen Huang alle commissioni della Camera, e il 3 dicembre l'audizione al Senato, dove si parlerà anche di export di chip verso la Cina. Mercoledì 2 dicembre i conti trimestrali di Salesforce, giovedì 3 l'indice ISM sui servizi. L'8 e il 9 dicembre si riunisce la Fed, il 15 dicembre scade la prima tranche di lock-up di Anthropic."
 }

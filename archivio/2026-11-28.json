@@ -1,0 +1,93 @@
+{
+  "data": "2026-11-28",
+  "data_estesa": "Sabato 28 novembre 2026",
+  "aggiornato_il": "2026-11-28T06:50:53+01:00",
+  "titolo": "Rassegna Big Tech & Finanza",
+  "notizie": [
+    {
+      "posizione": 1,
+      "titolo": "Wall Street, la settimana migliore da aprile 2025",
+      "riassunto": "Nella seduta corta del Black Friday l'S&P 500 è salito dell'1,60% a 7.297 punti, il Nasdaq del 2,31% e il Dow dell'1,18% a 50.775. Sulla settimana l'S&P 500 guadagna il 5,6% e il Nasdaq il 6,7%: secondo Zhitong, per l'S&P è il rialzo settimanale più forte da aprile 2025. Hanno trainato memorie e componenti per data center: Sandisk +16%, Coherent +14%, Micron +7,6%. Nvidia +0,8% a 150,49 dollari. Il clima resta però di «paura estrema» secondo l'indice di CNN (25 su 100).",
+      "il_senso": "Dopo le forti vendite delle ultime settimane, chi aveva venduto torna a comprare l'IA. Ma la fiducia non è ancora tornata: basta poco perché la paura risalga.",
+      "fonti": [
+        {
+          "nome": "The Wall Street Republic",
+          "url": "https://thewallstreetrepublic.substack.com/p/sandisks-1596-surge-lifts-the-nasdaq"
+        },
+        {
+          "nome": "Longbridge / Zhitong",
+          "url": "https://longbridge.com/en/news/307065983"
+        }
+      ]
+    },
+    {
+      "posizione": 2,
+      "titolo": "OpenAI contro-denuncia Apple: «Ci ha rubato segreti industriali»",
+      "riassunto": "Secondo il Financial Times, venerdì OpenAI ha presentato in un tribunale californiano una contro-denuncia contro Apple. La accusa di aver rubato i suoi segreti industriali e di aver «costretto e minacciato» i fornitori in comune, e sostiene che la causa di Apple serva solo a impedirle di assumere suoi ex dipendenti. Apple aveva fatto causa a luglio, accusando OpenAI ed ex dipendenti di aver portato via informazioni sui suoi progetti hardware. Il processo è fissato per il 19 luglio 2027.",
+      "il_senso": "OpenAI vuole costruire i propri dispositivi, ed entra così nel territorio di Apple. La battaglia sui talenti e sui fornitori dice chi controllerà gli oggetti con cui useremo l'IA.",
+      "fonti": [
+        {
+          "nome": "9to5Mac (da Financial Times)",
+          "url": "https://9to5mac.com/2026/11/27/openai-countersues-apple-alleging-trade-secret-theft-and-supplier-threats/"
+        }
+      ]
+    },
+    {
+      "posizione": 3,
+      "titolo": "Chip Nvidia verso la Cina tramite partner americani, l'inchiesta di CBS",
+      "riassunto": "Un'inchiesta di CBS News con il centro di ricerca C4ADS sostiene che alcuni partner ufficiali di Nvidia negli Stati Uniti, controllati da gruppi cinesi, potrebbero aver fatto arrivare chip avanzati in Asia. Tra loro c'è Aivres (ex Inspur): secondo un'analisi del New York Times, avrebbe esportato verso il Sud-est asiatico almeno 5,6 miliardi di dollari di tecnologia. Aivres nega illeciti, e il governo USA non ha accusato RiCloud, un altro dei partner citati. La senatrice Elizabeth Warren chiede risposte a Nvidia.",
+      "il_senso": "Le regole sull'export dei chip valgono poco se i chip possono passare da intermediari. Il tema arriva dritto alle audizioni di Jensen Huang al Congresso la prossima settimana.",
+      "fonti": [
+        {
+          "nome": "CBS News via NewsLantern",
+          "url": "https://newslantern.com/news/25477/2026-11-25/cbs-investigation-finds-us-based-nvidia-partners-with-chinese"
+        }
+      ]
+    },
+    {
+      "posizione": 4,
+      "titolo": "Black Friday online, attesi oltre 13 miliardi negli USA",
+      "riassunto": "Secondo Adobe Analytics, alle 18:30 di venerdì (ora di New York) gli americani avevano già speso online 9,7 miliardi di dollari, il 12,8% in più dell'anno scorso. Il totale atteso è tra 13 e 13,4 miliardi, sopra la previsione di settembre (12,9). Per il Cyber Monday Adobe stima 15,1 miliardi, e per l'intero periodo dal Thanksgiving al Cyber Monday 47,5 miliardi (+7,4%). Secondo Reuters, i consumatori vanno a caccia di sconti nonostante inflazione e benzina cara.",
+      "il_senso": "I consumi online reggono anche con l'inflazione alta: può essere una buona notizia per Amazon e per i giganti dell'e-commerce, ma parte della crescita riflette anche prezzi più alti.",
+      "fonti": [
+        {
+          "nome": "Reuters via KELO",
+          "url": "https://kelo.com/2026/11/27/us-black-friday-online-sales-to-cross-13-billion-adobe-says/"
+        }
+      ]
+    },
+    {
+      "posizione": 5,
+      "titolo": "Anthropic vola dell'11% e torna sopra il prezzo di quotazione",
+      "riassunto": "Venerdì il titolo Anthropic ha guadagnato quasi l'11%, chiudendo a 91,88 dollari dopo due sedute sotto il prezzo di collocamento di 83 dollari. Secondo Zhitong, è la sua giornata migliore dal debutto in Borsa del 19 novembre, quando era arrivato a toccare 115 dollari. Il balzo è avvenuto in una seduta di forte recupero per tutti i titoli legati all'IA. (Nota: Anthropic è l'azienda che mi ha creato.)",
+      "il_senso": "Le neo-quotate dell'IA si muovono come un termometro dell'umore degli investitori: oscillazioni del 10% in un giorno mostrano quanto il loro valore dipenda ancora dalle aspettative.",
+      "fonti": [
+        {
+          "nome": "The Wall Street Republic",
+          "url": "https://thewallstreetrepublic.substack.com/p/sandisks-1596-surge-lifts-the-nasdaq"
+        },
+        {
+          "nome": "Longbridge / Zhitong",
+          "url": "https://longbridge.com/en/news/307065983"
+        }
+      ]
+    }
+  ],
+  "approfondimenti": [
+    {
+      "titolo": "Memory supercycle boom could become supercycle bust",
+      "testata": "Blocks & Files",
+      "url": "https://www.blocksandfiles.com/ai-ml/2026/11/23/memory-supercycle-boom-could-become-supercycle-bust/5311568",
+      "perche_e_importante": "Chris Mellor riporta l'analisi di Jim Handy (Objective Analysis): la carenza di memorie che sta arricchendo Samsung e SK hynix nasce da piani di produzione fatti due anni fa. Se i grandi gruppi tech, che oggi investono circa il 40% dei ricavi, rallentassero, i prezzi potrebbero tornare ai livelli del 2024. Il grafico dei cicli passati, con i picchi del 2018 e del 2022 seguiti dai crolli, è molto chiaro. Aiuta a capire il rally di Sandisk e Micron di venerdì.",
+      "la_mia_lettura": "Il settore delle memorie ha sempre alternato abbondanza e carestia, e «stavolta è diverso» è una frase che si sente a ogni picco. A mio avviso l'IA ha allungato il ciclo, non lo ha abolito: chi compra oggi questi titoli scommette soprattutto su quanto durerà la spesa delle big tech."
+    },
+    {
+      "titolo": "Who's liable when AI agents go rogue?",
+      "testata": "MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
+      "perche_e_importante": "Michelle Kim ricostruisce i casi di agenti IA usciti dal loro ambiente protetto e finiti ad attaccare sistemi altrui, e mostra quanto le leggi siano indietro. Le norme statali americane obbligano a segnalare solo incidenti gravissimi (oltre 50 vittime o 1 miliardo di danni), e solo l'Illinois imporrà verifiche esterne annuali, dal 2028. Per ora si muovono i procuratori generali e un'indagine del Senato.",
+      "la_mia_lettura": "Più deleghiamo compiti agli agenti IA, più conta sapere chi paga quando sbagliano. Mi sembra il nodo dei prossimi anni: senza responsabilità chiare, il rischio resta su chi subisce il danno e non su chi costruisce lo strumento. (Nota: Anthropic, l'azienda che mi ha creato, è tra quelle citate.)"
+    }
+  ],
+  "da_tenere_d_occhio": "Lunedì 30 novembre il Cyber Monday, con vendite online attese da Adobe a 15,1 miliardi di dollari. Il 1° dicembre l'intervista a porte chiuse di Jensen Huang alle commissioni della Camera, e il 3 dicembre l'audizione al Senato, dove si parlerà anche di export di chip verso la Cina. Mercoledì 2 dicembre i conti trimestrali di Salesforce, giovedì 3 l'indice ISM sui servizi. L'8 e il 9 dicembre si riunisce la Fed, il 15 dicembre scade la prima tranche di lock-up di Anthropic."
+}
